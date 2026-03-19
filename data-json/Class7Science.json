@@ -1,0 +1,914 @@
+{
+    "class": 7,
+    "subject": "Science",
+    "board": "NCERT/CBSE",
+    "chapters": [
+        {
+            "number": 1,
+            "title": "Nutrition in Plants",
+            "concepts": [
+                {
+                    "id": "1.1",
+                    "title": "Nutrition and Nutrients",
+                    "definition": "Nutrition is the process by which living organisms obtain food and use it for energy, growth, repair and maintenance. Nutrients are useful components of food such as carbohydrates, proteins, fats, vitamins and minerals.",
+                    "formulae": [],
+                    "examples": [
+                        "Plants absorb mineral nutrients like nitrogen and potassium from soil to make proteins and other substances."
+                    ]
+                },
+                {
+                    "id": "1.2",
+                    "title": "Autotrophic and Heterotrophic Nutrition",
+                    "definition": "Autotrophic nutrition is when organisms like green plants make their own food from carbon dioxide and water using sunlight and chlorophyll. Heterotrophic nutrition is when organisms obtain ready‑made food from plants or other animals.",
+                    "formulae": [],
+                    "examples": [
+                        "Green plants are autotrophs; humans and most animals are heterotrophs."
+                    ]
+                },
+                {
+                    "id": "1.3",
+                    "title": "Photosynthesis",
+                    "definition": "Photosynthesis is the process by which green plants prepare food using sunlight, carbon dioxide, water and chlorophyll, releasing oxygen.",
+                    "formulae": [
+                        "carbon dioxide + water → (sunlight, chlorophyll) → carbohydrate (food) + oxygen"
+                    ],
+                    "examples": [
+                        "A plant kept in the dark for many days becomes pale and weak because it cannot photosynthesise properly."
+                    ]
+                },
+                {
+                    "id": "1.4",
+                    "title": "Stomata and Chlorophyll",
+                    "definition": "Stomata are tiny pores on the leaf surface that allow entry of carbon dioxide and exit of oxygen and water vapour. Chlorophyll is the green pigment in leaves that absorbs sunlight for photosynthesis.",
+                    "formulae": [],
+                    "examples": [
+                        "Under a simple microscope the underside of a leaf shows many stomata."
+                    ]
+                },
+                {
+                    "id": "1.5",
+                    "title": "Other Modes of Plant Nutrition",
+                    "definition": "Some plants are parasitic and live on other plants; some are saprophytic and feed on dead matter; in symbiosis different organisms live together and both may benefit.",
+                    "formulae": [],
+                    "examples": [
+                        "Cuscuta (amarbel) is a parasite, mushrooms are saprophytes, and lichens are symbiotic organisms formed by algae and fungi."
+                    ]
+                },
+                {
+                    "id": "1.6",
+                    "title": "Nitrogen Fixation and Soil Nutrients",
+                    "definition": "Nitrogen‑fixing bacteria convert atmospheric nitrogen into forms plants can absorb, helping maintain soil fertility. Farmers also add manures and fertilisers rich in essential nutrients.",
+                    "formulae": [],
+                    "examples": [
+                        "Pulse crops often have root nodules containing Rhizobium bacteria that fix nitrogen."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "title": "Nutrition in Animals",
+            "concepts": [
+                {
+                    "id": "2.1",
+                    "title": "Steps of Nutrition in Humans",
+                    "definition": "Human nutrition involves ingestion, digestion, absorption, assimilation and egestion of food.",
+                    "formulae": [],
+                    "examples": [
+                        "Chewing chapati in the mouth, digestion in stomach and small intestine, absorption into blood and removal of undigested matter as faeces."
+                    ]
+                },
+                {
+                    "id": "2.2",
+                    "title": "Human Digestive System",
+                    "definition": "The digestive system consists of mouth, oesophagus, stomach, small intestine, large intestine, rectum and anus, along with glands like liver and pancreas.",
+                    "formulae": [],
+                    "examples": [
+                        "Bile from the liver helps in digestion and absorption of fats in the small intestine."
+                    ]
+                },
+                {
+                    "id": "2.3",
+                    "title": "Teeth and Their Functions",
+                    "definition": "Incisors cut food, canines tear food, and premolars and molars grind and chew food; milk teeth in children are replaced by permanent teeth.",
+                    "formulae": [],
+                    "examples": [
+                        "Biting an apple mainly uses incisors, while chewing rice uses premolars and molars."
+                    ]
+                },
+                {
+                    "id": "2.4",
+                    "title": "Digestion in Other Animals",
+                    "definition": "Ruminants chew cud and have a special stomach for digesting grass, while unicellular organisms like Amoeba use pseudopodia to engulf and digest food.",
+                    "formulae": [],
+                    "examples": [
+                        "A cow appears to keep chewing even when not eating fresh grass because it is chewing cud.",
+                        "Amoeba forms a food vacuole around engulfed food where digestion occurs."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "title": "Fibre to Fabric",
+            "concepts": [
+                {
+                    "id": "3.1",
+                    "title": "Fibres, Yarn and Fabric",
+                    "definition": "Fibres are thin, hair‑like strands; yarn is a long continuous thread made by twisting fibres; fabric is cloth made by weaving or knitting yarn.",
+                    "formulae": [],
+                    "examples": [
+                        "Cotton fibres are spun into yarn which is then woven into cloth."
+                    ]
+                },
+                {
+                    "id": "3.2",
+                    "title": "Plant Fibres: Cotton and Jute",
+                    "definition": "Cotton is obtained from the cotton bolls of cotton plants after ginning, and jute is obtained from the stem of jute plants after retting and fibre separation.",
+                    "formulae": [],
+                    "examples": [
+                        "Cotton seeds are separated from fibre using ginning machines.",
+                        "Jute stalks are soaked in water to loosen fibres before extraction."
+                    ]
+                },
+                {
+                    "id": "3.3",
+                    "title": "Spinning, Weaving and Knitting",
+                    "definition": "Spinning converts fibres into yarn by twisting; weaving makes fabric by crossing two sets of yarns on a loom; knitting makes fabric from a single yarn by forming loops.",
+                    "formulae": [],
+                    "examples": [
+                        "Sweaters and socks are usually knitted, whereas bed‑sheets are woven."
+                    ]
+                },
+                {
+                    "id": "3.4",
+                    "title": "Animal Fibres: Wool and Silk",
+                    "definition": "Wool comes from the fleece of sheep, goats and similar animals, while silk is obtained from cocoons of silkworms in a process called sericulture.",
+                    "formulae": [],
+                    "examples": [
+                        "Sheep fleece is sheared, cleaned, carded and spun into woollen yarn.",
+                        "Silk threads are reeled from boiled cocoons of silkworms."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "title": "Heat",
+            "concepts": [
+                {
+                    "id": "4.1",
+                    "title": "Temperature and Thermometers",
+                    "definition": "Temperature is the degree of hotness or coldness of a body, measured in degrees Celsius (°C) or Fahrenheit (°F) using thermometers.",
+                    "formulae": [],
+                    "examples": [
+                        "Clinical thermometers measure human body temperature, while laboratory thermometers measure a wider range."
+                    ]
+                },
+                {
+                    "id": "4.2",
+                    "title": "Celsius and Fahrenheit Conversion",
+                    "definition": "Celsius and Fahrenheit are two common temperature scales, and there are standard relations to convert temperatures between them.",
+                    "formulae": [
+                        "F = (9/5) * C + 32",
+                        "C = (5/9) * (F - 32)"
+                    ],
+                    "examples": [
+                        "37 °C converts to F = (9/5) × 37 + 32 = 98.6 °F (approximately)."
+                    ]
+                },
+                {
+                    "id": "4.3",
+                    "title": "Heat vs Temperature",
+                    "definition": "Heat is a form of energy that flows from a hotter body to a colder body, whereas temperature is a measure of how hot or cold a body is.",
+                    "formulae": [],
+                    "examples": [
+                        "A large tub of lukewarm water can contain more heat than a small cup of very hot water."
+                    ]
+                },
+                {
+                    "id": "4.4",
+                    "title": "Modes of Heat Transfer",
+                    "definition": "Conduction is heat transfer in solids without movement of matter, convection is heat transfer in liquids and gases by movement of particles, and radiation is heat transfer without any medium.",
+                    "formulae": [],
+                    "examples": [
+                        "Metal spoon in hot tea gets hot by conduction, water in a pot heats by convection, and heat from the Sun reaches Earth by radiation."
+                    ]
+                },
+                {
+                    "id": "4.5",
+                    "title": "Conductors and Insulators",
+                    "definition": "Conductors allow heat to pass through easily, while insulators do not allow heat to pass through easily.",
+                    "formulae": [],
+                    "examples": [
+                        "Metal pans are conductors used for cooking, while their plastic or wooden handles act as insulators to protect hands."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "title": "Acids, Bases and Salts",
+            "concepts": [
+                {
+                    "id": "5.1",
+                    "title": "Acids and Bases",
+                    "definition": "Acids taste sour and turn blue litmus red; bases taste bitter, feel soapy and turn red litmus blue.",
+                    "formulae": [],
+                    "examples": [
+                        "Lemon juice contains citric acid; baking soda solution is a mild base."
+                    ]
+                },
+                {
+                    "id": "5.2",
+                    "title": "Indicators",
+                    "definition": "Indicators are substances that show different colours in acidic and basic solutions, helping to identify them.",
+                    "formulae": [],
+                    "examples": [
+                        "Litmus, turmeric and china rose are natural indicators; phenolphthalein is a synthetic indicator."
+                    ]
+                },
+                {
+                    "id": "5.3",
+                    "title": "Neutralisation",
+                    "definition": "Neutralisation is the reaction between an acid and a base to form salt and water, often releasing heat.",
+                    "formulae": [
+                        "acid + base → salt + water (+ heat)"
+                    ],
+                    "examples": [
+                        "Hydrochloric acid reacting with sodium hydroxide forms sodium chloride and water."
+                    ]
+                },
+                {
+                    "id": "5.4",
+                    "title": "Uses of Neutralisation",
+                    "definition": "Neutralisation reactions are used to treat indigestion, reduce soil acidity and relieve insect stings.",
+                    "formulae": [],
+                    "examples": [
+                        "Antacids neutralise excess acid in the stomach; lime is used to reduce acidity of soil; baking soda paste is applied on ant stings."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "title": "Physical and Chemical Changes",
+            "concepts": [
+                {
+                    "id": "6.1",
+                    "title": "Physical Change",
+                    "definition": "A physical change affects only physical properties like state, shape or size and does not produce a new substance; it is often reversible.",
+                    "formulae": [],
+                    "examples": [
+                        "Melting of ice to water and freezing it back to ice is a physical change."
+                    ]
+                },
+                {
+                    "id": "6.2",
+                    "title": "Chemical Change",
+                    "definition": "A chemical change produces one or more new substances with new properties and is usually irreversible.",
+                    "formulae": [],
+                    "examples": [
+                        "Burning of paper, rusting of iron and curdling of milk are chemical changes."
+                    ]
+                },
+                {
+                    "id": "6.3",
+                    "title": "Rusting of Iron",
+                    "definition": "Rusting is the formation of reddish‑brown rust on iron when it reacts with oxygen and moisture, which weakens iron objects.",
+                    "formulae": [],
+                    "examples": [
+                        "Iron gates kept in the open develop rust; painting prevents rust by stopping contact with air and moisture."
+                    ]
+                },
+                {
+                    "id": "6.4",
+                    "title": "Crystallisation",
+                    "definition": "Crystallisation is the process of forming pure solid crystals from a solution on cooling or evaporation.",
+                    "formulae": [],
+                    "examples": [
+                        "Pure copper sulphate crystals can be obtained by crystallising its hot concentrated solution."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "title": "Weather, Climate and Adaptations of Animals",
+            "concepts": [
+                {
+                    "id": "7.1",
+                    "title": "Weather and Its Elements",
+                    "definition": "Weather is the condition of the atmosphere at a place and time with respect to temperature, humidity, rainfall, wind speed and other factors.",
+                    "formulae": [],
+                    "examples": [
+                        "A day can be hot and humid, cool and dry, or rainy depending on the weather conditions."
+                    ]
+                },
+                {
+                    "id": "7.2",
+                    "title": "Climate",
+                    "definition": "Climate is the average weather pattern of a place over a long period, usually 25 years or more.",
+                    "formulae": [],
+                    "examples": [
+                        "Rajasthan has a hot and dry climate, while Kerala has a hot and wet climate."
+                    ]
+                },
+                {
+                    "id": "7.3",
+                    "title": "Polar Regions and Tropical Rainforests",
+                    "definition": "Polar regions near the poles are extremely cold and snowy most of the year, whereas tropical rainforests near the equator are hot and receive heavy rainfall throughout the year.",
+                    "formulae": [],
+                    "examples": [
+                        "Polar bears live in polar regions; monkeys and toucans are common in tropical rainforests."
+                    ]
+                },
+                {
+                    "id": "7.4",
+                    "title": "Adaptations of Animals",
+                    "definition": "Adaptations are special features or behaviours that help animals survive and reproduce in their habitats.",
+                    "formulae": [],
+                    "examples": [
+                        "Polar bears have thick fur and a layer of fat, while rainforest animals often have strong limbs, long tails and camouflage colours."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 8,
+            "title": "Winds, Storms and Cyclones",
+            "concepts": [
+                {
+                    "id": "8.1",
+                    "title": "Air Pressure",
+                    "definition": "Air has weight and exerts pressure in all directions on the surfaces it touches.",
+                    "formulae": [],
+                    "examples": [
+                        "Blowing air over a strip of paper makes it rise because the moving air above has lower pressure than the still air below."
+                    ]
+                },
+                {
+                    "id": "8.2",
+                    "title": "Wind Speed and Pressure",
+                    "definition": "High‑speed winds are associated with low air pressure, and air moves from high‑pressure areas to low‑pressure areas.",
+                    "formulae": [],
+                    "examples": [
+                        "Roofs of houses may be blown away in a storm because of high‑speed winds and pressure differences."
+                    ]
+                },
+                {
+                    "id": "8.3",
+                    "title": "Formation of Winds",
+                    "definition": "Uneven heating of land and water by the Sun creates pressure differences, causing air to move and form winds.",
+                    "formulae": [],
+                    "examples": [
+                        "Sea breeze blows from sea to land during the day; land breeze blows from land to sea at night."
+                    ]
+                },
+                {
+                    "id": "8.4",
+                    "title": "Thunderstorms and Cyclones",
+                    "definition": "Thunderstorms involve lightning, thunder, strong winds and heavy rain; cyclones are intense low‑pressure systems with very strong spiralling winds and heavy rainfall, causing large‑scale damage.",
+                    "formulae": [],
+                    "examples": [
+                        "Coastal cyclones can uproot trees, damage houses and flood large areas."
+                    ]
+                },
+                {
+                    "id": "8.5",
+                    "title": "Safety Measures During Storms",
+                    "definition": "Proper safety steps reduce the damage and risk to life during thunderstorms and cyclones.",
+                    "formulae": [],
+                    "examples": [
+                        "Avoid standing under lone trees or electric poles in a thunderstorm and follow official warnings during cyclones."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 9,
+            "title": "Soil",
+            "concepts": [
+                {
+                    "id": "9.1",
+                    "title": "Formation of Soil",
+                    "definition": "Soil forms by weathering, the slow breaking down of rocks into smaller particles due to wind, water and temperature changes over long periods.",
+                    "formulae": [],
+                    "examples": [
+                        "Rocky surfaces gradually turn into soil that can support plant life."
+                    ]
+                },
+                {
+                    "id": "9.2",
+                    "title": "Soil Profile and Horizons",
+                    "definition": "A soil profile is a vertical section showing different layers: topsoil rich in humus, subsoil with more minerals, weathered rock and bedrock.",
+                    "formulae": [],
+                    "examples": [
+                        "A soil pit shows dark topsoil at the surface and lighter subsoil below."
+                    ]
+                },
+                {
+                    "id": "9.3",
+                    "title": "Types of Soil",
+                    "definition": "Sandy soil has large particles and high percolation rate, clayey soil has fine particles and high water‑holding capacity, and loamy soil is a balanced mixture best for most crops.",
+                    "formulae": [],
+                    "examples": [
+                        "Paddy grows well in clayey soil, while groundnut prefers sandy loam."
+                    ]
+                },
+                {
+                    "id": "9.4",
+                    "title": "Percolation of Water",
+                    "definition": "Percolation is the movement of water downwards through soil; percolation rate depends on particle size and spaces between them.",
+                    "formulae": [],
+                    "examples": [
+                        "Water passes quickly through sandy soil and slowly through clayey soil."
+                    ]
+                },
+                {
+                    "id": "9.5",
+                    "title": "Soil Conservation",
+                    "definition": "Soil conservation involves protecting soil from erosion and loss of fertility through practices like planting trees and contour ploughing.",
+                    "formulae": [],
+                    "examples": [
+                        "Terrace farming on hills reduces soil erosion by slowing water flow."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 10,
+            "title": "Respiration in Organisms",
+            "concepts": [
+                {
+                    "id": "10.1",
+                    "title": "Breathing and Respiration",
+                    "definition": "Breathing is taking in oxygen‑rich air and giving out carbon‑dioxide‑rich air; respiration is the complete process in which food is broken down in cells to release energy.",
+                    "formulae": [],
+                    "examples": [
+                        "Our breathing rate increases during running because cells need more oxygen and energy."
+                    ]
+                },
+                {
+                    "id": "10.2",
+                    "title": "Aerobic Respiration",
+                    "definition": "Aerobic respiration occurs in the presence of oxygen and releases a large amount of energy.",
+                    "formulae": [
+                        "glucose + oxygen → carbon dioxide + water + energy"
+                    ],
+                    "examples": [
+                        "Humans and most animals respire aerobically under normal conditions."
+                    ]
+                },
+                {
+                    "id": "10.3",
+                    "title": "Anaerobic Respiration",
+                    "definition": "Anaerobic respiration occurs without oxygen and releases less energy than aerobic respiration.",
+                    "formulae": [
+                        "In yeast: glucose → alcohol + carbon dioxide + energy",
+                        "In muscles: glucose → lactic acid + energy"
+                    ],
+                    "examples": [
+                        "Yeast ferments sugar solution to produce alcohol and carbon dioxide."
+                    ]
+                },
+                {
+                    "id": "10.4",
+                    "title": "Human Respiratory System",
+                    "definition": "The human respiratory system includes nostrils, nasal cavity, trachea, lungs and diaphragm where exchange of oxygen and carbon dioxide occurs.",
+                    "formulae": [],
+                    "examples": [
+                        "Air passes through nostrils and trachea into lungs where oxygen diffuses into blood."
+                    ]
+                },
+                {
+                    "id": "10.5",
+                    "title": "Breathing Rate",
+                    "definition": "Breathing rate is the number of breaths taken per minute and varies with activity level and age.",
+                    "formulae": [],
+                    "examples": [
+                        "Children generally have higher breathing rates than adults."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 11,
+            "title": "Transportation in Animals and Plants",
+            "concepts": [
+                {
+                    "id": "11.1",
+                    "title": "Circulatory System and Heart",
+                    "definition": "The circulatory system transports food, oxygen, hormones and wastes throughout the body, with the heart acting as a muscular pump.",
+                    "formulae": [],
+                    "examples": [
+                        "Each heartbeat pushes blood into arteries to reach all body parts."
+                    ]
+                },
+                {
+                    "id": "11.2",
+                    "title": "Blood and Its Components",
+                    "definition": "Blood consists of plasma, red blood cells that carry oxygen, white blood cells that fight germs and platelets that help in clotting.",
+                    "formulae": [],
+                    "examples": [
+                        "A cut stops bleeding as platelets help form a clot."
+                    ]
+                },
+                {
+                    "id": "11.3",
+                    "title": "Blood Vessels and Pulse",
+                    "definition": "Arteries carry blood away from the heart, veins carry blood towards the heart and capillaries connect them; pulse is the throbbing of arteries felt due to heartbeat.",
+                    "formulae": [],
+                    "examples": [
+                        "Counting pulse at the wrist gives the number of heartbeats per minute."
+                    ]
+                },
+                {
+                    "id": "11.4",
+                    "title": "Excretory System in Humans",
+                    "definition": "The excretory system removes wastes like urea and excess water from blood using kidneys, ureters, urinary bladder and urethra.",
+                    "formulae": [],
+                    "examples": [
+                        "Kidneys filter blood and form urine, which is stored in the urinary bladder before removal."
+                    ]
+                },
+                {
+                    "id": "11.5",
+                    "title": "Transport in Plants",
+                    "definition": "In plants, xylem transports water and minerals from roots upwards and phloem transports prepared food from leaves to other parts.",
+                    "formulae": [],
+                    "examples": [
+                        "Coloured water taken up by a cut stem shows coloured veins in petals and leaves, indicating xylem pathways."
+                    ]
+                },
+                {
+                    "id": "11.6",
+                    "title": "Transpiration",
+                    "definition": "Transpiration is the loss of water vapour from aerial parts of plants, mainly through stomata, helping in cooling and upward pull of water.",
+                    "formulae": [],
+                    "examples": [
+                        "A plastic bag tied around a leafy branch collects water droplets due to transpiration."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 12,
+            "title": "Reproduction in Plants",
+            "concepts": [
+                {
+                    "id": "12.1",
+                    "title": "Vegetative Propagation",
+                    "definition": "Vegetative propagation is asexual reproduction in which new plants grow from roots, stems or leaves instead of seeds.",
+                    "formulae": [],
+                    "examples": [
+                        "Potato tubers with buds, sugarcane stems and rose cuttings give rise to new plants."
+                    ]
+                },
+                {
+                    "id": "12.2",
+                    "title": "Budding, Fragmentation and Spore Formation",
+                    "definition": "Budding forms new individuals from buds, fragmentation forms new individuals from broken pieces of the parent, and spore formation uses microscopic spores to form new plants.",
+                    "formulae": [],
+                    "examples": [
+                        "Yeast reproduces by budding; Spirogyra by fragmentation; many fungi by spores."
+                    ]
+                },
+                {
+                    "id": "12.3",
+                    "title": "Structure of a Flower",
+                    "definition": "A typical flower has sepals, petals, stamens as male parts and pistil or carpel as female part containing ovary with ovules.",
+                    "formulae": [],
+                    "examples": [
+                        "Anther of stamen produces pollen grains; ovary of pistil contains ovules."
+                    ]
+                },
+                {
+                    "id": "12.4",
+                    "title": "Pollination and Fertilisation",
+                    "definition": "Pollination is the transfer of pollen grains from anther to stigma; fertilisation is the fusion of male and female gametes to form a zygote.",
+                    "formulae": [],
+                    "examples": [
+                        "Bees and butterflies help in cross‑pollination between flowers."
+                    ]
+                },
+                {
+                    "id": "12.5",
+                    "title": "Seed and Fruit Formation and Dispersal",
+                    "definition": "After fertilisation, ovule grows into seed and ovary into fruit; seeds are dispersed by wind, water, animals or bursting of fruits.",
+                    "formulae": [],
+                    "examples": [
+                        "Light seeds with wings or hair, like those of cotton, are dispersed by wind; coconuts are dispersed by water."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 13,
+            "title": "Motion and Time",
+            "concepts": [
+                {
+                    "id": "13.1",
+                    "title": "Distance and Time",
+                    "definition": "Distance is the total length of the path travelled by an object and time is the duration of its motion or event.",
+                    "formulae": [],
+                    "examples": [
+                        "If you walk from home to school along the road, the length of that route is the distance covered."
+                    ]
+                },
+                {
+                    "id": "13.2",
+                    "title": "Motion, Uniform and Non‑uniform Motion",
+                    "definition": "An object is in motion if its position changes with time; in uniform motion it covers equal distances in equal time intervals, while in non‑uniform motion it does not.",
+                    "formulae": [],
+                    "examples": [
+                        "A car at steady 60 km/h shows uniform motion; a car in city traffic shows non‑uniform motion."
+                    ]
+                },
+                {
+                    "id": "13.3",
+                    "title": "Speed",
+                    "definition": "Speed is the distance travelled per unit time and indicates how fast an object moves.",
+                    "formulae": [
+                        "Speed = Distance / Time",
+                        "Distance = Speed × Time",
+                        "Time = Distance / Speed"
+                    ],
+                    "examples": [
+                        "A car travelling 240 km in 4 hours has speed 240 ÷ 4 = 60 km/h."
+                    ]
+                },
+                {
+                    "id": "13.4",
+                    "title": "Average Speed",
+                    "definition": "Average speed is the total distance travelled divided by the total time taken when speed is not constant.",
+                    "formulae": [
+                        "Average speed = Total distance / Total time"
+                    ],
+                    "examples": [
+                        "If you travel 100 km in 2 hours and 50 km in 1 hour, average speed is 150 ÷ 3 = 50 km/h."
+                    ]
+                },
+                {
+                    "id": "13.5",
+                    "title": "Measurement of Time",
+                    "definition": "Clocks, watches and stopwatches are used to measure time intervals accurately in daily life and experiments.",
+                    "formulae": [],
+                    "examples": [
+                        "A stopwatch is used in a race to measure the time taken by runners."
+                    ]
+                },
+                {
+                    "id": "13.6",
+                    "title": "Distance–Time Graphs",
+                    "definition": "In a distance–time graph, distance is plotted on the vertical axis and time on the horizontal axis; the graph’s shape shows how motion changes.",
+                    "formulae": [],
+                    "examples": [
+                        "A straight line from the origin in a distance–time graph represents motion with constant speed."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 14,
+            "title": "Electric Current and Its Effects",
+            "concepts": [
+                {
+                    "id": "14.1",
+                    "title": "Electric Current and Circuit",
+                    "definition": "Electric current is the flow of electric charge through a conductor in a closed path called an electric circuit.",
+                    "formulae": [],
+                    "examples": [
+                        "When a bulb is connected to a cell with wires and the switch is on, current flows and the bulb glows."
+                    ]
+                },
+                {
+                    "id": "14.2",
+                    "title": "Circuit Symbols and Diagrams",
+                    "definition": "Standard symbols for components like cell, battery, switch and bulb are used to draw simple and clear circuit diagrams.",
+                    "formulae": [],
+                    "examples": [
+                        "Two or more cells drawn end to end with proper symbols represent a battery in a circuit diagram."
+                    ]
+                },
+                {
+                    "id": "14.3",
+                    "title": "Heating Effect of Electric Current",
+                    "definition": "When current passes through a conductor, it produces heat, known as the heating effect of electric current.",
+                    "formulae": [],
+                    "examples": [
+                        "Electric iron, heater and toaster work based on the heating effect of current."
+                    ]
+                },
+                {
+                    "id": "14.4",
+                    "title": "Magnetic Effect of Electric Current",
+                    "definition": "A current‑carrying conductor behaves like a magnet, which is called the magnetic effect of electric current.",
+                    "formulae": [],
+                    "examples": [
+                        "A compass needle placed near a current‑carrying wire gets deflected."
+                    ]
+                },
+                {
+                    "id": "14.5",
+                    "title": "Electromagnets",
+                    "definition": "An electromagnet is a strong, temporary magnet made by passing electric current through a coil of wire wound around a soft iron core.",
+                    "formulae": [],
+                    "examples": [
+                        "Cranes in junkyards use electromagnets to lift and drop heavy iron scrap.",
+                        "Electric bells use electromagnets to attract and release a metal striker."
+                    ]
+                },
+                {
+                    "id": "14.6",
+                    "title": "Electric Fuse",
+                    "definition": "A fuse is a safety device with a thin wire of low melting point that melts and breaks the circuit if excessive current flows.",
+                    "formulae": [],
+                    "examples": [
+                        "In case of a short circuit at home, the fuse wire melts and switches off the supply to protect appliances."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 15,
+            "title": "Light",
+            "concepts": [
+                {
+                    "id": "15.1",
+                    "title": "Rectilinear Propagation and Shadows",
+                    "definition": "Light travels in straight lines in a given medium, and shadows are formed when an opaque object blocks light.",
+                    "formulae": [],
+                    "examples": [
+                        "An object placed in front of a torch forms a sharp shadow on a screen."
+                    ]
+                },
+                {
+                    "id": "15.2",
+                    "title": "Transparent, Translucent and Opaque Objects",
+                    "definition": "Transparent materials allow most light to pass through; translucent materials allow some light; opaque materials do not allow light to pass through.",
+                    "formulae": [],
+                    "examples": [
+                        "Clear glass is transparent, oiled paper is translucent, and wood is opaque."
+                    ]
+                },
+                {
+                    "id": "15.3",
+                    "title": "Reflection of Light",
+                    "definition": "Reflection is the bouncing back of light when it falls on a surface and does not pass through it.",
+                    "formulae": [],
+                    "examples": [
+                        "A plane mirror reflects light to form images."
+                    ]
+                },
+                {
+                    "id": "15.4",
+                    "title": "Laws of Reflection",
+                    "definition": "At the point of incidence, incident ray, reflected ray and normal lie in the same plane, and the angle of incidence equals the angle of reflection.",
+                    "formulae": [
+                        "i = r"
+                    ],
+                    "examples": [
+                        "If light hits a mirror at 30° to the normal, it reflects at 30° on the other side of the normal."
+                    ]
+                },
+                {
+                    "id": "15.5",
+                    "title": "Images in Plane Mirrors",
+                    "definition": "A plane mirror forms a virtual, erect image of the same size as the object, appearing behind the mirror at the same distance as the object is in front, with left–right reversal.",
+                    "formulae": [],
+                    "examples": [
+                        "Your right hand appears as left in the plane mirror due to lateral inversion."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 16,
+            "title": "Water: A Precious Resource",
+            "concepts": [
+                {
+                    "id": "16.1",
+                    "title": "Forms and Distribution of Water",
+                    "definition": "Water exists as solid (ice), liquid (water) and gas (water vapour); most of Earth’s water is salty in oceans, with only a small fraction available as fresh water.",
+                    "formulae": [],
+                    "examples": [
+                        "Rivers, lakes and groundwater contain fresh water used for drinking and irrigation."
+                    ]
+                },
+                {
+                    "id": "16.2",
+                    "title": "Groundwater and Water Table",
+                    "definition": "Groundwater is water stored in spaces between soil particles and rocks below the surface; the water table is the upper level of this groundwater.",
+                    "formulae": [],
+                    "examples": [
+                        "Hand pumps and wells draw water from groundwater below the water table."
+                    ]
+                },
+                {
+                    "id": "16.3",
+                    "title": "Depletion of Water Table",
+                    "definition": "Overuse of groundwater, reduced rainfall, deforestation and concrete surfaces reduce the water table and can cause water shortage.",
+                    "formulae": [],
+                    "examples": [
+                        "In many cities, deepening of wells is needed as the water table falls."
+                    ]
+                },
+                {
+                    "id": "16.4",
+                    "title": "Conservation of Water and Rainwater Harvesting",
+                    "definition": "Water conservation means using water carefully and avoiding wastage; rainwater harvesting collects and stores rainwater or directs it to recharge groundwater.",
+                    "formulae": [],
+                    "examples": [
+                        "Rooftop rainwater harvesting systems store rain in underground tanks or recharge pits."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 17,
+            "title": "Forests: Our Lifeline",
+            "concepts": [
+                {
+                    "id": "17.1",
+                    "title": "Forest as a System",
+                    "definition": "A forest is a complex system of trees, shrubs, herbs, animals, microorganisms, soil, air and water, all interacting and depending on one another.",
+                    "formulae": [],
+                    "examples": [
+                        "Leaves falling on the forest floor decompose and add nutrients back to the soil."
+                    ]
+                },
+                {
+                    "id": "17.2",
+                    "title": "Layers of a Forest",
+                    "definition": "The canopy is the top layer formed by branches and leaves of tall trees; the understory is the layer of smaller trees and shrubs; the forest floor has leaf litter and small plants.",
+                    "formulae": [],
+                    "examples": [
+                        "In a dense forest the canopy blocks much sunlight from reaching the forest floor."
+                    ]
+                },
+                {
+                    "id": "17.3",
+                    "title": "Food Chains and Decomposers",
+                    "definition": "A food chain shows the transfer of energy from one organism to another; decomposers break down dead matter and recycle nutrients.",
+                    "formulae": [],
+                    "examples": [
+                        "A simple forest food chain is grass → deer → tiger.",
+                        "Fungi and bacteria decompose fallen leaves and dead animals."
+                    ]
+                },
+                {
+                    "id": "17.4",
+                    "title": "Importance of Forests",
+                    "definition": "Forests provide oxygen, absorb carbon dioxide, prevent soil erosion, support biodiversity and help maintain the water cycle.",
+                    "formulae": [],
+                    "examples": [
+                        "Cutting down forests leads to soil erosion and loss of wildlife habitat."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 18,
+            "title": "Wastewater Story",
+            "concepts": [
+                {
+                    "id": "18.1",
+                    "title": "Wastewater and Sewage",
+                    "definition": "Wastewater is water that has been used and contains impurities; sewage is wastewater containing human and other wastes like urine, faeces, soaps and chemicals.",
+                    "formulae": [],
+                    "examples": [
+                        "Water flowing in household drains after washing dishes and bathing is wastewater; if mixed with toilets it forms sewage."
+                    ]
+                },
+                {
+                    "id": "18.2",
+                    "title": "Sanitation",
+                    "definition": "Sanitation is the safe disposal of human and other wastes to maintain hygienic conditions and prevent diseases.",
+                    "formulae": [],
+                    "examples": [
+                        "Proper toilets connected to sewage systems and treatment plants improve sanitation in a city."
+                    ]
+                },
+                {
+                    "id": "18.3",
+                    "title": "Sewage Treatment Plant (STP)",
+                    "definition": "In a sewage treatment plant, wastewater passes through stages like screening, grit removal, settling of sludge, biological treatment and disinfection before being released or reused.",
+                    "formulae": [],
+                    "examples": [
+                        "Treated wastewater from STPs can be used for gardening or agriculture instead of being wasted."
+                    ]
+                },
+                {
+                    "id": "18.4",
+                    "title": "Individual Responsibilities",
+                    "definition": "People should help keep drains and sewage systems working by not throwing solids, oils or harmful chemicals into them and by supporting wastewater treatment.",
+                    "formulae": [],
+                    "examples": [
+                        "Avoid pouring used cooking oil or medicines into the sink to reduce water pollution."
+                    ]
+                }
+            ]
+        }
+    ]
+}

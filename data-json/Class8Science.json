@@ -1,0 +1,867 @@
+{
+    "class": 8,
+    "subject": "Science",
+    "board": "NCERT/CBSE",
+    "chapters": [
+        {
+            "number": 1,
+            "title": "Crop Production and Management",
+            "concepts": [
+                {
+                    "id": "1.1",
+                    "title": "Crops and Crop Seasons",
+                    "definition": "A crop is the same kind of plants grown on a large scale in a field. In India, crops are broadly classified into kharif crops (grown in rainy season) and rabi crops (grown in winter season).",
+                    "formulae": [],
+                    "examples": [
+                        "Paddy and maize are kharif crops; wheat and gram are rabi crops."
+                    ]
+                },
+                {
+                    "id": "1.2",
+                    "title": "Basic Agricultural Practices",
+                    "definition": "Crop production involves a sequence of practices: preparation of soil, sowing, adding manure and fertilisers, irrigation, protection from weeds, harvesting and storage.",
+                    "formulae": [],
+                    "examples": [
+                        "Before sowing, soil is ploughed and levelled; after harvest, grains are dried and stored in godowns."
+                    ]
+                },
+                {
+                    "id": "1.3",
+                    "title": "Preparation of Soil and Sowing",
+                    "definition": "Preparation of soil includes ploughing to loosen it, levelling to prevent water logging and manuring to enrich it. Sowing is placing seeds at proper depth and spacing in the prepared field.",
+                    "formulae": [],
+                    "examples": [
+                        "Seed drills sow seeds at uniform depth and spacing, improving germination and yield."
+                    ]
+                },
+                {
+                    "id": "1.4",
+                    "title": "Manure and Fertilisers",
+                    "definition": "Manure is organic matter obtained from plant and animal wastes that improves soil structure and fertility. Fertilisers are inorganic salts rich in specific nutrients like nitrogen, phosphorus and potassium.",
+                    "formulae": [],
+                    "examples": [
+                        "Cow dung manure is organic; urea and superphosphate are chemical fertilisers."
+                    ]
+                },
+                {
+                    "id": "1.5",
+                    "title": "Irrigation and Weed Control",
+                    "definition": "Irrigation is supplying water to crops at the right time using methods like canals, tube wells, sprinklers and drip systems. Weeds are unwanted plants in crop fields that must be removed or controlled.",
+                    "formulae": [],
+                    "examples": [
+                        "Sprinkler systems are useful for sandy soils; drip irrigation saves water in dry areas.",
+                        "Weeds like wild oats compete with wheat for nutrients and are removed by weeding."
+                    ]
+                },
+                {
+                    "id": "1.6",
+                    "title": "Harvesting, Threshing and Storage",
+                    "definition": "Harvesting is cutting mature crops, threshing separates grains from stalks and storage protects grains from pests, moisture and microorganisms.",
+                    "formulae": [],
+                    "examples": [
+                        "A combine harvester performs harvesting and threshing together.",
+                        "Dried grains stored in jute sacks or silos last longer."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "title": "Microorganisms: Friend and Foe",
+            "concepts": [
+                {
+                    "id": "2.1",
+                    "title": "Types of Microorganisms",
+                    "definition": "Microorganisms are very small living organisms not visible to the naked eye. Main groups include bacteria, fungi, protozoa, algae and viruses.",
+                    "formulae": [],
+                    "examples": [
+                        "Lactobacillus is a bacterium used in curd; Rhizopus is a bread mould fungus; Plasmodium is a protozoan causing malaria."
+                    ]
+                },
+                {
+                    "id": "2.2",
+                    "title": "Useful Microorganisms",
+                    "definition": "Microorganisms help in making food products, medicines, decomposing waste and fixing nitrogen in soil.",
+                    "formulae": [],
+                    "examples": [
+                        "Bacteria convert milk into curd; yeast is used in baking bread; some fungi and bacteria decompose dead matter.",
+                        "Rhizobium bacteria in legume roots fix nitrogen, enriching soil."
+                    ]
+                },
+                {
+                    "id": "2.3",
+                    "title": "Harmful Microorganisms and Diseases",
+                    "definition": "Some microorganisms cause diseases in humans, animals and plants and spoil food materials by growing on them.",
+                    "formulae": [],
+                    "examples": [
+                        "Bacteria causing tuberculosis in humans, virus causing poliomyelitis, and fungi infecting crops like rust of wheat."
+                    ]
+                },
+                {
+                    "id": "2.4",
+                    "title": "Food Preservation",
+                    "definition": "Food preservation methods prevent growth of microorganisms and spoilage using low or high temperature, chemicals, reducing moisture or air contact.",
+                    "formulae": [],
+                    "examples": [
+                        "Refrigeration slows microbial growth; salting and pickling reduce available water; sugar in jams preserves fruits; canning seals food from air."
+                    ]
+                },
+                {
+                    "id": "2.5",
+                    "title": "Nitrogen Fixation and Nitrogen Cycle",
+                    "definition": "Certain bacteria and blue‑green algae convert atmospheric nitrogen into usable forms. Decomposers and lightning also help cycle nitrogen between atmosphere, soil, plants and animals.",
+                    "formulae": [],
+                    "examples": [
+                        "Nitrogen in air is fixed, taken up by plants, passed on to animals and returned to soil through excretion and decay."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "title": "Synthetic Fibres and Plastics",
+            "concepts": [
+                {
+                    "id": "3.1",
+                    "title": "Natural and Synthetic Fibres",
+                    "definition": "Natural fibres are obtained from plants and animals, while synthetic fibres are man‑made from chemicals, usually derived from petroleum.",
+                    "formulae": [],
+                    "examples": [
+                        "Cotton and wool are natural fibres; nylon and polyester are synthetic fibres."
+                    ]
+                },
+                {
+                    "id": "3.2",
+                    "title": "Types of Synthetic Fibres",
+                    "definition": "Common synthetic fibres include rayon (semi‑synthetic), nylon, polyester and acrylic, each with specific properties and uses.",
+                    "formulae": [],
+                    "examples": [
+                        "Rayon is made from regenerated cellulose; nylon is strong and used for ropes; polyester is widely used in clothing; acrylic is used as artificial wool."
+                    ]
+                },
+                {
+                    "id": "3.3",
+                    "title": "Plastics and Their Types",
+                    "definition": "Plastics are synthetic materials that can be moulded into different shapes. Thermoplastics soften on heating and can be reshaped, while thermosetting plastics harden permanently on heating.",
+                    "formulae": [],
+                    "examples": [
+                        "Polythene and PVC are thermoplastics; bakelite and melamine are thermosetting plastics."
+                    ]
+                },
+                {
+                    "id": "3.4",
+                    "title": "Plastics and Environment",
+                    "definition": "Plastics are lightweight, strong and durable but many are non‑biodegradable and cause long‑term environmental pollution.",
+                    "formulae": [],
+                    "examples": [
+                        "Improperly discarded plastic bags choke drains and harm animals that eat them; reducing, reusing and recycling plastic helps protect the environment."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "title": "Materials: Metals and Non-Metals",
+            "concepts": [
+                {
+                    "id": "4.1",
+                    "title": "Physical Properties of Metals and Non-Metals",
+                    "definition": "Metals are generally hard, lustrous, malleable, ductile and good conductors of heat and electricity; non‑metals are usually dull, brittle (if solid) and poor conductors.",
+                    "formulae": [],
+                    "examples": [
+                        "Iron, copper and aluminium are metals; sulphur and carbon (in coal) are non‑metals.",
+                        "Gold is highly malleable and ductile."
+                    ]
+                },
+                {
+                    "id": "4.2",
+                    "title": "Chemical Properties: Reaction with Oxygen",
+                    "definition": "Metals react with oxygen to form metal oxides, many of which are basic in nature; some non‑metals form acidic or neutral oxides.",
+                    "formulae": [
+                        "Metal + Oxygen → Metal oxide"
+                    ],
+                    "examples": [
+                        "Magnesium burns in air to form magnesium oxide.",
+                        "Non‑metal sulphur burns to form sulphur dioxide, an acidic oxide."
+                    ]
+                },
+                {
+                    "id": "4.3",
+                    "title": "Reaction with Water and Acids",
+                    "definition": "Reactive metals may react with water to form metal hydroxides and hydrogen gas; metals above hydrogen in reactivity series react with dilute acids to produce salts and hydrogen gas.",
+                    "formulae": [
+                        "Metal + Water → Metal hydroxide + Hydrogen (for some metals)",
+                        "Metal + Dilute acid → Salt + Hydrogen"
+                    ],
+                    "examples": [
+                        "Sodium reacts vigorously with water; iron reacts slowly with steam.",
+                        "Zinc reacts with dilute sulphuric acid to form zinc sulphate and hydrogen."
+                    ]
+                },
+                {
+                    "id": "4.4",
+                    "title": "Displacement Reactions",
+                    "definition": "A more reactive metal can displace a less reactive metal from its salt solution.",
+                    "formulae": [],
+                    "examples": [
+                        "Iron nail dipped in copper sulphate solution slowly gets coated with copper and the solution turns pale green."
+                    ]
+                },
+                {
+                    "id": "4.5",
+                    "title": "Uses Based on Properties",
+                    "definition": "Properties like malleability, conductivity and resistance to corrosion decide uses of metals and non‑metals.",
+                    "formulae": [],
+                    "examples": [
+                        "Copper is used in electrical wiring due to good conductivity; aluminium is used in making utensils and aircraft bodies due to light weight and strength."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "title": "Coal and Petroleum",
+            "concepts": [
+                {
+                    "id": "5.1",
+                    "title": "Fossil Fuels",
+                    "definition": "Coal, petroleum and natural gas are fossil fuels formed from the remains of dead plants and animals buried for millions of years under high pressure and temperature.",
+                    "formulae": [],
+                    "examples": [
+                        "Coal mainly formed from ancient forests; petroleum and natural gas from marine organisms."
+                    ]
+                },
+                {
+                    "id": "5.2",
+                    "title": "Types and Uses of Coal",
+                    "definition": "Coal is a hard black fuel used mainly in thermal power plants and industries. Coal products like coke, coal tar and coal gas have various industrial uses.",
+                    "formulae": [],
+                    "examples": [
+                        "Coke is a pure form of carbon used in steel making; coal tar is used for making dyes and drugs."
+                    ]
+                },
+                {
+                    "id": "5.3",
+                    "title": "Petroleum and Refining",
+                    "definition": "Petroleum is a thick, dark oil mixture of many hydrocarbons found in underground reservoirs and refined through fractional distillation into various useful fractions.",
+                    "formulae": [],
+                    "examples": [
+                        "Petrol, diesel, kerosene, LPG and lubricating oils are obtained from petroleum refining."
+                    ]
+                },
+                {
+                    "id": "5.4",
+                    "title": "Natural Gas",
+                    "definition": "Natural gas is a gaseous fossil fuel mainly composed of methane, found with petroleum or alone, and used as a clean fuel.",
+                    "formulae": [],
+                    "examples": [
+                        "Compressed Natural Gas (CNG) is used as a fuel in vehicles and households."
+                    ]
+                },
+                {
+                    "id": "5.5",
+                    "title": "Limited Nature of Fossil Fuels",
+                    "definition": "Fossil fuels are non‑renewable resources formed over millions of years and will eventually be exhausted if used excessively.",
+                    "formulae": [],
+                    "examples": [
+                        "Conserving energy and using alternatives like solar and wind power reduce dependence on fossil fuels."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "title": "Combustion and Flame",
+            "concepts": [
+                {
+                    "id": "6.1",
+                    "title": "Combustible Substances and Combustion",
+                    "definition": "Combustible or flammable substances catch fire easily and burn in air or oxygen, releasing heat and light in a process called combustion.",
+                    "formulae": [],
+                    "examples": [
+                        "Wood, petrol and LPG are combustible; sand and water are non‑combustible."
+                    ]
+                },
+                {
+                    "id": "6.2",
+                    "title": "Conditions Necessary for Combustion",
+                    "definition": "Combustion requires the presence of a combustible substance, oxygen (air) and sufficient heat to reach ignition temperature.",
+                    "formulae": [],
+                    "examples": [
+                        "A matchstick lights only when rubbed, raising its temperature to ignition point; covering a flame with a glass jar cuts off oxygen and extinguishes it."
+                    ]
+                },
+                {
+                    "id": "6.3",
+                    "title": "Types of Combustion",
+                    "definition": "Slow combustion occurs slowly, rapid combustion occurs quickly with a flame, and spontaneous combustion happens without apparent external heat.",
+                    "formulae": [],
+                    "examples": [
+                        "Rusting is slow combustion; burning LPG in a stove is rapid combustion; phosphorus can show spontaneous combustion in air."
+                    ]
+                },
+                {
+                    "id": "6.4",
+                    "title": "Structure of a Flame",
+                    "definition": "A luminous flame has different zones: outermost non‑luminous hottest zone, middle luminous moderately hot zone and innermost dark cool zone.",
+                    "formulae": [],
+                    "examples": [
+                        "The blue outer region of a gas burner flame is hottest and used for laboratory heating."
+                    ]
+                },
+                {
+                    "id": "6.5",
+                    "title": "Fuel Efficiency and Calorific Value",
+                    "definition": "Calorific value of a fuel is the amount of heat produced on complete burning of a unit mass of fuel, measuring its efficiency.",
+                    "formulae": [
+                        "Calorific value ≈ heat produced per kg of fuel (kJ/kg) (conceptual at this level)"
+                    ],
+                    "examples": [
+                        "LPG and CNG have higher calorific values and burn cleaner than coal or wood."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "title": "Conservation of Plants and Animals",
+            "concepts": [
+                {
+                    "id": "7.1",
+                    "title": "Deforestation and Its Causes",
+                    "definition": "Deforestation is large‑scale cutting or clearing of forests for agriculture, urbanisation, timber and other human activities.",
+                    "formulae": [],
+                    "examples": [
+                        "Forests cleared for farms, houses, roads and industries."
+                    ]
+                },
+                {
+                    "id": "7.2",
+                    "title": "Effects of Deforestation",
+                    "definition": "Deforestation leads to loss of biodiversity, soil erosion, floods, climate change and disturbance in water cycle.",
+                    "formulae": [],
+                    "examples": [
+                        "Heavy floods and landslides occur more frequently in areas where forests are removed."
+                    ]
+                },
+                {
+                    "id": "7.3",
+                    "title": "Wildlife Sanctuary, National Park and Biosphere Reserve",
+                    "definition": "Protected areas like wildlife sanctuaries, national parks and biosphere reserves conserve wild plants and animals in their natural habitats.",
+                    "formulae": [],
+                    "examples": [
+                        "Kaziranga National Park protects one‑horned rhinoceros; biosphere reserves include core, buffer and transition zones."
+                    ]
+                },
+                {
+                    "id": "7.4",
+                    "title": "Endangered and Extinct Species",
+                    "definition": "Endangered species are at risk of extinction; extinct species have completely disappeared from Earth.",
+                    "formulae": [],
+                    "examples": [
+                        "Tiger is an endangered species; the dodo is an extinct bird."
+                    ]
+                },
+                {
+                    "id": "7.5",
+                    "title": "Red Data Book and Reforestation",
+                    "definition": "The Red Data Book lists endangered species. Reforestation is re‑growing forests on cleared or degraded lands.",
+                    "formulae": [],
+                    "examples": [
+                        "Planting saplings and protecting young trees help restore forest cover."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 8,
+            "title": "Cell – Structure and Functions",
+            "concepts": [
+                {
+                    "id": "8.1",
+                    "title": "Discovery and Diversity of Cells",
+                    "definition": "Cells are the basic structural and functional units of life, discovered by Robert Hooke. Organisms may be unicellular or multicellular with cells of various shapes and sizes.",
+                    "formulae": [],
+                    "examples": [
+                        "Amoeba is unicellular; humans are multicellular with billions of cells."
+                    ]
+                },
+                {
+                    "id": "8.2",
+                    "title": "Cell Structure",
+                    "definition": "Typical cells have a cell membrane, cytoplasm and nucleus. Plant cells additionally have a cell wall, large vacuole and plastids.",
+                    "formulae": [],
+                    "examples": [
+                        "Nucleus controls cell activities; chloroplasts in plant cells carry out photosynthesis."
+                    ]
+                },
+                {
+                    "id": "8.3",
+                    "title": "Cell Organelles and Their Functions",
+                    "definition": "Cell organelles like nucleus, mitochondria, vacuoles, chloroplasts and endoplasmic reticulum perform specific functions inside the cell.",
+                    "formulae": [],
+                    "examples": [
+                        "Mitochondria are sites of energy release; vacuoles store substances."
+                    ]
+                },
+                {
+                    "id": "8.4",
+                    "title": "Differences Between Plant and Animal Cells",
+                    "definition": "Plant cells have cell walls, chloroplasts and large central vacuoles; most animal cells lack these and often have smaller vacuoles.",
+                    "formulae": [],
+                    "examples": [
+                        "An onion peel cell shows a cell wall and large vacuole under a microscope, unlike cheek cells."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 9,
+            "title": "Reproduction in Animals",
+            "concepts": [
+                {
+                    "id": "9.1",
+                    "title": "Modes of Reproduction",
+                    "definition": "Animals reproduce sexually or asexually. In sexual reproduction, male and female gametes fuse; in asexual reproduction a single parent produces offspring.",
+                    "formulae": [],
+                    "examples": [
+                        "Humans reproduce sexually; some simple animals like hydra can reproduce asexually by budding."
+                    ]
+                },
+                {
+                    "id": "9.2",
+                    "title": "Sexual Reproduction: Male and Female Systems",
+                    "definition": "Male reproductive system produces sperms, and female reproductive system produces ova and provides a place for development of the baby.",
+                    "formulae": [],
+                    "examples": [
+                        "Testes in males produce sperms; ovaries in females produce eggs."
+                    ]
+                },
+                {
+                    "id": "9.3",
+                    "title": "Fertilisation",
+                    "definition": "Fertilisation is fusion of male and female gametes forming a zygote. It can be internal (inside body) or external (outside body).",
+                    "formulae": [],
+                    "examples": [
+                        "In humans fertilisation is internal; in frogs it is external in water."
+                    ]
+                },
+                {
+                    "id": "9.4",
+                    "title": "Development of Embryo",
+                    "definition": "Zygote repeatedly divides to form an embryo which develops organs and becomes a foetus.",
+                    "formulae": [],
+                    "examples": [
+                        "In humans the embryo develops inside the uterus."
+                    ]
+                },
+                {
+                    "id": "9.5",
+                    "title": "Viviparous and Oviparous Animals",
+                    "definition": "Viviparous animals give birth to young ones, while oviparous animals lay eggs.",
+                    "formulae": [],
+                    "examples": [
+                        "Humans, cows and dogs are viviparous; hens, frogs and fish are oviparous."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 10,
+            "title": "Reaching the Age of Adolescence",
+            "concepts": [
+                {
+                    "id": "10.1",
+                    "title": "Adolescence and Puberty",
+                    "definition": "Adolescence is the period of life between childhood and adulthood, during which puberty brings physical and mental changes leading to sexual maturity.",
+                    "formulae": [],
+                    "examples": [
+                        "In humans adolescence roughly covers ages 11 to 19."
+                    ]
+                },
+                {
+                    "id": "10.2",
+                    "title": "Changes at Puberty",
+                    "definition": "Puberty brings increase in height, changes in body shape, voice changes, development of secondary sexual characters and mental/emotional changes.",
+                    "formulae": [],
+                    "examples": [
+                        "Boys develop facial hair and deeper voices; girls develop broader hips and breasts."
+                    ]
+                },
+                {
+                    "id": "10.3",
+                    "title": "Hormones and Sex Determination",
+                    "definition": "Hormones from endocrine glands control changes at puberty. Sex of a baby is determined by the type of sex chromosome contributed by the father.",
+                    "formulae": [],
+                    "examples": [
+                        "Female has XX chromosomes; male has XY; an X from mother with X from father gives girl (XX), X from mother with Y from father gives boy (XY)."
+                    ]
+                },
+                {
+                    "id": "10.4",
+                    "title": "Nutritional Needs and Personal Hygiene",
+                    "definition": "Balanced diet, exercise, adequate rest and personal cleanliness are essential during adolescence to support growth and prevent disease.",
+                    "formulae": [],
+                    "examples": [
+                        "Teenagers should eat iron‑rich foods and maintain hygiene to avoid infections like acne."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 11,
+            "title": "Force and Pressure",
+            "concepts": [
+                {
+                    "id": "11.1",
+                    "title": "Force and Its Effects",
+                    "definition": "Force is a push or pull that can change the state of motion or shape of an object.",
+                    "formulae": [],
+                    "examples": [
+                        "Pushing a trolley sets it in motion; stretching a rubber band changes its shape."
+                    ]
+                },
+                {
+                    "id": "11.2",
+                    "title": "Types of Force",
+                    "definition": "Contact forces act when bodies touch (muscular force, friction), while non‑contact forces act at a distance (gravitational, magnetic, electrostatic).",
+                    "formulae": [],
+                    "examples": [
+                        "Earth’s gravity pulls objects downward; a magnet attracts iron without contact."
+                    ]
+                },
+                {
+                    "id": "11.3",
+                    "title": "Pressure",
+                    "definition": "Pressure is the force acting per unit area on a surface.",
+                    "formulae": [
+                        "Pressure = Force / Area"
+                    ],
+                    "examples": [
+                        "Nails have pointed tips to exert large pressure and go into wood easily.",
+                        "Snow shoes increase area of contact to reduce pressure on snow."
+                    ]
+                },
+                {
+                    "id": "11.4",
+                    "title": "Pressure Exerted by Liquids and Gases",
+                    "definition": "Liquids and gases exert pressure in all directions and increase in pressure with depth in liquids.",
+                    "formulae": [],
+                    "examples": [
+                        "Water comes out more strongly from lower holes in a tank because pressure is higher at greater depth."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 12,
+            "title": "Friction",
+            "concepts": [
+                {
+                    "id": "12.1",
+                    "title": "Friction and Its Causes",
+                    "definition": "Friction is a force that opposes relative motion between two surfaces in contact, caused by irregularities on the surfaces.",
+                    "formulae": [],
+                    "examples": [
+                        "A block slides more easily on a smooth table than on a rough floor."
+                    ]
+                },
+                {
+                    "id": "12.2",
+                    "title": "Factors Affecting Friction",
+                    "definition": "Friction depends on the nature of surfaces in contact and the force pressing them together, but not significantly on the area of contact at this level.",
+                    "formulae": [],
+                    "examples": [
+                        "Rough surfaces have more friction; heavier objects experience more friction on a surface."
+                    ]
+                },
+                {
+                    "id": "12.3",
+                    "title": "Advantages and Disadvantages of Friction",
+                    "definition": "Friction is necessary for walking and holding objects but also causes wear and energy loss as heat.",
+                    "formulae": [],
+                    "examples": [
+                        "Friction between tyres and road allows vehicles to move; it also causes tyre wear and heat."
+                    ]
+                },
+                {
+                    "id": "12.4",
+                    "title": "Increasing and Reducing Friction",
+                    "definition": "Friction can be increased with rough surfaces and treads when needed, or reduced with lubricants, smooth surfaces and rolling when unwanted.",
+                    "formulae": [],
+                    "examples": [
+                        "Oil in machines reduces friction; grooves on shoe soles increase friction for better grip."
+                    ]
+                },
+                {
+                    "id": "12.5",
+                    "title": "Fluid Friction or Drag",
+                    "definition": "Liquids and gases oppose motion of objects through them, causing fluid friction or drag, which depends on speed, shape and nature of fluid.",
+                    "formulae": [],
+                    "examples": [
+                        "Streamlined bodies of birds, fishes and aircraft reduce drag."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 13,
+            "title": "Sound",
+            "concepts": [
+                {
+                    "id": "13.1",
+                    "title": "Production and Propagation of Sound",
+                    "definition": "Sound is produced by vibrating objects and needs a medium like solid, liquid or gas to travel; it cannot travel in vacuum.",
+                    "formulae": [],
+                    "examples": [
+                        "Stretched strings of a guitar vibrate to produce sound; sound does not travel through empty space."
+                    ]
+                },
+                {
+                    "id": "13.2",
+                    "title": "Amplitude, Frequency and Time Period",
+                    "definition": "Amplitude is the maximum displacement of a vibrating object, frequency is the number of vibrations per second and time period is time for one vibration.",
+                    "formulae": [
+                        "Frequency = 1 / Time period"
+                    ],
+                    "examples": [
+                        "Higher frequency means more vibrations per second and generally a higher‑pitched sound."
+                    ]
+                },
+                {
+                    "id": "13.3",
+                    "title": "Pitch and Loudness",
+                    "definition": "Pitch depends on frequency of sound waves; higher frequency gives higher pitch. Loudness depends on amplitude; greater amplitude means louder sound.",
+                    "formulae": [],
+                    "examples": [
+                        "A small child’s voice is generally higher pitch than an adult man’s voice.",
+                        "Shouting increases amplitude and loudness."
+                    ]
+                },
+                {
+                    "id": "13.4",
+                    "title": "Noise and Music, Noise Pollution",
+                    "definition": "Pleasant, regular patterns of sound form music; unpleasant, irregular sounds form noise. Excessive noise causes noise pollution with harmful effects on health.",
+                    "formulae": [],
+                    "examples": [
+                        "Loudspeakers at high volume, heavy traffic and construction create noise pollution, leading to stress and hearing problems."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 14,
+            "title": "Chemical Effects of Electric Current",
+            "concepts": [
+                {
+                    "id": "14.1",
+                    "title": "Conductors and Insulators in Liquids",
+                    "definition": "Some liquids allow electric current to pass and are called conducting liquids; others do not and act as insulators.",
+                    "formulae": [],
+                    "examples": [
+                        "Salt solutions and acids conduct electricity; distilled water is a poor conductor."
+                    ]
+                },
+                {
+                    "id": "14.2",
+                    "title": "Chemical Effects of Current",
+                    "definition": "When current passes through a conducting liquid, it can cause chemical changes like gas bubbles, colour change or deposition of metals.",
+                    "formulae": [],
+                    "examples": [
+                        "Passing current through copper sulphate solution causes copper deposition on the cathode."
+                    ]
+                },
+                {
+                    "id": "14.3",
+                    "title": "Electroplating",
+                    "definition": "Electroplating is the process of depositing a thin layer of one metal on another by using electric current through a suitable solution.",
+                    "formulae": [],
+                    "examples": [
+                        "Iron objects are electroplated with chromium to prevent rusting and improve appearance."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 15,
+            "title": "Some Natural Phenomena",
+            "concepts": [
+                {
+                    "id": "15.1",
+                    "title": "Electric Charges and Their Interaction",
+                    "definition": "Objects can acquire electric charges by rubbing. Like charges repel each other and unlike charges attract each other.",
+                    "formulae": [],
+                    "examples": [
+                        "A rubbed plastic comb can attract small pieces of paper due to induced charge."
+                    ]
+                },
+                {
+                    "id": "15.2",
+                    "title": "Lightning and Thunderstorms",
+                    "definition": "Lightning is a huge electric spark caused by charge separation in clouds; thunderstorms involve lightning, thunder and heavy rain.",
+                    "formulae": [],
+                    "examples": [
+                        "Lightning rods on buildings provide a safe path for lightning to reach the ground."
+                    ]
+                },
+                {
+                    "id": "15.3",
+                    "title": "Earthquakes",
+                    "definition": "Earthquakes are sudden shaking of Earth’s surface due to movements in its crust, releasing energy in the form of seismic waves.",
+                    "formulae": [],
+                    "examples": [
+                        "Seismographs record earthquake waves; earthquake‑resistant buildings reduce damage."
+                    ]
+                },
+                {
+                    "id": "15.4",
+                    "title": "Safety Measures",
+                    "definition": "During lightning and earthquakes, proper safety steps reduce risk to life and property.",
+                    "formulae": [],
+                    "examples": [
+                        "During lightning, stay indoors away from tall trees and metal objects; during earthquakes, take cover under strong furniture or move to open ground."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 16,
+            "title": "Light",
+            "concepts": [
+                {
+                    "id": "16.1",
+                    "title": "Reflection of Light",
+                    "definition": "Reflection is the bouncing back of light from a surface. Regular reflection occurs from smooth surfaces; diffuse reflection from rough surfaces.",
+                    "formulae": [],
+                    "examples": [
+                        "Plane mirrors produce regular reflection and clear images; walls cause diffuse reflection."
+                    ]
+                },
+                {
+                    "id": "16.2",
+                    "title": "Laws of Reflection",
+                    "definition": "The incident ray, reflected ray and normal at the point of incidence lie in the same plane, and the angle of incidence equals the angle of reflection.",
+                    "formulae": [
+                        "Angle of incidence (i) = Angle of reflection (r)"
+                    ],
+                    "examples": [
+                        "If light hits a mirror at 40° to the normal, it is reflected at 40° on the other side."
+                    ]
+                },
+                {
+                    "id": "16.3",
+                    "title": "Multiple Reflection and Periscope",
+                    "definition": "Multiple reflections occur when light is reflected repeatedly from more than one mirror, used in devices like periscopes and kaleidoscopes.",
+                    "formulae": [],
+                    "examples": [
+                        "A periscope uses two plane mirrors to see over obstacles."
+                    ]
+                },
+                {
+                    "id": "16.4",
+                    "title": "Human Eye and Care",
+                    "definition": "The human eye consists of parts like cornea, iris, pupil, lens and retina that work together to form images. Proper care is needed to maintain healthy vision.",
+                    "formulae": [],
+                    "examples": [
+                        "Reading in proper light and maintaining correct distance from screens help protect eyesight."
+                    ]
+                },
+                {
+                    "id": "16.5",
+                    "title": "Braille System",
+                    "definition": "Braille is a system of reading and writing for visually impaired persons using raised dot patterns representing letters and numbers.",
+                    "formulae": [],
+                    "examples": [
+                        "Braille books have raised dots that can be felt with fingers."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 17,
+            "title": "Stars and the Solar System",
+            "concepts": [
+                {
+                    "id": "17.1",
+                    "title": "Solar System",
+                    "definition": "The Solar System consists of the Sun, eight planets, their moons and other objects like asteroids and comets bound by the Sun’s gravity.",
+                    "formulae": [],
+                    "examples": [
+                        "Planets revolve around the Sun in fixed orbits; Earth is the third planet from the Sun."
+                    ]
+                },
+                {
+                    "id": "17.2",
+                    "title": "Phases of the Moon",
+                    "definition": "The changing appearance of the Moon as seen from Earth, called phases, is due to its revolution around Earth and varying illumination by the Sun.",
+                    "formulae": [],
+                    "examples": [
+                        "New moon, crescent, half moon and full moon are common phases seen in a month."
+                    ]
+                },
+                {
+                    "id": "17.3",
+                    "title": "Stars and Constellations",
+                    "definition": "Stars are huge luminous bodies of hot gases. Constellations are patterns of stars in the sky with recognizable shapes.",
+                    "formulae": [],
+                    "examples": [
+                        "The Pole Star appears fixed in the sky; constellations include Ursa Major and Orion."
+                    ]
+                },
+                {
+                    "id": "17.4",
+                    "title": "Asteroids, Comets and Meteors",
+                    "definition": "Asteroids are rocky bodies orbiting the Sun mainly between Mars and Jupiter; comets are icy objects with long glowing tails; meteors are small bodies that burn in Earth’s atmosphere.",
+                    "formulae": [],
+                    "examples": [
+                        "Halley’s Comet appears near Earth roughly every 76 years.",
+                        "Meteor showers occur when many meteors are seen entering the atmosphere."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 18,
+            "title": "Pollution of Air and Water",
+            "concepts": [
+                {
+                    "id": "18.1",
+                    "title": "Air Pollution",
+                    "definition": "Air pollution is the presence of harmful substances like smoke, dust and gases in air in quantities that can harm living beings and the environment.",
+                    "formulae": [],
+                    "examples": [
+                        "Vehicle exhausts, industrial emissions and burning of garbage release pollutants into air."
+                    ]
+                },
+                {
+                    "id": "18.2",
+                    "title": "Greenhouse Effect and Global Warming",
+                    "definition": "Certain gases trap heat in Earth’s atmosphere causing the greenhouse effect. Excess greenhouse gases lead to global warming.",
+                    "formulae": [],
+                    "examples": [
+                        "Carbon dioxide and methane are important greenhouse gases.",
+                        "Rise in average global temperature leads to melting of glaciers and climate change."
+                    ]
+                },
+                {
+                    "id": "18.3",
+                    "title": "Water Pollution",
+                    "definition": "Water pollution is contamination of water bodies by substances that make water unfit for use and harmful to life.",
+                    "formulae": [],
+                    "examples": [
+                        "Discharge of untreated sewage and industrial effluents into rivers pollutes water."
+                    ]
+                },
+                {
+                    "id": "18.4",
+                    "title": "Reducing Pollution",
+                    "definition": "Air and water pollution can be reduced by controlling emissions, treating wastewater and adopting cleaner technologies and habits.",
+                    "formulae": [],
+                    "examples": [
+                        "Using public transport, planting trees and using sewage treatment plants help reduce pollution."
+                    ]
+                }
+            ]
+        }
+    ]
+}

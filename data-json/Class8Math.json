@@ -1,0 +1,724 @@
+{
+    "class": 8,
+    "subject": "Mathematics",
+    "board": "NCERT/CBSE",
+    "chapters": [
+        {
+            "number": 1,
+            "title": "Rational Numbers",
+            "concepts": [
+                {
+                    "id": "1.1",
+                    "title": "Rational Numbers and Their Form",
+                    "definition": "A rational number is any number that can be written as p/q where p and q are integers and q ≠ 0.",
+                    "formulae": [],
+                    "examples": [
+                        "2/3, −5/7 and 4 = 4/1 are rational numbers.",
+                        "√2 is not a rational number as it cannot be expressed as p/q with integers."
+                    ]
+                },
+                {
+                    "id": "1.2",
+                    "title": "Number Line Representation",
+                    "definition": "Rational numbers can be represented on a number line by marking their positions between integers according to their values.",
+                    "formulae": [],
+                    "examples": [
+                        "1/2 lies halfway between 0 and 1 on the number line.",
+                        "−3/4 lies three‑quarters of a unit to the left of 0."
+                    ]
+                },
+                {
+                    "id": "1.3",
+                    "title": "Equivalent Rational Numbers and Standard Form",
+                    "definition": "Rational numbers that represent the same point on the number line are equivalent; standard form is when the denominator is positive and numerator and denominator have no common factor other than 1.",
+                    "formulae": [],
+                    "examples": [
+                        "1/2 = 2/4 = −3/−6 are equivalent.",
+                        "−6/8 in standard form is −3/4."
+                    ]
+                },
+                {
+                    "id": "1.4",
+                    "title": "Operations and Properties of Rational Numbers",
+                    "definition": "Rational numbers are closed under addition, subtraction, multiplication and division (except by 0) and satisfy commutative, associative and distributive properties.",
+                    "formulae": [
+                        "a + b = b + a",
+                        "a × b = b × a",
+                        "(a + b) + c = a + (b + c)",
+                        "(a × b) × c = a × (b × c)",
+                        "a × (b + c) = a × b + a × c"
+                    ],
+                    "examples": [
+                        "2/3 + 4/5 = 4/5 + 2/3.",
+                        "(1/2 + 1/3) + 1/4 = 1/2 + (1/3 + 1/4)."
+                    ]
+                },
+                {
+                    "id": "1.5",
+                    "title": "Rational Numbers Between Two Rational Numbers",
+                    "definition": "There are infinitely many rational numbers between any two distinct rational numbers; they can be found by methods like taking the average.",
+                    "formulae": [],
+                    "examples": [
+                        "Between 1/2 and 3/4, (1/2 + 3/4)/2 = 5/8 is one rational number.",
+                        "1/3, 2/5, 3/7 lie between 0 and 1."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "title": "Linear Equations in One Variable",
+            "concepts": [
+                {
+                    "id": "2.1",
+                    "title": "Linear Equation in One Variable",
+                    "definition": "A linear equation in one variable is an equation of the form ax + b = 0 or ax + b = c, where a, b, c are real numbers and a ≠ 0.",
+                    "formulae": [],
+                    "examples": [
+                        "2x + 3 = 11, 5x − 7 = 0 are linear equations in one variable.",
+                        "x² + 1 = 0 is not linear, it is quadratic."
+                    ]
+                },
+                {
+                    "id": "2.2",
+                    "title": "Solving Simple Linear Equations",
+                    "definition": "Solving a linear equation means finding the value of the variable that makes the equation true by performing the same operations on both sides.",
+                    "formulae": [],
+                    "examples": [
+                        "x + 9 = 20 ⇒ x = 20 − 9 = 11.",
+                        "3x − 5 = 10 ⇒ 3x = 15 ⇒ x = 5."
+                    ]
+                },
+                {
+                    "id": "2.3",
+                    "title": "Equations with Variables on Both Sides",
+                    "definition": "When the variable appears on both sides, terms are transposed to one side to combine like terms and isolate the variable.",
+                    "formulae": [],
+                    "examples": [
+                        "2x + 3 = x + 9 ⇒ 2x − x = 9 − 3 ⇒ x = 6."
+                    ]
+                },
+                {
+                    "id": "2.4",
+                    "title": "Reducing Equations to Simpler Form",
+                    "definition": "Equations involving brackets, fractions or multiple terms can be simplified by expanding, clearing denominators and combining like terms before solving.",
+                    "formulae": [],
+                    "examples": [
+                        "3(x − 2) = 12 ⇒ 3x − 6 = 12 ⇒ 3x = 18 ⇒ x = 6.",
+                        "x/3 + x/4 = 7 ⇒ multiply by 12 to remove denominators."
+                    ]
+                },
+                {
+                    "id": "2.5",
+                    "title": "Word Problems Based on Linear Equations",
+                    "definition": "Real‑life situations about ages, money, numbers and measurements can be translated into linear equations and solved.",
+                    "formulae": [],
+                    "examples": [
+                        "If twice a number increased by 5 is 17, let number be x: 2x + 5 = 17 ⇒ x = 6."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "title": "Understanding Quadrilaterals",
+            "concepts": [
+                {
+                    "id": "3.1",
+                    "title": "Polygons and Their Classification",
+                    "definition": "A polygon is a closed figure with three or more line segments as sides. Polygons are classified by number of sides: triangle (3), quadrilateral (4), pentagon (5), etc.",
+                    "formulae": [],
+                    "examples": [
+                        "A four‑sided polygon is a quadrilateral; a six‑sided one is a hexagon."
+                    ]
+                },
+                {
+                    "id": "3.2",
+                    "title": "Sum of Interior and Exterior Angles",
+                    "definition": "For any n‑sided polygon, the sum of interior angles is (n − 2) × 180°, and the sum of one set of exterior angles (one at each vertex) is 360°.",
+                    "formulae": [
+                        "Interior angle sum = (n − 2) × 180°",
+                        "Exterior angle sum (one at each vertex) = 360°"
+                    ],
+                    "examples": [
+                        "A quadrilateral has interior angle sum (4 − 2) × 180° = 360°.",
+                        "A pentagon has interior angle sum (5 − 2) × 180° = 540°."
+                    ]
+                },
+                {
+                    "id": "3.3",
+                    "title": "Types of Quadrilaterals",
+                    "definition": "Quadrilaterals include parallelogram, rectangle, square, rhombus, kite and trapezium, each with specific side and angle properties.",
+                    "formulae": [],
+                    "examples": [
+                        "In a parallelogram opposite sides are parallel and equal; in a rectangle all angles are 90°; in a rhombus all sides are equal."
+                    ]
+                },
+                {
+                    "id": "3.4",
+                    "title": "Properties of Special Parallelograms",
+                    "definition": "Special quadrilaterals like rectangles, squares and rhombuses satisfy properties regarding sides, angles and diagonals.",
+                    "formulae": [],
+                    "examples": [
+                        "Rectangle: diagonals are equal and bisect each other.",
+                        "Square: diagonals are equal, bisect each other and are perpendicular."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "title": "Practical Geometry",
+            "concepts": [
+                {
+                    "id": "4.1",
+                    "title": "Constructing Quadrilaterals (SSSDD, SSSAS etc.)",
+                    "definition": "Quadrilaterals can be constructed when sufficient data like side lengths, diagonals and angles are given, using ruler and compass.",
+                    "formulae": [],
+                    "examples": [
+                        "Construct a quadrilateral when two diagonals and three sides are known.",
+                        "Construct when three sides and two included angles are given."
+                    ]
+                },
+                {
+                    "id": "4.2",
+                    "title": "Steps of Construction",
+                    "definition": "Constructions follow a systematic procedure: draw base, construct angles or arcs to locate vertices, join points and verify given conditions.",
+                    "formulae": [],
+                    "examples": [
+                        "To construct ABCD, first draw AB, then construct angles at A and B and mark points C and D at given distances."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "title": "Data Handling",
+            "concepts": [
+                {
+                    "id": "5.1",
+                    "title": "Organising and Grouping Data",
+                    "definition": "Large data sets are organised in frequency tables and may be grouped into class intervals for easier analysis.",
+                    "formulae": [],
+                    "examples": [
+                        "Grouping heights of students into intervals like 130–140, 140–150 cm."
+                    ]
+                },
+                {
+                    "id": "5.2",
+                    "title": "Bar Graphs and Histograms (Intro)",
+                    "definition": "Bar graphs use bars to show frequencies of distinct categories; histograms represent grouped continuous data with adjacent bars.",
+                    "formulae": [],
+                    "examples": [
+                        "Bar graph for favourite subjects; histogram for marks ranges."
+                    ]
+                },
+                {
+                    "id": "5.3",
+                    "title": "Pie Charts (Circle Graphs)",
+                    "definition": "Pie charts show data as sectors of a circle, where each sector’s angle is proportional to the category’s fraction of the total.",
+                    "formulae": [
+                        "Sector angle = (category value / total value) × 360°"
+                    ],
+                    "examples": [
+                        "If 25% students like sports, the pie sector is 0.25 × 360° = 90°."
+                    ]
+                },
+                {
+                    "id": "5.4",
+                    "title": "Probability (Basic)",
+                    "definition": "Probability of an event is the measure of likelihood based on equally likely outcomes, defined as favourable outcomes over total outcomes.",
+                    "formulae": [
+                        "P(E) = (number of favourable outcomes) / (total number of outcomes)"
+                    ],
+                    "examples": [
+                        "Probability of getting head in a coin toss is 1/2.",
+                        "Probability of getting an even number on a die is 3/6 = 1/2."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "title": "Squares and Square Roots",
+            "concepts": [
+                {
+                    "id": "6.1",
+                    "title": "Square Numbers and Their Properties",
+                    "definition": "Square numbers are of the form n² and show patterns, such as ending digits and sum of first n odd numbers.",
+                    "formulae": [
+                        "1 + 3 + 5 + ... + (2n − 1) = n²"
+                    ],
+                    "examples": [
+                        "1, 4, 9, 16, 25 are square numbers.",
+                        "1 + 3 + 5 = 9 = 3²."
+                    ]
+                },
+                {
+                    "id": "6.2",
+                    "title": "Finding Squares",
+                    "definition": "Squares of numbers can be found by direct multiplication, using identities or patterns.",
+                    "formulae": [],
+                    "examples": [
+                        "23² = 23 × 23 = 529.",
+                        "Using (a + b)² = a² + 2ab + b² to find (20 + 3)²."
+                    ]
+                },
+                {
+                    "id": "6.3",
+                    "title": "Square Roots by Factorisation and Long Division",
+                    "definition": "Square root of a perfect square can be found by prime factorisation or by long‑division method for large numbers.",
+                    "formulae": [],
+                    "examples": [
+                        "√144 = √(2⁴ × 3²) = 2² × 3 = 12.",
+                        "Long‑division method for √1936."
+                    ]
+                },
+                {
+                    "id": "6.4",
+                    "title": "Square Roots of Decimals and Estimation",
+                    "definition": "Square roots of decimal numbers are found by grouping digits in pairs and using long‑division, and approximate roots can be estimated by nearby perfect squares.",
+                    "formulae": [],
+                    "examples": [
+                        "√0.81 = 0.9 because (0.9)² = 0.81.",
+                        "√10 lies between 3 and 4 since 3² < 10 < 4²."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "title": "Cubes and Cube Roots",
+            "concepts": [
+                {
+                    "id": "7.1",
+                    "title": "Cubes and Patterns",
+                    "definition": "Cube of a number is the result of multiplying the number by itself three times, n³, and cubes show various numerical patterns.",
+                    "formulae": [],
+                    "examples": [
+                        "2³ = 8, 3³ = 27, 4³ = 64."
+                    ]
+                },
+                {
+                    "id": "7.2",
+                    "title": "Perfect Cubes and Tests",
+                    "definition": "A perfect cube is a number that can be written as n³; its prime factorisation contains each prime factor raised to a power multiple of 3.",
+                    "formulae": [],
+                    "examples": [
+                        "216 = 2³ × 3³ is a perfect cube; 108 = 2² × 3³ is not."
+                    ]
+                },
+                {
+                    "id": "7.3",
+                    "title": "Finding Cube Roots",
+                    "definition": "Cube root of a perfect cube can be found by prime factorisation, grouping identical triples of prime factors.",
+                    "formulae": [],
+                    "examples": [
+                        "³√343 = ³√(7³) = 7.",
+                        "³√1728 = 12."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 8,
+            "title": "Comparing Quantities",
+            "concepts": [
+                {
+                    "id": "8.1",
+                    "title": "Ratios and Percentages (Recap)",
+                    "definition": "Ratios compare two quantities of same kind, while percentage expresses a quantity as a fraction of 100.",
+                    "formulae": [
+                        "Percentage = (value / total) × 100"
+                    ],
+                    "examples": [
+                        "The ratio 2 : 3 can be written as 40% and 60% of the whole respectively."
+                    ]
+                },
+                {
+                    "id": "8.2",
+                    "title": "Increase/Decrease Percent and Discount",
+                    "definition": "Percentage increase/decrease compares change with original value; discount is reduction from marked price expressed as a percentage.",
+                    "formulae": [
+                        "Increase% = (increase / original) × 100",
+                        "Decrease% = (decrease / original) × 100",
+                        "Discount% = (discount / marked price) × 100"
+                    ],
+                    "examples": [
+                        "An item raised from ₹500 to ₹550 has increase% = 50/500 × 100 = 10%.",
+                        "Marked price ₹1000, discount ₹200 ⇒ discount% = 20%."
+                    ]
+                },
+                {
+                    "id": "8.3",
+                    "title": "Profit, Loss and Tax",
+                    "definition": "Profit and loss compare selling price with cost price; taxes like GST are charged as percentage on the value of goods or services.",
+                    "formulae": [
+                        "Profit = SP − CP",
+                        "Loss = CP − SP",
+                        "Profit% = (Profit / CP) × 100",
+                        "GST = (rate / 100) × taxable value"
+                    ],
+                    "examples": [
+                        "CP = ₹800, SP = ₹920 ⇒ profit = ₹120, profit% = 15%.",
+                        "GST at 18% on ₹1000 is ₹180."
+                    ]
+                },
+                {
+                    "id": "8.4",
+                    "title": "Simple and Compound Interest",
+                    "definition": "Simple interest is interest on original principal only; compound interest is interest calculated on principal plus accumulated interest.",
+                    "formulae": [
+                        "SI = (P × R × T) / 100",
+                        "Amount (compound, annual) = P × (1 + R/100)^T",
+                        "CI = Amount − P"
+                    ],
+                    "examples": [
+                        "On ₹1000 at 10% for 2 years, SI = (1000 × 10 × 2)/100 = ₹200.",
+                        "On ₹1000 at 10% compounded yearly for 2 years, amount = 1000 × 1.1² = ₹1210, CI = ₹210."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 9,
+            "title": "Algebraic Expressions and Identities",
+            "concepts": [
+                {
+                    "id": "9.1",
+                    "title": "Expressions, Terms and Coefficients",
+                    "definition": "Algebraic expressions are combinations of variables and constants; each distinct part separated by + or − is a term, with a numeric coefficient multiplying the variables.",
+                    "formulae": [],
+                    "examples": [
+                        "In 5x²y − 3x + 7, terms are 5x²y, −3x and 7; coefficients are 5, −3 and 7."
+                    ]
+                },
+                {
+                    "id": "9.2",
+                    "title": "Monomials, Binomials and Polynomials",
+                    "definition": "A monomial has one term, binomial has two terms, trinomial has three, and in general polynomials have one or more terms.",
+                    "formulae": [],
+                    "examples": [
+                        "3x is a monomial; x + 2 is a binomial; x² + 3x + 5 is a trinomial."
+                    ]
+                },
+                {
+                    "id": "9.3",
+                    "title": "Addition and Subtraction of Expressions",
+                    "definition": "Expressions are added or subtracted by combining like terms with same variable parts.",
+                    "formulae": [],
+                    "examples": [
+                        "(3x + 2y) + (5x − y) = 8x + y."
+                    ]
+                },
+                {
+                    "id": "9.4",
+                    "title": "Multiplication of Expressions",
+                    "definition": "When multiplying expressions, each term of one expression is multiplied by each term of the other, using distributive law and exponent rules.",
+                    "formulae": [],
+                    "examples": [
+                        "(x + 2)(x + 3) = x² + 5x + 6."
+                    ]
+                },
+                {
+                    "id": "9.5",
+                    "title": "Standard Identities",
+                    "definition": "Certain algebraic identities hold for all real numbers and simplify multiplication and factorisation.",
+                    "formulae": [
+                        "(a + b)² = a² + 2ab + b²",
+                        "(a − b)² = a² − 2ab + b²",
+                        "a² − b² = (a − b)(a + b)",
+                        "(x + a)(x + b) = x² + (a + b)x + ab"
+                    ],
+                    "examples": [
+                        "(2x + 3)² = 4x² + 12x + 9.",
+                        "9x² − 16 = (3x − 4)(3x + 4)."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 10,
+            "title": "Visualising Solid Shapes",
+            "concepts": [
+                {
+                    "id": "10.1",
+                    "title": "2D and 3D Views",
+                    "definition": "2D shapes have length and breadth; 3D shapes have length, breadth and height. Different views (top, front, side) of a solid may look different.",
+                    "formulae": [],
+                    "examples": [
+                        "A cube’s top view is a square; a cylinder’s side view is a rectangle and top view a circle."
+                    ]
+                },
+                {
+                    "id": "10.2",
+                    "title": "Nets of Solids",
+                    "definition": "A net is a two‑dimensional pattern that can be folded to form a three‑dimensional solid.",
+                    "formulae": [],
+                    "examples": [
+                        "A cross‑shaped arrangement of six squares can be folded into a cube."
+                    ]
+                },
+                {
+                    "id": "10.3",
+                    "title": "Faces, Edges and Vertices",
+                    "definition": "Faces are flat surfaces of a solid, edges are line segments where faces meet, and vertices are points where edges meet.",
+                    "formulae": [],
+                    "examples": [
+                        "A cuboid has 6 faces, 12 edges and 8 vertices."
+                    ]
+                },
+                {
+                    "id": "10.4",
+                    "title": "Mapping and Isometric Sketches",
+                    "definition": "Maps represent areas from top view; isometric sketches represent 3D objects on 2D paper with equal scales along three axes.",
+                    "formulae": [],
+                    "examples": [
+                        "Isometric dot paper helps draw cuboids proportionally."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 11,
+            "title": "Mensuration",
+            "concepts": [
+                {
+                    "id": "11.1",
+                    "title": "Area of Quadrilaterals and Polygons",
+                    "definition": "Areas of trapeziums, general quadrilaterals and polygons can be found by dividing them into triangles or rectangles.",
+                    "formulae": [
+                        "Area of trapezium = (1/2) × (sum of parallel sides) × height"
+                    ],
+                    "examples": [
+                        "A trapezium with parallel sides 6 cm, 10 cm and height 4 cm has area (1/2) × (6 + 10) × 4 = 32 cm²."
+                    ]
+                },
+                {
+                    "id": "11.2",
+                    "title": "Surface Area of Cube, Cuboid and Cylinder",
+                    "definition": "Surface area is the sum of areas of all outer faces of a solid.",
+                    "formulae": [
+                        "Surface area of cube = 6a²",
+                        "Surface area of cuboid = 2(lb + bh + hl)",
+                        "Curved surface area of cylinder = 2πrh",
+                        "Total surface area of cylinder = 2πrh + 2πr²"
+                    ],
+                    "examples": [
+                        "A cube of side 3 cm has surface area 6 × 9 = 54 cm²."
+                    ]
+                },
+                {
+                    "id": "11.3",
+                    "title": "Volume of Cube, Cuboid and Cylinder",
+                    "definition": "Volume is the space occupied by a solid.",
+                    "formulae": [
+                        "Volume of cube = a³",
+                        "Volume of cuboid = l × b × h",
+                        "Volume of cylinder = πr²h"
+                    ],
+                    "examples": [
+                        "A cuboid 5 cm × 3 cm × 2 cm has volume 30 cm³.",
+                        "A cylinder of radius 2 cm and height 7 cm has volume π × 4 × 7 = 28π cm³."
+                    ]
+                },
+                {
+                    "id": "11.4",
+                    "title": "Volume and Capacity",
+                    "definition": "Capacity is usually measured in litres and relates to volume; 1 litre equals 1000 cubic centimetres.",
+                    "formulae": [
+                        "1 L = 1000 cm³"
+                    ],
+                    "examples": [
+                        "A container of volume 2000 cm³ has capacity 2 L."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 12,
+            "title": "Exponents and Powers",
+            "concepts": [
+                {
+                    "id": "12.1",
+                    "title": "Powers with Negative Exponents",
+                    "definition": "Negative exponents indicate reciprocals of the corresponding positive exponent.",
+                    "formulae": [
+                        "a^(-n) = 1 / a^n (a ≠ 0)"
+                    ],
+                    "examples": [
+                        "2^(-3) = 1 / 2³ = 1/8."
+                    ]
+                },
+                {
+                    "id": "12.2",
+                    "title": "Laws of Exponents",
+                    "definition": "Exponents obey rules for multiplication, division, raising powers and dealing with products and quotients.",
+                    "formulae": [
+                        "a^m × a^n = a^(m + n)",
+                        "a^m ÷ a^n = a^(m − n) (a ≠ 0)",
+                        "(a^m)^n = a^(mn)",
+                        "(ab)^n = a^n b^n",
+                        "(a/b)^n = a^n / b^n"
+                    ],
+                    "examples": [
+                        "3² × 3³ = 3⁵ = 243.",
+                        "(2³)² = 2⁶ = 64."
+                    ]
+                },
+                {
+                    "id": "12.3",
+                    "title": "Standard Form of Numbers",
+                    "definition": "Very large or small numbers are written as a × 10^n, where 1 ≤ a < 10 and n is an integer.",
+                    "formulae": [],
+                    "examples": [
+                        "5,600,000 = 5.6 × 10^6."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 13,
+            "title": "Direct and Inverse Proportions",
+            "concepts": [
+                {
+                    "id": "13.1",
+                    "title": "Direct Proportion",
+                    "definition": "Two quantities are in direct proportion if they increase or decrease together so that their ratio remains constant.",
+                    "formulae": [
+                        "x1 / y1 = x2 / y2"
+                    ],
+                    "examples": [
+                        "Cost of pencils is directly proportional to number of pencils if price per pencil is constant."
+                    ]
+                },
+                {
+                    "id": "13.2",
+                    "title": "Inverse Proportion",
+                    "definition": "Two quantities are in inverse proportion if one increases while the other decreases so that their product remains constant.",
+                    "formulae": [
+                        "x1 × y1 = x2 × y2"
+                    ],
+                    "examples": [
+                        "Time taken to complete a job is inversely proportional to number of workers if work per worker is same."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 14,
+            "title": "Factorisation",
+            "concepts": [
+                {
+                    "id": "14.1",
+                    "title": "Factorisation by Common Factor",
+                    "definition": "Factorisation expresses an expression as a product of simpler expressions or factors by taking out common factors.",
+                    "formulae": [],
+                    "examples": [
+                        "6x²y − 9xy² = 3xy(2x − 3y)."
+                    ]
+                },
+                {
+                    "id": "14.2",
+                    "title": "Factorisation by Grouping Terms",
+                    "definition": "Grouping terms in pairs or sets can help factor expressions using common factors in each group.",
+                    "formulae": [],
+                    "examples": [
+                        "ax + ay + bx + by = a(x + y) + b(x + y) = (a + b)(x + y)."
+                    ]
+                },
+                {
+                    "id": "14.3",
+                    "title": "Using Identities for Factorisation",
+                    "definition": "Standard identities like a² − b² and (a ± b)² are used in reverse to factor corresponding expressions.",
+                    "formulae": [
+                        "a² − b² = (a − b)(a + b)",
+                        "a² + 2ab + b² = (a + b)²",
+                        "a² − 2ab + b² = (a − b)²"
+                    ],
+                    "examples": [
+                        "9x² − 16 = (3x − 4)(3x + 4).",
+                        "4x² + 12x + 9 = (2x + 3)²."
+                    ]
+                },
+                {
+                    "id": "14.4",
+                    "title": "Division of Algebraic Expressions",
+                    "definition": "An algebraic expression can be divided by a monomial or polynomial using factorisation or long division.",
+                    "formulae": [],
+                    "examples": [
+                        "(6x²y − 3xy²) ÷ 3xy = 2x − y.",
+                        "(x³ − 1) ÷ (x − 1) = x² + x + 1."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 15,
+            "title": "Introduction to Graphs",
+            "concepts": [
+                {
+                    "id": "15.1",
+                    "title": "Cartesian Plane and Coordinates",
+                    "definition": "The Cartesian plane has a horizontal x‑axis and vertical y‑axis intersecting at origin; points are represented as ordered pairs (x, y).",
+                    "formulae": [],
+                    "examples": [
+                        "Point (3, −2) lies 3 units to the right of origin and 2 units below x‑axis."
+                    ]
+                },
+                {
+                    "id": "15.2",
+                    "title": "Plotting Points and Reading Graphs",
+                    "definition": "Points corresponding to data or solutions of equations are plotted on the plane and information is read from the graph.",
+                    "formulae": [],
+                    "examples": [
+                        "The graph of y = 2x is a straight line passing through points (0,0), (1,2), (2,4)."
+                    ]
+                },
+                {
+                    "id": "15.3",
+                    "title": "Linear Graphs and Simple Applications",
+                    "definition": "Graphs of equations of the form ax + by = c are straight lines; they can represent simple proportional relationships and help solve problems.",
+                    "formulae": [],
+                    "examples": [
+                        "Distance–time graph with straight line indicates constant speed."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 16,
+            "title": "Playing with Numbers",
+            "concepts": [
+                {
+                    "id": "16.1",
+                    "title": "General Form of Numbers",
+                    "definition": "A number with digits can be expressed using place values as a sum of digits times powers of 10, which helps in exploring divisibility tests and patterns.",
+                    "formulae": [],
+                    "examples": [
+                        "For a three‑digit number 100a + 10b + c, where a, b, c are digits."
+                    ]
+                },
+                {
+                    "id": "16.2",
+                    "title": "Tests of Divisibility",
+                    "definition": "Divisibility rules allow checking if a number is divisible by another without full division, using properties of digits and place values.",
+                    "formulae": [],
+                    "examples": [
+                        "A number is divisible by 9 if sum of its digits is divisible by 9.",
+                        "A number is divisible by 11 if difference between sum of digits in odd and even places is a multiple of 11 or zero."
+                    ]
+                },
+                {
+                    "id": "16.3",
+                    "title": "Number Puzzles and Codes",
+                    "definition": "Patterns in numbers and algebraic expressions can be used to create puzzles and simple codes.",
+                    "formulae": [],
+                    "examples": [
+                        "Guess‑your‑number tricks rely on algebraic expressions simplifying to the original number."
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,590 @@
+{
+    "class": 10,
+    "subject": "Mathematics",
+    "board": "NCERT/CBSE",
+    "chapters": [
+        {
+            "number": 1,
+            "title": "Real Numbers",
+            "concepts": [
+                {
+                    "id": "1.1",
+                    "title": "Euclid’s Division Lemma",
+                    "definition": "Given any two positive integers a and b (a > b), there exist unique integers q and r such that a = bq + r, where 0 ≤ r < b.",
+                    "formulae": [
+                        "a = bq + r, 0 ≤ r < b"
+                    ],
+                    "examples": [
+                        "For a = 20, b = 6, 20 = 6×3 + 2, so q = 3, r = 2."
+                    ]
+                },
+                {
+                    "id": "1.2",
+                    "title": "Fundamental Theorem of Arithmetic",
+                    "definition": "Every composite number greater than 1 can be expressed as a product of primes, and this factorisation is unique apart from the order of the factors.",
+                    "formulae": [],
+                    "examples": [
+                        "60 = 2² × 3 × 5; 84 = 2² × 3 × 7."
+                    ]
+                },
+                {
+                    "id": "1.3",
+                    "title": "HCF and LCM using Prime Factorisation",
+                    "definition": "Highest Common Factor (HCF) and Least Common Multiple (LCM) of two or more numbers can be found from their prime factorizations.",
+                    "formulae": [],
+                    "examples": [
+                        "12 = 2²×3, 18 = 2×3²; HCF = 2¹×3¹ = 6, LCM = 2²×3² = 36."
+                    ]
+                },
+                {
+                    "id": "1.4",
+                    "title": "Irrational Numbers and Their Properties",
+                    "definition": "A number is irrational if it cannot be expressed as p/q with integers p, q and q ≠ 0. Sum, difference, product or quotient (q ≠ 0) of a non‑zero rational and an irrational number is irrational.",
+                    "formulae": [],
+                    "examples": [
+                        "√2, √3, π are irrational numbers.",
+                        "2 + √3 and 5√2 are irrational."
+                    ]
+                },
+                {
+                    "id": "1.5",
+                    "title": "Decimal Expansions of Rational Numbers",
+                    "definition": "Rational numbers have either terminating or non‑terminating recurring decimal expansions, depending on prime factors of denominator in lowest form.",
+                    "formulae": [],
+                    "examples": [
+                        "1/8 = 0.125 is terminating since denominator 8 = 2³.",
+                        "1/3 = 0.333… is non‑terminating recurring since denominator 3 has a prime factor other than 2 or 5."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "title": "Polynomials",
+            "concepts": [
+                {
+                    "id": "2.1",
+                    "title": "Degree and Types of Polynomials",
+                    "definition": "A polynomial in x is an expression of the form a_n x^n + ... + a_1 x + a_0 with real coefficients. Degree is highest power of x with non‑zero coefficient; it defines linear, quadratic, cubic polynomials etc.",
+                    "formulae": [],
+                    "examples": [
+                        "3x² − 2x + 1 is quadratic (degree 2).",
+                        "5x³ − x + 7 is cubic (degree 3)."
+                    ]
+                },
+                {
+                    "id": "2.2",
+                    "title": "Zeroes of a Polynomial and Graph",
+                    "definition": "A zero of polynomial p(x) is a value a such that p(a) = 0. Graphically, zeros are x‑coordinates where graph of p(x) intersects x‑axis.",
+                    "formulae": [],
+                    "examples": [
+                        "For p(x) = x² − 4, zeros are x = 2, −2; graph cuts x‑axis at 2 and −2."
+                    ]
+                },
+                {
+                    "id": "2.3",
+                    "title": "Relationship Between Zeroes and Coefficients",
+                    "definition": "For quadratic polynomial ax² + bx + c with zeros α and β, there are standard relations between zeros and coefficients.",
+                    "formulae": [
+                        "α + β = −b/a",
+                        "αβ = c/a"
+                    ],
+                    "examples": [
+                        "For x² − 5x + 6, α + β = 5, αβ = 6 (zeros 2 and 3)."
+                    ]
+                },
+                {
+                    "id": "2.4",
+                    "title": "Division Algorithm for Polynomials",
+                    "definition": "For polynomials p(x) and non‑zero g(x), there exist unique polynomials q(x) and r(x) such that p(x) = g(x)q(x) + r(x), where degree of r(x) < degree of g(x).",
+                    "formulae": [],
+                    "examples": [
+                        "Dividing x³ − 3x² + x + 1 by x − 2 yields quotient and remainder satisfying division algorithm."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "title": "Pair of Linear Equations in Two Variables",
+            "concepts": [
+                {
+                    "id": "3.1",
+                    "title": "System of Linear Equations and Graphical Solution",
+                    "definition": "A pair of linear equations in two variables represents two lines in a plane; their intersection, parallelism or coincidence give number of solutions.",
+                    "formulae": [],
+                    "examples": [
+                        "Unique solution if lines intersect at one point; no solution if lines are parallel; infinitely many solutions if lines coincide."
+                    ]
+                },
+                {
+                    "id": "3.2",
+                    "title": "Algebraic Methods: Substitution and Elimination",
+                    "definition": "Algebraic methods solve pairs of linear equations by eliminating one variable or substituting expression from one equation into another.",
+                    "formulae": [],
+                    "examples": [
+                        "Solving 2x + 3y = 11 and 3x − y = 4 by elimination or substitution."
+                    ]
+                },
+                {
+                    "id": "3.3",
+                    "title": "Cross Multiplication Method",
+                    "definition": "Cross multiplication provides direct formulas for solving ax + by + c = 0 and a'x + b'y + c' = 0 when equations are consistent with unique solution.",
+                    "formulae": [],
+                    "examples": [
+                        "Using cross multiplication to solve 3x + 2y = 5, 2x − y = 1."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "title": "Quadratic Equations",
+            "concepts": [
+                {
+                    "id": "4.1",
+                    "title": "Quadratic Equation and Standard Form",
+                    "definition": "A quadratic equation in x is an equation of the form ax² + bx + c = 0, where a, b, c are real and a ≠ 0.",
+                    "formulae": [],
+                    "examples": [
+                        "2x² − 3x + 1 = 0; x² + 5x − 6 = 0."
+                    ]
+                },
+                {
+                    "id": "4.2",
+                    "title": "Methods of Solving Quadratic Equations",
+                    "definition": "Quadratic equations can be solved by factorisation, completing the square, or quadratic formula.",
+                    "formulae": [
+                        "x = [−b ± √(b² − 4ac)] / (2a)"
+                    ],
+                    "examples": [
+                        "x² − 5x + 6 = 0 solved by factorisation: (x − 2)(x − 3) = 0 ⇒ x = 2,3."
+                    ]
+                },
+                {
+                    "id": "4.3",
+                    "title": "Nature of Roots and Discriminant",
+                    "definition": "Discriminant D = b² − 4ac determines nature of roots: real and distinct, real and equal, or complex.",
+                    "formulae": [
+                        "D = b² − 4ac"
+                    ],
+                    "examples": [
+                        "D > 0: two distinct real roots; D = 0: equal real roots; D < 0: no real roots."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "title": "Arithmetic Progressions",
+            "concepts": [
+                {
+                    "id": "5.1",
+                    "title": "Definition of Arithmetic Progression (AP)",
+                    "definition": "An AP is a sequence where the difference between consecutive terms is constant, called common difference d.",
+                    "formulae": [],
+                    "examples": [
+                        "2, 5, 8, 11, ... is AP with d = 3.",
+                        "7, 4, 1, −2, ... is AP with d = −3."
+                    ]
+                },
+                {
+                    "id": "5.2",
+                    "title": "nth Term of an AP",
+                    "definition": "The nth term of an AP with first term a and common difference d is given by a_n = a + (n − 1)d.",
+                    "formulae": [
+                        "a_n = a + (n − 1)d"
+                    ],
+                    "examples": [
+                        "AP 3, 7, 11,... has a = 3, d = 4; 10th term a_10 = 3 + 9×4 = 39."
+                    ]
+                },
+                {
+                    "id": "5.3",
+                    "title": "Sum of First n Terms of an AP",
+                    "definition": "Sum of first n terms of AP is given by formulas involving first and last terms or first term and common difference.",
+                    "formulae": [
+                        "S_n = n/2 [2a + (n − 1)d]",
+                        "S_n = n/2 (a + l) where l is nth term"
+                    ],
+                    "examples": [
+                        "Sum of first 5 terms of 2, 4, 6, ...: a = 2, d = 2, S_5 = 5/2 [4 + 8] = 30."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "title": "Triangles",
+            "concepts": [
+                {
+                    "id": "6.1",
+                    "title": "Similarity of Figures and Triangles",
+                    "definition": "Two figures are similar if they have same shape but not necessarily same size; in triangles, similarity uses angle equality and proportionality of sides.",
+                    "formulae": [],
+                    "examples": [
+                        "Two equiangular triangles are similar."
+                    ]
+                },
+                {
+                    "id": "6.2",
+                    "title": "Criteria for Similarity of Triangles",
+                    "definition": "Triangles are similar if they satisfy similarity criteria: AAA (or AA), SAS, or SSS proportionality.",
+                    "formulae": [],
+                    "examples": [
+                        "If corresponding angles are equal, triangles are similar by AA criterion."
+                    ]
+                },
+                {
+                    "id": "6.3",
+                    "title": "Theorems on Areas of Similar Triangles",
+                    "definition": "Ratio of areas of two similar triangles equals square of ratio of their corresponding sides.",
+                    "formulae": [
+                        "Area(Δ1)/Area(Δ2) = (side1/side2)²"
+                    ],
+                    "examples": [
+                        "If two similar triangles have corresponding sides in ratio 2:3, their areas are in ratio 4:9."
+                    ]
+                },
+                {
+                    "id": "6.4",
+                    "title": "Pythagoras Theorem and Converse",
+                    "definition": "In a right triangle, square of hypotenuse equals sum of squares of other two sides; converse states that if this relation holds, triangle is right‑angled.",
+                    "formulae": [
+                        "c² = a² + b²"
+                    ],
+                    "examples": [
+                        "3,4,5 triangle: 5² = 3² + 4² ⇒ right‑angled at side opposite 5."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "title": "Coordinate Geometry",
+            "concepts": [
+                {
+                    "id": "7.1",
+                    "title": "Distance Formula",
+                    "definition": "Distance between two points (x₁, y₁) and (x₂, y₂) in Cartesian plane is given by square root of sum of squares of differences of coordinates.",
+                    "formulae": [
+                        "d = √[(x₂ − x₁)² + (y₂ − y₁)²]"
+                    ],
+                    "examples": [
+                        "Distance between (1,2) and (4,6) is √[(3)² + (4)²] = 5."
+                    ]
+                },
+                {
+                    "id": "7.2",
+                    "title": "Section Formula (Internal)",
+                    "definition": "Coordinates of a point dividing a line segment internally in a given ratio m:n are given by weighted averages of endpoints.",
+                    "formulae": [
+                        "Point P dividing AB internally in ratio m:n has coordinates ((mx₂ + nx₁)/(m + n), (my₂ + ny₁)/(m + n))"
+                    ],
+                    "examples": [
+                        "Midpoint (m = n) formula: ((x₁ + x₂)/2, (y₁ + y₂)/2)."
+                    ]
+                },
+                {
+                    "id": "7.3",
+                    "title": "Area of Triangle Using Coordinates",
+                    "definition": "Area of triangle with vertices (x₁, y₁), (x₂, y₂), (x₃, y₃) can be calculated using determinant‑like formula.",
+                    "formulae": [
+                        "Area = 1/2 |x₁(y₂ − y₃) + x₂(y3 − y₁) + x₃(y₁ − y₂)|"
+                    ],
+                    "examples": [
+                        "Triangle with vertices (0,0), (4,0), (0,3) has area 1/2 × |0 + 4(3 − 0) + 0| = 6."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 8,
+            "title": "Introduction to Trigonometry",
+            "concepts": [
+                {
+                    "id": "8.1",
+                    "title": "Trigonometric Ratios of Acute Angles",
+                    "definition": "For a right triangle with acute angle θ, trigonometric ratios relate side lengths: sine, cosine, tangent and their reciprocals cosecant, secant and cotangent.",
+                    "formulae": [
+                        "sinθ = opposite / hypotenuse",
+                        "cosθ = adjacent / hypotenuse",
+                        "tanθ = opposite / adjacent",
+                        "cosecθ = 1/sinθ, secθ = 1/cosθ, cotθ = 1/tanθ"
+                    ],
+                    "examples": [
+                        "For 3‑4‑5 triangle, sinθ = 3/5, cosθ = 4/5, tanθ = 3/4 for angle opposite side 3."
+                    ]
+                },
+                {
+                    "id": "8.2",
+                    "title": "Trigonometric Ratios of Specific Angles",
+                    "definition": "Standard values of trigonometric ratios are known for angles 0°, 30°, 45°, 60° and 90°.",
+                    "formulae": [],
+                    "examples": [
+                        "sin30° = 1/2, cos30° = √3/2, tan45° = 1, sin90° = 1, cos90° = 0."
+                    ]
+                },
+                {
+                    "id": "8.3",
+                    "title": "Trigonometric Ratios of Complementary Angles",
+                    "definition": "Complementary angles add to 90°. Trigonometric ratios of complementary angles are related.",
+                    "formulae": [
+                        "sin(90° − θ) = cosθ",
+                        "cos(90° − θ) = sinθ",
+                        "tan(90° − θ) = cotθ",
+                        "cot(90° − θ) = tanθ",
+                        "sec(90° − θ) = cosecθ",
+                        "cosec(90° − θ) = secθ"
+                    ],
+                    "examples": [
+                        "sin30° = cos60°, tan20° = cot70°."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 9,
+            "title": "Some Applications of Trigonometry",
+            "concepts": [
+                {
+                    "id": "9.1",
+                    "title": "Heights and Distances",
+                    "definition": "Trigonometry is used to find heights of objects and distances between points that are not easy to measure directly, using angles of elevation and depression.",
+                    "formulae": [],
+                    "examples": [
+                        "Finding height of a tree given distance from base and angle of elevation using tanθ = opposite/adjacent."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 10,
+            "title": "Circles",
+            "concepts": [
+                {
+                    "id": "10.1",
+                    "title": "Tangent to a Circle",
+                    "definition": "A tangent to a circle is a line that touches the circle at exactly one point and is perpendicular to radius through the point of contact.",
+                    "formulae": [],
+                    "examples": [
+                        "If OT is radius and PT tangent at T, then OT ⟂ PT."
+                    ]
+                },
+                {
+                    "id": "10.2",
+                    "title": "Number of Tangents from a Point",
+                    "definition": "From a point outside a circle, exactly two tangents can be drawn to the circle; from a point on circle, only one; from inside, none.",
+                    "formulae": [],
+                    "examples": [
+                        "From point P outside circle, tangents PA and PB are equal in length."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 11,
+            "title": "Constructions",
+            "concepts": [
+                {
+                    "id": "11.1",
+                    "title": "Division of a Line Segment",
+                    "definition": "A given line segment can be divided internally in a given ratio using basic geometric construction techniques.",
+                    "formulae": [],
+                    "examples": [
+                        "Divide segment AB in ratio 2:3 using a ray and parallel lines construction."
+                    ]
+                },
+                {
+                    "id": "11.2",
+                    "title": "Construction of Tangents to a Circle",
+                    "definition": "From an external point, tangents to a circle can be constructed by joining centre to point and using right‑angle triangle property.",
+                    "formulae": [],
+                    "examples": [
+                        "Given circle with centre O and external point P, construct tangents PA and PB such that ∠PAO and ∠PBO are right angles at A and B."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 12,
+            "title": "Areas Related to Circles",
+            "concepts": [
+                {
+                    "id": "12.1",
+                    "title": "Circumference and Area of Circle",
+                    "definition": "Circumference is the distance around a circle; area is region enclosed. Both depend on radius r.",
+                    "formulae": [
+                        "Circumference = 2πr",
+                        "Area = πr²"
+                    ],
+                    "examples": [
+                        "Circle with r = 7 cm has circumference ≈ 44 cm and area ≈ 154 cm² (taking π = 22/7)."
+                    ]
+                },
+                {
+                    "id": "12.2",
+                    "title": "Area of Sector and Segment",
+                    "definition": "Sector is region bounded by two radii and an arc; segment is region bounded by chord and its corresponding arc.",
+                    "formulae": [
+                        "Area of sector (θ in degrees) = (θ/360°) × πr²",
+                        "Length of arc = (θ/360°) × 2πr"
+                    ],
+                    "examples": [
+                        "Sector with θ = 90°, r = 7 cm has area (1/4)π×7² = (49/4)π."
+                    ]
+                },
+                {
+                    "id": "12.3",
+                    "title": "Areas of Combinations of Plane Figures",
+                    "definition": "Areas of composite figures formed by combining circles, sectors, rectangles, triangles etc. are found by addition or subtraction of standard areas.",
+                    "formulae": [],
+                    "examples": [
+                        "Finding area of garden shaped as rectangle with semicircles at ends."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 13,
+            "title": "Surface Areas and Volumes",
+            "concepts": [
+                {
+                    "id": "13.1",
+                    "title": "Surface Areas of Solids",
+                    "definition": "Surface area is total area of all faces of a 3D solid; different solids (cuboid, cylinder, cone, sphere) have specific formulas.",
+                    "formulae": [
+                        "Total SA (cuboid) = 2(lb + bh + hl)",
+                        "Total SA (cube) = 6a²",
+                        "Curved SA (cylinder) = 2πrh",
+                        "Total SA (cylinder) = 2πrh + 2πr²",
+                        "Curved SA (cone) = πrl",
+                        "Total SA (cone) = πrl + πr²",
+                        "SA (sphere) = 4πr²",
+                        "SA (hemisphere) = 3πr²"
+                    ],
+                    "examples": [
+                        "Cylinder r = 3 cm, h = 5 cm: curved SA = 2π×3×5 = 30π cm²."
+                    ]
+                },
+                {
+                    "id": "13.2",
+                    "title": "Volumes of Solids",
+                    "definition": "Volume is space occupied by a solid; formulas depend on base area and height or radius.",
+                    "formulae": [
+                        "Volume (cuboid) = lbh",
+                        "Volume (cube) = a³",
+                        "Volume (cylinder) = πr²h",
+                        "Volume (cone) = (1/3)πr²h",
+                        "Volume (sphere) = (4/3)πr³",
+                        "Volume (hemisphere) = (2/3)πr³"
+                    ],
+                    "examples": [
+                        "Cone with r = 3 cm, h = 4 cm has volume (1/3)π×9×4 = 12π cm³."
+                    ]
+                },
+                {
+                    "id": "13.3",
+                    "title": "Conversions Between Solids",
+                    "definition": "Volume is conserved when a solid is melted and re‑cast into another shape, enabling problems on changing shapes of solids.",
+                    "formulae": [],
+                    "examples": [
+                        "Melting a metal sphere to make smaller spheres, equating volumes to find number of small spheres."
+                    ]
+                },
+                {
+                    "id": "13.4",
+                    "title": "Frustum of a Cone (Intro)",
+                    "definition": "A frustum is part of a cone obtained by cutting with a plane parallel to base; it has its own surface area and volume formulas.",
+                    "formulae": [],
+                    "examples": [
+                        "Water bucket approximated as frustum of a cone."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 14,
+            "title": "Statistics",
+            "concepts": [
+                {
+                    "id": "14.1",
+                    "title": "Grouped Frequency Distribution",
+                    "definition": "Large data are organised into class intervals and corresponding frequencies to form grouped frequency distributions.",
+                    "formulae": [],
+                    "examples": [
+                        "Grouping marks of students into intervals 0–10, 10–20, etc. with frequencies."
+                    ]
+                },
+                {
+                    "id": "14.2",
+                    "title": "Mean of Grouped Data",
+                    "definition": "Mean of grouped data can be found using direct, assumed mean or step‑deviation methods based on midpoints and frequencies.",
+                    "formulae": [
+                        "Mean (direct) = Σfᵢxᵢ / Σfᵢ"
+                    ],
+                    "examples": [
+                        "Calculating average marks from grouped frequency table using midpoints xᵢ."
+                    ]
+                },
+                {
+                    "id": "14.3",
+                    "title": "Mode and Median of Grouped Data",
+                    "definition": "Mode is value with highest frequency; median is central value dividing data into two equal halves, obtained using formulas for grouped data.",
+                    "formulae": [],
+                    "examples": [
+                        "Finding median class and using cumulative frequencies to compute median.",
+                        "Mode approximated using modal class."
+                    ]
+                },
+                {
+                    "id": "14.4",
+                    "title": "Graphical Representation: Ogives (Intro)",
+                    "definition": "Cumulative frequency curves (ogives) graphically represent data and help find median and other measures.",
+                    "formulae": [],
+                    "examples": [
+                        "Drawing less than and more than ogives and locating median at intersection."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 15,
+            "title": "Probability",
+            "concepts": [
+                {
+                    "id": "15.1",
+                    "title": "Random Experiments and Outcomes",
+                    "definition": "Random experiments have well‑defined possible outcomes but individual outcomes cannot be predicted with certainty.",
+                    "formulae": [],
+                    "examples": [
+                        "Tossing a coin, rolling a die, drawing a card from a well‑shuffled deck."
+                    ]
+                },
+                {
+                    "id": "15.2",
+                    "title": "Classical Definition of Probability",
+                    "definition": "If all outcomes are equally likely, probability of event E is ratio of number of favourable outcomes to total number of outcomes.",
+                    "formulae": [
+                        "P(E) = (number of favourable outcomes) / (total number of outcomes)"
+                    ],
+                    "examples": [
+                        "Probability of getting head in coin toss = 1/2.",
+                        "Probability of getting even number on a die = 3/6 = 1/2."
+                    ]
+                },
+                {
+                    "id": "15.3",
+                    "title": "Complementary Events",
+                    "definition": "Complementary events E and not‑E together cover all outcomes; their probabilities add to 1.",
+                    "formulae": [
+                        "P(E) + P(not E) = 1"
+                    ],
+                    "examples": [
+                        "If probability of passing an exam is 0.8, probability of failing is 0.2."
+                    ]
+                }
+            ]
+        }
+    ]
+}

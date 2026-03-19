@@ -1,0 +1,786 @@
+{
+    "class": 7,
+    "subject": "Mathematics",
+    "board": "NCERT/CBSE",
+    "chapters": [
+        {
+            "number": 1,
+            "title": "Integers",
+            "concepts": [
+                {
+                    "id": "1.1",
+                    "title": "Whole Numbers and Integers",
+                    "definition": "Whole numbers are {0, 1, 2, 3, ...}. Integers extend whole numbers to include negative numbers, i.e., {..., -3, -2, -1, 0, 1, 2, 3, ...}.",
+                    "formulae": [],
+                    "examples": [
+                        "−5, 0 and 12 are integers; 2.5 is not an integer.",
+                        "Whole numbers are a subset of integers."
+                    ]
+                },
+                {
+                    "id": "1.2",
+                    "title": "Representation on Number Line",
+                    "definition": "Integers can be shown on a horizontal line with zero at the centre, positive numbers to the right and negative numbers to the left, equally spaced.",
+                    "formulae": [],
+                    "examples": [
+                        "On the number line −3 is to the left of 2, so −3 < 2."
+                    ]
+                },
+                {
+                    "id": "1.3",
+                    "title": "Addition and Subtraction of Integers",
+                    "definition": "Adding and subtracting integers follows rules based on their signs. Same signs add magnitudes and keep the sign; different signs subtract magnitudes and take the sign of the larger magnitude.",
+                    "formulae": [
+                        "a + 0 = a",
+                        "a + (−a) = 0",
+                        "(+a) + (+b) = +(a + b)",
+                        "(−a) + (−b) = −(a + b)"
+                    ],
+                    "examples": [
+                        "5 + (−3) = 2, because 5 − 3 = 2 and 5 has larger magnitude.",
+                        "−4 + (−7) = −11."
+                    ]
+                },
+                {
+                    "id": "1.4",
+                    "title": "Multiplication of Integers",
+                    "definition": "Multiplication of integers follows sign rules: product of two integers with same sign is positive, with different signs is negative.",
+                    "formulae": [
+                        "(+a) × (+b) = +(ab)",
+                        "(−a) × (−b) = +(ab)",
+                        "(+a) × (−b) = −(ab)",
+                        "(−a) × (+b) = −(ab)"
+                    ],
+                    "examples": [
+                        "3 × (−4) = −12.",
+                        "(−5) × (−6) = 30."
+                    ]
+                },
+                {
+                    "id": "1.5",
+                    "title": "Division of Integers",
+                    "definition": "Division of integers uses the same sign rules as multiplication: quotient of two integers with same sign is positive, with different signs is negative.",
+                    "formulae": [
+                        "(+a) ÷ (+b) = +(a/b)",
+                        "(−a) ÷ (−b) = +(a/b)",
+                        "(+a) ÷ (−b) = −(a/b)",
+                        "(−a) ÷ (+b) = −(a/b)"
+                    ],
+                    "examples": [
+                        "12 ÷ (−3) = −4.",
+                        "(−15) ÷ (−5) = 3."
+                    ]
+                },
+                {
+                    "id": "1.6",
+                    "title": "Properties of Operations on Integers",
+                    "definition": "Integers are closed under addition, subtraction and multiplication and satisfy commutative, associative and distributive properties for these operations.",
+                    "formulae": [
+                        "a + b = b + a (commutative for addition)",
+                        "a × b = b × a (commutative for multiplication)",
+                        "(a + b) + c = a + (b + c) (associative for addition)",
+                        "(a × b) × c = a × (b × c) (associative for multiplication)",
+                        "a × (b + c) = a × b + a × c (distributive)"
+                    ],
+                    "examples": [
+                        "2 + (−3) = (−3) + 2 = −1.",
+                        "3 × (−4 + 5) = 3 × 1 = 3, and 3 × (−4) + 3 × 5 = −12 + 15 = 3."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "title": "Fractions and Decimals",
+            "concepts": [
+                {
+                    "id": "2.1",
+                    "title": "Types of Fractions",
+                    "definition": "Fractions can be proper (numerator < denominator), improper (numerator ≥ denominator) or mixed (a whole number plus a proper fraction).",
+                    "formulae": [],
+                    "examples": [
+                        "3/4 is a proper fraction, 7/3 is improper, 2 1/5 is a mixed fraction."
+                    ]
+                },
+                {
+                    "id": "2.2",
+                    "title": "Equivalent Fractions and Simplification",
+                    "definition": "Equivalent fractions represent the same value; they can be obtained by multiplying or dividing numerator and denominator by the same non‑zero number.",
+                    "formulae": [],
+                    "examples": [
+                        "1/2 = 2/4 = 3/6.",
+                        "6/8 simplified by dividing numerator and denominator by 2 gives 3/4."
+                    ]
+                },
+                {
+                    "id": "2.3",
+                    "title": "Operations on Fractions",
+                    "definition": "Fractions are added or subtracted using a common denominator; multiplication multiplies numerators and denominators; division multiplies by the reciprocal.",
+                    "formulae": [
+                        "a/b + c/d = (ad + bc) / bd",
+                        "a/b − c/d = (ad − bc) / bd",
+                        "a/b × c/d = (ac) / (bd)",
+                        "a/b ÷ c/d = (a/b) × (d/c)"
+                    ],
+                    "examples": [
+                        "1/3 + 1/6 = (2 + 1) / 6 = 3/6 = 1/2.",
+                        "2/5 × 3/4 = 6/20 = 3/10."
+                    ]
+                },
+                {
+                    "id": "2.4",
+                    "title": "Decimals and Place Value",
+                    "definition": "Decimals have a whole number part and a fractional part separated by a decimal point, with place values tenths, hundredths, thousandths and so on.",
+                    "formulae": [],
+                    "examples": [
+                        "In 4.327, 3 is tenths, 2 is hundredths and 7 is thousandths."
+                    ]
+                },
+                {
+                    "id": "2.5",
+                    "title": "Operations on Decimals",
+                    "definition": "Addition and subtraction of decimals align the decimal points; multiplication and division follow whole‑number rules while managing decimal places.",
+                    "formulae": [],
+                    "examples": [
+                        "3.4 + 2.56 = 5.96.",
+                        "2.5 × 0.4 = 1.0."
+                    ]
+                },
+                {
+                    "id": "2.6",
+                    "title": "Conversion Between Fractions and Decimals",
+                    "definition": "Fractions with denominators like 10, 100, 1000 can be written as decimals, and terminating decimals can be written as fractions.",
+                    "formulae": [],
+                    "examples": [
+                        "37/100 = 0.37.",
+                        "0.125 = 125/1000 = 1/8."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "title": "Data Handling",
+            "concepts": [
+                {
+                    "id": "3.1",
+                    "title": "Data and Frequency",
+                    "definition": "Data are collected facts or numbers; frequency of a value is the number of times it occurs in the data.",
+                    "formulae": [],
+                    "examples": [
+                        "If the marks 5, 7, 5, 8, 5 occur, the frequency of 5 is 3."
+                    ]
+                },
+                {
+                    "id": "3.2",
+                    "title": "Tally Marks and Tables",
+                    "definition": "Tally marks are quick strokes used to count frequencies; grouped into fives for easy reading and organised in tables.",
+                    "formulae": [],
+                    "examples": [
+                        "|||| represents 4 and ||||/ represents 5 in tally marks."
+                    ]
+                },
+                {
+                    "id": "3.3",
+                    "title": "Bar Graphs",
+                    "definition": "Bar graphs represent data using rectangular bars with heights proportional to frequencies on a set of axes.",
+                    "formulae": [],
+                    "examples": [
+                        "A bar graph can show the number of students choosing different sports."
+                    ]
+                },
+                {
+                    "id": "3.4",
+                    "title": "Mean, Median and Mode",
+                    "definition": "Mean is the average of data, median is the middle value when data are arranged in order, and mode is the most frequent value.",
+                    "formulae": [
+                        "Mean = (sum of all observations) / (number of observations)"
+                    ],
+                    "examples": [
+                        "For data 2, 4, 6: mean = (2 + 4 + 6) / 3 = 4; median = 4; any value occurring most often is the mode."
+                    ]
+                },
+                {
+                    "id": "3.5",
+                    "title": "Chance and Probability (Informal)",
+                    "definition": "Chance describes how likely an event is to happen, using terms like certain, likely, unlikely and impossible.",
+                    "formulae": [],
+                    "examples": [
+                        "Getting a number greater than 6 on a standard die is impossible.",
+                        "Getting a head when tossing a coin is equally likely as getting a tail."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "title": "Simple Equations",
+            "concepts": [
+                {
+                    "id": "4.1",
+                    "title": "Variables and Constants",
+                    "definition": "A variable is a symbol (like x, y) that can take different values; a constant is a fixed number.",
+                    "formulae": [],
+                    "examples": [
+                        "In 3x + 5, x is a variable and 3, 5 are constants (3 also a coefficient)."
+                    ]
+                },
+                {
+                    "id": "4.2",
+                    "title": "Algebraic Expressions",
+                    "definition": "An algebraic expression is formed by combining variables and constants using operations like addition, subtraction, multiplication and division.",
+                    "formulae": [],
+                    "examples": [
+                        "4x + 7, 3y − 2 and 2a + 3b + 5 are algebraic expressions."
+                    ]
+                },
+                {
+                    "id": "4.3",
+                    "title": "Equations and Solutions",
+                    "definition": "An equation states that two expressions are equal and usually contains a variable; the solution is the value of the variable that makes the equation true.",
+                    "formulae": [],
+                    "examples": [
+                        "x + 5 = 9 is an equation; x = 4 is its solution."
+                    ]
+                },
+                {
+                    "id": "4.4",
+                    "title": "Solving One‑Step Linear Equations",
+                    "definition": "Simple equations of type ax + b = c are solved by doing the same operation on both sides to isolate the variable.",
+                    "formulae": [],
+                    "examples": [
+                        "x − 7 = 5 ⇒ x = 5 + 7 = 12.",
+                        "3x = 18 ⇒ x = 18 ÷ 3 = 6."
+                    ]
+                },
+                {
+                    "id": "4.5",
+                    "title": "Applications of Simple Equations",
+                    "definition": "Word problems can be translated into equations in one variable and solved using the same methods.",
+                    "formulae": [],
+                    "examples": [
+                        "If a number increased by 9 gives 20, let the number be x: x + 9 = 20 ⇒ x = 11."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "title": "Lines and Angles",
+            "concepts": [
+                {
+                    "id": "5.1",
+                    "title": "Basic Terms: Point, Line, Ray, Line Segment",
+                    "definition": "A point shows a position; a line extends endlessly in both directions; a ray has one endpoint and extends endlessly in one direction; a line segment has two endpoints.",
+                    "formulae": [],
+                    "examples": [
+                        "A pencil tip represents a point, an edge of a ruler can model a line segment."
+                    ]
+                },
+                {
+                    "id": "5.2",
+                    "title": "Types of Angles",
+                    "definition": "Angles are classified as acute (0°–90°), right (90°), obtuse (90°–180°), straight (180°), reflex (180°–360°) and complete (360°).",
+                    "formulae": [],
+                    "examples": [
+                        "A corner of a square is a right angle; a slice less than a quarter circle is an acute angle."
+                    ]
+                },
+                {
+                    "id": "5.3",
+                    "title": "Pairs of Angles",
+                    "definition": "Adjacent, linear pair, vertically opposite, complementary and supplementary angles describe relationships between two angles.",
+                    "formulae": [
+                        "Angles in a linear pair sum to 180°",
+                        "Complementary angles sum to 90°",
+                        "Supplementary angles sum to 180°"
+                    ],
+                    "examples": [
+                        "If two angles form a straight line, they are supplementary.",
+                        "Opposite angles where two lines intersect are vertically opposite and equal."
+                    ]
+                },
+                {
+                    "id": "5.4",
+                    "title": "Intersecting and Parallel Lines",
+                    "definition": "Intersecting lines meet at a point; parallel lines never meet, however far extended.",
+                    "formulae": [],
+                    "examples": [
+                        "Railway tracks are approximately parallel lines."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "title": "The Triangle and Its Properties",
+            "concepts": [
+                {
+                    "id": "6.1",
+                    "title": "Classification of Triangles",
+                    "definition": "Triangles can be classified by sides as scalene, isosceles or equilateral and by angles as acute, right or obtuse.",
+                    "formulae": [],
+                    "examples": [
+                        "An equilateral triangle has all sides equal and all angles 60°.",
+                        "A right triangle has one 90° angle."
+                    ]
+                },
+                {
+                    "id": "6.2",
+                    "title": "Angle Sum Property",
+                    "definition": "The sum of the three interior angles of a triangle is always 180 degrees.",
+                    "formulae": [
+                        "∠A + ∠B + ∠C = 180°"
+                    ],
+                    "examples": [
+                        "If two angles are 50° and 60°, the third is 180° − (50° + 60°) = 70°."
+                    ]
+                },
+                {
+                    "id": "6.3",
+                    "title": "Exterior Angle Property",
+                    "definition": "An exterior angle of a triangle is equal to the sum of the two interior opposite angles.",
+                    "formulae": [
+                        "Exterior angle = sum of two interior opposite angles"
+                    ],
+                    "examples": [
+                        "If an exterior angle is 120° and one opposite interior angle is 50°, the other is 70°."
+                    ]
+                },
+                {
+                    "id": "6.4",
+                    "title": "Triangle Inequality",
+                    "definition": "In a triangle, the sum of any two sides is greater than the third side.",
+                    "formulae": [],
+                    "examples": [
+                        "Sides 2 cm, 3 cm, 6 cm cannot form a triangle because 2 + 3 is not greater than 6."
+                    ]
+                },
+                {
+                    "id": "6.5",
+                    "title": "Medians and Altitudes",
+                    "definition": "A median joins a vertex of a triangle to the midpoint of the opposite side; an altitude is a perpendicular from a vertex to the opposite side or its extension.",
+                    "formulae": [],
+                    "examples": [
+                        "Every triangle has three medians and three altitudes."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "title": "Congruence of Triangles",
+            "concepts": [
+                {
+                    "id": "7.1",
+                    "title": "Congruent Figures",
+                    "definition": "Two figures are congruent if they have exactly the same shape and size; they can be made to coincide by shifting, rotating or flipping.",
+                    "formulae": [],
+                    "examples": [
+                        "Two coins of the same denomination are congruent circles."
+                    ]
+                },
+                {
+                    "id": "7.2",
+                    "title": "Congruence of Triangles",
+                    "definition": "Two triangles are congruent if all their corresponding sides and angles are equal in measure.",
+                    "formulae": [],
+                    "examples": [
+                        "If △ABC is placed exactly over △PQR and all vertices match, they are congruent."
+                    ]
+                },
+                {
+                    "id": "7.3",
+                    "title": "Congruence Criteria: SSS, SAS, ASA, RHS",
+                    "definition": "Triangles are congruent if they satisfy any of these conditions: all three corresponding sides equal (SSS), two sides and included angle equal (SAS), two angles and included side equal (ASA) or right angle, hypotenuse and one side equal (RHS).",
+                    "formulae": [],
+                    "examples": [
+                        "If three sides of one triangle equal three sides of another, they are congruent by SSS.",
+                        "Two right triangles with equal hypotenuse and one corresponding side are congruent by RHS."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 8,
+            "title": "Comparing Quantities",
+            "concepts": [
+                {
+                    "id": "8.1",
+                    "title": "Ratio and Proportion",
+                    "definition": "Ratio compares two quantities of the same kind; proportion states that two ratios are equal.",
+                    "formulae": [
+                        "a : b = c : d ⇔ a/b = c/d"
+                    ],
+                    "examples": [
+                        "The ratio of 2 to 5 is 2 : 5.",
+                        "If 2 : 3 = 4 : 6, then 2/3 = 4/6."
+                    ]
+                },
+                {
+                    "id": "8.2",
+                    "title": "Percentage",
+                    "definition": "Percentage is a way of expressing a number as a fraction of 100.",
+                    "formulae": [
+                        "Percentage = (value / total) × 100"
+                    ],
+                    "examples": [
+                        "If a student scores 45 out of 50, percentage = (45/50) × 100 = 90%."
+                    ]
+                },
+                {
+                    "id": "8.3",
+                    "title": "Profit and Loss",
+                    "definition": "Profit is the gain when selling price exceeds cost price; loss is the amount by which cost price exceeds selling price.",
+                    "formulae": [
+                        "Profit = SP − CP",
+                        "Loss = CP − SP",
+                        "Profit% = (Profit / CP) × 100",
+                        "Loss% = (Loss / CP) × 100"
+                    ],
+                    "examples": [
+                        "If CP is ₹100 and SP is ₹120, profit = ₹20 and profit% = 20%."
+                    ]
+                },
+                {
+                    "id": "8.4",
+                    "title": "Simple Interest",
+                    "definition": "Simple interest is interest calculated on the original principal only for the entire period.",
+                    "formulae": [
+                        "SI = (P × R × T) / 100",
+                        "Amount = Principal + SI"
+                    ],
+                    "examples": [
+                        "On ₹1000 at 5% per year for 2 years, SI = (1000 × 5 × 2) / 100 = ₹100."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 9,
+            "title": "Rational Numbers",
+            "concepts": [
+                {
+                    "id": "9.1",
+                    "title": "Definition of Rational Numbers",
+                    "definition": "A rational number is any number that can be written in the form p/q where p and q are integers and q ≠ 0.",
+                    "formulae": [],
+                    "examples": [
+                        "2/3, −5/7 and 4 (as 4/1) are rational numbers."
+                    ]
+                },
+                {
+                    "id": "9.2",
+                    "title": "Equivalent Rational Numbers",
+                    "definition": "Rational numbers that represent the same point on the number line are equivalent; they can be obtained by multiplying or dividing numerator and denominator by the same non‑zero integer.",
+                    "formulae": [],
+                    "examples": [
+                        "1/2, 2/4 and −3/−6 are equivalent rational numbers."
+                    ]
+                },
+                {
+                    "id": "9.3",
+                    "title": "Standard Form of Rational Numbers",
+                    "definition": "A rational number is in standard form when it is written with a positive denominator and numerator and denominator have no common factor other than 1.",
+                    "formulae": [],
+                    "examples": [
+                        "−6/8 simplified to standard form is −3/4."
+                    ]
+                },
+                {
+                    "id": "9.4",
+                    "title": "Operations on Rational Numbers",
+                    "definition": "Addition, subtraction, multiplication and division of rational numbers follow the same rules as for fractions, with sign rules applied.",
+                    "formulae": [
+                        "a/b + c/d = (ad + bc)/bd",
+                        "a/b × c/d = (ac)/(bd)",
+                        "a/b ÷ c/d = (a/b) × (d/c)"
+                    ],
+                    "examples": [
+                        "1/3 + 2/5 = (5 + 6)/15 = 11/15."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 10,
+            "title": "Practical Geometry",
+            "concepts": [
+                {
+                    "id": "10.1",
+                    "title": "Constructing a Line Parallel to a Given Line",
+                    "definition": "Using a ruler and compass or set‑square, a line can be drawn through a given point parallel to a given line.",
+                    "formulae": [],
+                    "examples": [
+                        "Through point P outside line l, draw line m parallel to l using a set‑square."
+                    ]
+                },
+                {
+                    "id": "10.2",
+                    "title": "Constructing Triangles: SSS",
+                    "definition": "A triangle can be constructed when the lengths of all three sides are known, using a ruler and compass.",
+                    "formulae": [],
+                    "examples": [
+                        "Construct △ABC given AB, BC and CA by first drawing one side and then using two circles with given radii to locate the third vertex."
+                    ]
+                },
+                {
+                    "id": "10.3",
+                    "title": "Constructing Triangles: SAS and ASA",
+                    "definition": "Triangles can be constructed when two sides and the included angle (SAS) or two angles and the included side (ASA) are known.",
+                    "formulae": [],
+                    "examples": [
+                        "To construct a triangle with sides AB and AC and included angle at A, draw AB, construct the angle at A and mark AC."
+                    ]
+                },
+                {
+                    "id": "10.4",
+                    "title": "Constructing Right Triangles (RHS)",
+                    "definition": "Right‑angled triangles can be constructed when hypotenuse and one side are given, using a right angle at the appropriate vertex.",
+                    "formulae": [],
+                    "examples": [
+                        "Construct a right triangle with hypotenuse 5 cm and one side 3 cm using a right‑angle tool and compass."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 11,
+            "title": "Perimeter and Area",
+            "concepts": [
+                {
+                    "id": "11.1",
+                    "title": "Perimeter",
+                    "definition": "Perimeter is the total length of the boundary of a closed figure.",
+                    "formulae": [
+                        "Perimeter of rectangle = 2 × (length + breadth)",
+                        "Perimeter of square = 4 × side"
+                    ],
+                    "examples": [
+                        "A rectangle 5 cm by 3 cm has perimeter 2 × (5 + 3) = 16 cm."
+                    ]
+                },
+                {
+                    "id": "11.2",
+                    "title": "Area of Rectangle and Square",
+                    "definition": "Area is the region enclosed by a closed figure. For rectangles and squares it equals the product of side lengths.",
+                    "formulae": [
+                        "Area of rectangle = length × breadth",
+                        "Area of square = side × side"
+                    ],
+                    "examples": [
+                        "A square of side 4 cm has area 16 cm²."
+                    ]
+                },
+                {
+                    "id": "11.3",
+                    "title": "Area of Triangle and Parallelogram (Introductory)",
+                    "definition": "Area of a triangle is half the product of its base and height; area of a parallelogram is product of base and corresponding height.",
+                    "formulae": [
+                        "Area of triangle = (1/2) × base × height",
+                        "Area of parallelogram = base × height"
+                    ],
+                    "examples": [
+                        "A triangle with base 6 cm and height 4 cm has area (1/2) × 6 × 4 = 12 cm²."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 12,
+            "title": "Algebraic Expressions",
+            "concepts": [
+                {
+                    "id": "12.1",
+                    "title": "Terms, Coefficients and Factors",
+                    "definition": "An algebraic expression is made of terms; each term has a numeric coefficient and one or more variable factors.",
+                    "formulae": [],
+                    "examples": [
+                        "In 5xy, 5 is the coefficient and x, y are variable factors.",
+                        "In 7a − 3, 7a and −3 are terms."
+                    ]
+                },
+                {
+                    "id": "12.2",
+                    "title": "Like and Unlike Terms",
+                    "definition": "Like terms have exactly the same variable part (including powers); unlike terms differ in variable part or exponents.",
+                    "formulae": [],
+                    "examples": [
+                        "3x and −5x are like terms; 2x and 2y are unlike terms.",
+                        "4a²b and −7a²b are like terms."
+                    ]
+                },
+                {
+                    "id": "12.3",
+                    "title": "Addition and Subtraction of Expressions",
+                    "definition": "Algebraic expressions are added or subtracted by combining like terms.",
+                    "formulae": [],
+                    "examples": [
+                        "(3x + 4) + (2x − 1) = 5x + 3.",
+                        "(5a − 2b) − (3a + b) = 2a − 3b."
+                    ]
+                },
+                {
+                    "id": "12.4",
+                    "title": "Multiplication of a Monomial by a Monomial",
+                    "definition": "Multiplying two monomials multiplies their coefficients and adds exponents of like variables.",
+                    "formulae": [],
+                    "examples": [
+                        "(3x) × (4x) = 12x².",
+                        "(−2a) × (5a²b) = −10a³b."
+                    ]
+                },
+                {
+                    "id": "12.5",
+                    "title": "Multiplication of a Monomial by a Polynomial",
+                    "definition": "To multiply a monomial by a polynomial, multiply the monomial with each term of the polynomial and add results.",
+                    "formulae": [],
+                    "examples": [
+                        "2x(3x + 5) = 6x² + 10x."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 13,
+            "title": "Exponents and Powers",
+            "concepts": [
+                {
+                    "id": "13.1",
+                    "title": "Exponents and Expanded Form",
+                    "definition": "Exponents are a shorthand notation for repeated multiplication of the same number.",
+                    "formulae": [
+                        "a^n = a × a × ... × a (n times)"
+                    ],
+                    "examples": [
+                        "2³ = 2 × 2 × 2 = 8."
+                    ]
+                },
+                {
+                    "id": "13.2",
+                    "title": "Laws of Exponents (Same Base)",
+                    "definition": "Exponents with the same base follow specific rules for multiplication and division.",
+                    "formulae": [
+                        "a^m × a^n = a^(m + n)",
+                        "a^m ÷ a^n = a^(m − n) (a ≠ 0)"
+                    ],
+                    "examples": [
+                        "2³ × 2⁴ = 2⁷ = 128.",
+                        "5⁶ ÷ 5² = 5⁴."
+                    ]
+                },
+                {
+                    "id": "13.3",
+                    "title": "Power of a Power and Product",
+                    "definition": "Raising a power to another power multiplies exponents; raising a product to a power raises each factor.",
+                    "formulae": [
+                        "(a^m)^n = a^(mn)",
+                        "(ab)^n = a^n b^n"
+                    ],
+                    "examples": [
+                        "(2²)³ = 2⁶.",
+                        "(3 × 5)² = 3² × 5² = 9 × 25 = 225."
+                    ]
+                },
+                {
+                    "id": "13.4",
+                    "title": "Negative and Zero Exponents (Introductory)",
+                    "definition": "Negative exponents represent reciprocals and zero exponent represents 1 for any non‑zero base.",
+                    "formulae": [
+                        "a⁰ = 1 (a ≠ 0)",
+                        "a^(−n) = 1 / a^n"
+                    ],
+                    "examples": [
+                        "2⁰ = 1.",
+                        "5^(−2) = 1 / 5² = 1/25."
+                    ]
+                },
+                {
+                    "id": "13.5",
+                    "title": "Standard Form (Scientific Notation)",
+                    "definition": "Very large or very small numbers can be written in standard form as a × 10^n, where 1 ≤ a < 10 and n is an integer.",
+                    "formulae": [],
+                    "examples": [
+                        "3,600,000 = 3.6 × 10^6."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 14,
+            "title": "Symmetry",
+            "concepts": [
+                {
+                    "id": "14.1",
+                    "title": "Line Symmetry",
+                    "definition": "A figure has line symmetry if it can be folded along a line so that both halves coincide exactly.",
+                    "formulae": [],
+                    "examples": [
+                        "An equilateral triangle has 3 lines of symmetry; a square has 4."
+                    ]
+                },
+                {
+                    "id": "14.2",
+                    "title": "Lines of Symmetry in Standard Figures",
+                    "definition": "Regular figures often have multiple lines of symmetry depending on the number of equal sides and angles.",
+                    "formulae": [],
+                    "examples": [
+                        "A regular pentagon has 5 lines of symmetry.",
+                        "A circle has infinitely many lines of symmetry."
+                    ]
+                },
+                {
+                    "id": "14.3",
+                    "title": "Relation with Reflections",
+                    "definition": "Reflection in a mirror produces a symmetric image across the mirror line; the mirror line is a line of symmetry.",
+                    "formulae": [],
+                    "examples": [
+                        "Letters like A, H and O show line symmetry when reflected across certain lines."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 15,
+            "title": "Visualising Solid Shapes",
+            "concepts": [
+                {
+                    "id": "15.1",
+                    "title": "2D and 3D Shapes",
+                    "definition": "2D shapes have length and breadth (like squares, circles); 3D shapes have length, breadth and height (like cubes, spheres).",
+                    "formulae": [],
+                    "examples": [
+                        "A rectangle is 2D; a cuboid like a brick is 3D."
+                    ]
+                },
+                {
+                    "id": "15.2",
+                    "title": "Faces, Edges and Vertices",
+                    "definition": "Faces are flat surfaces of a solid, edges are line segments where faces meet, and vertices are points where edges meet.",
+                    "formulae": [],
+                    "examples": [
+                        "A cube has 6 faces, 12 edges and 8 vertices."
+                    ]
+                },
+                {
+                    "id": "15.3",
+                    "title": "Nets of 3D Shapes",
+                    "definition": "A net is a 2D pattern that can be folded to form a 3D solid.",
+                    "formulae": [],
+                    "examples": [
+                        "A cross‑shaped arrangement of 6 equal squares can be folded into a cube."
+                    ]
+                },
+                {
+                    "id": "15.4",
+                    "title": "Different Views of 3D Objects",
+                    "definition": "A 3D object can look different from front, side and top; these projections help visualise and draw solids.",
+                    "formulae": [],
+                    "examples": [
+                        "A cylinder looks like a rectangle from the side and a circle from the top."
+                    ]
+                }
+            ]
+        }
+    ]
+}

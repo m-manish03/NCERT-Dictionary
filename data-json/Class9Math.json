@@ -1,0 +1,577 @@
+{
+    "class": 9,
+    "subject": "Mathematics",
+    "board": "NCERT/CBSE",
+    "chapters": [
+        {
+            "number": 1,
+            "title": "Number Systems",
+            "concepts": [
+                {
+                    "id": "1.1",
+                    "title": "Real Numbers and Their Types",
+                    "definition": "Real numbers include all rational and irrational numbers. Rational numbers can be written as p/q with integers p, q and q ≠ 0; irrational numbers cannot be expressed as such fractions.",
+                    "formulae": [],
+                    "examples": [
+                        "3, −5, 2/7 and 0.25 are rational numbers.",
+                        "√2 and π are irrational numbers."
+                    ]
+                },
+                {
+                    "id": "1.2",
+                    "title": "Representation on Number Line and Decimal Expansions",
+                    "definition": "Real numbers can be placed on a number line. Rational numbers have terminating or recurring decimal expansions; irrational numbers have non‑terminating, non‑repeating decimals.",
+                    "formulae": [],
+                    "examples": [
+                        "1/4 = 0.25 (terminating); 1/3 = 0.333… (repeating).",
+                        "√2 ≈ 1.414213… is non‑terminating and non‑repeating."
+                    ]
+                },
+                {
+                    "id": "1.3",
+                    "title": "Irrational Numbers and Their Properties",
+                    "definition": "Irrational numbers cannot be expressed as p/q; between any two distinct real numbers there are infinitely many rationals and irrationals.",
+                    "formulae": [],
+                    "examples": [
+                        "√5 and √7 are irrational.",
+                        "(1 + √5)/2 is irrational."
+                    ]
+                },
+                {
+                    "id": "1.4",
+                    "title": "Laws of Exponents for Real Numbers",
+                    "definition": "Exponents of real numbers follow laws similar to integer exponents but extended to rational exponents as well.",
+                    "formulae": [
+                        "a^m × a^n = a^(m + n)",
+                        "a^m ÷ a^n = a^(m − n)  (a ≠ 0)",
+                        "(a^m)^n = a^(mn)",
+                        "a^(-n) = 1 / a^n",
+                        "a^(1/n) is an nth root of a"
+                    ],
+                    "examples": [
+                        "2^(1/2) × 2^(1/2) = 2.",
+                        "9^(1/2) = 3; 8^(1/3) = 2."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "title": "Polynomials",
+            "concepts": [
+                {
+                    "id": "2.1",
+                    "title": "Definition and Degree of a Polynomial",
+                    "definition": "A polynomial in one variable x is an expression of the form a_n x^n + ... + a_1 x + a_0, where coefficients a_i are real and n is a non‑negative integer. Degree is the highest power of x with non‑zero coefficient.",
+                    "formulae": [],
+                    "examples": [
+                        "3x^2 − 5x + 1 is a quadratic polynomial of degree 2.",
+                        "7 is a constant polynomial of degree 0."
+                    ]
+                },
+                {
+                    "id": "2.2",
+                    "title": "Types of Polynomials",
+                    "definition": "Polynomials are classified by degree (constant, linear, quadratic, cubic) and by number of terms (monomial, binomial, trinomial).",
+                    "formulae": [],
+                    "examples": [
+                        "5x is linear monomial; x^2 + 2x is quadratic binomial; x^3 − x + 1 is cubic trinomial."
+                    ]
+                },
+                {
+                    "id": "2.3",
+                    "title": "Zeroes of a Polynomial",
+                    "definition": "A zero (root) of polynomial p(x) is a value a such that p(a) = 0. A linear polynomial has at most one zero, quadratic two, etc.",
+                    "formulae": [],
+                    "examples": [
+                        "For p(x) = x − 3, x = 3 is the zero.",
+                        "For q(x) = x^2 − 4, zeros are x = 2 and x = −2."
+                    ]
+                },
+                {
+                    "id": "2.4",
+                    "title": "Remainder Theorem",
+                    "definition": "If a polynomial p(x) is divided by (x − a), then the remainder is p(a).",
+                    "formulae": [],
+                    "examples": [
+                        "Dividing x^2 + 1 by (x − 1): remainder is p(1) = 1^2 + 1 = 2."
+                    ]
+                },
+                {
+                    "id": "2.5",
+                    "title": "Factor Theorem and Factorisation",
+                    "definition": "If p(a) = 0 for polynomial p(x), then (x − a) is a factor of p(x). Factorisation expresses a polynomial as product of simpler polynomials.",
+                    "formulae": [],
+                    "examples": [
+                        "For p(x) = x^2 − 5x + 6, p(2) = 0, so (x − 2) is a factor; p(x) = (x − 2)(x − 3)."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "title": "Coordinate Geometry",
+            "concepts": [
+                {
+                    "id": "3.1",
+                    "title": "Cartesian Plane",
+                    "definition": "The Cartesian plane consists of two perpendicular number lines, x‑axis (horizontal) and y‑axis (vertical), intersecting at origin (0,0).",
+                    "formulae": [],
+                    "examples": [
+                        "Point (3, −2) is 3 units right of origin and 2 units below x‑axis."
+                    ]
+                },
+                {
+                    "id": "3.2",
+                    "title": "Coordinates of a Point",
+                    "definition": "Ordered pair (x, y) gives the coordinates of a point: x‑coordinate (abscissa) and y‑coordinate (ordinate).",
+                    "formulae": [],
+                    "examples": [
+                        "In (−4, 5), −4 is abscissa, 5 is ordinate."
+                    ]
+                },
+                {
+                    "id": "3.3",
+                    "title": "Quadrants",
+                    "definition": "The plane is divided into four quadrants by axes, with sign patterns of coordinates: (+,+), (−,+), (−,−), (+,−).",
+                    "formulae": [],
+                    "examples": [
+                        "(2, 3) lies in first quadrant; (−4, −1) in third quadrant."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "title": "Linear Equations in Two Variables",
+            "concepts": [
+                {
+                    "id": "4.1",
+                    "title": "Linear Equation in Two Variables",
+                    "definition": "An equation of the form ax + by + c = 0, where a, b, c are real and not both a and b zero, is a linear equation in two variables x and y.",
+                    "formulae": [],
+                    "examples": [
+                        "2x + 3y − 6 = 0 is linear; xy + 2 = 0 is not."
+                    ]
+                },
+                {
+                    "id": "4.2",
+                    "title": "Solution and Graph of a Linear Equation",
+                    "definition": "A solution is any ordered pair (x, y) satisfying the equation. The set of all solutions forms a straight line when plotted on Cartesian plane.",
+                    "formulae": [],
+                    "examples": [
+                        "For x + y = 4, (0,4), (1,3), (2,2) are solutions and lie on the same line."
+                    ]
+                },
+                {
+                    "id": "4.3",
+                    "title": "Finding Solutions",
+                    "definition": "Solutions can be found by choosing a value for one variable and solving for the other.",
+                    "formulae": [],
+                    "examples": [
+                        "For 3x − y = 5, taking x = 2 gives 6 − y = 5 ⇒ y = 1, so (2,1) is a solution."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "title": "Introduction to Euclid’s Geometry",
+            "concepts": [
+                {
+                    "id": "5.1",
+                    "title": "Axioms and Postulates",
+                    "definition": "Euclid’s geometry is based on axioms (self‑evident truths) and postulates (statements accepted without proof specific to geometry).",
+                    "formulae": [],
+                    "examples": [
+                        "Axiom: Things which are equal to the same thing are equal to one another.",
+                        "Postulate: A straight line may be drawn from any one point to any other point."
+                    ]
+                },
+                {
+                    "id": "5.2",
+                    "title": "Definitions and Basic Terms",
+                    "definition": "Basic terms like point, line, plane, line segment, ray, angle, circle are defined ideal objects in geometry.",
+                    "formulae": [],
+                    "examples": [
+                        "A line has length but no thickness and extends indefinitely; a plane surface extends infinitely in all directions."
+                    ]
+                },
+                {
+                    "id": "5.3",
+                    "title": "Equivalent Versions in Modern Geometry (Concept)",
+                    "definition": "Euclid’s statements translate into modern language of points and sets; parallel postulate leads to uniqueness of parallels through a point.",
+                    "formulae": [],
+                    "examples": [
+                        "Through a point not on a line, exactly one line can be drawn parallel to the given line (Euclid’s fifth postulate equivalent)."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "title": "Lines and Angles",
+            "concepts": [
+                {
+                    "id": "6.1",
+                    "title": "Adjacent, Linear Pair and Vertically Opposite Angles",
+                    "definition": "Adjacent angles share a common arm and vertex; a linear pair is adjacent angles whose non‑common arms form a straight line; vertically opposite angles are non‑adjacent angles formed by two intersecting lines.",
+                    "formulae": [
+                        "Sum of a linear pair = 180°",
+                        "Vertically opposite angles are equal"
+                    ],
+                    "examples": [
+                        "If a straight line makes angles of 120° and x°, they form linear pair, so x = 60°."
+                    ]
+                },
+                {
+                    "id": "6.2",
+                    "title": "Parallel Lines and Transversals",
+                    "definition": "When a line (transversal) cuts two lines, it forms various angle pairs: corresponding, alternate interior, alternate exterior and interior on same side.",
+                    "formulae": [
+                        "If lines are parallel: corresponding angles equal; alternate interior angles equal; interior angles on same side supplementary"
+                    ],
+                    "examples": [
+                        "If a transversal cuts parallel lines and one corresponding angle is 70°, all corresponding and alternate interior angles as per rules."
+                    ]
+                },
+                {
+                    "id": "6.3",
+                    "title": "Angle Sum Property of a Triangle (Intro)",
+                    "definition": "Sum of interior angles of a triangle is 180°, often used with line and angle properties.",
+                    "formulae": [
+                        "∠A + ∠B + ∠C = 180°"
+                    ],
+                    "examples": [
+                        "If two angles of triangle are 50° and 60°, third angle = 70°."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "title": "Triangles",
+            "concepts": [
+                {
+                    "id": "7.1",
+                    "title": "Congruence of Triangles and Criteria",
+                    "definition": "Two triangles are congruent if their corresponding sides and angles are equal; criteria include SSS, SAS, ASA, AAS and RHS for right triangles.",
+                    "formulae": [],
+                    "examples": [
+                        "If three sides of one triangle are equal to three sides of another, they are congruent by SSS criterion."
+                    ]
+                },
+                {
+                    "id": "7.2",
+                    "title": "Properties of Isosceles and Equilateral Triangles",
+                    "definition": "In an isosceles triangle, angles opposite equal sides are equal; in an equilateral triangle, all angles are 60°.",
+                    "formulae": [],
+                    "examples": [
+                        "In triangle with sides 5, 5, 8, the base angles opposite sides 5 are equal."
+                    ]
+                },
+                {
+                    "id": "7.3",
+                    "title": "Inequalities in a Triangle (Intro)",
+                    "definition": "In any triangle, the sum of any two sides is greater than the third, and the larger angle is opposite the longer side.",
+                    "formulae": [],
+                    "examples": [
+                        "If sides are 3, 4, 5, then 5 is largest side, so angle opposite 5 is largest."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 8,
+            "title": "Quadrilaterals",
+            "concepts": [
+                {
+                    "id": "8.1",
+                    "title": "General Properties of Quadrilaterals",
+                    "definition": "A quadrilateral has four sides and four angles, and the sum of interior angles is 360°.",
+                    "formulae": [
+                        "Sum of angles in quadrilateral = 360°"
+                    ],
+                    "examples": [
+                        "If three angles are 80°, 100° and 90°, fourth angle = 360° − 270° = 90°."
+                    ]
+                },
+                {
+                    "id": "8.2",
+                    "title": "Parallelogram and Its Properties",
+                    "definition": "In a parallelogram, opposite sides are parallel and equal, opposite angles equal and diagonals bisect each other.",
+                    "formulae": [],
+                    "examples": [
+                        "If one pair of opposite sides in quadrilateral is both equal and parallel, quadrilateral is a parallelogram."
+                    ]
+                },
+                {
+                    "id": "8.3",
+                    "title": "Special Parallelograms: Rectangle, Rhombus, Square",
+                    "definition": "Rectangles have all angles 90°; rhombuses have all sides equal; squares have all sides equal and all angles 90°, combining properties.",
+                    "formulae": [],
+                    "examples": [
+                        "Rectangle: diagonals equal and bisect each other.",
+                        "Rhombus: diagonals bisect at right angles."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 9,
+            "title": "Areas of Parallelograms and Triangles",
+            "concepts": [
+                {
+                    "id": "9.1",
+                    "title": "Area of Parallelogram",
+                    "definition": "Area of a parallelogram equals product of its base and corresponding height.",
+                    "formulae": [
+                        "Area(parallelogram) = base × height"
+                    ],
+                    "examples": [
+                        "Parallelogram with base 8 cm and height 5 cm has area 40 cm²."
+                    ]
+                },
+                {
+                    "id": "9.2",
+                    "title": "Area of Triangle",
+                    "definition": "Area of triangle is half the product of its base and corresponding height.",
+                    "formulae": [
+                        "Area(triangle) = (1/2) × base × height"
+                    ],
+                    "examples": [
+                        "Triangle with base 6 cm and height 4 cm has area 12 cm²."
+                    ]
+                },
+                {
+                    "id": "9.3",
+                    "title": "Triangles on the Same Base and Between Same Parallels",
+                    "definition": "Triangles on same base and between same parallels have equal area.",
+                    "formulae": [],
+                    "examples": [
+                        "Two different triangles on segment AB and between given parallels have equal area."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 10,
+            "title": "Circles",
+            "concepts": [
+                {
+                    "id": "10.1",
+                    "title": "Basic Terms: Chord, Arc, Diameter, Sector, Segment",
+                    "definition": "Chord is line segment joining two points on circle; diameter is chord through centre; arc is part of circumference; sector is region between two radii and arc; segment is region between chord and arc.",
+                    "formulae": [],
+                    "examples": [
+                        "Semi‑circle is a sector with angle 180°.",
+                        "Minor arc corresponds to minor segment and minor sector."
+                    ]
+                },
+                {
+                    "id": "10.2",
+                    "title": "Angle Subtended by Chord and Equal Chords",
+                    "definition": "Equal chords of a circle subtend equal angles at the centre; conversely equal angles at the centre stand on equal chords.",
+                    "formulae": [],
+                    "examples": [
+                        "If two chords have equal central angles, their lengths are equal."
+                    ]
+                },
+                {
+                    "id": "10.3",
+                    "title": "Perpendicular from Centre to Chord",
+                    "definition": "Perpendicular from centre of a circle to a chord bisects the chord, and conversely if a radius passes through midpoint of a chord, it is perpendicular to the chord.",
+                    "formulae": [],
+                    "examples": [
+                        "For chord AB, if OC ⟂ AB at C, then AC = CB."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 11,
+            "title": "Constructions",
+            "concepts": [
+                {
+                    "id": "11.1",
+                    "title": "Basic Constructions",
+                    "definition": "Using ruler and compass to construct line segments, perpendiculars and angle bisectors following standard steps.",
+                    "formulae": [],
+                    "examples": [
+                        "Constructing perpendicular bisector of a given line segment."
+                    ]
+                },
+                {
+                    "id": "11.2",
+                    "title": "Constructing Triangles",
+                    "definition": "Triangles can be constructed given suitable data like SSS, SAS, ASA using compass and straightedge.",
+                    "formulae": [],
+                    "examples": [
+                        "Construct triangle ABC given AB, BC and AC (SSS construction)."
+                    ]
+                },
+                {
+                    "id": "11.3",
+                    "title": "Constructions Using Given Angles",
+                    "definition": "Angles of specific measures are constructed and used to form triangles and other figures.",
+                    "formulae": [],
+                    "examples": [
+                        "Constructing a triangle when two angles and the included side are known."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 12,
+            "title": "Heron’s Formula",
+            "concepts": [
+                {
+                    "id": "12.1",
+                    "title": "Semi-Perimeter of Triangle",
+                    "definition": "Semi‑perimeter is half of the sum of the three sides of a triangle.",
+                    "formulae": [
+                        "s = (a + b + c) / 2"
+                    ],
+                    "examples": [
+                        "For triangle with sides 3, 4, 5, s = (3 + 4 + 5)/2 = 6."
+                    ]
+                },
+                {
+                    "id": "12.2",
+                    "title": "Heron’s Formula for Area of Triangle",
+                    "definition": "Heron’s formula gives area of a triangle in terms of its three sides and semi‑perimeter.",
+                    "formulae": [
+                        "Area = √[s(s − a)(s − b)(s − c)]"
+                    ],
+                    "examples": [
+                        "For triangle with sides 3, 4, 5, s = 6 and area = √[6 × 3 × 2 × 1] = √36 = 6 square units."
+                    ]
+                },
+                {
+                    "id": "12.3",
+                    "title": "Applications to Quadrilaterals (Split into Triangles)",
+                    "definition": "Heron’s formula can be applied to quadrilaterals by dividing them into two triangles and adding their areas.",
+                    "formulae": [],
+                    "examples": [
+                        "Finding area of a plot shaped like irregular quadrilateral by drawing a diagonal and using Heron’s formula on both triangles."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 13,
+            "title": "Surface Areas and Volumes",
+            "concepts": [
+                {
+                    "id": "13.1",
+                    "title": "Surface Area of Cube and Cuboid",
+                    "definition": "Surface area is sum of areas of all faces of a solid; for cube and cuboid there are direct formulas.",
+                    "formulae": [
+                        "Total surface area (cube) = 6a²",
+                        "Total surface area (cuboid) = 2(lb + bh + hl)"
+                    ],
+                    "examples": [
+                        "Cube of side 4 cm has surface area 6 × 16 = 96 cm²."
+                    ]
+                },
+                {
+                    "id": "13.2",
+                    "title": "Surface Area of Right Circular Cylinder and Cone",
+                    "definition": "Curved and total surface areas of cylinders and cones depend on radius, height and slant height.",
+                    "formulae": [
+                        "Curved SA (cylinder) = 2πrh",
+                        "Total SA (cylinder) = 2πrh + 2πr²",
+                        "Curved SA (cone) = πrl",
+                        "Total SA (cone) = πrl + πr²"
+                    ],
+                    "examples": [
+                        "Cylinder with r = 3 cm, h = 7 cm: curved area = 2π × 3 × 7 = 42π cm²."
+                    ]
+                },
+                {
+                    "id": "13.3",
+                    "title": "Volumes of Cube, Cuboid and Cylinder",
+                    "definition": "Volume is measure of space occupied; formulas depend on base area and height.",
+                    "formulae": [
+                        "Volume (cube) = a³",
+                        "Volume (cuboid) = l × b × h",
+                        "Volume (cylinder) = πr²h"
+                    ],
+                    "examples": [
+                        "Cuboid 5 × 3 × 2 cm has volume 30 cm³."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 14,
+            "title": "Statistics",
+            "concepts": [
+                {
+                    "id": "14.1",
+                    "title": "Collection and Organisation of Data",
+                    "definition": "Statistics deals with collection, organisation and interpretation of data in frequency tables and grouped forms.",
+                    "formulae": [],
+                    "examples": [
+                        "Recording marks of students and arranging into a frequency distribution."
+                    ]
+                },
+                {
+                    "id": "14.2",
+                    "title": "Mean, Median and Mode of Ungrouped Data",
+                    "definition": "Mean is arithmetic average, median is middle value in ordered data, mode is most frequent value.",
+                    "formulae": [
+                        "Mean = (sum of observations) / (number of observations)"
+                    ],
+                    "examples": [
+                        "For data 2, 4, 6, 8, 10, mean = 6; median = 6; if 4 occurs most, mode = 4."
+                    ]
+                },
+                {
+                    "id": "14.3",
+                    "title": "Measures of Central Tendency (Basic Interpretation)",
+                    "definition": "Mean, median and mode summarise data using a single representative value, each with different uses and sensitivities to extreme values.",
+                    "formulae": [],
+                    "examples": [
+                        "Mean affected by very high or low values; median more robust to outliers."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 15,
+            "title": "Probability",
+            "concepts": [
+                {
+                    "id": "15.1",
+                    "title": "Random Experiment and Sample Space",
+                    "definition": "A random experiment is an action whose outcomes cannot be predicted with certainty but all possible outcomes are known; set of all outcomes is sample space.",
+                    "formulae": [],
+                    "examples": [
+                        "Tossing a coin has sample space {H, T}; rolling a die has {1,2,3,4,5,6}."
+                    ]
+                },
+                {
+                    "id": "15.2",
+                    "title": "Event and Favourable Outcomes",
+                    "definition": "An event is a subset of sample space. Favourable outcomes are those outcomes that belong to the event in question.",
+                    "formulae": [],
+                    "examples": [
+                        "Event ‘getting even number’ when rolling a die has favourable outcomes {2,4,6}."
+                    ]
+                },
+                {
+                    "id": "15.3",
+                    "title": "Empirical Probability (Experimental)",
+                    "definition": "Empirical probability of an event is estimated from experiments as the ratio of number of times the event occurs to total number of trials.",
+                    "formulae": [
+                        "P(E) ≈ (number of times E occurs) / (total number of trials)"
+                    ],
+                    "examples": [
+                        "If a coin is tossed 100 times and shows head 55 times, empirical probability of head is 55/100 = 0.55."
+                    ]
+                }
+            ]
+        }
+    ]
+}

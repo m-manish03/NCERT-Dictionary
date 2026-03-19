@@ -1,0 +1,670 @@
+{
+    "class": 6,
+    "subject": "Mathematics",
+    "board": "NCERT/CBSE",
+    "chapters": [
+        {
+            "number": 1,
+            "title": "Knowing Our Numbers",
+            "concepts": [
+                {
+                    "id": "1.1",
+                    "title": "Large Numbers and Place Value",
+                    "definition": "Numbers can be extended to lakhs, crores and beyond, with each digit having a place value based on its position in the Indian or International system.",
+                    "formulae": [],
+                    "examples": [
+                        "In 7,36,52,081 the digit 7 is in the crore place, 3 in the ten‑lakh place, 6 in the lakh place, etc.",
+                        "In the International system, 7,365,208 is read as seven million three hundred sixty‑five thousand two hundred eight."
+                    ]
+                },
+                {
+                    "id": "1.2",
+                    "title": "Indian and International Numeration Systems",
+                    "definition": "Indian system groups digits as ones, tens, hundreds, thousands, lakhs and crores, while International system uses ones, thousands, millions, billions and so on.",
+                    "formulae": [],
+                    "examples": [
+                        "75,23,608 is read in Indian system as seventy‑five lakh twenty‑three thousand six hundred eight.",
+                        "The same number 7,523,608 is read in International system as seven million five hundred twenty‑three thousand six hundred eight."
+                    ]
+                },
+                {
+                    "id": "1.3",
+                    "title": "Comparing and Ordering Numbers",
+                    "definition": "To compare large numbers, first compare number of digits; if equal, compare digit by digit from left to right.",
+                    "formulae": [],
+                    "examples": [
+                        "9,85,432 > 7,23,999 because 9 is greater than 7 in the highest place.",
+                        "Arranging 4521, 512, 9870 in ascending order gives 512, 4521, 9870."
+                    ]
+                },
+                {
+                    "id": "1.4",
+                    "title": "Estimation and Rounding Off",
+                    "definition": "Estimation is approximating numbers to nearest tens, hundreds or thousands to make mental calculations easier.",
+                    "formulae": [],
+                    "examples": [
+                        "Rounding 348 to nearest ten gives 350; to nearest hundred gives 300.",
+                        "Estimate 498 + 1,023 ≈ 500 + 1,000 = 1,500."
+                    ]
+                },
+                {
+                    "id": "1.5",
+                    "title": "Using Brackets and BODMAS",
+                    "definition": "Brackets show which operations to perform first in a calculation. BODMAS gives order: Brackets, Of, Division, Multiplication, Addition, Subtraction.",
+                    "formulae": [],
+                    "examples": [
+                        "5 × (2 + 3) = 5 × 5 = 25, but 5 × 2 + 3 = 10 + 3 = 13.",
+                        "In 12 ÷ 3 × 2, division and multiplication are done from left to right: (12 ÷ 3) × 2 = 4 × 2 = 8."
+                    ]
+                },
+                {
+                    "id": "1.6",
+                    "title": "Roman Numerals (Intro)",
+                    "definition": "Roman numerals are a number system using letters like I, V, X, L, C, D and M for certain fixed values.",
+                    "formulae": [],
+                    "examples": [
+                        "I = 1, V = 5, X = 10, L = 50, C = 100.",
+                        "VII = 7 (5 + 2 × 1), IX = 9 (10 − 1)."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "title": "Whole Numbers",
+            "concepts": [
+                {
+                    "id": "2.1",
+                    "title": "Natural and Whole Numbers",
+                    "definition": "Natural numbers are counting numbers 1, 2, 3, ...; whole numbers are natural numbers together with 0, i.e., 0, 1, 2, 3, ...",
+                    "formulae": [],
+                    "examples": [
+                        "0 is a whole number but not a natural number.",
+                        "5 is both a natural and a whole number."
+                    ]
+                },
+                {
+                    "id": "2.2",
+                    "title": "Number Line Representation",
+                    "definition": "Whole numbers are represented on a line with equal spacing starting from 0 to the right indefinitely.",
+                    "formulae": [],
+                    "examples": [
+                        "Adding 2 on the number line means moving 2 steps to the right.",
+                        "Subtracting 3 means moving 3 steps to the left."
+                    ]
+                },
+                {
+                    "id": "2.3",
+                    "title": "Properties of Whole Numbers",
+                    "definition": "Whole numbers satisfy closure, commutative, associative and distributive properties for operations, and have an identity for addition and multiplication.",
+                    "formulae": [
+                        "Closure (addition): a + b is a whole number for whole numbers a, b",
+                        "Commutative: a + b = b + a; a × b = b × a",
+                        "Associative: (a + b) + c = a + (b + c); (a × b) × c = a × (b × c)",
+                        "Distributive: a × (b + c) = a × b + a × c",
+                        "Additive identity: a + 0 = a",
+                        "Multiplicative identity: a × 1 = a"
+                    ],
+                    "examples": [
+                        "3 + 5 = 5 + 3 = 8 (commutative).",
+                        "2 × (3 + 4) = 2 × 7 = 14, and 2 × 3 + 2 × 4 = 6 + 8 = 14 (distributive)."
+                    ]
+                },
+                {
+                    "id": "2.4",
+                    "title": "Patterns in Whole Numbers",
+                    "definition": "Whole numbers show patterns when arranged in grids or sequences, helping to discover properties about sums, differences and multiples.",
+                    "formulae": [],
+                    "examples": [
+                        "Even numbers occur at every second place on the number line.",
+                        "Squares of numbers grow quickly: 1, 4, 9, 16, 25, ..."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "title": "Playing with Numbers",
+            "concepts": [
+                {
+                    "id": "3.1",
+                    "title": "Factors and Multiples",
+                    "definition": "A factor divides a number exactly without remainder; a multiple is obtained by multiplying the number by integers.",
+                    "formulae": [],
+                    "examples": [
+                        "Factors of 12 are 1, 2, 3, 4, 6, 12.",
+                        "Multiples of 5 are 5, 10, 15, 20, ..."
+                    ]
+                },
+                {
+                    "id": "3.2",
+                    "title": "Prime and Composite Numbers",
+                    "definition": "Prime numbers have exactly two distinct factors, 1 and the number itself; composite numbers have more than two factors.",
+                    "formulae": [],
+                    "examples": [
+                        "2, 3, 5, 7, 11 are primes; 4, 6, 8, 9, 10 are composite.",
+                        "1 is neither prime nor composite."
+                    ]
+                },
+                {
+                    "id": "3.3",
+                    "title": "Divisibility Rules",
+                    "definition": "Divisibility tests use digit patterns to tell quickly whether a number is divisible by another without full division.",
+                    "formulae": [],
+                    "examples": [
+                        "A number divisible by 2 ends in 0, 2, 4, 6, 8.",
+                        "Divisible by 3 if sum of digits is divisible by 3; by 5 if last digit is 0 or 5."
+                    ]
+                },
+                {
+                    "id": "3.4",
+                    "title": "Common Factors and Common Multiples",
+                    "definition": "Common factors divide each of the given numbers; common multiples are multiples common to them.",
+                    "formulae": [],
+                    "examples": [
+                        "Common factors of 12 and 18 are 1, 2, 3, 6.",
+                        "Common multiples of 3 and 4 include 12, 24, 36, ..."
+                    ]
+                },
+                {
+                    "id": "3.5",
+                    "title": "Prime Factorisation and HCF/LCM (Concept)",
+                    "definition": "A number can be written as product of prime factors. HCF is the highest common factor; LCM is the least common multiple of given numbers.",
+                    "formulae": [],
+                    "examples": [
+                        "Prime factorisation: 60 = 2² × 3 × 5.",
+                        "HCF(12, 18) = 6, LCM(12, 18) = 36."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "title": "Basic Geometrical Ideas",
+            "concepts": [
+                {
+                    "id": "4.1",
+                    "title": "Point, Line, Line Segment and Ray",
+                    "definition": "A point indicates a position; a line extends endlessly in both directions; a line segment has two endpoints; a ray has one endpoint and extends infinitely in one direction.",
+                    "formulae": [],
+                    "examples": [
+                        "Tip of a pencil is a point; edge of a ruler can represent a line segment.",
+                        "Sun rays are like rays in geometry."
+                    ]
+                },
+                {
+                    "id": "4.2",
+                    "title": "Curves and Polygons",
+                    "definition": "A curve is a drawing that may be straight or curved; a simple closed curve with straight sides is called a polygon.",
+                    "formulae": [],
+                    "examples": [
+                        "Triangle, square and pentagon are polygons.",
+                        "A circle is a simple closed curve but not a polygon."
+                    ]
+                },
+                {
+                    "id": "4.3",
+                    "title": "Angles and Their Naming",
+                    "definition": "An angle is formed when two rays start from a common endpoint. It is named using three letters with the vertex in the middle.",
+                    "formulae": [],
+                    "examples": [
+                        "∠ABC has B as the vertex and BA, BC as arms.",
+                        "Corners of a book show right angles."
+                    ]
+                },
+                {
+                    "id": "4.4",
+                    "title": "Triangles and Quadrilaterals (Basic Idea)",
+                    "definition": "A triangle is a polygon with three sides and three angles; a quadrilateral has four sides and four angles.",
+                    "formulae": [],
+                    "examples": [
+                        "Roof gables are triangular; windows and doors are usually quadrilaterals."
+                    ]
+                },
+                {
+                    "id": "4.5",
+                    "title": "Circles: Centre, Radius and Diameter",
+                    "definition": "A circle is the set of points at a fixed distance (radius) from a fixed point (centre). A diameter is a chord passing through the centre and is twice the radius.",
+                    "formulae": [
+                        "Diameter = 2 × Radius",
+                        "Radius = Diameter / 2"
+                    ],
+                    "examples": [
+                        "If radius is 3 cm, diameter is 6 cm.",
+                        "If diameter is 10 cm, radius is 5 cm."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "title": "Understanding Elementary Shapes",
+            "concepts": [
+                {
+                    "id": "5.1",
+                    "title": "Measuring Line Segments",
+                    "definition": "Lengths of line segments are measured using a ruler or divider, ensuring the zero mark is aligned correctly and reading eye is vertical.",
+                    "formulae": [],
+                    "examples": [
+                        "A pencil may measure 9.2 cm on a ruler."
+                    ]
+                },
+                {
+                    "id": "5.2",
+                    "title": "Types of Angles",
+                    "definition": "Angles are classified by measure as acute (0°–90°), right (90°), obtuse (90°–180°), straight (180°), reflex (180°–360°) and complete (360°).",
+                    "formulae": [],
+                    "examples": [
+                        "Angle of 45° is acute; 120° is obtuse; 180° is straight."
+                    ]
+                },
+                {
+                    "id": "5.3",
+                    "title": "Triangles by Sides and Angles (Intro)",
+                    "definition": "Triangles can be classified as scalene (no equal sides), isosceles (two equal sides) or equilateral (all equal sides); by angles as acute, right or obtuse triangles.",
+                    "formulae": [],
+                    "examples": [
+                        "A triangle with sides 3 cm, 4 cm, 5 cm is scalene.",
+                        "A triangle with all angles less than 90° is an acute triangle."
+                    ]
+                },
+                {
+                    "id": "5.4",
+                    "title": "Perpendicular Lines and Perpendicular Bisectors",
+                    "definition": "Two lines are perpendicular if they meet to form a right angle; a perpendicular bisector cuts a line segment into two equal parts at 90°.",
+                    "formulae": [],
+                    "examples": [
+                        "Edges of a notebook form perpendicular lines.",
+                        "Using a compass and ruler to construct the perpendicular bisector of a segment."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "title": "Integers",
+            "concepts": [
+                {
+                    "id": "6.1",
+                    "title": "Integers and Number Line",
+                    "definition": "Integers include all positive and negative whole numbers and zero: ..., −3, −2, −1, 0, 1, 2, 3, ....",
+                    "formulae": [],
+                    "examples": [
+                        "-5, 0 and 7 are integers; 2.5 is not an integer."
+                    ]
+                },
+                {
+                    "id": "6.2",
+                    "title": "Ordering Integers on Number Line",
+                    "definition": "On a number line, integers increase to the right and decrease to the left; any integer on the right is greater than one on its left.",
+                    "formulae": [],
+                    "examples": [
+                        "-3 < 0 < 4 because −3 is left of 0 and 4 is right of 0."
+                    ]
+                },
+                {
+                    "id": "6.3",
+                    "title": "Addition of Integers on Number Line",
+                    "definition": "Addition is done by starting at the first integer on the number line and moving right for adding a positive integer and left for adding a negative integer.",
+                    "formulae": [],
+                    "examples": [
+                        "2 + (−3) = −1; start at 2 and move 3 steps left.",
+                        "−4 + 5 = 1; start at −4 and move 5 steps right."
+                    ]
+                },
+                {
+                    "id": "6.4",
+                    "title": "Subtraction of Integers",
+                    "definition": "Subtracting an integer is equivalent to adding its additive inverse (the same number with opposite sign).",
+                    "formulae": [
+                        "a − b = a + (−b)"
+                    ],
+                    "examples": [
+                        "5 − (−3) = 5 + 3 = 8.",
+                        "−2 − 4 = −2 + (−4) = −6."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "title": "Fractions",
+            "concepts": [
+                {
+                    "id": "7.1",
+                    "title": "Definition and Types of Fractions",
+                    "definition": "A fraction represents a part of a whole and is written as numerator over denominator. Proper fractions have numerator less than denominator; improper fractions have numerator greater than or equal to denominator; mixed fractions combine a whole number and a proper fraction.",
+                    "formulae": [],
+                    "examples": [
+                        "3/4 is proper; 9/4 is improper; 2 1/3 is mixed."
+                    ]
+                },
+                {
+                    "id": "7.2",
+                    "title": "Fractions on Number Line",
+                    "definition": "Fractions are represented on a number line between integers by dividing the interval into equal parts equal to the denominator.",
+                    "formulae": [],
+                    "examples": [
+                        "1/2 lies halfway between 0 and 1; 3/4 lies three‑quarters between 0 and 1."
+                    ]
+                },
+                {
+                    "id": "7.3",
+                    "title": "Equivalent Fractions and Simplest Form",
+                    "definition": "Equivalent fractions have same value though numerators and denominators differ. Simplest form has numerator and denominator with no common factor other than 1.",
+                    "formulae": [],
+                    "examples": [
+                        "1/2, 2/4 and 3/6 are equivalent fractions.",
+                        "6/8 simplifies to 3/4."
+                    ]
+                },
+                {
+                    "id": "7.4",
+                    "title": "Comparing and Ordering Fractions",
+                    "definition": "Fractions are compared using common denominators, cross‑multiplication or by visualising parts of the whole.",
+                    "formulae": [],
+                    "examples": [
+                        "To compare 2/3 and 3/5, compare 2 × 5 = 10 and 3 × 3 = 9; so 2/3 > 3/5."
+                    ]
+                },
+                {
+                    "id": "7.5",
+                    "title": "Addition and Subtraction of Fractions",
+                    "definition": "Fractions with same denominators are combined by adding or subtracting numerators; for different denominators, a common denominator is used.",
+                    "formulae": [],
+                    "examples": [
+                        "1/5 + 2/5 = 3/5.",
+                        "1/3 + 1/6 = 1/2."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 8,
+            "title": "Decimals",
+            "concepts": [
+                {
+                    "id": "8.1",
+                    "title": "Place Value in Decimals",
+                    "definition": "Decimal numbers have whole number part and fractional part separated by a decimal point. Digits to the right have place values tenths, hundredths, thousandths, etc.",
+                    "formulae": [],
+                    "examples": [
+                        "In 4.37, 3 is tenths and 7 is hundredths."
+                    ]
+                },
+                {
+                    "id": "8.2",
+                    "title": "Reading and Writing Decimals",
+                    "definition": "Decimals are read using place names after the point and can be written in expanded form showing each digit’s value.",
+                    "formulae": [],
+                    "examples": [
+                        "3.45 is read as three point four five; 3.45 = 3 + 4/10 + 5/100."
+                    ]
+                },
+                {
+                    "id": "8.3",
+                    "title": "Comparing and Ordering Decimals",
+                    "definition": "Decimals are compared by aligning decimal points and comparing digits from left to right, adding trailing zeros if needed.",
+                    "formulae": [],
+                    "examples": [
+                        "0.7 = 0.70; 0.7 > 0.65 because 70 hundredths > 65 hundredths."
+                    ]
+                },
+                {
+                    "id": "8.4",
+                    "title": "Addition and Subtraction of Decimals",
+                    "definition": "Decimals are added or subtracted by writing numbers one below the other with decimal points aligned, then operating like whole numbers.",
+                    "formulae": [],
+                    "examples": [
+                        "3.5 + 1.75 = 5.25.",
+                        "7.2 − 3.45 = 3.75."
+                    ]
+                },
+                {
+                    "id": "8.5",
+                    "title": "Decimals in Measurement and Money",
+                    "definition": "Decimals are used to express money (rupees and paise) and measurements like length and weight with more precision.",
+                    "formulae": [],
+                    "examples": [
+                        "₹5.75 means 5 rupees 75 paise; 1.25 m means 1 m 25 cm."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 9,
+            "title": "Data Handling",
+            "concepts": [
+                {
+                    "id": "9.1",
+                    "title": "Data and Recording",
+                    "definition": "Data are collected information in the form of numbers or facts; they can be recorded in tables for clarity.",
+                    "formulae": [],
+                    "examples": [
+                        "Recording number of students absent on each day of a week."
+                    ]
+                },
+                {
+                    "id": "9.2",
+                    "title": "Pictographs",
+                    "definition": "Pictographs use pictures or symbols to represent a certain number of items, giving a visual representation of data.",
+                    "formulae": [],
+                    "examples": [
+                        "One picture of a ball representing 5 balls in a pictograph of sports equipment."
+                    ]
+                },
+                {
+                    "id": "9.3",
+                    "title": "Bar Graphs (Intro)",
+                    "definition": "Bar graphs display data using rectangular bars with lengths proportional to values, along horizontal and vertical axes.",
+                    "formulae": [],
+                    "examples": [
+                        "Bar graph showing number of books read by students in a month."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 10,
+            "title": "Mensuration",
+            "concepts": [
+                {
+                    "id": "10.1",
+                    "title": "Perimeter of Simple Shapes",
+                    "definition": "Perimeter is the total length of the boundary of a closed figure.",
+                    "formulae": [
+                        "Perimeter of rectangle = 2 × (length + breadth)",
+                        "Perimeter of square = 4 × side"
+                    ],
+                    "examples": [
+                        "A rectangle of 5 cm by 3 cm has perimeter 2 × (5 + 3) = 16 cm."
+                    ]
+                },
+                {
+                    "id": "10.2",
+                    "title": "Area of Rectangle and Square (Intro)",
+                    "definition": "Area is the region enclosed by a figure; for rectangles and squares it equals the product of side lengths.",
+                    "formulae": [
+                        "Area of rectangle = length × breadth",
+                        "Area of square = side × side"
+                    ],
+                    "examples": [
+                        "A square of side 4 cm has area 16 cm²."
+                    ]
+                },
+                {
+                    "id": "10.3",
+                    "title": "Applications of Perimeter and Area",
+                    "definition": "Perimeter and area are used to determine fencing length and surface required for tiling, carpeting, painting, etc.",
+                    "formulae": [],
+                    "examples": [
+                        "Finding wire needed to fence a rectangular park and paint needed for its floor."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 11,
+            "title": "Algebra",
+            "concepts": [
+                {
+                    "id": "11.1",
+                    "title": "Introduction to Variables and Constants",
+                    "definition": "A variable is a symbol (such as x, y) that can take different values; a constant is a fixed number.",
+                    "formulae": [],
+                    "examples": [
+                        "In 3x + 5, x is a variable and 3, 5 are constants (3 also acts as coefficient)."
+                    ]
+                },
+                {
+                    "id": "11.2",
+                    "title": "Simple Algebraic Expressions",
+                    "definition": "Algebraic expressions are formed by combining variables and constants using operations of addition, subtraction, multiplication and division.",
+                    "formulae": [],
+                    "examples": [
+                        "2x + 3, 5y − 7, 3a + 2b + 4 are algebraic expressions."
+                    ]
+                },
+                {
+                    "id": "11.3",
+                    "title": "Using Variables in Formulas and Rules",
+                    "definition": "Variables can represent general rules and formulas that work for many numbers.",
+                    "formulae": [],
+                    "examples": [
+                        "Perimeter of a rectangle with length l and breadth b is 2(l + b).",
+                        "Cost of x pencils at ₹5 each is 5x."
+                    ]
+                },
+                {
+                    "id": "11.4",
+                    "title": "Simple Equations (Intro)",
+                    "definition": "A simple equation states that two expressions are equal; solving means finding the value of the variable that satisfies the equation.",
+                    "formulae": [],
+                    "examples": [
+                        "x + 3 = 7 has solution x = 4.",
+                        "2x = 12 has solution x = 6."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 12,
+            "title": "Ratio and Proportion",
+            "concepts": [
+                {
+                    "id": "12.1",
+                    "title": "Ratio",
+                    "definition": "Ratio compares two quantities of the same kind by division, written as a : b.",
+                    "formulae": [],
+                    "examples": [
+                        "If there are 2 boys and 3 girls, the ratio boys : girls is 2 : 3."
+                    ]
+                },
+                {
+                    "id": "12.2",
+                    "title": "Equivalent Ratios",
+                    "definition": "Ratios that represent the same comparison are equivalent; they can be obtained by multiplying or dividing both terms by the same number.",
+                    "formulae": [],
+                    "examples": [
+                        "2 : 3 is equivalent to 4 : 6 or 6 : 9."
+                    ]
+                },
+                {
+                    "id": "12.3",
+                    "title": "Proportion",
+                    "definition": "When two ratios are equal, they are said to be in proportion.",
+                    "formulae": [
+                        "a : b = c : d ⇔ a/b = c/d"
+                    ],
+                    "examples": [
+                        "If 2 : 3 = 4 : 6, then 2, 3, 4, 6 are in proportion."
+                    ]
+                },
+                {
+                    "id": "12.4",
+                    "title": "Unitary Method (Intro)",
+                    "definition": "In the unitary method, first the value of a single unit is found, then used to find the value for required number of units.",
+                    "formulae": [],
+                    "examples": [
+                        "If 5 notebooks cost ₹40, cost of 1 notebook is ₹8; cost of 7 notebooks is ₹56."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 13,
+            "title": "Symmetry",
+            "concepts": [
+                {
+                    "id": "13.1",
+                    "title": "Line of Symmetry",
+                    "definition": "A figure has line symmetry if it can be folded along a line so that both halves match exactly.",
+                    "formulae": [],
+                    "examples": [
+                        "A square has 4 lines of symmetry; an equilateral triangle has 3."
+                    ]
+                },
+                {
+                    "id": "13.2",
+                    "title": "Symmetry in Everyday Objects",
+                    "definition": "Many natural and man‑made objects show symmetry, making them appear balanced and attractive.",
+                    "formulae": [],
+                    "examples": [
+                        "Butterflies, leaves and many logos have line symmetry."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 14,
+            "title": "Practical Geometry",
+            "concepts": [
+                {
+                    "id": "14.1",
+                    "title": "Instruments of Geometry Box",
+                    "definition": "A geometry box contains ruler, compass, divider, protractor and set‑squares used for constructions.",
+                    "formulae": [],
+                    "examples": [
+                        "Ruler measures lengths; compass draws circles; protractor measures angles."
+                    ]
+                },
+                {
+                    "id": "14.2",
+                    "title": "Drawing Line Segments",
+                    "definition": "A line segment of given length is drawn using a ruler and marking endpoints at required distance.",
+                    "formulae": [],
+                    "examples": [
+                        "To draw segment of length 5.6 cm, mark 0 and 5.6 cm on a ruler and join them."
+                    ]
+                },
+                {
+                    "id": "14.3",
+                    "title": "Constructing Circles",
+                    "definition": "A circle is drawn by fixing the compass point at the centre and pencil at a distance equal to the radius, then rotating once around.",
+                    "formulae": [],
+                    "examples": [
+                        "Constructing a circle of radius 3 cm using compass and ruler."
+                    ]
+                },
+                {
+                    "id": "14.4",
+                    "title": "Perpendiculars and Perpendicular Bisectors",
+                    "definition": "Perpendicular lines make a 90° angle; perpendicular bisector of a segment passes through its midpoint at right angle.",
+                    "formulae": [],
+                    "examples": [
+                        "Using compass arcs from endpoints of a segment to locate perpendicular bisector."
+                    ]
+                },
+                {
+                    "id": "14.5",
+                    "title": "Angles of Special Measures",
+                    "definition": "Angles of 30°, 45°, 60°, 90° etc. are constructed using compass and straightedge by standard geometric methods.",
+                    "formulae": [],
+                    "examples": [
+                        "Construct a 60° angle by drawing an equilateral triangle; then bisect to get 30°."
+                    ]
+                }
+            ]
+        }
+    ]
+}

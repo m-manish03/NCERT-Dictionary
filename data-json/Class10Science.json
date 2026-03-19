@@ -1,0 +1,648 @@
+{
+    "class": 10,
+    "subject": "Science",
+    "board": "NCERT/CBSE",
+    "chapters": [
+        {
+            "number": 1,
+            "title": "Chemical Reactions and Equations",
+            "concepts": [
+                {
+                    "id": "1.1",
+                    "title": "Chemical Reactions and Chemical Equations",
+                    "definition": "A chemical reaction is a process in which one or more substances (reactants) change to form new substances (products) with different properties. A chemical equation is a symbolic representation of this reaction using chemical formulae.",
+                    "formulae": [],
+                    "examples": [
+                        "Magnesium + Oxygen → Magnesium oxide (word equation).",
+                        "2Mg + O2 → 2MgO (balanced chemical equation)."
+                    ]
+                },
+                {
+                    "id": "1.2",
+                    "title": "Balancing Chemical Equations",
+                    "definition": "Chemical equations are balanced so that the number of atoms of each element is the same on both sides, satisfying the law of conservation of mass.",
+                    "formulae": [],
+                    "examples": [
+                        "Unbalanced: Fe + O2 → Fe2O3; Balanced: 4Fe + 3O2 → 2Fe2O3."
+                    ]
+                },
+                {
+                    "id": "1.3",
+                    "title": "Types of Chemical Reactions",
+                    "definition": "Common types include combination, decomposition, displacement, double displacement and redox reactions, based on how reactants change to products.",
+                    "formulae": [],
+                    "examples": [
+                        "Combination: 2H2 + O2 → 2H2O.",
+                        "Decomposition: 2KClO3 → 2KCl + 3O2 (on heating).",
+                        "Displacement: Zn + CuSO4 → ZnSO4 + Cu.",
+                        "Double displacement: Na2SO4 + BaCl2 → BaSO4 + 2NaCl."
+                    ]
+                },
+                {
+                    "id": "1.4",
+                    "title": "Effects of Oxidation and Reduction: Corrosion and Rancidity",
+                    "definition": "Oxidation is gain of oxygen or loss of electrons; reduction is loss of oxygen or gain of electrons. Slow oxidation can cause corrosion of metals and rancidity of fats and oils.",
+                    "formulae": [],
+                    "examples": [
+                        "Rusting of iron: 4Fe + 3O2 + 2xH2O → 2Fe2O3·xH2O.",
+                        "Chips packed in nitrogen to slow rancidity of oil."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "title": "Acids, Bases and Salts",
+            "concepts": [
+                {
+                    "id": "2.1",
+                    "title": "Acids and Bases and Their Indicators",
+                    "definition": "Acids produce H+ ions in aqueous solution; bases produce OH− ions. Indicators like litmus, phenolphthalein and methyl orange show different colours in acids and bases.",
+                    "formulae": [],
+                    "examples": [
+                        "HCl is an acid, NaOH is a base.",
+                        "Blue litmus turns red in acids; red litmus turns blue in bases."
+                    ]
+                },
+                {
+                    "id": "2.2",
+                    "title": "Chemical Properties of Acids and Bases",
+                    "definition": "Acids and bases show characteristic reactions with metals, metal oxides, carbonates and each other, often producing salts and other compounds.",
+                    "formulae": [],
+                    "examples": [
+                        "Acid + metal → salt + H2 (e.g., 2HCl + Zn → ZnCl2 + H2).",
+                        "Base + acid → salt + water (neutralisation): NaOH + HCl → NaCl + H2O."
+                    ]
+                },
+                {
+                    "id": "2.3",
+                    "title": "pH and Its Importance",
+                    "definition": "pH is a measure of acidity or basicity of a solution on a scale from 0 to 14, defined as negative logarithm of hydrogen ion concentration.",
+                    "formulae": [],
+                    "examples": [
+                        "pH < 7 indicates acidic, pH = 7 neutral, pH > 7 basic.",
+                        "Human blood has pH around 7.4."
+                    ]
+                },
+                {
+                    "id": "2.4",
+                    "title": "Salts and Their Uses",
+                    "definition": "Salts are ionic compounds formed by neutralisation of acids and bases and have many household and industrial uses.",
+                    "formulae": [],
+                    "examples": [
+                        "Common salt NaCl, baking soda NaHCO3, washing soda Na2CO3·10H2O, plaster of Paris CaSO4·½H2O."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "title": "Metals and Non-metals",
+            "concepts": [
+                {
+                    "id": "3.1",
+                    "title": "Physical Properties of Metals and Non-metals",
+                    "definition": "Metals are generally lustrous, malleable, ductile, good conductors and sonorous; non‑metals are usually dull, brittle in solid state and poor conductors.",
+                    "formulae": [],
+                    "examples": [
+                        "Iron, copper and aluminium are metals; sulphur and phosphorus are non‑metals."
+                    ]
+                },
+                {
+                    "id": "3.2",
+                    "title": "Chemical Properties of Metals",
+                    "definition": "Metals react with oxygen, water, acids and other salts; reactivity varies and is summarised in the reactivity series.",
+                    "formulae": [],
+                    "examples": [
+                        "4Na + O2 → 2Na2O; 2Mg + O2 → 2MgO.",
+                        "Metal + acid → salt + H2, e.g., Zn + H2SO4 → ZnSO4 + H2."
+                    ]
+                },
+                {
+                    "id": "3.3",
+                    "title": "Ionic Compounds",
+                    "definition": "Ionic compounds form due to transfer of electrons from metals to non‑metals, producing oppositely charged ions held by electrostatic forces.",
+                    "formulae": [],
+                    "examples": [
+                        "Formation of NaCl from Na and Cl; CaCl2 from Ca and Cl2."
+                    ]
+                },
+                {
+                    "id": "3.4",
+                    "title": "Corrosion and Its Prevention",
+                    "definition": "Corrosion is the gradual damage of metals by chemical reactions with environment, especially air and moisture. It can be reduced by protective coatings or sacrificial metals.",
+                    "formulae": [],
+                    "examples": [
+                        "Galvanisation of iron by zinc coating; painting and oiling metal surfaces."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "title": "Carbon and Its Compounds",
+            "concepts": [
+                {
+                    "id": "4.1",
+                    "title": "Versatile Nature of Carbon",
+                    "definition": "Carbon forms a vast number of compounds due to catenation (self‑linking) and tetravalency, allowing chains, branches and rings.",
+                    "formulae": [],
+                    "examples": [
+                        "Chains in alkanes like hexane; rings in benzene; branched isomers like isobutane."
+                    ]
+                },
+                {
+                    "id": "4.2",
+                    "title": "Covalent Bonding in Carbon Compounds",
+                    "definition": "Carbon shares electrons with other atoms to form covalent bonds, resulting in stable molecules of organics compounds.",
+                    "formulae": [],
+                    "examples": [
+                        "Methane CH4, ethene C2H4, carbon dioxide CO2."
+                    ]
+                },
+                {
+                    "id": "4.3",
+                    "title": "Homologous Series and Functional Groups",
+                    "definition": "Homologous series is a family of organic compounds with same functional group and general formula, differing by CH2 unit. Functional groups decide chemical properties.",
+                    "formulae": [],
+                    "examples": [
+                        "Alkane series: CnH2n+2; alcohol group –OH; carboxylic acid group –COOH."
+                    ]
+                },
+                {
+                    "id": "4.4",
+                    "title": "Important Carbon Compounds: Ethanol and Ethanoic Acid",
+                    "definition": "Ethanol and ethanoic acid are common organic compounds with wide use as solvent, fuel and acid, showing typical reactions of alcohols and carboxylic acids.",
+                    "formulae": [],
+                    "examples": [
+                        "Ethanol C2H5OH used in spirit; ethanoic acid CH3COOH in vinegar.",
+                        "Esterification: alcohol + acid → ester + water."
+                    ]
+                },
+                {
+                    "id": "4.5",
+                    "title": "Soaps and Detergents (Intro)",
+                    "definition": "Soaps and detergents are cleansing agents that help remove dirt and oil by forming micelles, but differ in composition and action in hard water.",
+                    "formulae": [],
+                    "examples": [
+                        "Soap is sodium or potassium salt of fatty acid; detergents are sulphonic acid salts effective in hard water."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "title": "Periodic Classification of Elements",
+            "concepts": [
+                {
+                    "id": "5.1",
+                    "title": "Need for Classification and Early Attempts",
+                    "definition": "As number of known elements increased, classification was needed to organise them based on properties; attempts include Dobereiner’s triads and Newlands’ law of octaves.",
+                    "formulae": [],
+                    "examples": [
+                        "Dobereiner grouped Li, Na, K as a triad; Newlands arranged elements so every eighth had similar properties."
+                    ]
+                },
+                {
+                    "id": "5.2",
+                    "title": "Modern Periodic Table",
+                    "definition": "Modern periodic table arranges elements in increasing atomic number, in rows (periods) and columns (groups) so that elements with similar valence shell configuration fall in same group.",
+                    "formulae": [],
+                    "examples": [
+                        "Group 1 alkali metals: Li, Na, K; Group 17 halogens: F, Cl, Br, I."
+                    ]
+                },
+                {
+                    "id": "5.3",
+                    "title": "Trends in the Periodic Table",
+                    "definition": "Properties such as atomic size, metallic character, valency and electronegativity show regular trends along periods and groups.",
+                    "formulae": [],
+                    "examples": [
+                        "Atomic radius decreases across a period, increases down a group; metallic character decreases across a period, increases down a group."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 6,
+            "title": "Life Processes",
+            "concepts": [
+                {
+                    "id": "6.1",
+                    "title": "Life Processes and Their Types",
+                    "definition": "Life processes are activities essential for maintaining life, including nutrition, respiration, transportation and excretion.",
+                    "formulae": [],
+                    "examples": [
+                        "Plants performing photosynthesis, animals respiring for energy, circulation of blood in humans."
+                    ]
+                },
+                {
+                    "id": "6.2",
+                    "title": "Nutrition in Plants and Animals",
+                    "definition": "Nutrition is intake and use of food materials. Plants are autotrophs making food by photosynthesis; most animals are heterotrophs depending on others.",
+                    "formulae": [
+                        "Photosynthesis: 6CO2 + 6H2O → C6H12O6 + 6O2 (in presence of light and chlorophyll)"
+                    ],
+                    "examples": [
+                        "Human digestive system with mouth, stomach and intestines; modes like holozoic nutrition."
+                    ]
+                },
+                {
+                    "id": "6.3",
+                    "title": "Respiration: Aerobic and Anaerobic",
+                    "definition": "Respiration is oxidation of food to release energy. Aerobic respiration uses oxygen, while anaerobic does not and yields less energy.",
+                    "formulae": [],
+                    "examples": [
+                        "In humans: glucose + oxygen → carbon dioxide + water + energy.",
+                        "Yeast performing anaerobic respiration producing alcohol and CO2."
+                    ]
+                },
+                {
+                    "id": "6.4",
+                    "title": "Transportation in Plants and Animals",
+                    "definition": "Transport systems move materials like water, minerals, food and gases in organisms. Plants use xylem and phloem; animals use circulatory system with blood and vessels.",
+                    "formulae": [],
+                    "examples": [
+                        "Heart pumping blood through arteries and veins; transpiration pull in xylem."
+                    ]
+                },
+                {
+                    "id": "6.5",
+                    "title": "Excretion in Plants and Animals",
+                    "definition": "Excretion removes metabolic wastes from the body to maintain internal balance. Animals have specialised organs; plants use diffusion and storage.",
+                    "formulae": [],
+                    "examples": [
+                        "Human excretory system with kidneys, ureters, urinary bladder and urethra; plants excreting through leaves and gums."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 7,
+            "title": "Control and Coordination",
+            "concepts": [
+                {
+                    "id": "7.1",
+                    "title": "Control and Coordination in Animals",
+                    "definition": "Coordination is integration of different organs using nervous system and endocrine (hormonal) system.",
+                    "formulae": [],
+                    "examples": [
+                        "Brain, spinal cord and nerves transmitting impulses; hormones like insulin regulating blood sugar."
+                    ]
+                },
+                {
+                    "id": "7.2",
+                    "title": "Structure and Function of Neuron",
+                    "definition": "Neurons are specialised nerve cells with cell body, dendrites and axon that transmit nerve impulses by electrical and chemical signals.",
+                    "formulae": [],
+                    "examples": [
+                        "Reflex actions like knee‑jerk using reflex arc involving receptor, sensory neuron, spinal cord, motor neuron and effector."
+                    ]
+                },
+                {
+                    "id": "7.3",
+                    "title": "Plant Hormones and Tropic Movements",
+                    "definition": "Plants respond to stimuli through hormones and directional growth movements called tropisms.",
+                    "formulae": [],
+                    "examples": [
+                        "Auxins, gibberellins, cytokinins and ethylene; phototropism (bending towards light), geotropism (root growing downward)."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 8,
+            "title": "How Do Organisms Reproduce?",
+            "concepts": [
+                {
+                    "id": "8.1",
+                    "title": "Asexual Reproduction",
+                    "definition": "Asexual reproduction involves a single parent producing genetically identical offspring without formation and fusion of gametes.",
+                    "formulae": [],
+                    "examples": [
+                        "Binary fission in Amoeba, budding in yeast, fragmentation in Spirogyra, vegetative propagation in plants."
+                    ]
+                },
+                {
+                    "id": "8.2",
+                    "title": "Sexual Reproduction in Flowering Plants",
+                    "definition": "Sexual reproduction involves formation of male and female gametes, their fusion and development of seeds and fruits.",
+                    "formulae": [],
+                    "examples": [
+                        "Structure of flower: stamen (male), pistil (female); pollination and fertilisation."
+                    ]
+                },
+                {
+                    "id": "8.3",
+                    "title": "Reproduction in Humans",
+                    "definition": "Human reproduction includes male and female reproductive systems, gamete formation, fertilisation, embryo development and birth.",
+                    "formulae": [],
+                    "examples": [
+                        "Testes producing sperms; ovaries producing ova; foetal development in uterus."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 9,
+            "title": "Heredity and Evolution",
+            "concepts": [
+                {
+                    "id": "9.1",
+                    "title": "Heredity and Inheritance",
+                    "definition": "Heredity is transmission of traits from parents to offspring through genes. Inheritance patterns follow certain rules studied by Mendel.",
+                    "formulae": [],
+                    "examples": [
+                        "Mendel’s experiments on pea plants with tall/short, round/wrinkled seeds."
+                    ]
+                },
+                {
+                    "id": "9.2",
+                    "title": "Traits, Genes and Chromosomes",
+                    "definition": "Traits are characteristics; genes are units of heredity located on chromosomes made of DNA.",
+                    "formulae": [],
+                    "examples": [
+                        "Eye colour, height as traits; alleles as different forms of a gene."
+                    ]
+                },
+                {
+                    "id": "9.3",
+                    "title": "Evolution (Concept Level)",
+                    "definition": "Evolution is gradual change in heritable characteristics of species over generations due to variation and natural selection.",
+                    "formulae": [],
+                    "examples": [
+                        "Fossil records, homologous organs and industrial melanism in moths as evidence of evolution."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 10,
+            "title": "Light – Reflection and Refraction",
+            "concepts": [
+                {
+                    "id": "10.1",
+                    "title": "Reflection of Light by Spherical Mirrors",
+                    "definition": "Spherical mirrors (concave and convex) reflect light according to laws of reflection; image formation depends on object position.",
+                    "formulae": [
+                        "Mirror formula (concept only here): 1/f = 1/v + 1/u"
+                    ],
+                    "examples": [
+                        "Concave mirrors form real or virtual images; convex mirrors always form virtual, diminished images."
+                    ]
+                },
+                {
+                    "id": "10.2",
+                    "title": "Refraction of Light and Refractive Index",
+                    "definition": "Refraction is bending of light when it passes between media of different optical densities; refractive index measures optical density.",
+                    "formulae": [],
+                    "examples": [
+                        "Light bending when entering water from air; apparent shift in position of objects under water."
+                    ]
+                },
+                {
+                    "id": "10.3",
+                    "title": "Refraction by Spherical Lenses",
+                    "definition": "Convex and concave lenses refract light; image formation patterns depend on object distance.",
+                    "formulae": [
+                        "Lens formula (concept): 1/f = 1/v − 1/u"
+                    ],
+                    "examples": [
+                        "Convex lens can form real or virtual images; concave lens forms virtual, diminished images."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 11,
+            "title": "The Human Eye and the Colourful World",
+            "concepts": [
+                {
+                    "id": "11.1",
+                    "title": "Structure and Functioning of Human Eye",
+                    "definition": "The eye has parts like cornea, iris, pupil, lens, retina and optic nerve that enable vision by focusing light on retina.",
+                    "formulae": [],
+                    "examples": [
+                        "Ciliary muscles adjust lens curvature for near and distant vision (accommodation)."
+                    ]
+                },
+                {
+                    "id": "11.2",
+                    "title": "Defects of Vision and Correction",
+                    "definition": "Common eye defects include myopia, hypermetropia and presbyopia, corrected using suitable lenses.",
+                    "formulae": [],
+                    "examples": [
+                        "Myopia (short‑sightedness) corrected by concave lens; hypermetropia by convex lens."
+                    ]
+                },
+                {
+                    "id": "11.3",
+                    "title": "Dispersion and Scattering of Light",
+                    "definition": "Dispersion is splitting of white light into constituent colours; scattering is deviation of light by particles, explaining phenomena like blue sky and red sunsets.",
+                    "formulae": [],
+                    "examples": [
+                        "Rainbow formation by dispersion; blue colour of sky due to scattering of shorter wavelength light."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 12,
+            "title": "Electricity",
+            "concepts": [
+                {
+                    "id": "12.1",
+                    "title": "Electric Current and Potential Difference",
+                    "definition": "Electric current is rate of flow of charge; potential difference is work done per unit charge to move a charge between two points.",
+                    "formulae": [
+                        "I = Q / t",
+                        "V = W / Q"
+                    ],
+                    "examples": [
+                        "Current in a circuit measured in amperes using ammeter; potential difference measured in volts using voltmeter."
+                    ]
+                },
+                {
+                    "id": "12.2",
+                    "title": "Ohm’s Law and Resistance",
+                    "definition": "Ohm’s law states that current through a conductor is directly proportional to potential difference across it, at constant temperature.",
+                    "formulae": [
+                        "V = IR",
+                        "R = V / I"
+                    ],
+                    "examples": [
+                        "Plot of V vs I for ohmic conductor is straight line through origin; slope gives resistance."
+                    ]
+                },
+                {
+                    "id": "12.3",
+                    "title": "Resistors in Series and Parallel",
+                    "definition": "Equivalent resistance of resistors depends on whether they are connected in series or parallel.",
+                    "formulae": [
+                        "Series: R_eq = R1 + R2 + ...",
+                        "Parallel: 1/R_eq = 1/R1 + 1/R2 + ..."
+                    ],
+                    "examples": [
+                        "Series connection increases total resistance; parallel connection decreases it."
+                    ]
+                },
+                {
+                    "id": "12.4",
+                    "title": "Electric Power and Heating Effect",
+                    "definition": "Electric power is rate of doing work or energy consumption; current through resistance produces heat (Joule heating).",
+                    "formulae": [
+                        "P = VI",
+                        "P = I^2 R",
+                        "P = V^2 / R",
+                        "Heat H = I^2 R t"
+                    ],
+                    "examples": [
+                        "Electric heater, bulb and fuse working based on heating effect of current."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 13,
+            "title": "Magnetic Effects of Electric Current",
+            "concepts": [
+                {
+                    "id": "13.1",
+                    "title": "Magnetic Field and Field Lines",
+                    "definition": "A current‑carrying conductor produces a magnetic field around it; field lines represent direction and strength of field.",
+                    "formulae": [],
+                    "examples": [
+                        "Right‑hand thumb rule gives direction of field around straight current‑carrying conductor."
+                    ]
+                },
+                {
+                    "id": "13.2",
+                    "title": "Force on Current-Carrying Conductor",
+                    "definition": "A conductor carrying current in a magnetic field experiences a force; its direction is given by Fleming’s left‑hand rule.",
+                    "formulae": [],
+                    "examples": [
+                        "Working principle of electric motor based on this force."
+                    ]
+                },
+                {
+                    "id": "13.3",
+                    "title": "Electromagnetic Induction (Concept)",
+                    "definition": "Change in magnetic field linked with a conductor induces an electric current in it; direction is given by Fleming’s right‑hand rule.",
+                    "formulae": [],
+                    "examples": [
+                        "Working of generator and some power‑generation devices."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 14,
+            "title": "Sources of Energy",
+            "concepts": [
+                {
+                    "id": "14.1",
+                    "title": "Conventional Energy Sources",
+                    "definition": "Traditional energy sources include fossil fuels (coal, petroleum), hydroelectric power and biomass, widely used but with limitations.",
+                    "formulae": [],
+                    "examples": [
+                        "Thermal power plants using coal; dams generating hydroelectricity."
+                    ]
+                },
+                {
+                    "id": "14.2",
+                    "title": "Non-conventional Energy Sources",
+                    "definition": "Renewable, alternative energy sources like solar, wind, geothermal and tidal energy are cleaner and more sustainable.",
+                    "formulae": [],
+                    "examples": [
+                        "Solar panels converting sunlight to electricity; wind turbines generating power from wind."
+                    ]
+                },
+                {
+                    "id": "14.3",
+                    "title": "Qualities of a Good Fuel",
+                    "definition": "A good fuel has high calorific value, is readily available, economical, easy to store and transport, and produces minimal pollution.",
+                    "formulae": [],
+                    "examples": [
+                        "LPG and CNG are considered good fuels compared to coal and firewood."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 15,
+            "title": "Our Environment",
+            "concepts": [
+                {
+                    "id": "15.1",
+                    "title": "Ecosystem and Its Components",
+                    "definition": "An ecosystem includes all living organisms in an area and their physical environment interacting as a system.",
+                    "formulae": [],
+                    "examples": [
+                        "Forest, pond and desert ecosystems with producers, consumers and decomposers."
+                    ]
+                },
+                {
+                    "id": "15.2",
+                    "title": "Food Chains and Food Webs",
+                    "definition": "Food chains show linear feeding relationships; food webs are interconnected food chains showing complex interactions.",
+                    "formulae": [],
+                    "examples": [
+                        "Grass → grasshopper → frog → snake → eagle.",
+                        "Many food chains interconnected in a forest form a food web."
+                    ]
+                },
+                {
+                    "id": "15.3",
+                    "title": "Ozone Layer and Its Depletion",
+                    "definition": "The ozone layer protects Earth from harmful UV radiation; certain chemicals like CFCs cause its depletion.",
+                    "formulae": [],
+                    "examples": [
+                        "International efforts to reduce CFC use to protect ozone layer."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 16,
+            "title": "Sustainable Management of Natural Resources",
+            "concepts": [
+                {
+                    "id": "16.1",
+                    "title": "Need for Resource Management",
+                    "definition": "Natural resources like forests, water and minerals must be managed sustainably to meet present needs without compromising future generations.",
+                    "formulae": [],
+                    "examples": [
+                        "Judicious use of water and forests; avoiding over‑exploitation of minerals."
+                    ]
+                },
+                {
+                    "id": "16.2",
+                    "title": "Management of Forests and Wildlife",
+                    "definition": "Conservation of biodiversity through protected areas, community participation and laws helps maintain ecological balance.",
+                    "formulae": [],
+                    "examples": [
+                        "National parks and wildlife sanctuaries; Chipko movement to protect forests."
+                    ]
+                },
+                {
+                    "id": "16.3",
+                    "title": "Water and Energy Management",
+                    "definition": "Sustainable water and energy management involve conserving, recycling and choosing cleaner options.",
+                    "formulae": [],
+                    "examples": [
+                        "Rainwater harvesting, drip irrigation; promoting renewable energy sources."
+                    ]
+                },
+                {
+                    "id": "16.4",
+                    "title": "Reduce, Reuse and Recycle",
+                    "definition": "3R principle focuses on reducing resource use, reusing materials and recycling waste to reduce environmental impact.",
+                    "formulae": [],
+                    "examples": [
+                        "Using cloth bags instead of plastic, reusing containers, recycling paper and metals."
+                    ]
+                }
+            ]
+        }
+    ]
+}
