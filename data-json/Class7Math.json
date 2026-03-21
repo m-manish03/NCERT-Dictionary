@@ -1,786 +1,895 @@
 {
-    "class": 7,
-    "subject": "Mathematics",
-    "board": "NCERT/CBSE",
-    "chapters": [
+  "class": "7",
+  "subject": "Math",
+  "board": "NCERT",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Large Numbers Around Us",
+      "concepts": [
         {
-            "number": 1,
-            "title": "Integers",
-            "concepts": [
-                {
-                    "id": "1.1",
-                    "title": "Whole Numbers and Integers",
-                    "definition": "Whole numbers are {0, 1, 2, 3, ...}. Integers extend whole numbers to include negative numbers, i.e., {..., -3, -2, -1, 0, 1, 2, 3, ...}.",
-                    "formulae": [],
-                    "examples": [
-                        "−5, 0 and 12 are integers; 2.5 is not an integer.",
-                        "Whole numbers are a subset of integers."
-                    ]
-                },
-                {
-                    "id": "1.2",
-                    "title": "Representation on Number Line",
-                    "definition": "Integers can be shown on a horizontal line with zero at the centre, positive numbers to the right and negative numbers to the left, equally spaced.",
-                    "formulae": [],
-                    "examples": [
-                        "On the number line −3 is to the left of 2, so −3 < 2."
-                    ]
-                },
-                {
-                    "id": "1.3",
-                    "title": "Addition and Subtraction of Integers",
-                    "definition": "Adding and subtracting integers follows rules based on their signs. Same signs add magnitudes and keep the sign; different signs subtract magnitudes and take the sign of the larger magnitude.",
-                    "formulae": [
-                        "a + 0 = a",
-                        "a + (−a) = 0",
-                        "(+a) + (+b) = +(a + b)",
-                        "(−a) + (−b) = −(a + b)"
-                    ],
-                    "examples": [
-                        "5 + (−3) = 2, because 5 − 3 = 2 and 5 has larger magnitude.",
-                        "−4 + (−7) = −11."
-                    ]
-                },
-                {
-                    "id": "1.4",
-                    "title": "Multiplication of Integers",
-                    "definition": "Multiplication of integers follows sign rules: product of two integers with same sign is positive, with different signs is negative.",
-                    "formulae": [
-                        "(+a) × (+b) = +(ab)",
-                        "(−a) × (−b) = +(ab)",
-                        "(+a) × (−b) = −(ab)",
-                        "(−a) × (+b) = −(ab)"
-                    ],
-                    "examples": [
-                        "3 × (−4) = −12.",
-                        "(−5) × (−6) = 30."
-                    ]
-                },
-                {
-                    "id": "1.5",
-                    "title": "Division of Integers",
-                    "definition": "Division of integers uses the same sign rules as multiplication: quotient of two integers with same sign is positive, with different signs is negative.",
-                    "formulae": [
-                        "(+a) ÷ (+b) = +(a/b)",
-                        "(−a) ÷ (−b) = +(a/b)",
-                        "(+a) ÷ (−b) = −(a/b)",
-                        "(−a) ÷ (+b) = −(a/b)"
-                    ],
-                    "examples": [
-                        "12 ÷ (−3) = −4.",
-                        "(−15) ÷ (−5) = 3."
-                    ]
-                },
-                {
-                    "id": "1.6",
-                    "title": "Properties of Operations on Integers",
-                    "definition": "Integers are closed under addition, subtraction and multiplication and satisfy commutative, associative and distributive properties for these operations.",
-                    "formulae": [
-                        "a + b = b + a (commutative for addition)",
-                        "a × b = b × a (commutative for multiplication)",
-                        "(a + b) + c = a + (b + c) (associative for addition)",
-                        "(a × b) × c = a × (b × c) (associative for multiplication)",
-                        "a × (b + c) = a × b + a × c (distributive)"
-                    ],
-                    "examples": [
-                        "2 + (−3) = (−3) + 2 = −1.",
-                        "3 × (−4 + 5) = 3 × 1 = 3, and 3 × (−4) + 3 × 5 = −12 + 15 = 3."
-                    ]
-                }
-            ]
+          "id": "1.1",
+          "title": "A Lakh Varieties!",
+          "definition": "Eshwarappa is a farmer in Chintamani, a town in Karnataka. He visits the market regularly to buy seeds for his rice field. During one such visit he overheard a conversation between Ramanna and Lakshmamma. Ramanna said, “Earlier our country had about a lakh varieties of rice. Farmers used to preserve different varieties of seeds and use them to grow rice. Now, we only have a handful of varieties. Also, farmers have to come to the market to buy seeds”.",
+          "formulae": [
+            "3 6 5 \\times y",
+            "\\cdot"
+          ],
+          "examples": [
+            ", can the whole population of Chintamani fit in the stadium? How can we imagine the line of $3 8 ~ \\mathrm { k m }$ , having a lakh people, sitting next to each other in the stadium?"
+          ]
         },
         {
-            "number": 2,
-            "title": "Fractions and Decimals",
-            "concepts": [
-                {
-                    "id": "2.1",
-                    "title": "Types of Fractions",
-                    "definition": "Fractions can be proper (numerator < denominator), improper (numerator ≥ denominator) or mixed (a whole number plus a proper fraction).",
-                    "formulae": [],
-                    "examples": [
-                        "3/4 is a proper fraction, 7/3 is improper, 2 1/5 is a mixed fraction."
-                    ]
-                },
-                {
-                    "id": "2.2",
-                    "title": "Equivalent Fractions and Simplification",
-                    "definition": "Equivalent fractions represent the same value; they can be obtained by multiplying or dividing numerator and denominator by the same non‑zero number.",
-                    "formulae": [],
-                    "examples": [
-                        "1/2 = 2/4 = 3/6.",
-                        "6/8 simplified by dividing numerator and denominator by 2 gives 3/4."
-                    ]
-                },
-                {
-                    "id": "2.3",
-                    "title": "Operations on Fractions",
-                    "definition": "Fractions are added or subtracted using a common denominator; multiplication multiplies numerators and denominators; division multiplies by the reciprocal.",
-                    "formulae": [
-                        "a/b + c/d = (ad + bc) / bd",
-                        "a/b − c/d = (ad − bc) / bd",
-                        "a/b × c/d = (ac) / (bd)",
-                        "a/b ÷ c/d = (a/b) × (d/c)"
-                    ],
-                    "examples": [
-                        "1/3 + 1/6 = (2 + 1) / 6 = 3/6 = 1/2.",
-                        "2/5 × 3/4 = 6/20 = 3/10."
-                    ]
-                },
-                {
-                    "id": "2.4",
-                    "title": "Decimals and Place Value",
-                    "definition": "Decimals have a whole number part and a fractional part separated by a decimal point, with place values tenths, hundredths, thousandths and so on.",
-                    "formulae": [],
-                    "examples": [
-                        "In 4.327, 3 is tenths, 2 is hundredths and 7 is thousandths."
-                    ]
-                },
-                {
-                    "id": "2.5",
-                    "title": "Operations on Decimals",
-                    "definition": "Addition and subtraction of decimals align the decimal points; multiplication and division follow whole‑number rules while managing decimal places.",
-                    "formulae": [],
-                    "examples": [
-                        "3.4 + 2.56 = 5.96.",
-                        "2.5 × 0.4 = 1.0."
-                    ]
-                },
-                {
-                    "id": "2.6",
-                    "title": "Conversion Between Fractions and Decimals",
-                    "definition": "Fractions with denominators like 10, 100, 1000 can be written as decimals, and terminating decimals can be written as fractions.",
-                    "formulae": [],
-                    "examples": [
-                        "37/100 = 0.37.",
-                        "0.125 = 125/1000 = 1/8."
-                    ]
-                }
-            ]
+          "id": "1.2",
+          "title": "Land of Tens",
+          "definition": "In the Land of Tens, there are special calculators with special buttons.",
+          "formulae": [
+            "+ 1 0 0 0",
+            "+ 1 0",
+            "+ 1 0 0"
+          ],
+          "examples": []
         },
         {
-            "number": 3,
-            "title": "Data Handling",
-            "concepts": [
-                {
-                    "id": "3.1",
-                    "title": "Data and Frequency",
-                    "definition": "Data are collected facts or numbers; frequency of a value is the number of times it occurs in the data.",
-                    "formulae": [],
-                    "examples": [
-                        "If the marks 5, 7, 5, 8, 5 occur, the frequency of 5 is 3."
-                    ]
-                },
-                {
-                    "id": "3.2",
-                    "title": "Tally Marks and Tables",
-                    "definition": "Tally marks are quick strokes used to count frequencies; grouped into fives for easy reading and organised in tables.",
-                    "formulae": [],
-                    "examples": [
-                        "|||| represents 4 and ||||/ represents 5 in tally marks."
-                    ]
-                },
-                {
-                    "id": "3.3",
-                    "title": "Bar Graphs",
-                    "definition": "Bar graphs represent data using rectangular bars with heights proportional to frequencies on a set of axes.",
-                    "formulae": [],
-                    "examples": [
-                        "A bar graph can show the number of students choosing different sports."
-                    ]
-                },
-                {
-                    "id": "3.4",
-                    "title": "Mean, Median and Mode",
-                    "definition": "Mean is the average of data, median is the middle value when data are arranged in order, and mode is the most frequent value.",
-                    "formulae": [
-                        "Mean = (sum of all observations) / (number of observations)"
-                    ],
-                    "examples": [
-                        "For data 2, 4, 6: mean = (2 + 4 + 6) / 3 = 4; median = 4; any value occurring most often is the mode."
-                    ]
-                },
-                {
-                    "id": "3.5",
-                    "title": "Chance and Probability (Informal)",
-                    "definition": "Chance describes how likely an event is to happen, using terms like certain, likely, unlikely and impossible.",
-                    "formulae": [],
-                    "examples": [
-                        "Getting a number greater than 6 on a standard die is impossible.",
-                        "Getting a head when tossing a coin is equally likely as getting a tail."
-                    ]
-                }
-            ]
+          "id": "1.3",
+          "title": "Of Crores and Crores!",
+          "definition": "The table below shows some numbers according to both the Indian system and the American system (also called the International system) of naming numerals and placing commas. Observe the placement of commas in both systems.",
+          "formulae": [
+            "\\textcircled{7}",
+            "\\cdot",
+            "9 , 8 7 , 6 5 , 0 1 , 2 3 4  9"
+          ],
+          "examples": []
         },
         {
-            "number": 4,
-            "title": "Simple Equations",
-            "concepts": [
-                {
-                    "id": "4.1",
-                    "title": "Variables and Constants",
-                    "definition": "A variable is a symbol (like x, y) that can take different values; a constant is a fixed number.",
-                    "formulae": [],
-                    "examples": [
-                        "In 3x + 5, x is a variable and 3, 5 are constants (3 also a coefficient)."
-                    ]
-                },
-                {
-                    "id": "4.2",
-                    "title": "Algebraic Expressions",
-                    "definition": "An algebraic expression is formed by combining variables and constants using operations like addition, subtraction, multiplication and division.",
-                    "formulae": [],
-                    "examples": [
-                        "4x + 7, 3y − 2 and 2a + 3b + 5 are algebraic expressions."
-                    ]
-                },
-                {
-                    "id": "4.3",
-                    "title": "Equations and Solutions",
-                    "definition": "An equation states that two expressions are equal and usually contains a variable; the solution is the value of the variable that makes the equation true.",
-                    "formulae": [],
-                    "examples": [
-                        "x + 5 = 9 is an equation; x = 4 is its solution."
-                    ]
-                },
-                {
-                    "id": "4.4",
-                    "title": "Solving One‑Step Linear Equations",
-                    "definition": "Simple equations of type ax + b = c are solved by doing the same operation on both sides to isolate the variable.",
-                    "formulae": [],
-                    "examples": [
-                        "x − 7 = 5 ⇒ x = 5 + 7 = 12.",
-                        "3x = 18 ⇒ x = 18 ÷ 3 = 6."
-                    ]
-                },
-                {
-                    "id": "4.5",
-                    "title": "Applications of Simple Equations",
-                    "definition": "Word problems can be translated into equations in one variable and solved using the same methods.",
-                    "formulae": [],
-                    "examples": [
-                        "If a number increased by 9 gives 20, let the number be x: x + 9 = 20 ⇒ x = 11."
-                    ]
-                }
-            ]
+          "id": "1.4",
+          "title": "Exact and Approximate Values",
+          "definition": "What do you think of this conversation? Have you read or heard such headlines or statements?",
+          "formulae": [
+            "\\yen 500",
+            "\\cdot",
+            "\\textcircled{7}"
+          ],
+          "examples": [
+            ", according to the 2011 census, the population of Chintamani town is 76,068. Instead, saying that the population is about 75,000 is enough to give an idea of how big the quantity is.",
+            ", if a school has 732 people including students, teachers and staff: the principal might order 750 sweets instead of 700 sweets.",
+            ", if the cost of an item is ₹470, the shopkeeper may say that the cost is around ₹450 instead of saying it is around $\\yen 500$ ."
+          ]
         },
         {
-            "number": 5,
-            "title": "Lines and Angles",
-            "concepts": [
-                {
-                    "id": "5.1",
-                    "title": "Basic Terms: Point, Line, Ray, Line Segment",
-                    "definition": "A point shows a position; a line extends endlessly in both directions; a ray has one endpoint and extends endlessly in one direction; a line segment has two endpoints.",
-                    "formulae": [],
-                    "examples": [
-                        "A pencil tip represents a point, an edge of a ruler can model a line segment."
-                    ]
-                },
-                {
-                    "id": "5.2",
-                    "title": "Types of Angles",
-                    "definition": "Angles are classified as acute (0°–90°), right (90°), obtuse (90°–180°), straight (180°), reflex (180°–360°) and complete (360°).",
-                    "formulae": [],
-                    "examples": [
-                        "A corner of a square is a right angle; a slice less than a quarter circle is an acute angle."
-                    ]
-                },
-                {
-                    "id": "5.3",
-                    "title": "Pairs of Angles",
-                    "definition": "Adjacent, linear pair, vertically opposite, complementary and supplementary angles describe relationships between two angles.",
-                    "formulae": [
-                        "Angles in a linear pair sum to 180°",
-                        "Complementary angles sum to 90°",
-                        "Supplementary angles sum to 180°"
-                    ],
-                    "examples": [
-                        "If two angles form a straight line, they are supplementary.",
-                        "Opposite angles where two lines intersect are vertically opposite and equal."
-                    ]
-                },
-                {
-                    "id": "5.4",
-                    "title": "Intersecting and Parallel Lines",
-                    "definition": "Intersecting lines meet at a point; parallel lines never meet, however far extended.",
-                    "formulae": [],
-                    "examples": [
-                        "Railway tracks are approximately parallel lines."
-                    ]
-                }
-            ]
+          "id": "1.5",
+          "title": "Patterns in Products",
+          "definition": "Roxie and Estu are playing with multiplication. They encounter an interesting technique for multiplying a number by 10, 100, 1000, and so on.",
+          "formulae": [
+            "1 1 6 \\times 5",
+            "{ \\begin{array} { r l } { 5 8 } & { } \\\\ { 1 1 6 \\times 5 } & { = \\supset { \\mathcal { X } } 6 \\times { \\frac { 1 0 } { \\mathcal { Z } } } } \\\\ & { = 5 8 \\times 1 0 } \\\\ & { = 5 8 0 . } \\end{array} }",
+            "{ 8 2 4 \\times 2 5 }"
+          ],
+          "examples": []
         },
         {
-            "number": 6,
-            "title": "The Triangle and Its Properties",
-            "concepts": [
-                {
-                    "id": "6.1",
-                    "title": "Classification of Triangles",
-                    "definition": "Triangles can be classified by sides as scalene, isosceles or equilateral and by angles as acute, right or obtuse.",
-                    "formulae": [],
-                    "examples": [
-                        "An equilateral triangle has all sides equal and all angles 60°.",
-                        "A right triangle has one 90° angle."
-                    ]
-                },
-                {
-                    "id": "6.2",
-                    "title": "Angle Sum Property",
-                    "definition": "The sum of the three interior angles of a triangle is always 180 degrees.",
-                    "formulae": [
-                        "∠A + ∠B + ∠C = 180°"
-                    ],
-                    "examples": [
-                        "If two angles are 50° and 60°, the third is 180° − (50° + 60°) = 70°."
-                    ]
-                },
-                {
-                    "id": "6.3",
-                    "title": "Exterior Angle Property",
-                    "definition": "An exterior angle of a triangle is equal to the sum of the two interior opposite angles.",
-                    "formulae": [
-                        "Exterior angle = sum of two interior opposite angles"
-                    ],
-                    "examples": [
-                        "If an exterior angle is 120° and one opposite interior angle is 50°, the other is 70°."
-                    ]
-                },
-                {
-                    "id": "6.4",
-                    "title": "Triangle Inequality",
-                    "definition": "In a triangle, the sum of any two sides is greater than the third side.",
-                    "formulae": [],
-                    "examples": [
-                        "Sides 2 cm, 3 cm, 6 cm cannot form a triangle because 2 + 3 is not greater than 6."
-                    ]
-                },
-                {
-                    "id": "6.5",
-                    "title": "Medians and Altitudes",
-                    "definition": "A median joins a vertex of a triangle to the midpoint of the opposite side; an altitude is a perpendicular from a vertex to the opposite side or its extension.",
-                    "formulae": [],
-                    "examples": [
-                        "Every triangle has three medians and three altitudes."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 7,
-            "title": "Congruence of Triangles",
-            "concepts": [
-                {
-                    "id": "7.1",
-                    "title": "Congruent Figures",
-                    "definition": "Two figures are congruent if they have exactly the same shape and size; they can be made to coincide by shifting, rotating or flipping.",
-                    "formulae": [],
-                    "examples": [
-                        "Two coins of the same denomination are congruent circles."
-                    ]
-                },
-                {
-                    "id": "7.2",
-                    "title": "Congruence of Triangles",
-                    "definition": "Two triangles are congruent if all their corresponding sides and angles are equal in measure.",
-                    "formulae": [],
-                    "examples": [
-                        "If △ABC is placed exactly over △PQR and all vertices match, they are congruent."
-                    ]
-                },
-                {
-                    "id": "7.3",
-                    "title": "Congruence Criteria: SSS, SAS, ASA, RHS",
-                    "definition": "Triangles are congruent if they satisfy any of these conditions: all three corresponding sides equal (SSS), two sides and included angle equal (SAS), two angles and included side equal (ASA) or right angle, hypotenuse and one side equal (RHS).",
-                    "formulae": [],
-                    "examples": [
-                        "If three sides of one triangle equal three sides of another, they are congruent by SSS.",
-                        "Two right triangles with equal hypotenuse and one corresponding side are congruent by RHS."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 8,
-            "title": "Comparing Quantities",
-            "concepts": [
-                {
-                    "id": "8.1",
-                    "title": "Ratio and Proportion",
-                    "definition": "Ratio compares two quantities of the same kind; proportion states that two ratios are equal.",
-                    "formulae": [
-                        "a : b = c : d ⇔ a/b = c/d"
-                    ],
-                    "examples": [
-                        "The ratio of 2 to 5 is 2 : 5.",
-                        "If 2 : 3 = 4 : 6, then 2/3 = 4/6."
-                    ]
-                },
-                {
-                    "id": "8.2",
-                    "title": "Percentage",
-                    "definition": "Percentage is a way of expressing a number as a fraction of 100.",
-                    "formulae": [
-                        "Percentage = (value / total) × 100"
-                    ],
-                    "examples": [
-                        "If a student scores 45 out of 50, percentage = (45/50) × 100 = 90%."
-                    ]
-                },
-                {
-                    "id": "8.3",
-                    "title": "Profit and Loss",
-                    "definition": "Profit is the gain when selling price exceeds cost price; loss is the amount by which cost price exceeds selling price.",
-                    "formulae": [
-                        "Profit = SP − CP",
-                        "Loss = CP − SP",
-                        "Profit% = (Profit / CP) × 100",
-                        "Loss% = (Loss / CP) × 100"
-                    ],
-                    "examples": [
-                        "If CP is ₹100 and SP is ₹120, profit = ₹20 and profit% = 20%."
-                    ]
-                },
-                {
-                    "id": "8.4",
-                    "title": "Simple Interest",
-                    "definition": "Simple interest is interest calculated on the original principal only for the entire period.",
-                    "formulae": [
-                        "SI = (P × R × T) / 100",
-                        "Amount = Principal + SI"
-                    ],
-                    "examples": [
-                        "On ₹1000 at 5% per year for 2 years, SI = (1000 × 5 × 2) / 100 = ₹100."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 9,
-            "title": "Rational Numbers",
-            "concepts": [
-                {
-                    "id": "9.1",
-                    "title": "Definition of Rational Numbers",
-                    "definition": "A rational number is any number that can be written in the form p/q where p and q are integers and q ≠ 0.",
-                    "formulae": [],
-                    "examples": [
-                        "2/3, −5/7 and 4 (as 4/1) are rational numbers."
-                    ]
-                },
-                {
-                    "id": "9.2",
-                    "title": "Equivalent Rational Numbers",
-                    "definition": "Rational numbers that represent the same point on the number line are equivalent; they can be obtained by multiplying or dividing numerator and denominator by the same non‑zero integer.",
-                    "formulae": [],
-                    "examples": [
-                        "1/2, 2/4 and −3/−6 are equivalent rational numbers."
-                    ]
-                },
-                {
-                    "id": "9.3",
-                    "title": "Standard Form of Rational Numbers",
-                    "definition": "A rational number is in standard form when it is written with a positive denominator and numerator and denominator have no common factor other than 1.",
-                    "formulae": [],
-                    "examples": [
-                        "−6/8 simplified to standard form is −3/4."
-                    ]
-                },
-                {
-                    "id": "9.4",
-                    "title": "Operations on Rational Numbers",
-                    "definition": "Addition, subtraction, multiplication and division of rational numbers follow the same rules as for fractions, with sign rules applied.",
-                    "formulae": [
-                        "a/b + c/d = (ad + bc)/bd",
-                        "a/b × c/d = (ac)/(bd)",
-                        "a/b ÷ c/d = (a/b) × (d/c)"
-                    ],
-                    "examples": [
-                        "1/3 + 2/5 = (5 + 6)/15 = 11/15."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 10,
-            "title": "Practical Geometry",
-            "concepts": [
-                {
-                    "id": "10.1",
-                    "title": "Constructing a Line Parallel to a Given Line",
-                    "definition": "Using a ruler and compass or set‑square, a line can be drawn through a given point parallel to a given line.",
-                    "formulae": [],
-                    "examples": [
-                        "Through point P outside line l, draw line m parallel to l using a set‑square."
-                    ]
-                },
-                {
-                    "id": "10.2",
-                    "title": "Constructing Triangles: SSS",
-                    "definition": "A triangle can be constructed when the lengths of all three sides are known, using a ruler and compass.",
-                    "formulae": [],
-                    "examples": [
-                        "Construct △ABC given AB, BC and CA by first drawing one side and then using two circles with given radii to locate the third vertex."
-                    ]
-                },
-                {
-                    "id": "10.3",
-                    "title": "Constructing Triangles: SAS and ASA",
-                    "definition": "Triangles can be constructed when two sides and the included angle (SAS) or two angles and the included side (ASA) are known.",
-                    "formulae": [],
-                    "examples": [
-                        "To construct a triangle with sides AB and AC and included angle at A, draw AB, construct the angle at A and mark AC."
-                    ]
-                },
-                {
-                    "id": "10.4",
-                    "title": "Constructing Right Triangles (RHS)",
-                    "definition": "Right‑angled triangles can be constructed when hypotenuse and one side are given, using a right angle at the appropriate vertex.",
-                    "formulae": [],
-                    "examples": [
-                        "Construct a right triangle with hypotenuse 5 cm and one side 3 cm using a right‑angle tool and compass."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 11,
-            "title": "Perimeter and Area",
-            "concepts": [
-                {
-                    "id": "11.1",
-                    "title": "Perimeter",
-                    "definition": "Perimeter is the total length of the boundary of a closed figure.",
-                    "formulae": [
-                        "Perimeter of rectangle = 2 × (length + breadth)",
-                        "Perimeter of square = 4 × side"
-                    ],
-                    "examples": [
-                        "A rectangle 5 cm by 3 cm has perimeter 2 × (5 + 3) = 16 cm."
-                    ]
-                },
-                {
-                    "id": "11.2",
-                    "title": "Area of Rectangle and Square",
-                    "definition": "Area is the region enclosed by a closed figure. For rectangles and squares it equals the product of side lengths.",
-                    "formulae": [
-                        "Area of rectangle = length × breadth",
-                        "Area of square = side × side"
-                    ],
-                    "examples": [
-                        "A square of side 4 cm has area 16 cm²."
-                    ]
-                },
-                {
-                    "id": "11.3",
-                    "title": "Area of Triangle and Parallelogram (Introductory)",
-                    "definition": "Area of a triangle is half the product of its base and height; area of a parallelogram is product of base and corresponding height.",
-                    "formulae": [
-                        "Area of triangle = (1/2) × base × height",
-                        "Area of parallelogram = base × height"
-                    ],
-                    "examples": [
-                        "A triangle with base 6 cm and height 4 cm has area (1/2) × 6 × 4 = 12 cm²."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 12,
-            "title": "Algebraic Expressions",
-            "concepts": [
-                {
-                    "id": "12.1",
-                    "title": "Terms, Coefficients and Factors",
-                    "definition": "An algebraic expression is made of terms; each term has a numeric coefficient and one or more variable factors.",
-                    "formulae": [],
-                    "examples": [
-                        "In 5xy, 5 is the coefficient and x, y are variable factors.",
-                        "In 7a − 3, 7a and −3 are terms."
-                    ]
-                },
-                {
-                    "id": "12.2",
-                    "title": "Like and Unlike Terms",
-                    "definition": "Like terms have exactly the same variable part (including powers); unlike terms differ in variable part or exponents.",
-                    "formulae": [],
-                    "examples": [
-                        "3x and −5x are like terms; 2x and 2y are unlike terms.",
-                        "4a²b and −7a²b are like terms."
-                    ]
-                },
-                {
-                    "id": "12.3",
-                    "title": "Addition and Subtraction of Expressions",
-                    "definition": "Algebraic expressions are added or subtracted by combining like terms.",
-                    "formulae": [],
-                    "examples": [
-                        "(3x + 4) + (2x − 1) = 5x + 3.",
-                        "(5a − 2b) − (3a + b) = 2a − 3b."
-                    ]
-                },
-                {
-                    "id": "12.4",
-                    "title": "Multiplication of a Monomial by a Monomial",
-                    "definition": "Multiplying two monomials multiplies their coefficients and adds exponents of like variables.",
-                    "formulae": [],
-                    "examples": [
-                        "(3x) × (4x) = 12x².",
-                        "(−2a) × (5a²b) = −10a³b."
-                    ]
-                },
-                {
-                    "id": "12.5",
-                    "title": "Multiplication of a Monomial by a Polynomial",
-                    "definition": "To multiply a monomial by a polynomial, multiply the monomial with each term of the polynomial and add results.",
-                    "formulae": [],
-                    "examples": [
-                        "2x(3x + 5) = 6x² + 10x."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 13,
-            "title": "Exponents and Powers",
-            "concepts": [
-                {
-                    "id": "13.1",
-                    "title": "Exponents and Expanded Form",
-                    "definition": "Exponents are a shorthand notation for repeated multiplication of the same number.",
-                    "formulae": [
-                        "a^n = a × a × ... × a (n times)"
-                    ],
-                    "examples": [
-                        "2³ = 2 × 2 × 2 = 8."
-                    ]
-                },
-                {
-                    "id": "13.2",
-                    "title": "Laws of Exponents (Same Base)",
-                    "definition": "Exponents with the same base follow specific rules for multiplication and division.",
-                    "formulae": [
-                        "a^m × a^n = a^(m + n)",
-                        "a^m ÷ a^n = a^(m − n) (a ≠ 0)"
-                    ],
-                    "examples": [
-                        "2³ × 2⁴ = 2⁷ = 128.",
-                        "5⁶ ÷ 5² = 5⁴."
-                    ]
-                },
-                {
-                    "id": "13.3",
-                    "title": "Power of a Power and Product",
-                    "definition": "Raising a power to another power multiplies exponents; raising a product to a power raises each factor.",
-                    "formulae": [
-                        "(a^m)^n = a^(mn)",
-                        "(ab)^n = a^n b^n"
-                    ],
-                    "examples": [
-                        "(2²)³ = 2⁶.",
-                        "(3 × 5)² = 3² × 5² = 9 × 25 = 225."
-                    ]
-                },
-                {
-                    "id": "13.4",
-                    "title": "Negative and Zero Exponents (Introductory)",
-                    "definition": "Negative exponents represent reciprocals and zero exponent represents 1 for any non‑zero base.",
-                    "formulae": [
-                        "a⁰ = 1 (a ≠ 0)",
-                        "a^(−n) = 1 / a^n"
-                    ],
-                    "examples": [
-                        "2⁰ = 1.",
-                        "5^(−2) = 1 / 5² = 1/25."
-                    ]
-                },
-                {
-                    "id": "13.5",
-                    "title": "Standard Form (Scientific Notation)",
-                    "definition": "Very large or very small numbers can be written in standard form as a × 10^n, where 1 ≤ a < 10 and n is an integer.",
-                    "formulae": [],
-                    "examples": [
-                        "3,600,000 = 3.6 × 10^6."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 14,
-            "title": "Symmetry",
-            "concepts": [
-                {
-                    "id": "14.1",
-                    "title": "Line Symmetry",
-                    "definition": "A figure has line symmetry if it can be folded along a line so that both halves coincide exactly.",
-                    "formulae": [],
-                    "examples": [
-                        "An equilateral triangle has 3 lines of symmetry; a square has 4."
-                    ]
-                },
-                {
-                    "id": "14.2",
-                    "title": "Lines of Symmetry in Standard Figures",
-                    "definition": "Regular figures often have multiple lines of symmetry depending on the number of equal sides and angles.",
-                    "formulae": [],
-                    "examples": [
-                        "A regular pentagon has 5 lines of symmetry.",
-                        "A circle has infinitely many lines of symmetry."
-                    ]
-                },
-                {
-                    "id": "14.3",
-                    "title": "Relation with Reflections",
-                    "definition": "Reflection in a mirror produces a symmetric image across the mirror line; the mirror line is a line of symmetry.",
-                    "formulae": [],
-                    "examples": [
-                        "Letters like A, H and O show line symmetry when reflected across certain lines."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 15,
-            "title": "Visualising Solid Shapes",
-            "concepts": [
-                {
-                    "id": "15.1",
-                    "title": "2D and 3D Shapes",
-                    "definition": "2D shapes have length and breadth (like squares, circles); 3D shapes have length, breadth and height (like cubes, spheres).",
-                    "formulae": [],
-                    "examples": [
-                        "A rectangle is 2D; a cuboid like a brick is 3D."
-                    ]
-                },
-                {
-                    "id": "15.2",
-                    "title": "Faces, Edges and Vertices",
-                    "definition": "Faces are flat surfaces of a solid, edges are line segments where faces meet, and vertices are points where edges meet.",
-                    "formulae": [],
-                    "examples": [
-                        "A cube has 6 faces, 12 edges and 8 vertices."
-                    ]
-                },
-                {
-                    "id": "15.3",
-                    "title": "Nets of 3D Shapes",
-                    "definition": "A net is a 2D pattern that can be folded to form a 3D solid.",
-                    "formulae": [],
-                    "examples": [
-                        "A cross‑shaped arrangement of 6 equal squares can be folded into a cube."
-                    ]
-                },
-                {
-                    "id": "15.4",
-                    "title": "Different Views of 3D Objects",
-                    "definition": "A 3D object can look different from front, side and top; these projections help visualise and draw solids.",
-                    "formulae": [],
-                    "examples": [
-                        "A cylinder looks like a rectangle from the side and a circle from the top."
-                    ]
-                }
-            ]
+          "id": "1.6",
+          "title": "Did You Ever Wonder…?",
+          "definition": "Estu is amused by all these interesting facts about large numbers. While thinking about these, he came up with an unusual question, “Could the entire population of Mumbai fit into 1 lakh buses?”",
+          "formulae": [
+            "\\times 5 0 = 5 0",
+            "\\cdot",
+            "\\textcircled{7}"
+          ],
+          "examples": []
         }
-    ]
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Arithmetic Expressions",
+      "concepts": [
+        {
+          "id": "2.1",
+          "title": "Simple Expressions",
+          "definition": "You may have seen mathematical phrases like $1 3 + 2 , 2 0 - 4 , 1 2 \\times 5$ ,and $1 8 \\div 3$ Such phrases are called arithmetic expressions.",
+          "formulae": [
+            "1 3 + 2 , 2 0 - 4 , 1 2 \\times 5",
+            "1 8 \\div 3",
+            "1 3 + 2"
+          ],
+          "examples": [
+            ", the value of the expression $1 3 + 2$ is 15. This expression can be read as $^ { \\cdot 1 3 }$ plus $2 ^ { \\circ }$ or 'the sum of 13 and $2 ^ { \\circ }$ :",
+            "1: Mallika spends $\\yen 25$ every day for lunch at school. Write the expression for the total amount she spends on lunch in a week from Monday to Friday."
+          ]
+        },
+        {
+          "id": "2.2",
+          "title": "Reading and Evaluating Complex Expressions",
+          "definition": "Sometimes, when an expression is not accompanied by a context, there can be more than one way of evaluating its value. In such cases, we need some tools and rules to specify how exactly the expression has to be evaluated.",
+          "formulae": [
+            "3 0 + 5 \\times 4 .",
+            "3 0 + 5 \\times 4"
+          ],
+          "examples": [
+            "with language, look at the following sentences:",
+            "4: Mallesh brought 30 marbles to the playground. Arun brought 5 bags of marbles with 4 marbles in each bag. How many marbles did Mallesh and Arun bring to the playground?"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "A Peek Beyond the Point",
+      "concepts": [
+        {
+          "id": "3.1",
+          "title": "The Need for Smaller Units",
+          "definition": "Sonu’s mother was fixing a toy. She was trying to join two pieces with the help of a screw. Sonu was watching his mother with great curiosity. His mother was unable to join the pieces. Sonu asked why. His mother said that the screw was not of the right size.",
+          "formulae": [
+            "\\frac { 3 } { 2 }",
+            "^ 2 \\frac { 7 } { 1 0 }",
+            "2 { \\frac { 7 } { 1 0 } } \\mathrm { c m }"
+          ],
+          "examples": []
+        },
+        {
+          "id": "3.2",
+          "title": "A Tenth Part",
+          "definition": "The length of the pencil shown in the figure below is $^ { 3 } \\frac { 4 } { 1 0 }$ units, which can also be read as 3 units and four one-tenths, i.e., $( 3 \\times 1 ) + \\left( 4 \\times \\frac { 1 } { 1 0 } \\right)$ units.",
+          "formulae": [
+            "^ { 3 } \\frac { 4 } { 1 0 }",
+            "( 3 \\times 1 ) + \\left( 4 \\times \\frac { 1 } { 1 0 } \\right)",
+            "= 1 + 1 + 1 + { \\frac { 4 } { 1 0 } } \\left( 3 { \\mathrm { ~ a n d ~ } } 4 { \\mathrm { ~ o n e - t e n t h s } } \\right)"
+          ],
+          "examples": [
+            "is given for the USB cable. (Note that the unit length used in each diagram is not the same).",
+            ", 12 410 units"
+          ]
+        },
+        {
+          "id": "3.3",
+          "title": "A Hundredth Part",
+          "definition": "The length of a sheet of paper was 8 $\\frac { 9 } { 1 0 }$ units, which can also be said as 8 units and 9 one-tenths. It is folded in half along its length. What is its length now?",
+          "formulae": [
+            "\\frac { 9 } { 1 0 }",
+            "\\frac { 4 } { 1 0 }",
+            "4 \\ : \\frac { 5 } { 1 0 }"
+          ],
+          "examples": []
+        },
+        {
+          "id": "3.4",
+          "title": "Decimal Place Value",
+          "definition": "You may have noticed that whenever we need to measure something more accurately, we split a part into 10 (smaller) equal parts ― we split a unit into 10 one-tenths and then split each one-tenth into 10, onehundredths and then we use these smaller parts to measure.",
+          "formulae": [
+            "\\textcircled{7}",
+            "\\frac { 1 } { 1 6 }"
+          ],
+          "examples": [
+            "below compares how the same length is represented when the unit is split into 10 equal parts and when the unit is split into 4 equal parts.",
+            ", 281 — the place value of 2 is hundreds (100), that of 8 is tens (10), and that of 4 is one (1). Each place value is 10 times bigger than the one immediately to its right. Equivalently, each place value is 10 times smaller than the one immediately to its left:"
+          ]
+        },
+        {
+          "id": "3.5",
+          "title": "Units of Measurement",
+          "definition": "We have been using a scale to measure length for a few years. We already know that $1 \\mathrm { c m } = 1 0 \\mathrm { m m }$ (millimeters).",
+          "formulae": [
+            "1 \\mathrm { c m } = 1 0 \\mathrm { m m }",
+            "\\textcircled{7}",
+            "1 \\mathrm { m m } = { \\frac { 1 } { 1 0 } } \\mathrm { c m } = 0 . 1 \\mathrm { c m }"
+          ],
+          "examples": []
+        },
+        {
+          "id": "3.6",
+          "title": "Locating and Comparing Decimals",
+          "definition": "Let us consider the decimal number 1.4. It is equal to 1 unit and 4   \ntenths. This means that the unit between 1 and 2 is divided into 10",
+          "formulae": [
+            "\\textcircled{7}",
+            "\\cdot"
+          ],
+          "examples": []
+        },
+        {
+          "id": "3.7",
+          "title": "Addition and Subtraction of Decimals",
+          "definition": "$\\textcircled{7}$ Priya requires $2 . 7 ~ \\mathrm { m }$ of cloth for her skirt, and Shylaja requires $3 . 5 \\mathrm { m }$ for her kurti. What is the total quantity of cloth needed?",
+          "formulae": [
+            "\\textcircled{7}",
+            "2 . 7 ~ \\mathrm { m }",
+            "3 . 5 \\mathrm { m }"
+          ],
+          "examples": [
+            "to understand what his claim means:"
+          ]
+        },
+        {
+          "id": "3.8",
+          "title": "More on the Decimal System",
+          "definition": "Decimal point and unit conversion mistakes may seem minor sometimes but they can lead to serious problems. Here are some actual incidents in which such errors caused major issues.",
+          "formulae": [
+            "= ~ 1 / 1 0 0",
+            "\\sim 0 . 4 5 3 \\mathrm { k g } )",
+            "0 . 0 5 \\mathrm { m g }"
+          ],
+          "examples": [
+            ", reading $0 . 0 5 \\mathrm { m g }$ as 0.5 mg can lead to using a medicine 10 times more than the prescribed quantity. It is therefore important to pay attention to units and the location of the decimal point."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Expressions using Letter-Numbers",
+      "concepts": [
+        {
+          "id": "4.1",
+          "title": "The Notion of Letter-Numbers",
+          "definition": "In this chapter we shall look at a concise way of expressing mathematical relations and patterns. We shall see how this helps us in thinking about these relationships and patterns, and in explaining why they may hold true.",
+          "formulae": [
+            "\\textcircled{7}",
+            "\\cdot"
+          ],
+          "examples": [
+            "1: Shabnam is 3 years older than Aftab. When Aftab’s age 10 years, Shabnam’s age will be 13 years. Now Aftab’s age is 18 years, what will Shabnam’s age be?",
+            "2: Parthiv is making matchstick patterns. He repeatedly places Ls next to each other. Each L has two matchsticks as shown in Figure 4.2.",
+            "3: Ketaki prepares and supplies coconut-jaggery laddus. The price of a coconut is $\\yen 35$ and the price of $1 \\mathrm { k g }$ jaggery is $\\yen 60$ ."
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "Revisiting Arithmetic Expressions",
+          "definition": "We learnt to write expressions as sums of terms and it became easy for us to read arithmetic expressions. Many times they could have been read in multiple ways and it was confusing. We used swapping (adding two numbers in any order) and grouping (adding numbers by grouping them conveniently) to find easy ways of evaluating expressions. Swapping and grouping terms does not change the value of the expression. We also learnt to use brackets in expressions, including brackets with a negative sign outside. We learnt the distributive property (multiple of a sum is the same as sum of multiples).",
+          "formulae": [
+            "2 3 - 1 0 \\times 2",
+            "3 4 - 1 4 + 2 0",
+            "\\begin{array} { r l } { 2 . } & { { } \\quad 8 3 + Z 8 - 1 3 + 3 Z } \\\\ { 4 . } & { { } \\quad 4 2 + 1 5 - ( 8 - 7 ) } \\\\ { 6 . } & { { } \\quad 7 \\times 4 + 9 \\times 6 } \\end{array}"
+          ],
+          "examples": [
+            "1, for finding Shabnam’s age when Aftab is 23 years old, we replaced the letter-number $a$ in the expression $a + 3$ by 23, and it took the value 26."
+          ]
+        },
+        {
+          "id": "4.3",
+          "title": "Omission of the Multiplication Symbol in Algebraic Expressions",
+          "definition": "How can we describe this sequence or pattern? Easy: These are the numbers appearing in the multiplication table of 4 (multiples of 4 in an increasing order).",
+          "formulae": [
+            "4 \\times 3",
+            "4 \\times 2 9",
+            "\\cdot _ { n } \\cdot"
+          ],
+          "examples": []
+        },
+        {
+          "id": "4.4",
+          "title": "Simplification of Algebraic Expressions",
+          "definition": "Earlier we found expressions to find perimeters of different regular figures in terms of their sides. Let us now find an expression to find the perimeter of a rectangle.",
+          "formulae": [
+            "^ +"
+          ],
+          "examples": [
+            ", if we assign $l = 3$ , $b = 4$ , we get",
+            "s of simplification.",
+            "5: Here is a table showing the number of pencils and erasers sold in a shop. The price per pencil is c, and the price per eraser is $d .$ . Find the total money earned by the shopkeeper during these three days."
+          ]
+        },
+        {
+          "id": "4.5",
+          "title": "Pick Patterns and Reveal Relationships",
+          "definition": "In the first section we got a glimpse of algebraic expressions and how to use them to describe simple patterns and relationships in a concise and elegant manner. Here, we continue to look for general relationships between quantities in different scenarios, find patterns and, interestingly, even explain why these patterns occur.",
+          "formulae": [
+            "2 a - b",
+            "2 \\times 5 - 2 = 8",
+            "\\textcircled{7}"
+          ],
+          "examples": [
+            "s using that formula. Challenge your classmates to figure it out!",
+            "12: Somjit noticed a repeating pattern along the border of a saree."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Parallel and Intersecting Lines",
+      "concepts": [
+        {
+          "id": "5.1",
+          "title": "Across the Line",
+          "definition": "Take a piece of square paper and fold it in different ways. Now, on the creases formed by the folds, draw lines using a pencil and a scale. You will notice different lines on the paper. Take any pair of lines and observe their relationship with each other. Do they meet? If they do not meet within the paper, do you think they would meet if they were extended beyond the paper?",
+          "formulae": [
+            "\\textcircled{7}",
+            "\\angle \\mathbf { a }",
+            "1 2 0 ^ { \\circ }"
+          ],
+          "examples": [
+            "s of plane surfaces.",
+            ", we know that the angle formed by a straight line is $1 8 0 ^ { \\circ }$ . So, if another line divides this angle into two parts, both parts should add up to $1 8 0 ^ { \\circ }$ We arrive at this simply through reasoning and not by measurement. When we measure, it might not be exactly so, for the reasons mentioned above. Still the measurements come out very close to what we predict, because of which geometry finds widespread application in different disciplines such as physics, art, engineering and architecture."
+          ]
+        },
+        {
+          "id": "5.2",
+          "title": "Perpendicular Lines",
+          "definition": "$\\textcircled{7}$ Can you draw a pair of intersecting lines such that all four angles are equal? Can you figure out what will be the measure of each angle?",
+          "formulae": [
+            "\\textcircled{7}",
+            "( 9 0 ^ { \\circ } )"
+          ],
+          "examples": []
+        },
+        {
+          "id": "5.3",
+          "title": "Between Lines",
+          "definition": "Observe Fig. 5.5 and describe the way the line segments meet or cross each other in each case, with appropriate mathematical words (a point, an endpoint, the midpoint, meet, intersect) and the degree measure of each angle.",
+          "formulae": [
+            "1 1 5 . 3 ^ { \\circ }",
+            "\\textcircled{7}"
+          ],
+          "examples": [
+            ", line segments FG and FH meet at the endpoint F at an angle $1 1 5 . 3 ^ { \\circ }$ .",
+            "s of lines we notice around us."
+          ]
+        },
+        {
+          "id": "5.4",
+          "title": "Parallel and Perpendicular Lines in Paper Folding",
+          "definition": "Take a plain square sheet of paper (use a newspaper for this activity).",
+          "formulae": [
+            "p , q"
+          ],
+          "examples": []
+        },
+        {
+          "id": "5.5",
+          "title": "Transversals",
+          "definition": "We saw what happens when two lines intersect in different ways. Let us explore what happens when one line intersects two different lines.",
+          "formulae": [
+            "\\textcircled{7}"
+          ],
+          "examples": []
+        },
+        {
+          "id": "5.6",
+          "title": "Corresponding Angles",
+          "definition": "In Fig. 5.14, we notice that the transversal $t$ forms two sets of angles— one with line l and another with line m. There are angles in the first set that correspond to angles in the second set based on their position. $\\angle 1$ and $\\angle 5$ are called corresponding angles. Similarly, $\\angle 2$ and $\\angle 6$ , $\\angle 3$ and $\\angle 7$ , $\\angle 4$ and $\\angle 8$ are the corresponding angles formed when transversal $t$ intersects lines l and m.",
+          "formulae": [
+            "\\angle 1",
+            "\\angle 5"
+          ],
+          "examples": []
+        },
+        {
+          "id": "5.7",
+          "title": "Drawing Parallel Lines",
+          "definition": "Can you draw a pair of parallel lines using a ruler and a set square?",
+          "formulae": [
+            "l ?",
+            "9 0 ^ { \\circ }"
+          ],
+          "examples": []
+        },
+        {
+          "id": "5.8",
+          "title": "Alternate Angles",
+          "definition": "In Fig. 5.25, $\\angle d$ is called the alternate angle of $\\angle f ,$ and $\\angle c$ is the alternate angle of $\\angle e$ .",
+          "formulae": [
+            "\\angle d",
+            "\\angle f ,",
+            "\\angle c"
+          ],
+          "examples": [
+            "1: In Fig. 5.26, parallel lines l and m are intersected by the transversal t. If $\\angle 6$ is $1 3 5 ^ { \\circ }$ , what are the measures of the other angles?",
+            "2: In Fig. 5.27, lines l and m are intersected by the transversal t. If $\\angle a$ is $1 2 0 ^ { \\circ }$ and $\\angle f$ is $7 0 ^ { \\circ }$ , are lines l and m parallel to each other?",
+            "3: In Fig. 5.28, parallel lines $l$ and m are intersected by the transversal t. If $\\angle 3$ is $5 0 ^ { \\circ }$ , what is the measure of $\\angle 6 2$"
+          ]
+        },
+        {
+          "id": "5.9",
+          "title": "Parallel Illusions",
+          "definition": "There do not seem to be any parallel lines here. Or, are there?",
+          "formulae": [
+            "1 8 0 ^ { \\circ }",
+            "9 0 ^ { \\circ }"
+          ],
+          "examples": []
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Number Play",
+      "concepts": [
+        {
+          "id": "6.1",
+          "title": "Numbers Tell us Things",
+          "definition": "Remember the children from the Grade 6 textbook of mathematics? Now, they call out numbers using a different rule.",
+          "formulae": [
+            "\\frac { 3 } { 2 }",
+            "\\cdot",
+            "^ { \\mathfrak { s } } 0 ^ { \\mathfrak { s } }"
+          ],
+          "examples": []
+        },
+        {
+          "id": "6.2",
+          "title": "Picking Parity",
+          "definition": "Kishor has some number cards and is working on a puzzle: There are 5 boxes, and each box should contain exactly 1 number card. The numbers in the boxes should sum to 30. Can you help him find a way to do it?",
+          "formulae": [
+            "\\textcircled{7}",
+            "\\cdot"
+          ],
+          "examples": [
+            "s of a proof!",
+            "s are: $1 0 0 p$ and $4 8 w - 2$ . Try to find more."
+          ]
+        },
+        {
+          "id": "6.3",
+          "title": "Some Explorations in Grids",
+          "definition": "Observe this $3 \\times 3$ grid. It is filled following a simple rule — use numbers from 1 – 9 without repeating any of them. There are circled numbers outside the grid.",
+          "formulae": [
+            "3 \\times 3",
+            "\\textcircled{7}"
+          ],
+          "examples": [
+            ", can it be placed as follows?",
+            "shown below."
+          ]
+        },
+        {
+          "id": "6.4",
+          "title": "Nature’s Favourite Sequence: The Virahāṅka– Fibonacci Numbers!",
+          "definition": "The sequence 1, 2, 3, 5, 8, 13, 21, 34, . . . (Virahāṅka–Fibonacci Numbers) is one of the most celebrated sequences in all of mathematics — it occurs throughout the world of Art, Science, and Mathematics. Even though these numbers are found very frequently in Science, it is remarkable that these numbers were first discovered in the context of Art (specifically, poetry)!",
+          "formulae": [
+            "\\mathbf { \\nabla } _ { 2 } \\mathbf { \\vec { s } } ?",
+            "\\begin{array} { r l } & { 8 = 2 + 2 + 2 + 2 , } \\\\ & { 8 = 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 , } \\\\ & { 8 = 1 + 2 + 2 + 1 + 2 , } \\\\ & { 8 = 2 + 2 + 1 + 1 + 2 , } \\end{array}",
+            "{ \\bf \\nabla } ^ { 2 } s"
+          ],
+          "examples": [
+            ", the number of petals on a daisy is generally a Virahāṅka number."
+          ]
+        },
+        {
+          "id": "6.5",
+          "title": "Digits in Disguise",
+          "definition": "You have done arithmetic operations with numbers. How about doing the same with letters?",
+          "formulae": [
+            "\\mathrm { T } = 5",
+            "\\mathrm { U T } = 1 5",
+            "^ { \\mathfrak { c } } 2 ^ { \\mathfrak { s } }"
+          ],
+          "examples": [
+            "shown on the right. Here K2 means that the number is a 2-digit number having the digit $^ { \\mathfrak { c } } 2 ^ { \\mathfrak { s } }$ in the units place and ‘K’ in the tens place. K2 is added to itself to give a 3-digit sum HMM. What digit should the letter M correspond to?"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "A Tale of Three Intersecting Lines",
+      "concepts": [
+        {
+          "id": "7.1",
+          "title": "Equilateral Triangles",
+          "definition": "Among all the triangles, the equilateral triangles are the most symmetric ones. These are triangles in which all the sides are of equal lengths. Let us try constructing them.",
+          "formulae": [
+            "4 \\mathrm { { c m } }",
+            "\\mathrm { A C } = 4",
+            "4 \\mathrm { c m }"
+          ],
+          "examples": []
+        },
+        {
+          "id": "7.2",
+          "title": "Constructing a Triangle When its Sides are Given",
+          "definition": "How do we construct triangles that are not equilateral?",
+          "formulae": [
+            "4 \\mathrm { { c m } }",
+            "6 \\mathrm { { c m } }",
+            "= 5"
+          ],
+          "examples": [
+            ", for the set of lengths $1 0 \\ \\mathrm { c m }$ , 15 cm and $3 0 ~ \\mathrm { c m }$ , there are two comparisons where this happens:",
+            ", the set 3, 4, 5 satisfies the triangle inequality whereas, the set 10, 15, 30 does not satisfy the triangle inequality.",
+            "s of sets of lengths for which the circles:"
+          ]
+        },
+        {
+          "id": "7.3",
+          "title": "Construction of Triangles When Some Sides and Angles are Given",
+          "definition": "We have seen how to construct triangles when their sidelengths are given. Now, we will take up constructions where in place of some sidelengths, angle measures are given.",
+          "formulae": [
+            "\\mathrm { A B } = 5 ~ \\mathrm { c m }",
+            "\\angle \\mathrm { A } = 4 5 ^ { \\circ }",
+            "5 \\mathrm { { c m } }"
+          ],
+          "examples": [
+            "s of measurements showing the included angle.",
+            "s of such measurements:",
+            "s of measurements of two angles with the included side where a triangle is not possible."
+          ]
+        },
+        {
+          "id": "7.4",
+          "title": "Constructions Related to Altitudes of Triangles",
+          "definition": "There is another set of useful measurements with respect to a triangle — the height of each of its vertices with respect to the opposite sides.",
+          "formulae": [
+            "\\textcircled{7}",
+            "9 0 ^ { \\circ }"
+          ],
+          "examples": []
+        },
+        {
+          "id": "7.5",
+          "title": "Types of Triangles",
+          "definition": "In our study of triangles, we have encountered the following types of triangles; equilateral, isosceles, scalene and right-angled triangles.",
+          "formulae": [
+            "\\cdot",
+            "\\textcircled{7}"
+          ],
+          "examples": []
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Working with Fractions",
+      "concepts": [
+        {
+          "id": "8.1",
+          "title": "Multiplication of Fractions",
+          "definition": "Aaron walks 3 kilometres in 1 hour. How far can he walk in 5 hours?",
+          "formulae": [
+            "= 5 \\times 3 \\mathrm { k m }",
+            "\\textcircled{7}"
+          ],
+          "examples": [
+            "1: A farmer had 5 grandchildren. She distributed $\\frac { 2 } { 3 }$ acre of land to each of her grandchildren.",
+            "2: 1 hour of internet time costs $\\yen 8$ How much will $1 { \\frac { 1 } { 4 } }$ hours of internet time cost?"
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Division of Fractions",
+          "definition": "What is $1 2 \\div 4 ?$ You know this already. But can this problem be restated as a multiplication problem?",
+          "formulae": [
+            "1 2 \\div 4 ?",
+            "4 \\times ? = 1 2",
+            "1 \\div \\frac { 2 } { 3 } ?"
+          ],
+          "examples": [
+            ", ${ \\frac { 2 } { 3 } } \\div { \\frac { 3 } { 5 } }$ using Brahmagupta’s formula above, we write:"
+          ]
+        },
+        {
+          "id": "8.3",
+          "title": "Some Problems Involving Fractions",
+          "definition": "$\\cdot$ Example 3: Leena made 5 cups of tea. She used $\\textstyle { \\frac { 1 } { 4 } }$ litre of milk for this. How much milk is there in each cup of tea?",
+          "formulae": [
+            "\\cdot",
+            "\\textstyle { \\frac { 1 } { 4 } }",
+            "\\frac 1 4"
+          ],
+          "examples": [
+            "3: Leena made 5 cups of tea. She used $\\textstyle { \\frac { 1 } { 4 } }$ litre of milk for this. How much milk is there in each cup of tea?",
+            "4: Some of the oldest examples of working with non-unit fractions occur in humanity’s oldest geometry texts, the Śhulbasūtra. Here is an example from Baudhāyana’s Śhulbasūtra (c. 800 BCE).",
+            "5: This problem was posed by Chaturveda Pṛithūdakasvāmī (c. 860 CE) in his commentary on Brahmagupta’s book Brāhmasphuṭasiddhānta."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Geometric Twins",
+      "concepts": [
+        {
+          "id": "9.1",
+          "title": "Geometric Twins",
+          "definition": "The symbol on this signboard needs to be recreated on another board.",
+          "formulae": [
+            "\\frac { 3 } { 2 }",
+            "\\textcircled{7}",
+            "\\mathrm { A B } = 4 ~ \\mathrm { c m }"
+          ],
+          "examples": []
+        },
+        {
+          "id": "9.2",
+          "title": "Congruence of Triangles",
+          "definition": "Meera and Rabia have been asked to make a cardboard cutout identical to a triangular frame they have in school. They see that the frame is too big to be traced on a paper and replicated.",
+          "formulae": [
+            "\\cdot",
+            "4 0 ~ \\mathrm { c m }",
+            "6 0 \\mathrm { c m }"
+          ],
+          "examples": []
+        },
+        {
+          "id": "9.3",
+          "title": "Angles of Isosceles and Equilateral Triangles",
+          "definition": "Congruence is a very powerful tool for studying properties of geometric figures. Let us use it to discover an important property of isosceles triangles.",
+          "formulae": [
+            "\\textcircled{7}",
+            "\\mathrm { A B } = \\mathrm { A C }",
+            "\\angle \\mathrm { A } = 8 0"
+          ],
+          "examples": []
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Operations with Integers",
+      "concepts": [
+        {
+          "id": "10.1",
+          "title": "A Quick Recap of Integers",
+          "definition": "$\\textcircled{7}$ Rakesh gives you a challenge. \"I have thought of two numbers\", he says. \"Their sum is 25, and their difference is 11.\"",
+          "formulae": [
+            "\\textcircled{7}",
+            "\\frac { 3 } { 2 }",
+            "{ \\begin{array} { l l l } { \\operatorname { S u m } = 2 7 , \\operatorname { D i f f e r e n c e } = 9 } & { } & { ( \\mathrm { b } ) } & { \\operatorname { S u m } = 4 , \\operatorname { D i f f e r e n c e } = 1 2 } \\\\ { \\operatorname { S u m } = 0 , \\operatorname { D i f f e r e n c e } = 1 0 } & { } & { ( \\mathrm { d } ) } & { \\operatorname { S u m } = 0 , \\operatorname { D i f f e r e n c e } = - 1 0 } \\\\ { \\operatorname { S u m } = - 7 , \\operatorname { D i f f e r e n c e } = - 1 } & { } & { ( \\mathrm { f } ) } & { \\operatorname { S u m } = - 7 , \\operatorname { D i f f e r e n c e } = - 1 3 } \\end{array} }"
+          ],
+          "examples": [
+            ", when we say the movement is -4, the magnitude is 4 and the direction is leftward."
+          ]
+        },
+        {
+          "id": "10.2",
+          "title": "Multiplication of Integers",
+          "definition": "We used the token model to represent addition and subtraction of integers. We now explore how to model multiplication of integers using tokens.",
+          "formulae": [
+            "4 \\times 2 = 8",
+            "4 \\times ( - 2 ) ?",
+            "= 8"
+          ],
+          "examples": []
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Finding Common Ground",
+      "concepts": [
+        {
+          "id": "11.1",
+          "title": "The Greatest of All",
+          "definition": "$\\cdot$ Sameeksha is building her new house. The main room of the house is 12 ft by 16 ft. She feels that the room would look nice if the floor is covered with square tiles of the same size. She also wants to use as few tiles as possible, and for the length of the tile to be a whole number of feet. What size tiles should she buy?",
+          "formulae": [
+            "\\cdot",
+            "\\gimel",
+            "8 4 \\mathrm { k g }"
+          ],
+          "examples": [
+            ", we can find the prime factorisation of 90 as follows:",
+            ", if we consider factorising $3 \\times 3 0$ further, we get",
+            ", $3 0 = 2 \\times 1 5$ , $1 5 = 3 \\times 5$ Each time, a composite number is factorised so that, at least one factor is prime. We stop when we reach a prime number."
+          ]
+        },
+        {
+          "id": "11.2",
+          "title": "Least, but not Last!",
+          "definition": "$\\textcircled{7}$ Anshu and Guna make torans out of strips of cloth. Multiple strips are placed one next to another to make a toran. Anshu uses strips of length 6 cm and Guna uses strips of 8 cm length. If both have to make torans of the same length, what is the smallest possible length, the torans could be?",
+          "formulae": [
+            "\\textcircled{7}",
+            "7 2 \\mathrm { c m }",
+            "2 4 \\mathrm { c m }"
+          ],
+          "examples": [
+            ", let us take 36 and its multiple 648 $( = 3 6 \\times 1 8 )$ .",
+            "6: Find the LCM of 14 and 35."
+          ]
+        },
+        {
+          "id": "11.3",
+          "title": "Patterns, Properties, and a Pretty Procedure!",
+          "definition": "The HCF of 6 and 18 is 6, which is one of the two given numbers.",
+          "formulae": [
+            "\\frac { 3 } { 2 }"
+          ],
+          "examples": [
+            ", if we take $n$ and $5 n$ (short for $5 \\times$ $n )$ , then $5 n$ is a multiple of $n$ ,and $n$ is a factor of $5 n$ .",
+            "s before coming up with general statements. Look for possible explanations of why they hold.",
+            "s before coming up with these general statements. Look for possible explanations of why they hold."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Another Peek Beyond the Point",
+      "concepts": [
+        {
+          "id": "12.1",
+          "title": "A Quick Recap of Decimals",
+          "definition": "Recall that decimals are the natural extension of the Indian place value cl $( \\frac { 1 } { 1 0 } , \\frac { 1 } { 1 0 0 } , \\frac { 1 } { 1 0 0 0 } ,$ and so on) and their sums.",
+          "formulae": [
+            "( \\frac { 1 } { 1 0 } , \\frac { 1 } { 1 0 0 } , \\frac { 1 } { 1 0 0 0 } ,",
+            "5 0 \\mathrm { g }",
+            "1 0 0 { \\mathrm { g } }"
+          ],
+          "examples": [
+            ", 27.53 refers to a quantity that has:",
+            "${ \\frac { 1 2 3 } { 1 0 } } ,$ 24 or Look or  pattern n the prevus problems. 100",
+            "$1 2 3 \\div 1 0$ ."
+          ]
+        },
+        {
+          "id": "12.2",
+          "title": "Decimal Multiplication",
+          "definition": "$\\textcircled{7}$ Example 1: Arshad goes to a stationery shop and purchases 5 pens. If one pen costs $\\yen 9.5$ (9 rupees and 50 paisa), how much should he pay the shopkeeper?",
+          "formulae": [
+            "\\textcircled{7}",
+            "\\yen 9.5",
+            "\\frac { 3 } { 2 }"
+          ],
+          "examples": [
+            "1: Arshad goes to a stationery shop and purchases 5 pens. If one pen costs $\\yen 9.5$ (9 rupees and 50 paisa), how much should he pay the shopkeeper?",
+            "2: A car travels $1 2 . 5 \\mathrm { k m }$ per litre of petrol. What is the distance covered with 7.5 litres of petrol?",
+            "3: The distance between Ajay's school and his home is $8 2 7 ~ \\mathrm { m }$ . He walks to school in the morning and then walks back home in the evening, 6 days a week. How much does he walk in a week? Answer in kilometres."
+          ]
+        },
+        {
+          "id": "12.3",
+          "title": "Decimal Division",
+          "definition": "$\\textcircled{7}$ Example 6: Anuja has a $3 . 9 \\mathrm { { m } }$ length of ribbon and she wants to cut it into 10 equal pieces. What is the length of each piece in decimal?",
+          "formulae": [
+            "\\textcircled{7}",
+            "3 . 9 \\mathrm { { m } }",
+            "3 . 9 \\div 1 0 ?"
+          ],
+          "examples": [
+            "6: Anuja has a $3 . 9 \\mathrm { { m } }$ length of ribbon and she wants to cut it into 10 equal pieces. What is the length of each piece in decimal?",
+            "7: Neenu has 29 metres of red ribbon and wants to share it equally with Anu. What is the length of ribbon that each of them will get?",
+            "8: Find the value of $1 3 2 4 \\div 4$ ."
+          ]
+        },
+        {
+          "id": "12.4",
+          "title": "Look Before You Leap!",
+          "definition": "Did you know that it takes the Earth 365.2422 days to go around the Sun and not 365 days? For our convenience, we consider 365 days as a year in a calendar. We are talking about Gregorian calendar.",
+          "formulae": [
+            "0 . 2 4 2 2 \\times 1 0 0 = 2 4 . 2 2",
+            "\\textcircled{7}"
+          ],
+          "examples": []
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Connecting the Dots",
+      "concepts": [
+        {
+          "id": "13.1",
+          "title": "Of Questions and Statements",
+          "definition": "Your teacher tells you that they are meeting two of their childhood friends this evening. One is 5 feet tall and the other is 6 feet tall. What is your guess as to each friend's gender based on this information?",
+          "formulae": [
+            "2 \\mathrm { k m }"
+          ],
+          "examples": [
+            "of statistical thinking. We regularly come across statements like",
+            ", \"How tall are Grade 7 students in our school?\" is a statistical question. We expect that not all Grade 7 students have the same height, but we can collect data, analyse it, and make conclusions about the heights that do occur. The question \"Typically, are onions costlier in Yahapur or Wahapur?\" is also a statistical question. Prices can vary over time. Therefore, answering this question requires us to look at data, analyse it, and come to conclusions making suitable statistical statements."
+          ]
+        },
+        {
+          "id": "13.2",
+          "title": "Representative Values",
+          "definition": "$\\textcircled{7}$ The runs scored by Shubman and Yashasvi in a cricket series are given in the table below. Who do you think performed better?",
+          "formulae": [
+            "\\textcircled{7}",
+            "1 2 8 ^ { \\mathfrak { s } }",
+            "\\frac { 3 } { 2 }"
+          ],
+          "examples": [
+            ", can we represent Shubman's or Yashasvi's batting in this series with one number? Discuss.",
+            ", we can add up the runs scored in all the matches and divide the total by the number of matches played. We call this value the 'average' or 'arithmetic mean' of the given data.",
+            ", one might be curious to know more about the two locations."
+          ]
+        },
+        {
+          "id": "13.3",
+          "title": "Visualising Data",
+          "definition": "We can often understand data more clearly if it is presented as a picture. This is called data visualisation. Last year, we saw how to visualise data using graphs. Let us explore visualisation further.",
+          "formulae": [
+            "\\textcircled{7}",
+            "\\frac { 3 } { 2 }"
+          ],
+          "examples": []
+        },
+        {
+          "id": "13.4",
+          "title": "Data Detective",
+          "definition": "We put well-formed sentences one after the other to make a beautiful story. In the same way, well-organised and well-presented data can tell interesting stories, and can also expose new mysteries or help solve mysteries!",
+          "formulae": [
+            "\\textcircled{7}",
+            "= 1 4 9 . 8 4",
+            "= 1 4 1 . 8"
+          ],
+          "examples": []
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Constructions and Tilings",
+      "concepts": [
+        {
+          "id": "14.1",
+          "title": "Geometric Constructions",
+          "definition": "Do you recall the 'Eyes' construction we did in Grade 6?",
+          "formulae": [
+            "\\mathrm { A X } = \\mathrm { B X }",
+            "\\mathrm { A X } = \\mathrm { A Y }",
+            "\\mathrm { B X } = \\mathrm { B Y } ,"
+          ],
+          "examples": []
+        },
+        {
+          "id": "14.2",
+          "title": "Tiling",
+          "definition": "Tangrams are puzzles that originated in China. They make use of 7 pieces obtained by dividing a square as shown.",
+          "formulae": [
+            "4 \\times 6",
+            "\\textcircled{7}"
+          ],
+          "examples": []
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Finding the Unknown",
+      "concepts": [
+        {
+          "id": "15.1",
+          "title": "Find the Unknowns",
+          "definition": "We have a weighing scale that behaves as follows. The numbers represent same units of weight:",
+          "formulae": [
+            "\\textcircled{7}",
+            "\\cdot"
+          ],
+          "examples": [
+            "s of equations:"
+          ]
+        },
+        {
+          "id": "15.2",
+          "title": "Solving Equations Systematically",
+          "definition": "How did you solve the various equations framed in the previous section? One way to solve an equation is to substitute different values in place of the letter-number and to check which value makes $\\mathrm { L H S } = \\mathrm { R H S }$ For example, consider the equation $2 n + 1 = 9 9$",
+          "formulae": [
+            "\\mathrm { L H S } = \\mathrm { R H S }",
+            "2 n + 1 = 9 9",
+            "n = 5"
+          ],
+          "examples": [
+            ", consider the equation $2 n + 1 = 9 9$",
+            ", you can check by adding 10 to both sides.",
+            "1: It is known that $1 4 5 9 3 - 1 4 5 9 + 1 4 5 - 1 4 + 8 8 = 1 3 3 5 3$ What is the value of $1 4 5 9 3 - 1 4 5 9 + 1 4 5 - 1 4 ?$"
+          ]
+        },
+        {
+          "id": "15.3",
+          "title": "Mind the Mistake, Mend the Mistake",
+          "definition": "$\\cdot$ The following are some equations along with the steps used to solve them to find the value of the letter-number. Go through each solution and decide whether the steps are correct. If there is a mistake, describe the mistake, correct it and solve the equation.",
+          "formulae": [
+            "\\cdot",
+            "3 x + 1 = - 1 2",
+            "x + 1 = - { \\frac { 1 2 } { 3 } }"
+          ],
+          "examples": [
+            "if we assign l = 3, b = 4, we get l + b + l + b = 3 + 4 + 3 + 4 = 14, and 2l + 2b = 2 × 3 + 2 × 4 = 14.",
+            ", if we assign l = 3, b = 4, we get l + b + l + b = 3 + 4 + 3 + 4 = 14, and 2l + 2b = 2 × 3 + 2 × 4 = 14."
+          ]
+        },
+        {
+          "id": "15.4",
+          "title": "A Pinch of History",
+          "definition": "Forming expressions using symbols and solving equations with such expressions was an important component of mathematical explorations in ancient India. This area of mathematics was termed bjaganita, also now known as algebra. The word bija means seed. Just as a tree is hidden inside a seed, the answer to a problem is hidden inside an unknown number. Solving the problem is like helping the tree grow— step by step, we discover what is hidden.",
+          "formulae": [
+            "al-Fu",
+            "al-Uql"
+          ],
+          "examples": []
+        }
+      ]
+    }
+  ]
 }
