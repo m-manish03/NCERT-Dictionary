@@ -1727,6 +1727,942 @@
                     ]
                 }
             ]
+        },
+        {
+            "number": 23,
+            "title": "NUMBER PLAY",
+            "concepts": [
+                {
+                    "id": "23.1",
+                    "title": "Sum of Consecutive Numbers",
+                    "definition": "Exploring patterns in the sum of consecutive natural numbers. Every odd number can be expressed as a sum of two consecutive numbers (e.g., 7 = 3+4).",
+                    "formulae": [],
+                    "examples": [
+                        "Can every natural number be written as a sum of consecutive numbers?",
+                        "Take 4 consecutive numbers (e.g., 3, 4, 5, 6) and use + and - signs in the 8 possible ways; find the results."
+                    ]
+                },
+                {
+                    "id": "23.2",
+                    "title": "Parity and Sign Switching",
+                    "definition": "In an expression like a \u00b1 b \u00b1 c \u00b1 d, switching a sign (e.g., from +b to -b) changes the total value by an even amount (2b), thus preserving the parity of the result.",
+                    "formulae": [
+                        "(a + b - c - d) - (a - b - c - d) = 2b"
+                    ],
+                    "examples": [
+                        "If the difference between two expressions is even, they must have the same parity (both even or both odd)."
+                    ]
+                },
+                {
+                    "id": "23.3",
+                    "title": "Parity Rules",
+                    "definition": "Basic rules determining whether the result of an arithmetic operation is even or odd.",
+                    "formulae": [
+                        "Odd \u00b1 Odd = Even",
+                        "Even \u00b1 Even = Even",
+                        "Odd \u00b1 Even = Odd"
+                    ],
+                    "examples": [
+                        "43+37 is even (Odd+Odd).",
+                        "809+214 is odd (Odd+Even)."
+                    ]
+                },
+                {
+                    "id": "23.4",
+                    "title": "Types of Even Numbers (mod 4)",
+                    "definition": "Even numbers leave either 0 or 2 as a remainder when divided by 4. Multiples of 4 leave 0, while non-multiples leave 2.",
+                    "formulae": [],
+                    "examples": [
+                        "Multiples of 4: 4, 8, 12, 16.",
+                        "Even non-multiples of 4: 2, 6, 10, 14, 18."
+                    ]
+                },
+                {
+                    "id": "23.5",
+                    "title": "Sums and Multiples of 4",
+                    "definition": "The sum of two even numbers is a multiple of 4 if they are both multiples of 4 or both leave a remainder of 2 when divided by 4.",
+                    "formulae": [
+                        "4p + 4q = 4(p + q)",
+                        "(4p + 2) + (4q + 2) = 4(p + q + 1)"
+                    ],
+                    "examples": [
+                        "12 + 16 = 28 (both multiples of 4).",
+                        "6 + 10 = 16 (both remainder 2)."
+                    ]
+                },
+                {
+                    "id": "23.6",
+                    "title": "Divisibility of Sums and Differences",
+                    "definition": "If a divisor exactly divides two numbers separately, it must exactly divide their sum and their difference.",
+                    "formulae": [
+                        "If a|M and a|N, then a|(M+N)",
+                        "If a|M and a|N, then a|(M-N)"
+                    ],
+                    "examples": [
+                        "8 divides 16 and 56, thus 8 divides 72 (16+56) and 40 (56-16)."
+                    ]
+                },
+                {
+                    "id": "23.7",
+                    "title": "Divisibility and Multiples",
+                    "definition": "If a number A is divisible by k, then all multiples of A are also divisible by k.",
+                    "formulae": [
+                        "If k|A, then k|mA"
+                    ],
+                    "examples": [
+                        "Since 14 is divisible by 7, 28, 70, and 154 (multiples of 14) are also divisible by 7."
+                    ]
+                },
+                {
+                    "id": "23.8",
+                    "title": "Divisibility and Factors",
+                    "definition": "If a number A is divisible by k, then it is also divisible by all the factors of k.",
+                    "formulae": [],
+                    "examples": [
+                        "A number divisible by 12 is divisible by 1, 2, 3, 4, 6, and 12."
+                    ]
+                },
+                {
+                    "id": "23.9",
+                    "title": "Divisibility by Co-primes (LCM Rule)",
+                    "definition": "If a number A is divisible by both k and m (where k and m have no common factor other than 1), then A is divisible by their product (LCM(k, m)).",
+                    "formulae": [],
+                    "examples": [
+                        "If a number is divisible by 9 and 4, it must be divisible by 36.",
+                        "Non-example: 12 is divisible by 4 and 6, but not by 24 (4 and 6 are not co-prime)."
+                    ]
+                },
+                {
+                    "id": "23.10",
+                    "title": "Algebraic Representation of Remainders",
+                    "definition": "A number that leaves a remainder r when divided by n can be expressed in terms of multiples of n.",
+                    "formulae": [
+                        "x = nk + r",
+                        "x = n(k+1) - (n - r)"
+                    ],
+                    "examples": [
+                        "Remainder 3 when divided by 5: 5k+3 (3, 8, 13, 18, 23).",
+                        "Also expressed as 5k-2 for k \u2265 1."
+                    ]
+                },
+                {
+                    "id": "23.11",
+                    "title": "Divisibility by 10, 5, and 2",
+                    "definition": "Rules based on the unit's digit using the general form of a number dcba = 1000d + 100c + 10b + a.",
+                    "formulae": [],
+                    "examples": [
+                        "Divisible by 10 if units digit a = 0.",
+                        "Divisible by 5 if units digit a is 0 or 5.",
+                        "Divisible by 2 if units digit a is an even digit (0, 2, 4, 6, 8)."
+                    ]
+                },
+                {
+                    "id": "23.12",
+                    "title": "Divisibility by 9",
+                    "definition": "A number is divisible by 9 if and only if the sum of its digits is divisible by 9. This works because powers of 10 are one more than multiples of 9 (e.g., 100 = 99 + 1).",
+                    "formulae": [
+                        "Sum of digits \u2261 0 (mod 9)"
+                    ],
+                    "examples": [
+                        "7309: 7+3+0+9=19. Sum of digits of 19: 1+9=10. Final sum: 1+0=1. Remainder is 1."
+                    ]
+                },
+                {
+                    "id": "23.13",
+                    "title": "Divisibility by 3",
+                    "definition": "A number is divisible by 3 if the sum of its digits is divisible by 3.",
+                    "formulae": [],
+                    "examples": [
+                        "Sum of digits of 123 is 1+2+3=6, which is divisible by 3."
+                    ]
+                },
+                {
+                    "id": "23.14",
+                    "title": "Divisibility by 11",
+                    "definition": "A number is divisible by 11 if the difference between the sum of the digits in odd places (starting from units) and the sum of digits in even places is 0 or a multiple of 11.",
+                    "formulae": [],
+                    "examples": [
+                        "320185: Sum(odd) = 5+1+2=8; Sum(even) = 8+0+3=11. Diff = 8-11=-3. Not divisible."
+                    ]
+                },
+                {
+                    "id": "23.15",
+                    "title": "Digital Roots",
+                    "definition": "The single-digit number obtained by repeatedly adding the digits of a number until only one digit remains.",
+                    "formulae": [],
+                    "examples": [
+                        "Digital root of 489710: 4+8+9+7+1+0=29 \u2192 2+9=11 \u2192 1+1=2.",
+                        "Multiples of 9 have a digital root of 9."
+                    ]
+                },
+                {
+                    "id": "23.16",
+                    "title": "Cryptarithms (Addition/Subtraction)",
+                    "definition": "Puzzles where digits are represented by letters. Identical letters denote the same digit, and different letters denote different digits.",
+                    "formulae": [],
+                    "examples": [
+                        "PQ + PQ = BO. If PQ = 10, then 10+10=20 (B=2, O=0).",
+                        "A puzzle where first digits of numbers are never 0."
+                    ]
+                },
+                {
+                    "id": "23.17",
+                    "title": "Cryptarithms (Multiplication)",
+                    "definition": "Solving digital puzzles involving multiplication using range reasoning and parity checks.",
+                    "formulae": [],
+                    "examples": [
+                        "PQ \u00d7 8 = RS: 12 \u00d7 8 = 96 (P=1, Q=2, R=9, S=6)."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 24,
+            "title": "POWER PLAY",
+            "concepts": [
+                {
+                    "id": "24.1",
+                    "title": "Exponential Growth",
+                    "definition": "The power of multiplicative growth where a quantity doubles or triples after every step, resulting in rapid expansion.",
+                    "formulae": [],
+                    "examples": [
+                        "Paper folding: doubling the thickness results in a thickness above 7,00,000 km after 46 folds.",
+                        "Mariana Trench depth (11 km) is reached after about 30 folds."
+                    ]
+                },
+                {
+                    "id": "24.2",
+                    "title": "Exponential Notation",
+                    "definition": "In general, n^a denotes n multiplied by itself a times. This represents the shorthand exponential form of a product.",
+                    "formulae": [
+                        "n^a = n \u00d7 n \u00d7 n ... (a times)"
+                    ],
+                    "examples": [
+                        "5^4 = 5 \u00d7 5 \u00d7 5 \u00d7 5 = 625. Here, 5 is the base and 4 is the exponent.",
+                        "Wait for 10 folds: thickness increases 1024 times (2^10)."
+                    ]
+                },
+                {
+                    "id": "24.3",
+                    "title": "Prime Factorisation in Exponential Form",
+                    "definition": "Expressing a large number as a product of powers of its prime factors.",
+                    "formulae": [],
+                    "examples": [
+                        "32400 = 2^4 \u00d7 5^2 \u00d7 3^4.",
+                        "Calculating (-1)^5 = -1 (negative) and (-1)^56 = 1 (positive)."
+                    ]
+                },
+                {
+                    "id": "24.4",
+                    "title": "Law: Multiplying Powers with Same Base",
+                    "definition": "When multiplying multiple powers with the same base, the exponents are added.",
+                    "formulae": [
+                        "n^a \u00d7 n^b = n^{a+b}"
+                    ],
+                    "examples": [
+                        "3^4 \u00d7 3^3 = 3^7 (81 \u00d7 27 = 2187).",
+                        "p^4 \u00d7 p^6 = p^10."
+                    ]
+                },
+                {
+                    "id": "24.5",
+                    "title": "Law: Power of a Power",
+                    "definition": "To find the value of a power of an existing power, the exponents are multiplied.",
+                    "formulae": [
+                        "(n^a)^b = n^{ab}"
+                    ],
+                    "examples": [
+                        "(2^2)^5 = 2^10 = 1024.",
+                        "(4^3)^2 = 4^6 = 4096."
+                    ]
+                },
+                {
+                    "id": "24.6",
+                    "title": "Law: Multiplying Powers with Same Exponents",
+                    "definition": "When multiplying terms with different bases but identical exponents, the product is the base multiplication raised to that power.",
+                    "formulae": [
+                        "m^a \u00d7 n^a = (mn)^a"
+                    ],
+                    "examples": [
+                        "2^4 \u00d7 3^4 = (2 \u00d7 3)^4 = 6^4.",
+                        "m^a / n^a = (m / n)^a."
+                    ]
+                },
+                {
+                    "id": "24.7",
+                    "title": "Law: Dividing Powers with Same Base",
+                    "definition": "When dividing powers with the same base, the result is the base raised to the difference of the exponents.",
+                    "formulae": [
+                        "n^a \u00f7 n^b = n^{a-b}"
+                    ],
+                    "examples": [
+                        "2^4 \u00f7 2^3 = 2^{4-3} = 2^1 = 2.",
+                        "2^100 \u00f7 2^25 = 2^75."
+                    ]
+                },
+                {
+                    "id": "24.8",
+                    "title": "The Zero Exponent",
+                    "definition": "Any non-zero number raised to the power of zero is defined as equal to 1, consistent with division rules.",
+                    "formulae": [
+                        "x^0 = 1 (where x \u2260 0)"
+                    ],
+                    "examples": [
+                        "2^0 = 2^{4-4} = 2^4 \u00f7 2^4 = 1."
+                    ]
+                },
+                {
+                    "id": "24.9",
+                    "title": "Negative Exponents",
+                    "definition": "A quantity raised to a negative exponent denotes its reciprocal raised to the positive power.",
+                    "formulae": [
+                        "n^{-a} = 1 / n^a"
+                    ],
+                    "examples": [
+                        "10^{-3} = 1 / 10^3 = 1 / 1000.",
+                        "7^2 = 1 / 7^{-2}."
+                    ]
+                },
+                {
+                    "id": "24.10",
+                    "title": "Expanded Form using Powers of 10",
+                    "definition": "A system of expressing numbers, including decimals, as sum of digits multiplied by corresponding powers (positive and negative) of 10.",
+                    "formulae": [],
+                    "examples": [
+                        "561.903 = (5 \u00d7 10^2) + (6 \u00d7 10^1) + (1 \u00d7 10^0) + (9 \u00d7 10^{-1}) + (0 \u00d7 10^{-2}) + (3 \u00d7 10^{-3})."
+                    ]
+                },
+                {
+                    "id": "24.11",
+                    "title": "Scientific Notation (Standard Form)",
+                    "definition": "A standardised notation for writing very large or small numbers as x \u00d7 10^y, where 1 \u2264 x < 10 and y is an integer.",
+                    "formulae": [],
+                    "examples": [
+                        "Mass of Earth: 5.976 \u00d7 10^24 kg.",
+                        "Standard form of 59,853 is 5.9853 \u00d7 10^4."
+                    ]
+                },
+                {
+                    "id": "24.12",
+                    "title": "Comparing Very Large Numbers",
+                    "definition": "Exponents are the primary indicator of magnitude in scientific notation; a change in exponent is a 10-fold change in quantity.",
+                    "formulae": [],
+                    "examples": [
+                        "Distance Sun-Earth (1.496 \u00d7 10^11 m) is smaller than Sun-Saturn (1.4335 \u00d7 10^12 m).",
+                        "Population of Mumbai 2 \u00d7 10^7 vs Kohima 1.4 \u00d7 10^5."
+                    ]
+                },
+                {
+                    "id": "24.13",
+                    "title": "Linear Growth vs Exponential Growth",
+                    "definition": "Linear growth is additive (fixed increase per step), whereas exponential growth is multiplicative (constant ratio per step).",
+                    "formulae": [],
+                    "examples": [
+                        "Ladder to Moon (Linear): 1,92,20,00,000 steps of 20 cm each.",
+                        "Paper Folding (Exponential): Just 46 folds for same distance."
+                    ]
+                },
+                {
+                    "id": "24.14",
+                    "title": "Naming Systems for Large Numbers",
+                    "definition": "Terminology for powers of 10 in Indian and International (American) systems.",
+                    "formulae": [],
+                    "examples": [
+                        "Indian: Lakh (10^5), Crore (10^7), Arab (10^9), Kharab (10^11), Neel (10^13), Padma (10^15), Shankh (10^17), Maha Shankh (10^19).",
+                        "International: Million (10^6), Billion (10^9), Trillion (10^12), Quadrillion (10^15), Quintillion (10^18), Sextillion (10^21).",
+                        "Googol: 10^100."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 25,
+            "title": "PROPORTIONAL REASONING",
+            "concepts": [
+                {
+                    "id": "25.1",
+                    "title": "Similarity in Change",
+                    "definition": "Identifying similar figures when their dimensions change by the same multiplicative factor, preventing distortion.",
+                    "formulae": [],
+                    "examples": [
+                        "Images A, C, and D look similar because width and height changed by the same factor (e.g., width and height of C are half of A).",
+                        "Distorted images (B and E) occur when width and height change by different factors."
+                    ]
+                },
+                {
+                    "id": "25.2",
+                    "title": "Ratios and Simplest Form",
+                    "definition": "A ratio a:b relates two quantities. It is in simplest form when both terms are divided by their Highest Common Factor (HCF).",
+                    "formulae": [],
+                    "examples": [
+                        "Ratio 60:40 reduces to 3:2 by dividing by HCF (20).",
+                        "Ratios are proportional if their simplest forms are identical."
+                    ]
+                },
+                {
+                    "id": "25.3",
+                    "title": "Direct Proportion",
+                    "definition": "Two quantities are in direct proportion when they both change by the same factor, and their quotient (y/x) remains constant.",
+                    "formulae": [
+                        "x/y = k"
+                    ],
+                    "examples": [
+                        "Sweetness of lemonade: ratio of glasses to spoons of sugar remains constant (6:10 :: 18:30).",
+                        "Strength of a wall: ratio of length to bags of cement (60:3 :: 40:2)."
+                    ]
+                },
+                {
+                    "id": "25.4",
+                    "title": "Rule of Three (Trairasika)",
+                    "definition": "An ancient method (described by Aryabhata) to find an unknown fourth quantity (ichchhaphala) when three are known (pramana, phala, ichchha) in a proportion.",
+                    "formulae": [
+                        "ichchhaphala = (phala \u00d7 ichchha) / pramana"
+                    ],
+                    "examples": [
+                        "Mid-day meal: 120 students need 15 kg rice; find rice for 80 students (15 \u00d7 80 / 120 = 10 kg).",
+                        "Aryabhata's saffron problem: finding quantity based on cost and previous measures."
+                    ]
+                },
+                {
+                    "id": "25.5",
+                    "title": "Cross Multiplication",
+                    "definition": "A property of proportional ratios where the product of the first and fourth terms equals the product of the second and third terms.",
+                    "formulae": [
+                        "If a:b :: c:d, then ad = bc"
+                    ],
+                    "examples": [
+                        "Verifying 6:3 :: 4:2 by 6 \u00d7 2 = 3 \u00d7 4 = 12."
+                    ]
+                },
+                {
+                    "id": "25.6",
+                    "title": "Sharing in a Ratio",
+                    "definition": "Dividing a total quantity x into parts m and n based on a ratio m:n by dividing the whole into (m+n) equal groups.",
+                    "formulae": [
+                        "Part 1 = m \u00d7 x / (m+n)",
+                        "Part 2 = n \u00d7 x / (m+n)"
+                    ],
+                    "examples": [
+                        "Dividing 42 counters in the ratio 4:3 gives 24 and 18 counters.",
+                        "Sharing profit of 4000 in investment ratio 3:1 (Prashanti gets 3000, Bhuvan 1000)."
+                    ]
+                },
+                {
+                    "id": "25.7",
+                    "title": "Ratios with Multiple Terms",
+                    "definition": "Proportional relationships involving more than two quantities where all terms change by the same factor.",
+                    "formulae": [
+                        "a:b:c:d :: p:q:r:s implies a/p = b/q = c/r = d/s"
+                    ],
+                    "examples": [
+                        "Spice mix: coriander:chillies:toor dal:fenugreek :: 8:4:2:1.",
+                        "Special purple paint: Red:Blue:White :: 2:3:5."
+                    ]
+                },
+                {
+                    "id": "25.8",
+                    "title": "Representative Fraction (RF)",
+                    "definition": "The ratio on a map indicating the relationship between distance on the map and the actual geographical distance on the ground.",
+                    "formulae": [],
+                    "examples": [
+                        "RF 1:60,00,000 means 1 cm on the map represents 60,00,000 cm (60 km) on the ground.",
+                        "Measuring distance between cities (Bengaluru to Chennai) using map scale."
+                    ]
+                },
+                {
+                    "id": "25.9",
+                    "title": "Dividing a Whole with Multiple-Term Ratios",
+                    "definition": "Dividing a quantity into multiple parts by dividing the total by the sum of all terms in the ratio.",
+                    "formulae": [
+                        "x \u00d7 a / (a+b+c...)"
+                    ],
+                    "examples": [
+                        "Concrete mixture (110 units) in ratio cement:sand:gravel (1:1.5:3) requires 20, 30, and 60 units.",
+                        "Mixing 50 ml purple paint in ratio 2:3:5 (Red: 10, Blue: 15, White: 25)."
+                    ]
+                },
+                {
+                    "id": "25.10",
+                    "title": "Pie Charts",
+                    "definition": "A visual representation of data where slices of a circle are proportional to the quantities they represent; angles are calculated based on a 360-degree total.",
+                    "formulae": [
+                        "Angle = (Value / Total) \u00d7 360\u00b0"
+                    ],
+                    "examples": [
+                        "Grade distribution chart: Grade A (108\u00b0), Grade B (90\u00b0), etc., where total students is 40.",
+                        "Pie chart for favourite seasons based on votes from 360 people."
+                    ]
+                },
+                {
+                    "id": "25.11",
+                    "title": "Inverse Proportion",
+                    "definition": "Two quantities vary in inverse proportion if their product remains constant; an increase in one results in a proportional decrease in the other.",
+                    "formulae": [
+                        "x \u00d7 y = k",
+                        "x1 \u00d7 y1 = x2 \u00d7 y2"
+                    ],
+                    "examples": [
+                        "Speed and Time: Walking at 5 km/h takes 18 hours; car at 60 km/h takes 1.5 hours (Product = 90 km).",
+                        "Workers and Days: 20 workers take 4 days; 10 workers take 8 days."
+                    ]
+                },
+                {
+                    "id": "25.12",
+                    "title": "Unit Conversions in Proportions",
+                    "definition": "The requirement that all terms in a proportion comparison must use identical units (e.g., all in grams or all in minutes).",
+                    "formulae": [],
+                    "examples": [
+                        "Car traveling 90 km in 150 mins; finding distance in 4 hours (must convert 4 hrs to 240 mins).",
+                        "Comparing tea prices: must convert 1 kg to 1000 g to compare with 200 g packets."
+                    ]
+                },
+                {
+                    "id": "25.13",
+                    "title": "Combined Work Rates",
+                    "definition": "Calculating the total time for a task by adding individual rates of work (work per unit time).",
+                    "formulae": [
+                        "Together Rate = Rate A + Rate B"
+                    ],
+                    "examples": [
+                        "Ram (1 hr) and Shyam (1.5 hrs) cutting vegetables: together they do 1 + 2/3 = 5/3 units per hour, taking 3/5 hours total.",
+                        "Small pump (3 hrs) and large pump (2 hrs) filling a tank together."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 26,
+            "title": "QUADRILATERALS",
+            "concepts": [
+                {
+                    "id": "26.1",
+                    "title": "Quadrilateral and Angle Sum Property",
+                    "definition": "A four-sided figure (from Latin 'quadri' and 'latus'). The sum of all interior angle measures in any quadrilateral is 360\u00b0.",
+                    "formulae": [
+                        "Sum of angles = 360\u00b0"
+                    ],
+                    "examples": [
+                        "If three angles of a quadrilateral are 90\u00b0, the fourth angle must be 360 - (90+90+90) = 90\u00b0.",
+                        "Dividing a quadrilateral into two triangles results in 180 + 180 = 360\u00b0."
+                    ]
+                },
+                {
+                    "id": "26.2",
+                    "title": "Rectangle",
+                    "definition": "A quadrilateral in which all the angles are right angles (90\u00b0).",
+                    "formulae": [],
+                    "examples": [
+                        "Opposite sides are of equal length and are parallel.",
+                        "Diagonals are of equal length and bisect each other (intersect at their midpoints)."
+                    ]
+                },
+                {
+                    "id": "26.3",
+                    "title": "Square",
+                    "definition": "A quadrilateral in which all the angles are 90\u00b0 and all the sides are of equal length.",
+                    "formulae": [],
+                    "examples": [
+                        "Every square is a special type of rectangle and a rhombus.",
+                        "Diagonals are of equal length, bisect each other at 90\u00b0, and bisect the angles of the square (45\u00b0 each)."
+                    ]
+                },
+                {
+                    "id": "26.4",
+                    "title": "Parallelogram",
+                    "definition": "A quadrilateral in which opposite sides are parallel.",
+                    "formulae": [],
+                    "examples": [
+                        "Opposite sides are equal; opposite angles are equal.",
+                        "Adjacent angles add up to 180\u00b0 (supplementary).",
+                        "Diagonals bisect each other."
+                    ]
+                },
+                {
+                    "id": "26.5",
+                    "title": "Rhombus",
+                    "definition": "A quadrilateral in which all the sides have the same length. Every rhombus is a parallelogram.",
+                    "formulae": [],
+                    "examples": [
+                        "Opposite angles are equal; adjacent angles add up to 180\u00b0.",
+                        "Diagonals bisect each other at right angles (90\u00b0) and bisect its angles."
+                    ]
+                },
+                {
+                    "id": "26.6",
+                    "title": "Kite",
+                    "definition": "A quadrilateral with two non-overlapping adjacent pairs of sides having the same length (AB = BC and CD = DA).",
+                    "formulae": [],
+                    "examples": [
+                        "One diagonal perpendicular to the other and bisects it.",
+                        "One diagonal bisects the pair of opposite angles at the vertices it joins."
+                    ]
+                },
+                {
+                    "id": "26.7",
+                    "title": "Trapezium",
+                    "definition": "A quadrilateral having at least one pair of parallel opposite sides.",
+                    "formulae": [],
+                    "examples": [
+                        "Adjacent angles between the parallel sides (consecutive interior angles) sum to 180\u00b0.",
+                        "Rectangles and parallelograms are special types of trapeziums."
+                    ]
+                },
+                {
+                    "id": "26.8",
+                    "title": "Isosceles Trapezium",
+                    "definition": "A trapezium in which the non-parallel sides have the same length.",
+                    "formulae": [],
+                    "examples": [
+                        "Angles opposite to the equal sides (base angles) are equal.",
+                        "Constructed by placing equal non-parallel sides between parallel bases."
+                    ]
+                },
+                {
+                    "id": "26.9",
+                    "title": "Hierarchy of Quadrilaterals (Venn Diagram)",
+                    "definition": "The system of classification showing relationships between quadrilateral sets.",
+                    "formulae": [],
+                    "examples": [
+                        "Set of Squares \u2282 Set of Rectangles \u2282 Set of Parallelograms.",
+                        "A quadrilateral that is both a kite and a parallelogram is a rhombus."
+                    ]
+                },
+                {
+                    "id": "26.10",
+                    "title": "Geometric Deductions and Conjectures",
+                    "definition": "Deducing properties through logical reasoning (e.g., congruence) versus forming conjectures based on measurement.",
+                    "formulae": [],
+                    "examples": [
+                        "Proving diagonal bisection using congruent triangles (SAS, AAS, SSS).",
+                        "The Carpenter's Problem: using diagonal properties to construct exact rectangles/squares."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 27,
+            "title": "TALES BY DOTS AND LINES",
+            "concepts": [
+                {
+                    "id": "27.1",
+                    "title": "Arithmetic Mean as a Balance Point",
+                    "definition": "The arithmetic mean represents the 'centre' of data where the sum of the distances to the values lower than it and the values higher than it are equal.",
+                    "formulae": [
+                        "Mean = Sum of all values / Number of values"
+                    ],
+                    "examples": [
+                        "For a collection 10, 10, 11, 17: Mean = 12. LHS distances = (12-10) + (12-10) + (12-11) = 5. RHS distance = (17-12) = 5.",
+                        "The mean is always the value that balances the total distances on its left and right."
+                    ]
+                },
+                {
+                    "id": "27.2",
+                    "title": "Effects of Adding/Removing Data",
+                    "definition": "The inclusion or removal of data points shifts the mean and median depending on their value relative to the current measure.",
+                    "formulae": [],
+                    "examples": [
+                        "Including a value greater than the mean increases the mean.",
+                        "Including a value smaller than the mean decreases the mean.",
+                        "The mean stays unchanged if a value equal to it is added or removed."
+                    ]
+                },
+                {
+                    "id": "27.3",
+                    "title": "Mean Transformations",
+                    "definition": "Mathematical operations performed on every value in a data set result in predictable changes to the mean.",
+                    "formulae": [
+                        "New Mean = Original Mean + k (if k is added to all)",
+                        "New Mean = Original Mean \u00d7 k (if all are multiplied by k)"
+                    ],
+                    "examples": [
+                        "If every value increases by 10, the mean also increases by 10.",
+                        "If every value is doubled, the average also doubles (Algebra: \u03a3(2x)/n = 2 \u00d7 (\u03a3x/n) = 2a)."
+                    ]
+                },
+                {
+                    "id": "27.4",
+                    "title": "Median and Data Changes",
+                    "definition": "The median is the middle value in sorted data. Its position and value change as new data points are introduced.",
+                    "formulae": [],
+                    "examples": [
+                        "Including a value greater than the median shifts the middle position rightward, increasing the median.",
+                        "The median of 8, 11 is 9.5 (average of two middle values)."
+                    ]
+                },
+                {
+                    "id": "27.5",
+                    "title": "Mean and Median with Frequencies",
+                    "definition": "Calculating central tendency for large data sets using frequency tables and cumulative counts.",
+                    "formulae": [
+                        "Mean = \u03a3(Value \u00d7 Frequency) / Total Frequency"
+                    ],
+                    "examples": [
+                        "Average family size calculation: summing products of family members and their frequency.",
+                        "Median with frequency: finding the value at the middle position (e.g., average of 18th and 19th values in 36 data points)."
+                    ]
+                },
+                {
+                    "id": "27.6",
+                    "title": "Spreadsheets and Formulae",
+                    "definition": "Digital grids of cells (column headers A, B, C... and row headers 1, 2, 3...) used to store text, numbers, and formulae.",
+                    "formulae": [
+                        "=SUM(Start:End)",
+                        "=AVERAGE(Start:End)"
+                    ],
+                    "examples": [
+                        "Cell E5: row 5, column E (e.g., student marks in Mathematics).",
+                        "=SUM(B3:G3) calculates the total marks across several subjects in a row."
+                    ]
+                },
+                {
+                    "id": "27.7",
+                    "title": "Line Graphs",
+                    "definition": "Graphs that connect data points with line segments, best suited for illustrating trends and changes over time.",
+                    "formulae": [],
+                    "examples": [
+                        "Monthly maximum temperature trends in Punjab (high variation) vs Kerala (mostly flat).",
+                        "Worldwide count of space object launches increasing annually from 2012 to 2024.",
+                        "Identifying peak and low points (e.g., peak rainfall months)."
+                    ]
+                },
+                {
+                    "id": "27.8",
+                    "title": "Infographics and Color Scales",
+                    "definition": "Visual communication of data insights using color intensities and maps to show preferences or distributions.",
+                    "formulae": [],
+                    "examples": [
+                        "Rice vs Wheat preference map of India using shade scales from -100 to +100.",
+                        "Geographical split in preferences marked by a red line on a regional map."
+                    ]
+                },
+                {
+                    "id": "27.9",
+                    "title": "Activity Strips",
+                    "definition": "A visual representation of time-use where a strip is divided into intervals (e.g., 30 mins) and color-coded by activity type.",
+                    "formulae": [],
+                    "examples": [
+                        "Mapping a 24-hour day from midnight to midnight.",
+                        "Categories: Sleeping, Eating, Hobbies, Studying/Homework, Showering, Travelling."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 28,
+            "title": "THE BAUDHAYANA-PYTHAGORAS THEOREM",
+            "concepts": [
+                {
+                    "id": "28.1",
+                    "title": "Baudhayana's Theorem Statement",
+                    "definition": "If a right-angled triangle has sidelengths a, b, and c (where c is the hypotenuse), then the area of the square on the hypotenuse is equal to the sum of the areas of the squares on the other two sides.",
+                    "formulae": [
+                        "a\u00b2 + b\u00b2 = c\u00b2"
+                    ],
+                    "examples": [
+                        "A right-angled triangle with sides 3 cm and 4 cm has a hypotenuse of 5 cm (3\u00b2 + 4\u00b2 = 9 + 16 = 25 = 5\u00b2).",
+                        "The diagonal of a rectangle produces a square of area equal to the sum of areas of squares on its two sides."
+                    ]
+                },
+                {
+                    "id": "28.2",
+                    "title": "Historical Context (Sulba-Sutra)",
+                    "definition": "The theorem was first stated by Baudhayana in the Sulba-Sutras (c. 800 BCE), several centuries before Pythagoras (c. 500 BCE).",
+                    "formulae": [],
+                    "examples": [
+                        "Verse 1.12: The area of the square produced by the diagonal is the sum of the areas of the squares produced by the two sides.",
+                        "Baudhayana also provided solutions for combining different sized squares (Verse 1.12, 2.1)."
+                    ]
+                },
+                {
+                    "id": "28.3",
+                    "title": "Doubling and Halving Area",
+                    "definition": "Techniques to construct squares with exactly double or half the area of a given square using diagonals and midpoints.",
+                    "formulae": [],
+                    "examples": [
+                        "Doubling: The square constructed on the diagonal of an original square has double its area (4 triangles vs 2).",
+                        "Halving: Folding a square paper toward midpoints creates a tilted inner square (PQRS) with half the original area."
+                    ]
+                },
+                {
+                    "id": "28.4",
+                    "title": "The Hypotenuse and \u221a2",
+                    "definition": "In an isosceles right triangle with side 1 unit, the hypotenuse is \u221a2 units. \u221a2 is a value between 1.414 and 1.415.",
+                    "formulae": [
+                        "c = a\u221a2 (for isosceles right triangles)"
+                    ],
+                    "examples": [
+                        "1.414\u00b2 = 1.999396 and 1.415\u00b2 = 2.002225, so 1.414 < \u221a2 < 1.415.",
+                        "The value of \u221a2 cannot be expressed as a terminating decimal or a simple fraction."
+                    ]
+                },
+                {
+                    "id": "28.5",
+                    "title": "Proof of Irrationality",
+                    "definition": "Logical deduction (Euclid's proof) showing that \u221a2 cannot be expressed as a fraction m/n of counting numbers.",
+                    "formulae": [],
+                    "examples": [
+                        "If \u221a2 = m/n, then 2n\u00b2 = m\u00b2. The prime 2 would occur an odd number of times on the left and even on the right, which is impossible.",
+                        "Terminating decimals cannot have 2 as their square because the last non-zero digit squared prevents a result of 2.00..."
+                    ]
+                },
+                {
+                    "id": "28.6",
+                    "title": "Baudhayana Triples",
+                    "definition": "Sets of positive integers (a, b, c) that form the sidelengths of a right triangle (satisfying a\u00b2 + b\u00b2 = c\u00b2).",
+                    "formulae": [],
+                    "examples": [
+                        "Primitive Triples (no common factors): (3, 4, 5), (5, 12, 13), (8, 15, 17), (7, 24, 25).",
+                        "Scaled Versions: (6, 8, 10) is a scaled triple of (3, 4, 5) with k=2."
+                    ]
+                },
+                {
+                    "id": "28.7",
+                    "title": "Generating Triples",
+                    "definition": "A method to generate triples using the relation (n-1)\u00b2 + (2n-1) = n\u00b2, where the nth odd number is a square.",
+                    "formulae": [
+                        "(n-1)\u00b2 + (2n-1) = n\u00b2"
+                    ],
+                    "examples": [
+                        "n = 5: (5-1)\u00b2 + 9 = 5\u00b2 \u2192 4\u00b2 + 3\u00b2 = 5\u00b2 (Triples: 3, 4, 5).",
+                        "n = 13: 12\u00b2 + 25 = 13\u00b2 (Triples: 5, 12, 13)."
+                    ]
+                },
+                {
+                    "id": "28.8",
+                    "title": "Fermat's Last Theorem",
+                    "definition": "The mathematical statement that the equation x\u207f + y\u207f = z\u207f has no solutions in positive integers for n > 2.",
+                    "formulae": [
+                        "x\u207f + y\u207f = z\u207f (no solution for n > 2)"
+                    ],
+                    "examples": [
+                        "Stated by Fermat in the 17th century; proven by Andrew Wiles in 1994.",
+                        "While infinite square triples exist (n=2), no cube triples (n=3) or higher powers exist."
+                    ]
+                },
+                {
+                    "id": "28.9",
+                    "title": "The Lotus Problem (Lilavati)",
+                    "definition": "A classical application of the theorem from Bhaskaracharya's Lilavati involving a swayed lotus stem to find lake depth.",
+                    "formulae": [
+                        "3\u00b2 + x\u00b2 = (x + 1)\u00b2"
+                    ],
+                    "examples": [
+                        "Lotus stem 1 unit above water, swayed 3 units away: 9 + x\u00b2 = x\u00b2 + 2x + 1 \u2192 x=4. Depth = 4 units."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 29,
+            "title": "WE DISTRIBUTE, YET THINGS MULTIPLY",
+            "concepts": [
+                {
+                    "id": "29.1",
+                    "title": "Distributive Property and Visualisation",
+                    "definition": "The property relating multiplication and addition where a(b + c) = ab + ac. It can be visualised as a rectangle of width 'a' and length 'b+c' being split into two smaller rectangles of area 'ab' and 'ac'.",
+                    "formulae": [
+                        "a(b + c) = ab + ac"
+                    ],
+                    "examples": [
+                        "23 \u00d7 (27 + 1) = 23 \u00d7 27 + 23 = 621 + 23 = 644.",
+                        "Identifying area components in a composite rectangle diagram."
+                    ]
+                },
+                {
+                    "id": "29.2",
+                    "title": "Historical Context (Khanda-Gunanam)",
+                    "definition": "Brahmagupta (628 CE) in Brahmasphutasiddhanta explicitly described the distributive property for multiplication as 'khanda-gunanam' (multiplication by parts).",
+                    "formulae": [],
+                    "examples": [
+                        "Verse 12.55: The multiplier is broken up into parts; the multiplicand is multiplied by each and the results added.",
+                        "Use by ancient mathematicians like Euclid (geometric) and Aryabhata (algebraic) in implicit forms."
+                    ]
+                },
+                {
+                    "id": "29.3",
+                    "title": "General Binomial Expansion",
+                    "definition": "The product of $(a + m)$ and $(b + n)$ is the sum of the product of each term of $(a + m)$ with each term of $(b + n)$.",
+                    "formulae": [
+                        "(a + m)(b + n) = ab + an + bm + mn"
+                    ],
+                    "examples": [
+                        "Increment in product: If both a and b are increased by 1, the new product (a+1)(b+1) is ab + a + b + 1 (increase is a + b + 1).",
+                        "Case with negative values: (a + 1)(b - 1) = ab - a + b - 1."
+                    ]
+                },
+                {
+                    "id": "29.4",
+                    "title": "Square of a Sum (Identity 1A)",
+                    "definition": "The square of a binomial (a + b) expanded using the distributive property resulting in a trinomial.",
+                    "formulae": [
+                        "(a + b)\u00b2 = a\u00b2 + 2ab + b\u00b2"
+                    ],
+                    "examples": [
+                        "65\u00b2 = (60 + 5)\u00b2 = 60\u00b2 + 2(60 \u00d7 5) + 5\u00b2 = 3600 + 600 + 25 = 4225.",
+                        "Expansion of (3j + 2k)\u00b2 = 9j\u00b2 + 12jk + 4k\u00b2."
+                    ]
+                },
+                {
+                    "id": "29.5",
+                    "title": "Square of a Difference (Identity 1B)",
+                    "definition": "The square of a binary expression (a - b) which can also be viewed as (a + (-b))\u00b2.",
+                    "formulae": [
+                        "(a - b)\u00b2 = a\u00b2 - 2ab + b\u00b2"
+                    ],
+                    "examples": [
+                        "55\u00b2 = (60 - 5)\u00b2 = 60\u00b2 - 2(60 \u00d7 5) + 5\u00b2 = 3600 - 600 + 25 = 3025.",
+                        "Geometric interpretation: Taking a 60\u00d760 square, removing two 60\u00d75 rectangles, and adding back the 5\u00d75 square subtracted twice."
+                    ]
+                },
+                {
+                    "id": "29.6",
+                    "title": "Difference of Squares (Identity 1C)",
+                    "definition": "An identity stating that the difference between the squares of two numbers equals the product of their sum and difference.",
+                    "formulae": [
+                        "(a + b)(a - b) = a\u00b2 - b\u00b2"
+                    ],
+                    "examples": [
+                        "98 \u00d7 102 = (100 - 2)(100 + 2) = 100\u00b2 - 2\u00b2 = 10000 - 4 = 9996.",
+                        "Geometric proof: Rearranging a L-shaped region (a\u00b2 - b\u00b2) into a rectangle of sides (a+b) and (a-b)."
+                    ]
+                },
+                {
+                    "id": "29.7",
+                    "title": "Fast Multiplication (Ista-Gunana)",
+                    "definition": "Applying algebraic identities and distributive property for quick mental calculations.",
+                    "formulae": [
+                        "a\u00b2 = (a + b)(a - b) + b\u00b2"
+                    ],
+                    "examples": [
+                        "Multiplying by 11: 3874 \u00d7 11 = 38740 + 3874 = 42614.",
+                        "Sridharacharya's square method: 197\u00b2 = (197+3)(197-3) + 3\u00b2 = 200 \u00d7 194 + 9 = 38809."
+                    ]
+                },
+                {
+                    "id": "29.8",
+                    "title": "Higher Dimensional Expansion",
+                    "definition": "The distributive property applied iteratively to binomials of degree 2 to find higher powers.",
+                    "formulae": [
+                        "(a + b)\u00b3 = a\u00b3 + 3a\u00b2b + 3ab\u00b2 + b\u00b3"
+                    ],
+                    "examples": [
+                        "Expanding (a + b)(a\u00b2 + 2ab + b\u00b2) step-by-step using partial distribution.",
+                        "Pattern observation: (a-b)(a\u00b2+ab+b\u00b2) = a\u00b3 - b\u00b3."
+                    ]
+                },
+                {
+                    "id": "29.9",
+                    "title": "Equivalence of Algebraic Methods",
+                    "definition": "The principle that different visual interpretations or algebraic paths for the same problem must lead to identical simplified expressions.",
+                    "formulae": [
+                        "(m + n)\u00b2 - 4mn = (n - m)\u00b2"
+                    ],
+                    "examples": [
+                        "Comparing Tadang's method (large square minus 4 rectangles) with Yusuf's method (inner square) for shaded areas.",
+                        "Simplifying step-wise circle patterns: (k+1)\u00b2 - 1 = k\u00b2 + 2k."
+                    ]
+                }
+            ]
         }
     ]
 }

@@ -10,58 +10,64 @@
                 {
                     "id": "1.1",
                     "title": "Physical Nature of Matter",
-                    "definition": "Matter is anything that has mass and occupies space. It is made up of very small particles which are continuously moving.",
+                    "definition": "Matter is anything that has mass and occupies space. Early Indian philosophers classified matter into five basic elements (Panch Tatva): air, earth, fire, sky, and water. Modern scientists classify matter based on physical properties and chemical nature. Matter is particulate (made of particles) rather than continuous, and these particles are extremely small beyond our imagination.",
                     "formulae": [],
                     "examples": [
-                        "Sugar crystals disappear when dissolved in water, showing tiny particles mixing with water.",
-                        "The smell of perfume spreads in a room due to motion of particles."
+                        "Activity 1.1: Dissolving salt/sugar in water shows particles spread throughout water, getting into spaces between water particles.",
+                        "Activity 1.2: A few crystals of potassium permanganate can colour about 1000 L of water, showing millions of tiny particles in one crystal.",
+                        "The smell of Dettol can be detected even on repeated dilution, showing particle size."
                     ]
                 },
                 {
                     "id": "1.2",
                     "title": "States of Matter",
-                    "definition": "Matter mainly exists in three states: solid, liquid and gas, differing in inter‑particle distances, forces of attraction and freedom of movement.",
+                    "definition": "Matter exists in solid, liquid and gas states due to variations in particle characteristics: they have space between them, are continuously moving (possess kinetic energy), and attract each other with force.",
                     "formulae": [],
                     "examples": [
-                        "Ice is solid with fixed shape and volume; water is liquid with fixed volume but variable shape; steam is gas with neither fixed shape nor volume."
+                        "Particles have space (Activities 1.1, 1.2): Salt/sugar/Dettol getting distributed in water; making tea, coffee or lemonade.",
+                        "Particles move (Activities 1.3, 1.4, 1.5): Smell of unlit vs lit incense; diffusion of ink/honey in water; copper sulphate crystals diffusing faster in hot water.",
+                        "Particles attract (Activities 1.6, 1.7, 1.8): Breaking human chains of different strengths; iron nail harder to break than chalk; surface of water staying together when cut by fingers."
                     ]
                 },
                 {
                     "id": "1.3",
                     "title": "Characteristics of Solids, Liquids and Gases",
-                    "definition": "Solids have definite shape and volume; liquids have definite volume but take shape of container; gases have neither definite shape nor volume and are highly compressible.",
+                    "definition": "Solids have definite shape, distinct boundaries and fixed volume (rigid/incompressible). Liquids have no fixed shape (fluid) but fixed volume. Gases are highly compressible and diffuse rapidly due to high speed and large inter-particle space.",
                     "formulae": [],
                     "examples": [
-                        "A wooden block keeps its shape; water takes shape of glass; LPG cylinder shows high compressibility of gas."
+                        "Solids (Activity 1.9): Pen/book/needle have definite shape. Rubber band regains shape; sponge is compressible due to air in holes.",
+                        "Liquids (Activity 1.10): 50 mL liquid takes container's shape but maintains volume. Aquatic life survives on oxygen/CO2 diffused in water.",
+                        "Gases (Activity 1.11): Large volumes of gas like LPG/CNG are compressed into small cylinders. Aroma of hot food spreads fast due to fast gas diffusion."
                     ]
                 },
                 {
                     "id": "1.4",
                     "title": "Change of State: Melting, Boiling and Sublimation",
-                    "definition": "Matter can change from solid to liquid and liquid to gas on heating at fixed temperatures called melting point and boiling point; some solids change directly from solid to gas (sublimation).",
+                    "definition": "Matter changes state on heating/cooling as particles gain/lose energy to overcome/reform attractions. Includes Fusion (melting), Vaporisation (boiling), Sublimation (solid to gas), and Deposition (gas to solid). Latent heat (fusion/vaporisation) is the hidden heat absorbed during change of state at constant temperature.",
                     "formulae": [],
                     "examples": [
-                        "Ice melts at 0°C to water; water boils at 100°C at normal pressure.",
-                        "Camphor and naphthalene sublime on heating."
+                        "Activity 1.12: Ice melting at 0°C (273 K) and water boiling at 100°C (373 K). Water at 0°C has more energy than ice at same temp due to latent heat of fusion.",
+                        "Activity 1.13: Camphor or ammonium chloride sublimes directly to gas. Solid CO2 (dry ice) sublimes at 1 atmosphere pressure."
                     ]
                 },
                 {
                     "id": "1.5",
                     "title": "Effect of Temperature and Pressure on State",
-                    "definition": "Increasing temperature increases kinetic energy and can change state; increasing pressure can liquefy gases by bringing particles closer.",
+                    "definition": "Increasing temperature increases kinetic energy to change state; increasing pressure can liquefy gases by bringing particles closer. Reducing temperature and increasing pressure together can liquefy atmospheric gases.",
                     "formulae": [],
                     "examples": [
-                        "Liquefied petroleum gas (LPG) is gas compressed under high pressure to become liquid in cylinders."
+                        "Solid carbon dioxide (dry ice) is stored under high pressure and converts to gas on decreasing pressure to 1 atmosphere.",
+                        "LPG and hospital oxygen cylinders contain gas compressed and liquefied under high pressure."
                     ]
                 },
                 {
                     "id": "1.6",
                     "title": "Evaporation and Factors Affecting It",
-                    "definition": "Evaporation is the surface phenomenon where liquid changes into vapour below its boiling point; it depends on temperature, surface area, humidity and wind speed.",
+                    "definition": "Evaporation is a surface phenomenon where liquid changes to vapour below its boiling point. It depends on surface area, temperature, humidity and wind speed. Evaporation causes cooling as particles absorb latent heat of vaporisation from the surroundings or body.",
                     "formulae": [],
                     "examples": [
-                        "Wet clothes dry faster on a hot, windy day due to faster evaporation.",
-                        "Evaporation causes cooling, as in sweating."
+                        "Activity 1.14: Water in open dish evaporates faster than in test tube/cupboard. Clothes dry faster on hot, windy days.",
+                        "Cooling: Acetone or perfume on palm feels cool; earthen pots (matka) keep water cool; cotton clothes in summer; sprinkling water on hot roofs."
                     ]
                 }
             ]
@@ -73,48 +79,58 @@
                 {
                     "id": "2.1",
                     "title": "Pure Substance and Mixture",
-                    "definition": "Pure substances have fixed composition and properties, such as elements and compounds. Mixtures contain two or more substances physically combined.",
+                    "definition": "A pure substance consists of a single type of particle (elements or compounds) with uniform chemical nature. Mixtures contain more than one pure substance mixed in any proportion. Elements are basic forms of matter that cannot be broken down chemically (Metals, Non-metals, Metalloids). Compounds are substances composed of two or more elements chemically combined in fixed proportions.",
                     "formulae": [],
                     "examples": [
-                        "Distilled water is a pure substance; air and salt solution are mixtures."
+                        "Pure substances: Water, Sugar, Sodium Chloride, Gold, Iron.",
+                        "Mixtures: Milk (water, fat, proteins), Sea water, Soil, Soft drinks.",
+                        "Activity 2.4: Iron filings and sulphur powder form a mixture if just crushed (magnetic), but form a compound (Iron Sulphide, non-magnetic) when heated strongly."
                     ]
                 },
                 {
                     "id": "2.2",
                     "title": "Types of Mixtures: Homogeneous and Heterogeneous",
-                    "definition": "Homogeneous mixtures have uniform composition throughout; heterogeneous mixtures have non‑uniform composition with visible different parts.",
+                    "definition": "Homogeneous mixtures (solutions) have a uniform composition throughout. Heterogeneous mixtures contain physically distinct parts and have non-uniform compositions.",
                     "formulae": [],
                     "examples": [
-                        "Sugar in water is homogeneous; sand in water is heterogeneous."
+                        "Activity 2.1: Group A/B adding copper sulphate to water get a homogeneous mixture (uniform colour). Group C/D mixing salt and iron filings or oil and water get a heterogeneous mixture.",
+                        "Homogeneous: Salt in water, Sugar in water. Heterogeneous: Mixtures of sodium chloride and iron filings, salt and sulphur, oil and water."
                     ]
                 },
                 {
                     "id": "2.3",
                     "title": "Solutions, Suspensions and Colloids",
-                    "definition": "Solutions are homogeneous mixtures with very small solute particles; suspensions are heterogeneous with large particles settling on standing; colloids have intermediate particle size and show Tyndall effect.",
+                    "definition": "Solutions are homogeneous mixtures with particles <1nm (stable, no light scattering). Suspensions are heterogeneous with visible particles that settle (unstable, light scattering). Colloids are heterogeneous but appear homogeneous; they have intermediate particle size and show Tyndall effect (scattering of light).",
                     "formulae": [],
                     "examples": [
-                        "Salt solution is a true solution; muddy water is a suspension; milk is a colloid."
+                        "Solutions (Activity 2.2 A/B): Lemonade, Alloys (Brass: 30% Zn, 70% Cu), Tincture of iodine (iodine in alcohol), Aerated drinks (CO2 in water), Air (gas in gas).",
+                        "Suspensions (Activity 2.2 C): Chalk powder or wheat flour in water; Muddy water.",
+                        "Colloids (Activity 2.2 D): Milk, Face cream, Fog/Clouds/Mist (Aerosol), Tyndall effect in a dusty room or through a dense forest canopy."
                     ]
                 },
                 {
                     "id": "2.4",
                     "title": "Concentration of Solutions (Basic)",
-                    "definition": "Concentration describes amount of solute dissolved in a given quantity of solvent or solution.",
+                    "definition": "Concentration is the amount of solute in a given amount of solution. A Saturated solution has dissolved as much solute as possible at a given temperature; below this, it is Unsaturated. Solubility is the amount of solute in a saturated solution at a specific temperature.",
                     "formulae": [
-                        "Mass% of solute = (mass of solute / mass of solution) × 100"
+                        "Mass% of solute = (mass of solute / mass of solution) × 100",
+                        "Mass by Volume% = (mass of solute / volume of solution) × 100",
+                        "Volume by Volume% = (volume of solute / volume of solution) × 100"
                     ],
                     "examples": [
-                        "10 g of salt in 90 g of water gives 10% salt solution by mass."
+                        "Activity 2.3: Adding salt/sugar with stirring until no more dissolves at a temperature gives a saturated solution.",
+                        "Example 2.1: 40 g salt in 320 g water gives 11.1% mass percentage (40/360 * 100)."
                     ]
                 },
                 {
                     "id": "2.5",
                     "title": "Separation Techniques (Intro)",
-                    "definition": "Mixtures can be separated by methods based on differences in properties such as particle size, solubility, boiling point and magnetic nature.",
+                    "definition": "Mixtures are separated by physical methods based on differences in physical properties (boiling point, solubility, etc.). Physical changes (state conversion) don't change chemical nature, whereas Chemical changes (reactions) produce new substances with different properties.",
                     "formulae": [],
                     "examples": [
-                        "Filtration, decantation, evaporation, distillation, chromatography and using a magnet."
+                        "Physical Changes: Melting ice, boiling water, dissolving salt, cutting trees.",
+                        "Chemical Changes: Burning of wood/paper, rusting of iron almirah, cooking of food, digestion.",
+                        "Candle burning involves both physical (melting wax) and chemical (burning wax) changes."
                     ]
                 }
             ]
@@ -126,40 +142,50 @@
                 {
                     "id": "3.1",
                     "title": "Laws of Chemical Combination (Concept)",
-                    "definition": "Chemical reactions follow fixed laws like law of conservation of mass and law of constant proportions.",
+                    "definition": "Chemical reactions follow the Law of Conservation of Mass (mass is neither created nor destroyed) and the Law of Constant/Definite Proportions (elements are always present in definite proportions by mass). John Dalton's Atomic Theory provided the explanation, positing that all matter is made of tiny, indivisible atoms that combine in small whole-number ratios to form compounds.",
                     "formulae": [
-                        "Law of conservation of mass: total mass of reactants = total mass of products"
+                        "Law of conservation of mass: total mass of reactants = total mass of products",
+                        "Dalton's Postulates: 1. Matter made of atoms. 2. Atoms indivisible. 3. Identical elements have identical mass. 4. Different elements have different mass. 5. Combine in whole numbers. 6. Relative number/kinds are constant."
                     ],
                     "examples": [
-                        "In burning of magnesium in air, total mass of reactants equals mass of magnesium oxide formed plus remaining oxygen."
+                        "Activity 3.1: Mixing solutions X (e.g., Copper Sulphate) and Y (Sodium Carbonate) results in a chemical reaction where total mass remains unchanged.",
+                        "Law of Constant Proportions: In water (H₂O), the ratio of mass of hydrogen to oxygen is always 1:8 irrespective of its source."
                     ]
                 },
                 {
                     "id": "3.2",
                     "title": "Atoms, Elements and Symbols",
-                    "definition": "Atoms are basic units of elements; an element has only one type of atom. Each element has a chemical symbol.",
+                    "definition": "Atoms are building blocks of matter, very small with radius measured in nanometres (1nm = 10⁻⁹m). Modern symbols (IUPAC) are often the first one or two letters of English or Latin/Greek names. Atomic Mass is the relative mass of an atom compared to 1/12th the mass of one Carbon-12 atom, expressed in unified mass unit 'u'.",
                     "formulae": [],
                     "examples": [
-                        "H for hydrogen, O for oxygen, Na for sodium, Fe for iron."
+                        "Symbols: H (Hydrogen), Al (Aluminium), Co (Cobalt). From Latin: Fe (Ferrum - Iron), Na (Natrium - Sodium), K (Kalium - Potassium).",
+                        "Atomic sizes: Hydrogen atom (10⁻¹⁰ m), Water molecule (10⁻⁹ m), Grain of sand (10⁻⁴ m).",
+                        "Watermelon analogy: Using pieces of a watermelon to weigh other fruits is like using 1/12th of Carbon-12 to measure relative atomic masses."
                     ]
                 },
                 {
                     "id": "3.3",
                     "title": "Molecules of Elements and Compounds",
-                    "definition": "A molecule is a group of two or more atoms chemically combined. Molecules of elements have same type of atoms, while molecules of compounds have different types.",
+                    "definition": "Molecules are the smallest particles capable of independent existence. Atomicity is the number of atoms in a molecule (Monoatomic, Diatomic, Polyatomic). Ions are charged species; a negatively charged ion is an 'anion' and a positively charged one is a 'cation'. Polyatomic ions are clusters of atoms with a net charge.",
                     "formulae": [],
                     "examples": [
-                        "O₂ and N₂ are molecules of elements; H₂O and CO₂ are molecules of compounds."
+                        "Atomicity: Argon/He (Monoatomic), Oxygen/H₂/N₂/Cl₂ (Diatomic), Phosphorus (P₄ - Tetra-atomic), Sulphur (S₈ - Poly-atomic).",
+                        "Molecules of compounds (Activity 3.2): In Water (H₂O), the ratio by number of atoms is H:O = 2:1.",
+                        "Ions: Sodium chloride (Na+, Cl⁻). Polyatomic: Ammonium (NH₄⁺), Hydroxide (OH⁻), Nitrate (NO₃⁻), Carbonate (CO₃²⁻), Phosphate (PO₄³⁻)."
                     ]
                 },
                 {
                     "id": "3.4",
                     "title": "Writing Chemical Formulae (Intro)",
-                    "definition": "Chemical formula of a compound represents its composition using symbols and subscripts showing fixed ratios of atoms.",
-                    "formulae": [],
+                    "definition": "Chemical formula represents composition using symbols and Valency (combining capacity). Molecular Mass is the sum of atomic masses in a molecule. Formula Unit Mass is the same for substances whose constituent particles are ions. Formula writing involves criss-crossing valencies/charges to achieve electrical neutrality.",
+                    "formulae": [
+                        "Molecular Mass = Σ(atomic mass of each atom in molecule)",
+                        "Formula Writing Rule: Valencies/charges on ions must balance; metal symbol written first."
+                    ],
                     "examples": [
-                        "Water is H₂O (2 hydrogen atoms and 1 oxygen atom).",
-                        "Carbon dioxide is CO₂ (1 carbon atom and 2 oxygen atoms)."
+                        "Valency (Octopus analogy): An octopus with 8 arms (valency 8) can hold 4 humans with 2 arms each (valency 2), forming a 'formula' OH₄.",
+                        "Simple Formulae: Hydrogen Chloride (HCl), Aluminium Oxide (Al₂O₃), Magnesium Chloride (MgCl₂), Calcium Hydroxide (Ca(OH)₂).",
+                        "Mass Calculations: Water (H₂O) molecular mass = 2*1 + 16 = 18u. Sodium Chloride (NaCl) formula unit mass = 23 + 35.5 = 58.5u."
                     ]
                 }
             ]
@@ -171,41 +197,54 @@
                 {
                     "id": "4.1",
                     "title": "Subatomic Particles",
-                    "definition": "Atoms contain protons and neutrons in a nucleus and electrons revolving around the nucleus.",
+                    "definition": "Atoms contain at least three sub-atomic particles: electrons (discovered by J.J. Thomson), protons (suggested by Goldstein's canal rays), and neutrons. E. Goldstein discovered positively charged 'canal rays' in 1886. Thomson proposed models like a Christmas pudding or watermelon where electrons are embedded in a positive sphere. Rutherford's gold foil experiment later revealed the nucleus, concluding that most of the atom is empty space and mass is concentrated at the centre.",
                     "formulae": [],
                     "examples": [
-                        "Proton has positive charge, neutron is neutral and electron has negative charge."
+                        "Activity 4.1: Rubbing a comb on dry hair or a glass rod on silk creates static electricity, indicating atoms have charged particles.",
+                        "Thomson's Model (Watermelon): Positive charge is like the red edible part; electrons are like the black seeds.",
+                        "Rutherford's Gold Foil: Scattering α-particles (doubly-charged helium ions) showed that 1 in 12,000 particles rebound, indicating a tiny, dense nucleus."
                     ]
                 },
                 {
                     "id": "4.2",
                     "title": "Atomic Number and Mass Number",
-                    "definition": "Atomic number is the number of protons in an atom; mass number is the sum of protons and neutrons in the nucleus.",
+                    "definition": "Atomic number (Z) is the total number of protons in an atom's nucleus and defines the element. Mass number (A) is the sum of protons and neutrons (nucleons) in the nucleus. In notation ($^A_Z X$), mass number is the superscript and atomic number is the subscript.",
                     "formulae": [
                         "Atomic number (Z) = number of protons",
                         "Mass number (A) = number of protons + number of neutrons"
                     ],
                     "examples": [
-                        "For carbon‑12, Z = 6, A = 12; it has 6 protons and 6 neutrons."
+                        "Carbon: Z = 6, A = 12 ($^{12}_6 C$).",
+                        "Nitrogen: Z = 7, A = 14 ($^{14}_7 N$).",
+                        "Aluminium: Z = 13, A = 27 (13 protons + 14 neutrons)."
                     ]
                 },
                 {
                     "id": "4.3",
                     "title": "Isotopes and Isobars",
-                    "definition": "Isotopes are atoms of same element with same atomic number but different mass numbers; isobars are atoms of different elements with same mass number but different atomic numbers.",
-                    "formulae": [],
+                    "definition": "Isotopes are atoms of the same element with the same atomic number but different mass numbers (same chemical, different physical properties). Average atomic mass is the weighted average of all natural isotopic forms. Isobars are atoms of different elements with the same mass number but different atomic numbers (same nucleons, different protons).",
+                    "formulae": [
+                        "Average Atomic Mass = Σ(isotope mass * percentage abundance)"
+                    ],
                     "examples": [
-                        "¹²C, ¹³C and ¹⁴C are isotopes of carbon.",
-                        "⁴⁰Ca and ⁴⁰Ar are isobars."
+                        "Hydrogen isotopes: Protium ($^1_1 H$), Deuterium ($^2_1 H$), Tritium ($^3_1 H$).",
+                        "Chlorine isotopes (3:1 ratio of 35u and 37u) give an average mass of 35.5u.",
+                        "Applications: Uranium-235 as fuel in nuclear reactors; Cobalt-60 for cancer treatment; Iodine-131 for goitre treatment.",
+                        "Isobars: Calcium (Z=20) and Argon (Z=18) both have mass number A=40."
                     ]
                 },
                 {
                     "id": "4.4",
                     "title": "Bohr’s Model (Intro)",
-                    "definition": "According to Bohr’s model, electrons revolve around nucleus in fixed circular orbits (shells) with fixed energies.",
-                    "formulae": [],
+                    "definition": "Bohr's model proposes that electrons revolve in discrete orbits (K, L, M, N shells) without radiating energy. Neutrons (discovered by Chadwick) reside in the nucleus with protons. Electron distribution follows the Bohr-Bury scheme (2n² rule, max 8 in outermost shell). Valency is the combining capacity determined by the octet rule (striving for 8 electrons in the outermost shell).",
+                    "formulae": [
+                        "Max electrons in a shell = 2n² (n=1,2,3...)",
+                        "Valency = number of electrons gained, lost, or shared to achieve an octet."
+                    ],
                     "examples": [
-                        "K, L, M shells for first, second, third energy levels."
+                        "Shells: K (n=1, max 2), L (n=2, max 8), M (n=3, max 18), N (n=4, max 32).",
+                        "Valency: Magnesium (2,8,2) has valency 2. Fluorine (2,7) gains 1 electron to reach octet, so valency is 1 (8-7=1).",
+                        "Neutrons: Chadwick (1932) found neutral particles (mass ≈ proton) in all nuclei except hydrogen."
                     ]
                 }
             ]
@@ -217,37 +256,60 @@
                 {
                     "id": "5.1",
                     "title": "Cell Theory and Types",
-                    "definition": "Cells are basic structural and functional units of life. All living organisms are made of cells, which may be unicellular or multicellular.",
+                    "definition": "Cells, first discovered by Robert Hooke in 1665 (cork slice), are the basic structural and functional units of all life. Leeuwenhoek (1674) discovered free-living cells, Robert Brown (1831) discovered the nucleus, and Purkinje (1839) coined 'protoplasm'. The Cell Theory (Schleiden & Schwann) states all plants/animals are made of cells; Virchow (1855) expanded it, stating all cells arise from pre-existing cells.",
                     "formulae": [],
                     "examples": [
-                        "Amoeba is unicellular; humans are multicellular."
+                        "Activity 5.1: Temporary mount of onion peel shows similar small structures (cells) regardless of onion size.",
+                        "Unicellular organisms: Amoeba, Chlamydomonas, Paramoecium, and bacteria.",
+                        "Human body cells: Nerve cells (fixed shape), blood cells, bone cells, muscle cells, and sperm/ovum."
                     ]
                 },
                 {
                     "id": "5.2",
-                    "title": "Cell Structure",
-                    "definition": "Typical cells have a cell membrane, cytoplasm and nucleus; plant cells also have a cell wall and plastids.",
-                    "formulae": [],
+                    "title": "Cell Structure (Membrane, Wall, Nucleus)",
+                    "definition": "Basic cell features include the selectively permeable Plasma Membrane (controlling entry/exit via diffusion and osmosis), the rigid Cellulose Cell Wall (providing structural strength in plants), and the Nucleus (enclosing chromosomes with DNA/genes). Prokaryotes lack a nuclear membrane (nucleoid), while Eukaryotes have a well-defined nucleus and membrane-bound organelles.",
+                    "formulae": [
+                        "Osmosis: Net diffusion of water across selectively permeable membrane (Hypotonic, Isotonic, Hypertonic solutions).",
+                        "Plasmolysis: Shrinkage of cell contents away from the cell wall due to water loss through osmosis."
+                    ],
                     "examples": [
-                        "Onion peel cell shows cell wall, cell membrane, cytoplasm and nucleus."
+                        "Activity 5.3: A de-shelled egg swells in pure water (hypotonic) and shrinks in salt solution (hypertonic).",
+                        "Activity 5.6: Rhoeo leaf peel showing plasmolysis when treated with strong sugar/salt solution.",
+                        "Endocytosis: The flexibility of the plasma membrane allows Amoeba to engulf food from its environment."
                     ]
                 },
                 {
                     "id": "5.3",
-                    "title": "Cell Organelles and Functions",
-                    "definition": "Organelles like nucleus, mitochondria, chloroplasts, endoplasmic reticulum, Golgi apparatus and vacuoles perform specific functions.",
-                    "formulae": [],
+                    "title": "Cell Organelles",
+                    "definition": "Membrane-bound organelles enable division of labour within cells. Key organelles include Endoplasmic Reticulum (RER/SER for protein/lipid synthesis and detox), Golgi Apparatus (storage/packaging, first described by Camillo Golgi), Lysosomes (suicide bags with digestive enzymes), Mitochondria (ATP production/powerhouse), Plastids (chloroplasts for photosynthesis), and Vacuoles (storage/turgidity).",
+                    "formulae": [
+                        "Membrane Biogenesis: ER proteins/lipids building the cell membrane.",
+                        "ATP: Adenosine Triphosphate, the energy currency produced by Mitochondria."
+                    ],
                     "examples": [
-                        "Mitochondria release energy; chloroplasts carry out photosynthesis; vacuoles store water and substances."
+                        "Golgi Apparatus: Flattened sacs (cisterns) that package material synthesised near ER.",
+                        "Mitochondria and Plastids: Both possess their own DNA and ribosomes.",
+                        "Lysosomes: Known as 'suicide bags' because they digest their own cell if it gets damaged."
                     ]
                 },
                 {
                     "id": "5.4",
-                    "title": "Differences Between Plant and Animal Cells",
-                    "definition": "Plant cells have cell wall, large vacuole and plastids; animal cells usually lack these and often have smaller vacuoles.",
+                    "title": "Cell Division",
+                    "definition": "The process by which new cells are made for growth, repair, or reproduction. Mitosis produces two identical daughter cells for growth and repair. Meiosis produces four new cells with half the chromosome number to form gametes for reproduction.",
                     "formulae": [],
                     "examples": [
-                        "Cheek cells are animal cells without cell walls; onion cells have cell walls."
+                        "Mitosis maintains the same number of chromosomes as the mother cell.",
+                        "Meiosis involves two consecutive divisions and is required for offspring formation."
+                    ]
+                },
+                {
+                    "id": "5.5",
+                    "title": "Comparison of Plant and Animal Cells",
+                    "definition": "Plant cells are distinguished by a cell wall, large central vacuoles, and plastids (like chloroplasts), whereas animal cells lack a cell wall, have smaller/temporary vacuoles, and no plastids.",
+                    "formulae": [],
+                    "examples": [
+                        "Onion peel cells (plant) vs. Human cheek cells (animal).",
+                        "Plant vacuoles provide turgidity and rigidity to the cell."
                     ]
                 }
             ]
@@ -259,29 +321,61 @@
                 {
                     "id": "6.1",
                     "title": "Tissues and Their Need",
-                    "definition": "Tissues are groups of similar cells performing a specific function. In multicellular organisms, tissues provide division of labour.",
+                    "definition": "A tissue is a group of cells similar in structure/work that achieve a specific function, providing division of labour. Plants (stationary) have mostly dead, supportive tissues for upright strength. Animals (mobile) have living tissues and consume more energy. Growth is localized in plants (meristems) but uniform in animals.",
                     "formulae": [],
                     "examples": [
-                        "Muscle tissue helps in movement, nervous tissue helps in conduction of impulses."
+                        "Muscle cells contract for movement; nerve cells carry messages; blood transports oxygen and food.",
+                        "Specialisation: Cluster of cells designed for highest efficiency (e.g., Phloem in plants)."
                     ]
                 },
                 {
                     "id": "6.2",
-                    "title": "Plant Tissues: Meristematic and Permanent",
-                    "definition": "Meristematic tissues are actively dividing; permanent tissues are derived from meristematic cells and perform specialised functions.",
-                    "formulae": [],
+                    "title": "Plant Tissues: Meristematic and Simple Permanent",
+                    "definition": "Meristematic tissues are dividing tissues classified as Apical (length), Lateral (girth/cambium), and Intercalary (at nodes). Simple Permanent tissues are differentiated cells: Parenchyma (storage, chlorenchyma/aerenchyma), Collenchyma (flexibility), Sclerenchyma (strength, dead cells), and protective Epidermis (with stomata and guard cells).",
+                    "formulae": [
+                        "Differentiation: Process of taking up a permanent shape, size, and function.",
+                        "Transpiration: Loss of water in the form of water vapour through stomata."
+                    ],
                     "examples": [
-                        "Apical meristem at tips of roots and shoots causes growth.",
-                        "Xylem and phloem are complex permanent tissues for transport."
+                        "Activity 6.1: Onion root growth stops if the apical meristem (tip) is cut off.",
+                        "Sclerenchyma: Husk of a coconut is made of these long, narrow, dead cells with lignified walls.",
+                        "Cork: Secondary meristem forming dead, compact cells with suberin for protection."
                     ]
                 },
                 {
                     "id": "6.3",
-                    "title": "Animal Tissues: Epithelial, Connective, Muscular, Nervous",
-                    "definition": "Animal tissues are classified on structure and function into epithelial (covering), connective (support), muscular (movement) and nervous (control and coordination).",
+                    "title": "Complex Permanent Tissues",
+                    "definition": "Complex tissues are made of more than one type of cell working together. Xylem and Phloem are conducting tissues forming vascular bundles. Xylem transports water/minerals vertically, while Phloem transports food from leaves to other plant parts.",
                     "formulae": [],
                     "examples": [
-                        "Bone and blood are connective tissues; skeletal muscles move limbs; nerve cells transmit impulses."
+                        "Xylem Constituents: Tracheids, vessels, xylem parenchyma, and xylem fibres (mostly dead at maturity).",
+                        "Phloem Constituents: Sieve cells, sieve tubes (perforated), companion cells, phloem fibres, and phloem parenchyma."
+                    ]
+                },
+                {
+                    "id": "6.4",
+                    "title": "Animal Tissues: Epithelial and Connective",
+                    "definition": "Epithelial tissues are protective coverings (Squamous, Stratified, Columnar, Ciliated, Cuboidal, Glandular). Connective tissues (loosely spaced in a matrix) support and bind body parts: Blood (fluid matrix), Bone (rigid matrix), Ligaments (bone-to-bone), Tendons (muscle-to-bone), Cartilage, Areolar, and Adipose (fat storing).",
+                    "formulae": [
+                        "Blood Matrix: Plasma containing RBCs, WBCs, and platelets suspended in proteins/salts/hormones."
+                    ],
+                    "examples": [
+                        "Simple Squamous: Delicate lining of lung alveoli and blood vessels for transportation.",
+                        "Connective Tissue Matrix: Jelly-like (Areolar), fluid (Blood), dense (Tendons), or rigid (Bone).",
+                        "Areolar Tissue: Found between skin and muscles, supports internal organs, and helps in repair."
+                    ]
+                },
+                {
+                    "id": "6.5",
+                    "title": "Animal Tissues: Muscular and Nervous",
+                    "definition": "Muscular tissue consists of fibres with contractile proteins (Striated/Voluntary skeletal muscles; Smooth/Involuntary unstriated muscles; Cardiac rhythmic heart muscles). Nervous tissue consists of Neurons (cell body, axon, dendrites) specialised for transmitting stimuli rapidly.",
+                    "formulae": [
+                        "Nerve Impulse: The functional combination of nerve and muscle tissue enabling rapid response."
+                    ],
+                    "examples": [
+                        "Striated Muscles: Long, cylindrical, unbranched, and multinucleate cells with light/dark bands.",
+                        "Smooth Muscles: Spindle-shaped, uninucleate cells found in the iris, ureters, and bronchi.",
+                        "Neuron Structure: Cell body with nucleus/cytoplasm, single long axon, and branched dendrites."
                     ]
                 }
             ]
@@ -327,55 +421,88 @@
                 {
                     "id": "8.1",
                     "title": "Distance and Displacement",
-                    "definition": "Distance is total path length travelled; displacement is shortest straight‑line distance from initial to final position in a specific direction.",
+                    "definition": "To describe the position of an object, we specify a reference point called the origin. Distance is the total path length covered by the object (a magnitude). Displacement is the shortest distance measured from the initial to the final position of an object in a specific direction.",
                     "formulae": [],
                     "examples": [
-                        "Walking around a field once returns you to start: distance is field perimeter, displacement is zero."
+                        "Activity 7.3: Walking from one corner of a basketball court to the opposite corner; distance is the path along the sides, displacement is the diagonal.",
+                        "Odometer: A device in automobiles that shows the distance travelled.",
+                        "If an object moves from O to A (60km) and back to C (through B), distance is 95km but displacement is only 35km."
                     ]
                 },
                 {
                     "id": "8.2",
                     "title": "Speed and Velocity",
-                    "definition": "Speed is distance travelled per unit time; velocity is displacement per unit time in a given direction.",
+                    "definition": "Speed is the distance travelled by an object in unit time (SI unit: m/s). Velocity is the speed of an object moving in a definite direction. It can be changed by changing speed, direction, or both.",
                     "formulae": [
-                        "Speed = distance / time",
-                        "Velocity = displacement / time",
-                        "Average speed = total distance / total time",
-                        "Average velocity = total displacement / total time"
+                        "Average Speed = Total distance travelled / Total time taken",
+                        "Average Velocity (for uniform acceleration) = (Initial velocity + Final velocity) / 2",
+                        "V_av = (u + v) / 2"
                     ],
                     "examples": [
-                        "A car covering 60 km in 1 h has speed 60 km/h.",
-                        "Running in a circle and returning to start gives non‑zero speed but zero average velocity."
+                        "Example 7.1: An object travels 16m in 4s and 16m in 2s; average speed = 32m / 6s = 5.33 m/s.",
+                        "Usha (Example 7.3): Swims 180m in 1 min (90m pool and back); average speed is 3 m/s, but average velocity is 0 m/s because displacement is zero."
                     ]
                 },
                 {
                     "id": "8.3",
                     "title": "Uniform and Non-Uniform Motion",
-                    "definition": "Uniform motion means equal distances are covered in equal time intervals; non‑uniform motion means unequal distances in equal intervals.",
+                    "definition": "Uniform motion occurs when an object covers equal distances in equal intervals of time. Non-uniform motion involves unequal distances in equal intervals (e.g., a car in a crowded street).",
                     "formulae": [],
                     "examples": [
-                        "A bus at constant 40 km/h is in uniform motion; in city traffic it is in non‑uniform motion."
+                        "Table 7.1: Object A covers 10m every 15 minutes (uniform); Object B covers varying distances like 7m, 4m, 12m (non-uniform)."
                     ]
                 },
                 {
                     "id": "8.4",
                     "title": "Acceleration",
-                    "definition": "Acceleration is rate of change of velocity with time; it can be positive (speeding up) or negative (slowing down).",
+                    "definition": "Acceleration (a) is the measure of the change in velocity of an object per unit time (SI unit: m/s²). It is positive if in the direction of velocity and negative (retardation) if opposite.",
                     "formulae": [
-                        "Acceleration (a) = (final velocity − initial velocity) / time",
-                        "a = (v − u) / t"
+                        "Acceleration (a) = (v - u) / t",
+                        "v = final velocity, u = initial velocity, t = time"
                     ],
                     "examples": [
-                        "If a bike’s speed increases from 10 m/s to 20 m/s in 5 s, acceleration is (20 − 10)/5 = 2 m/s²."
+                        "Uniform acceleration: Motion of a freely falling body.",
+                        "Example 7.4: Rahul's bicycle velocity changes from 0 to 6 m/s in 30s; acceleration = 0.2 m/s². Applying brakes reduces it to 4 m/s in 5s; acceleration = -0.4 m/s²."
                     ]
                 },
                 {
                     "id": "8.5",
-                    "title": "Distance–Time and Velocity–Time Graphs (Qualitative)",
-                    "definition": "Graphical representation of motion helps visualise speed, velocity and acceleration using distance–time and velocity–time graphs.",
-                    "formulae": [],
+                    "title": "Graphical Representation of Motion",
+                    "definition": "Distance-time graphs represent change in position (slope equals speed). Velocity-time graphs represent change in velocity; the area enclosed by the V-T graph and the time axis equals the magnitude of displacement.",
+                    "formulae": [
+                        "Speed (v) = (s2 - s1) / (t2 - t1) [From Distance-Time graph]",
+                        "Distance (s) = Area of rectangle + Area of triangle [From Velocity-Time graph]"
+                    ],
                     "examples": [
-                        "Straight sloping line in distance–time graph indicates uniform speed; slope gives speed."
+                        "Distance-Time: A straight line indicates uniform speed; a curved line indicates non-uniform speed.",
+                        "Velocity-Time: A straight line parallel to the x-axis represents uniform velocity."
+                    ]
+                },
+                {
+                    "id": "8.6",
+                    "title": "Equations of Motion",
+                    "definition": "Three equations describe the motion of an object with uniform acceleration: velocity-time relation, position-time relation, and position-velocity relation.",
+                    "formulae": [
+                        "v = u + at",
+                        "s = ut + (1/2)at²",
+                        "2as = v² - u²"
+                    ],
+                    "examples": [
+                        "Example 7.5: A train starting from rest (u=0) attains 72 km/h (20 m/s) in 5 min (300s); acceleration = 1/15 m/s²; distance = 3 km.",
+                        "Example 7.7: Car stops in 2s with 6 m/s² retardation; initial velocity was 12 m/s, distance covered = 12m."
+                    ]
+                },
+                {
+                    "id": "8.7",
+                    "title": "Uniform Circular Motion",
+                    "definition": "When an object moves in a circular path with uniform speed, its direction changes at every point, making the motion accelerated.",
+                    "formulae": [
+                        "v = 2πr / t",
+                        "r = radius of the circular path, t = time for one round"
+                    ],
+                    "examples": [
+                        "Activity 7.11: Whirling a stone tied to a thread; once released, it moves tangentially to the circular path.",
+                        "Examples: Motion of the moon around the earth, a satellite in orbit, and a cyclist on a circular track."
                     ]
                 }
             ]
@@ -387,43 +514,49 @@
                 {
                     "id": "9.1",
                     "title": "Balanced and Unbalanced Forces",
-                    "definition": "Balanced forces acting on a body cancel each other and do not change its state of motion; unbalanced forces produce acceleration.",
+                    "definition": "Force (push, pull, or hit) changes the state of motion, shape, or size of an object. Balanced forces do not change the state of rest/motion. An unbalanced force is required to accelerate an object or change its speed/direction.",
                     "formulae": [],
                     "examples": [
-                        "Equal pushes from both sides on a box keep it at rest (balanced).",
-                        "One‑sided push causes box to move (unbalanced)."
+                        "Wooden block (Fig 8.3): Pulling from both sides with equal force results in no motion (balanced).",
+                        "Pushing a box (Fig 8.4): If pushing force overcomes friction, the force becomes unbalanced and the box moves.",
+                        "Bicycle: Stop pedalling, and friction (unbalanced force) slows it down."
                     ]
                 },
                 {
                     "id": "9.2",
-                    "title": "Newton’s First Law (Inertia)",
-                    "definition": "An object remains at rest or in uniform straight‑line motion unless acted upon by an unbalanced external force; this tendency is called inertia.",
+                    "title": "Newton’s First Law (Inertia and Mass)",
+                    "definition": "Newton's First Law states an object remains at rest or in uniform straight-line motion unless compelled by an applied force. Inertia is the natural tendency to resist this change. Mass is the quantitative measure of an object's inertia.",
                     "formulae": [],
                     "examples": [
-                        "Passengers jerk forward when a bus stops suddenly due to inertia of motion."
+                        "Galileo’s Experiment: A marble rolling down an ideal frictionless inclined plane would travel forever on a horizontal surface.",
+                        "Activity 8.1 & 8.2: Carrom coin hit and flicking a card from under a coin demonstrate inertia of rest.",
+                        "Passengers in a bus: Jerking forward when brakes are applied (inertia of motion) or backwards when the bus starts suddenly (inertia of rest)."
                     ]
                 },
                 {
                     "id": "9.3",
-                    "title": "Newton’s Second Law (Basic Relation)",
-                    "definition": "Rate of change of momentum of an object is proportional to the applied unbalanced force and occurs in same direction.",
+                    "title": "Newton’s Second Law (Momentum and Force)",
+                    "definition": "The second law states that the rate of change of momentum of an object is proportional to the applied unbalanced force in the direction of the force. Momentum (p) is the product of mass (m) and velocity (v).",
                     "formulae": [
-                        "Momentum p = m × v",
-                        "F ∝ (Δp / Δt)",
-                        "For constant mass: F = m × a"
+                        "Momentum (p) = m × v",
+                        "Force (F) = m × a [Derived from F ∝ (mv - mu) / t]",
+                        "1 Newton (N) = 1 kg × 1 m/s²"
                     ],
                     "examples": [
-                        "Pushing a lighter cart gives more acceleration than pushing a heavier one with same force."
+                        "Cricket Fielder (Fig 8.8): Gradually pulls hands back to increase time of stop, reducing the rate of change of momentum and the impact force.",
+                        "High Jump: Athletes fall on cushions or sand beds to increase stop time and decrease the force of impact.",
+                        "Example 8.2: Accelerating a 2kg mass at 5 m/s² requires more force (10N) than a 4kg mass at 2 m/s² (8N)."
                     ]
                 },
                 {
                     "id": "9.4",
-                    "title": "Newton’s Third Law",
-                    "definition": "For every action, there is an equal and opposite reaction acting on different bodies.",
+                    "title": "Newton’s Third Law (Action and Reaction)",
+                    "definition": "To every action, there is an equal and opposite reaction. These forces always act on two different objects simultaneously and never cancel each other on a single body.",
                     "formulae": [],
                     "examples": [
-                        "When a person jumps from a boat, the boat moves backward.",
-                        "Rocket moves up as gases are pushed downwards."
+                        "Recoil of a Gun (Fig 8.11): Gun exerts forward force on a bullet; bullet exerts equal backward force on the gun.",
+                        "Rowing Boat (Fig 8.12): As a sailor jumps forward, the reaction force pushes the boat backwards.",
+                        "Walking: You push the road backwards, and the road exerts an equal forward reaction force on your feet."
                     ]
                 }
             ]
@@ -435,56 +568,69 @@
                 {
                     "id": "10.1",
                     "title": "Universal Law of Gravitation",
-                    "definition": "Every two objects in the universe attract each other with a force directly proportional to product of their masses and inversely proportional to square of distance between them.",
+                    "definition": "Gravitation is the force of attraction between all objects in the universe. The Universal Law states that this force is proportional to the product of masses and inversely proportional to the square of the distance between their centres. Centripetal force (centre-seeking force) keeps bodies like the moon in circular orbits.",
                     "formulae": [
-                        "F = G m1 m2 / r²"
+                        "F = G × (M × m) / d²",
+                        "G = 6.673 × 10⁻¹¹ N m² kg⁻² (Universal Gravitation Constant)"
                     ],
                     "examples": [
-                        "Gravitational attraction between Earth and Moon keeps the Moon in orbit."
+                        "Activity 9.1: Whirling a stone on a thread; the centripetal force is provided by the thread; without it, the stone flies off tangentially.",
+                        "Importance: Bind us to the earth, motion of the moon around the earth, motion of planets around the Sun, and tides due to the moon and Sun.",
+                        "Example 9.1: Calculating the 2.02 × 10²⁰ N force between the earth and the moon."
                     ]
                 },
                 {
                     "id": "10.2",
                     "title": "Free Fall and Acceleration due to Gravity",
-                    "definition": "When an object falls under the influence of Earth’s gravity alone, it is in free fall with nearly constant acceleration g near Earth’s surface.",
+                    "definition": "Free fall occurs when an object falls under the influence of gravitational force alone. Acceleration due to gravity (g) is independent of the object's mass; thus all objects fall at the same rate in a vacuum. The value of g is greater at the poles than at the equator.",
                     "formulae": [
-                        "g ≈ 9.8 m/s² (concept level)",
-                        "v = u + gt",
-                        "s = ut + (1/2)gt²"
+                        "g = G × M / R²",
+                        "Standard value of g = 9.8 m/s²",
+                        "Equations: v = u + gt; s = ut + (1/2)gt²; v² = u² + 2gs"
                     ],
                     "examples": [
-                        "Dropping a stone from some height; all bodies fall with same g in absence of air resistance."
+                        "Galileo’s Experiment: Proved that different objects (hollow or solid) fall at the same rate from the Leaning Tower of Pisa.",
+                        "Activity 9.3: A paper falls slower than a stone in air due to air resistance; they fall together in a vacuum.",
+                        "Example 9.2: A car falling off a ledge (height 1.25m, speed on striking 5 m/s)."
                     ]
                 },
                 {
                     "id": "10.3",
                     "title": "Mass and Weight",
-                    "definition": "Mass is quantity of matter and constant at a place; weight is gravitational force on an object and can change with location.",
+                    "definition": "Mass is the measure of inertia and remains constant everywhere. Weight (W) is the force with which the earth attracts an object. It depends on the location because g varies with altitude and latitude.",
                     "formulae": [
-                        "Weight (W) = m × g"
+                        "Weight (W) = m × g",
+                        "Weight on Moon = (1/6) × Weight on Earth"
                     ],
                     "examples": [
-                        "An object’s mass is same on Earth and Moon, but its weight on Moon is about one‑sixth of that on Earth."
+                        "Example 9.4: A 10 kg mass has a weight of 98 N on Earth.",
+                        "Moon's weight: Because the moon has less mass than the earth, it exerts a lesser force of attraction.",
+                        "Example 9.5: An object weighing 10 N on Earth weighs only 1.67 N on the Moon."
                     ]
                 },
                 {
                     "id": "10.4",
-                    "title": "Thrust, Pressure and Buoyancy (Concept)",
-                    "definition": "Thrust is force acting on a surface; pressure is thrust per unit area; fluids exert upward buoyant force on immersed bodies.",
+                    "title": "Thrust, Pressure and Buoyancy",
+                    "definition": "Thrust is the total force acting perpendicular to a surface. Pressure is thrust per unit area (SI unit: Pascal, Pa). Buoyancy (upthrust) is the upward force exerted by a fluid on an immersed object. Density determines whether an object floats or sinks.",
                     "formulae": [
-                        "Pressure = Thrust / Area"
+                        "Pressure = Thrust / Area",
+                        "Density = Mass / Volume"
                     ],
                     "examples": [
-                        "Broad feet of camels reduce pressure on sand; objects feel lighter in water due to upthrust."
+                        "Activity 9.4: An empty plastic bottle bounces back to the surface when pushed into water due to upthrust.",
+                        "Sinking/Floating: An iron nail sinks because its density is more than water; cork floats because its density is less (Activity 9.5/9.6).",
+                        "Sharp Edges: Knives have sharp edges to exert more pressure on a smaller area."
                     ]
                 },
                 {
                     "id": "10.5",
-                    "title": "Archimedes’ Principle (Intro)",
-                    "definition": "When a body is partially or fully immersed in a fluid, it experiences an upward buoyant force equal to the weight of fluid displaced.",
+                    "title": "Archimedes’ Principle",
+                    "definition": "When a body is partially or fully immersed in a fluid, it experiences an upward force equal to the weight of the fluid displaced by it. This principle is used to determine the density of liquids and the purity of substances.",
                     "formulae": [],
                     "examples": [
-                        "Ships made of iron float because their average density is less than water due to hollow structure."
+                        "Activity 9.7: A stone’s weight (measured by a spring balance) appears to decrease as it is lowered into water.",
+                        "Applications: Designing ships and submarines, Lactometers (purity of milk), and Hydrometers (density of liquids).",
+                        "Hollow Ships: Ships made of iron float because they are designed to displace a weight of water equal to their own weight."
                     ]
                 }
             ]
@@ -496,52 +642,79 @@
                 {
                     "id": "11.1",
                     "title": "Work Done by a Force",
-                    "definition": "Work is done when a force acts on an object and the object moves in the direction of force.",
+                    "definition": "In science, work is done when a force acting on an object causes a displacement in the direction of the force. Both conditions (force and displacement) must be satisfied. 1 Joule (J) is the work done by a 1 N force displacing an object by 1 m. Work is positive when force and displacement are in the same direction, and negative when they are opposite (retarding force).",
                     "formulae": [
-                        "W = F × s (for constant force and motion in same direction)"
+                        "Work (W) = Force (F) × Displacement (s)",
+                        "1 J = 1 N × 1 m"
                     ],
                     "examples": [
-                        "Lifting a bag from floor to table involves work done against gravity."
+                        "Scientific Work: Pushing a stone that moves; pulling a trolley. No work is done if a person pushes a huge rock that doesn't move or stands still with a heavy load.",
+                        "Positive/Negative Work: A baby pulling a toy car (positive); force of gravity on an object being lifted (negative work by gravity).",
+                        "Example 10.2: A porter lifting 15 kg luggage through 1.5 m (Work = 225 J)."
                     ]
                 },
                 {
                     "id": "11.2",
-                    "title": "Forms of Energy and Kinetic Energy",
-                    "definition": "Energy is capacity to do work; kinetic energy is energy of motion.",
+                    "title": "Kinetic Energy",
+                    "definition": "Kinetic energy is the energy possessed by an object due to its motion. It increases with the square of the speed of the object. Kinetic energy is equal to the work done on an object to make it acquire its current velocity.",
                     "formulae": [
-                        "Kinetic energy Ek = (1/2) m v²"
+                        "Kinetic Energy (Ek) = (1/2) m v²"
                     ],
                     "examples": [
-                        "A moving car has kinetic energy; faster motion or greater mass means more kinetic energy."
+                        "Moving objects: A falling coconut, a speeding car, blowing wind, and a running athlete all possess kinetic energy.",
+                        "Activity 10.6: Dropping a ball on sand from different heights; deeper depressions indicate more kinetic energy.",
+                        "Example 10.4: Calculating work done (156250 J) to increase a 1500 kg car's speed from 30 km/h to 60 km/h."
                     ]
                 },
                 {
                     "id": "11.3",
                     "title": "Potential Energy",
-                    "definition": "Potential energy is energy possessed by a body due to its position or configuration, such as gravitational potential energy.",
+                    "definition": "Potential energy is the energy possessed by an object by virtue of its position or configuration. Energy gets stored as potential energy when work is done on an object without changing its velocity (like stretching or lifting).",
                     "formulae": [
-                        "Potential energy Ep = m g h (near Earth’s surface)"
+                        "Potential Energy at a height (Ep) = m g h"
                     ],
                     "examples": [
-                        "Water stored at height in a dam has potential energy."
+                        "Configuration: Stretched rubber band (Activity 10.8), compressed slinky, or a wound-up toy car (Activity 10.10).",
+                        "Bow and Arrow (Activity 10.12): Potential energy stored in the stretched bow string is converted to kinetic energy of the arrow.",
+                        "Example 10.5: Potential energy (588 J) of a 10 kg mass at a height of 6 m."
                     ]
                 },
                 {
                     "id": "11.4",
-                    "title": "Work–Energy Theorem (Concept)",
-                    "definition": "The net work done on an object equals the change in its kinetic energy.",
-                    "formulae": [],
+                    "title": "Work–Energy Theorem",
+                    "definition": "The Work-Energy Theorem states that the work done by all forces acting on a particle equals the change in the particle's kinetic energy. Work is effectively the transfer of energy.",
+                    "formulae": [
+                        "W = ΔEk = (1/2) m v² - (1/2) m u²"
+                    ],
                     "examples": [
-                        "If a car speeds up, positive work by engine increases its kinetic energy."
+                        "Acceleration: Positive work by an engine increases the car's kinetic energy; negative work by brakes decreases it."
                     ]
                 },
                 {
                     "id": "11.5",
                     "title": "Law of Conservation of Energy",
-                    "definition": "Energy can neither be created nor destroyed, only changed from one form to another; total energy of an isolated system remains constant.",
-                    "formulae": [],
+                    "definition": "Energy can only be converted from one form to another; it can neither be created nor destroyed. The total energy before and after transformation remains constant. The sum of kinetic and potential energy is called mechanical energy.",
+                    "formulae": [
+                        "mgh + (1/2)mv² = constant"
+                    ],
                     "examples": [
-                        "In a swinging pendulum, potential energy converts to kinetic and back; total remains constant ignoring air resistance."
+                        "Free Fall: As an object falls, its potential energy decreases while its kinetic energy increases equally; their sum remains constant at all points.",
+                        "Activity 10.15: Computing P.E. and K.E. at different heights (4m, 3m, 2m, 1m) for a 20 kg object to show constant mechanical energy."
+                    ]
+                },
+                {
+                    "id": "11.6",
+                    "title": "Power and Commercial Unit of Energy",
+                    "definition": "Power is the rate of doing work or the rate of transfer of energy. The SI unit is Watt (W), where 1 W = 1 J/s. Electricity is commercially measured in kilowatt-hours (kWh), where 1 unit = 1 kWh = 3.6 × 10⁶ J.",
+                    "formulae": [
+                        "Power (P) = Work (W) / Time (t)",
+                        "1 kW = 1000 W",
+                        "1 kWh = 3.6 × 10⁶ J"
+                    ],
+                    "examples": [
+                        "Activity 10.16/Example 10.7: Girl A (400N) climbs 8m in 20s (Power = 160W); Girl B takes 50s (Power = 64W).",
+                        "Example 10.8: A 50 kg boy running up 45 steps (each 15cm) in 9s expends 375 W of power.",
+                        "Household Units: A 1000 W lamp used for 1 hour consumes 1 unit (1 kWh) of energy."
                     ]
                 }
             ]
@@ -553,50 +726,83 @@
                 {
                     "id": "12.1",
                     "title": "Production and Propagation of Sound",
-                    "definition": "Sound is produced by vibrating objects and travels in a medium as longitudinal waves of compression and rarefaction.",
+                    "definition": "Sound is a form of energy produced by vibrating objects (rapid to and fro motion). It requires a material medium (solid, liquid, or gas) to travel. Sound propagates as mechanical longitudinal waves consisting of a series of compressions (high pressure/density) and rarefactions (low pressure/density).",
                     "formulae": [],
                     "examples": [
-                        "Vibrating strings of guitar, vocal cords in humans produce sound."
+                        "Activity 11.1-11.2: A vibrating tuning fork produces sound and causes a table tennis ball or water surface to vibrate/splash.",
+                        "Longitudinal Waves: In a slinky (Activity 11.4), particles oscillate parallel to the wave direction, unlike transverse waves (like light or water ripples) where they oscillate perpendicular.",
+                        "Bell Jar: Sound cannot travel in a vacuum; it needs particles to carry the disturbance."
                     ]
                 },
                 {
                     "id": "12.2",
                     "title": "Speed of Sound and Medium",
-                    "definition": "Speed of sound depends on medium; it is fastest in solids, slower in liquids and slowest in gases.",
+                    "definition": "The speed of sound depends on the properties and temperature of the medium. It decreases as we go from solid to gaseous state. Speed increases with temperature; for example, in air it is 331 m/s at 0°C and 344 m/s at 22°C.",
                     "formulae": [],
                     "examples": [
-                        "Sound travels faster in steel than in air."
+                        "Media contrast: Sound travels fastest in solids (e.g., Aluminium 6420 m/s) and slowest in gases (e.g., Air 346 m/s at 25°C).",
+                        "Thunder: We see the flash before hearing thunder because the speed of light is much greater than the speed of sound."
                     ]
                 },
                 {
                     "id": "12.3",
                     "title": "Wavelength, Frequency and Time Period",
-                    "definition": "Wavelength is distance between successive compressions or rarefactions; frequency is number of complete vibrations per second; time period is time for one vibration.",
+                    "definition": "Wavelength (λ) is the distance between two consecutive compressions or rarefactions. Frequency (ν) is the number of oscillations per unit time (unit: Hertz, Hz). Time Period (T) is the time for one complete oscillation. Amplitude (A) is the maximum disturbance from the mean position.",
                     "formulae": [
-                        "Frequency (f) = 1 / Time period (T)"
+                        "Frequency (ν) = 1 / Time period (T)",
+                        "1 Hz = 1 oscillation per second"
                     ],
                     "examples": [
-                        "A tuning fork vibrating 256 times per second has frequency 256 Hz."
+                        "Heinrich Rudolph Hertz: The SI unit of frequency is named in his honour for confirming electromagnetic theory.",
+                        "Graphical form: Compressions are represented by peaks (crests) and rarefactions by valleys (troughs) in a pressure-distance graph."
                     ]
                 },
                 {
                     "id": "12.4",
                     "title": "Relation Between Speed, Frequency and Wavelength",
-                    "definition": "The speed of a sound wave equals product of its frequency and wavelength.",
+                    "definition": "The speed of sound (v) is the product of its frequency (ν) and its wavelength (λ). This relation holds for all mechanical waves.",
                     "formulae": [
-                        "v = f × λ"
+                        "Speed (v) = Wavelength (λ) × Frequency (ν)"
                     ],
                     "examples": [
-                        "If speed of sound is 340 m/s and frequency is 170 Hz, wavelength is 2 m."
+                        "Example 11.1: A 2 kHz sound wave with 35 cm wavelength travels 1.5 km in 2.1 seconds.",
+                        "Consistent Speed: For a given medium and temperature, the speed remains almost same for all frequencies."
                     ]
                 },
                 {
                     "id": "12.5",
-                    "title": "Characteristics of Sound and Noise Pollution",
-                    "definition": "Loudness depends on amplitude, pitch on frequency and quality on waveform. Unwanted, unpleasant sounds are noise; too much noise causes noise pollution and health issues.",
+                    "title": "Characteristics of Sound and Intensity",
+                    "definition": "Pitch depends on frequency (faster vibrations = higher pitch). Loudness depends on amplitude (energy). Quality (Timbre) enables us to distinguish sounds of same pitch and loudness. Intensity is the sound energy passing per second through unit area.",
                     "formulae": [],
                     "examples": [
-                        "High‑pitched whistle has high frequency; loud music at high volume causes noise pollution."
+                        "Pitch vs Loudness: A flute and violin playing the same note differ in quality; hitting a table harder increases amplitude and loudness.",
+                        "Tone vs Note: A sound of single frequency is a tone; a mixture of frequencies is a note (pleasant to hear).",
+                        "Soft sound vs Loud sound: Soft sound has a small amplitude, while louder sound has a large amplitude."
+                    ]
+                },
+                {
+                    "id": "12.6",
+                    "title": "Reflection, Echo and Reverberation",
+                    "definition": "Sound reflects off surfaces following the same laws as light. An echo is a distinct reflected sound heard if the delay is ≥ 0.1s (min distance ~17.2m). Reverberation is the persistence of sound due to repeated reflections in a large hall.",
+                    "formulae": [
+                        "Distance for echo = (v × t) / 2"
+                    ],
+                    "examples": [
+                        "Activity 11.5: Reflecting sound through two pipes using a clock to find equal angles of incidence and reflection.",
+                        "Reverberation reduction: Using sound-absorbent materials like fibreboard or rough plaster in auditoriums.",
+                        "Applications: Stethoscopes and Megaphones use multiple reflections to guide sound in a particular direction.",
+                        "Example 11.2: Determining a 346m distance to a cliff when an echo is heard after 2 seconds."
+                    ]
+                },
+                {
+                    "id": "12.7",
+                    "title": "Audible Range and Ultrasound Applications",
+                    "definition": "Audible range for humans is 20 Hz to 20,000 Hz. Infrasound (< 20 Hz) is used by Whales and Rhinoceroses. Ultrasound (> 20 kHz) has high frequency and is used for cleaning, medical imaging, and flaw detection.",
+                    "formulae": [],
+                    "examples": [
+                        "Medical Uses: Echocardiography (heart imaging), Ultrasonography (fetal examination), and breaking kidney stones (Lithotripsy).",
+                        "Industrial Uses: Cleaning hard-to-reach electronic parts and detecting cracks/flaws in massive metal blocks.",
+                        "Animals: Bats use ultrasound to navigate; dogs can hear up to 25 kHz."
                     ]
                 }
             ]
@@ -692,37 +898,92 @@
                 {
                     "id": "15.1",
                     "title": "Need for Improving Food Resources",
-                    "definition": "Growing population and limited land area make it necessary to improve both quantity and quality of food produced.",
+                    "definition": "To feed India's growing population (over 1 billion), production efficiency for crops and livestock must increase through sustainable practices. Successes include the Green Revolution (food-grains) and White Revolution (milk), but these must not degrade the environment.",
                     "formulae": [],
                     "examples": [
-                        "Higher‑yielding and disease‑resistant crop varieties help produce more food per hectare."
+                        "Food Security: Depends on both availability and access to food; requires increasing farmer incomes and scientific management.",
+                        "Sustainable Practices: Mixed farming, intercropping, and integrated farming (e.g., agriculture + livestock/poultry/fisheries/bee-keeping)."
                     ]
                 },
                 {
                     "id": "15.2",
                     "title": "Crop Variety Improvement",
-                    "definition": "Developing better crop varieties with higher yield, better quality, disease resistance and tolerance to stresses using hybridisation and selection.",
+                    "definition": "Focuses on finding crop varieties with high yield, disease resistance, and stress tolerance using hybridisation (crossing genetically dissimilar plants) or genetic modification (GMOs).",
                     "formulae": [],
                     "examples": [
-                        "Developing wheat varieties resistant to rust disease and suitable for different climates."
+                        "Hybridisation Types: Intervarietal (different varieties), Interspecific (different species of same genus), or Intergeneric (different genera).",
+                        "Selection Factors: Biotic resistance (diseases, insects) and Abiotic resistance (drought, salinity, heat/cold); shorter maturity duration for multiple crops per year; wider adaptability."
                     ]
                 },
                 {
                     "id": "15.3",
-                    "title": "Crop Production and Management",
-                    "definition": "Improved crop production uses better agronomic practices, adequate nutrient and water supply and weed and pest control.",
+                    "title": "Nutrient Management",
+                    "definition": "Plants require 16 nutrients: 3 from air/water (C, O, H) and 13 from soil. Soil nutrients are classed as Macro-nutrients (required in large quantities: N, P, K, Ca, Mg, S) and Micro-nutrients (Fe, Mn, B, Zn, Cu, Mo, Cl). Enrichment is done via manure and fertilizers.",
                     "formulae": [],
                     "examples": [
-                        "Timely irrigation, balanced use of fertilisers and manures and proper crop rotation improve yields."
+                        "Manure: Organic matter from animal excreta/plant waste; includes Compost, Vermi-compost (using earthworms), and Green manure (ploughing in plants like sun hemp).",
+                        "Fertilizers: Commercially produced NPK sources; provide high yields but can cause water pollution and soil fertility loss if overused.",
+                        "Organic Farming: System with minimal/no chemicals, using organic manures, bio-fertilizers (blue-green algae), and bio-pesticides (neem/turmeric)."
                     ]
                 },
                 {
                     "id": "15.4",
-                    "title": "Animal Husbandry",
-                    "definition": "Scientific management and breeding of animals like cattle, poultry, fish and bees to increase production of milk, meat, eggs, fish and honey.",
+                    "title": "Irrigation and Cropping Patterns",
+                    "definition": "Most Indian agriculture is rain-fed, so irrigation (wells, canals, river lift, tanks) is vital for success. Cropping patterns maximize benefits: Mixed cropping (risk reduction), Inter-cropping (definite patterns, e.g., soyabean + maize), and Crop rotation (pre-planned succession).",
                     "formulae": [],
                     "examples": [
-                        "Cross‑breeding high‑milk‑yield foreign cattle with local breeds; poultry farming for layers and broilers; beekeeping near orchards."
+                        "Irrigation Systems: Dug wells (water from strata), Tube wells (deep strata), Canals (reservoir distribution), and River Lift (direct drawing).",
+                        "Cropping Examples: Wheat + Gram (Mixed); Finger millet + Cowpea (Inter-cropping)."
+                    ]
+                },
+                {
+                    "id": "15.5",
+                    "title": "Crop Protection Management and Grain Storage",
+                    "definition": "Managing weeds (unwanted plants like Xanthium), insect pests, and diseases (pathogens like bacteria/fungi). Storage of grains requires controlling biotic (rodents, mites) and abiotic (moisture, temp) factors to prevent quality degradation.",
+                    "formulae": [],
+                    "examples": [
+                        "Weed Control: Mechanical removal and preventive methods (proper seed bed, timely sowing).",
+                        "Storage Measures: Strict cleaning, drying (sunlight then shade), and fumigation to kill pests."
+                    ]
+                },
+                {
+                    "id": "15.6",
+                    "title": "Cattle Farming",
+                    "definition": "Raising cattle for milk (milch animals) and farm labour (draught animals). Species include Bos indicus (cows) and Bos bubalis (buffaloes). Production is improved by cross-breeding for long lactation periods and disease resistance.",
+                    "formulae": [],
+                    "examples": [
+                        "Breeds: Foreign breeds like Jersey/Brown Swiss (long lactation) and local breeds like Red Sindhi/Sahiwal (disease resistance).",
+                        "Management: Shelters with sloping floors for cleaning; balanced rations containing roughage (fibre) and concentrates (protein)."
+                    ]
+                },
+                {
+                    "id": "15.7",
+                    "title": "Poultry Farming",
+                    "definition": "Raising domestic fowl for egg production (layers) and chicken meat (broilers). Cross-breeding programs (e.g., Indian Aseel x Foreign Leghorn) focus on high-quality chicks and summer adaptation.",
+                    "formulae": [],
+                    "examples": [
+                        "Broilers vs Layers: Broilers are fed vitamin-rich supplementary feed for growth/meat; layers require specific housing/lighting for eggs.",
+                        "Disease Control: Proper sanitation and vaccination against viral, bacterial, and fungal outbreaks."
+                    ]
+                },
+                {
+                    "id": "15.8",
+                    "title": "Fish Production",
+                    "definition": "Obtaining fish through Capture fishing (natural resources) or Culture fishery (fish farming/aquaculture). Includes marine fisheries (deep sea) and inland fisheries (freshwater/brackish water).",
+                    "formulae": [],
+                    "examples": [
+                        "Composite Fish Culture: Using 5-6 species in one pond (e.g., Catla surface feeders, Rohu middle-zone, Mrigal bottom feeders) to optimize food use.",
+                        "Marine varieties: Pomphret, Mackerel, Tuna, Sardines. Mariculture involves farming high-value fish like mullets and prawns in seawater."
+                    ]
+                },
+                {
+                    "id": "15.9",
+                    "title": "Bee-keeping",
+                    "definition": "Agricultural enterprise for honey and wax production. Low investment makes it suitable for additional income. Success depends on the 'pasturage' (flowers available for nectar/pollen).",
+                    "formulae": [],
+                    "examples": [
+                        "Bee Varieties: Local Apis cerana indica (Indian bee) and high-yield Italian Apis mellifera (stings less, stays in hive longer).",
+                        "Honey Quality: Determined by the kind of flowers available in the apiary's pasturage."
                     ]
                 }
             ]
