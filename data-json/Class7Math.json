@@ -5,7 +5,7 @@
     "chapters": [
         {
             "number": 1,
-            "title": "Integers",
+            "title": "Integers (Operations with Integers)",
             "concepts": [
                 {
                     "id": "1.1",
@@ -86,12 +86,36 @@
                         "2 + (−3) = (−3) + 2 = −1.",
                         "3 × (−4 + 5) = 3 × 1 = 3, and 3 × (−4) + 3 × 5 = −12 + 15 = 3."
                     ]
+                },
+                {
+                    "id": "1.7",
+                    "title": "The Token Model and Carrom Coin Analogy",
+                    "definition": "Visualising integer addition and subtraction using positive and negative counters or carrom coins (black for -1, white for +1).",
+                    "formulae": [],
+                    "examples": [
+                        "A black coin and a white coin together 'cancel' each other out to zero.",
+                        "Subtractions like 2 - (-3) can be seen as 'adding' 3 more of the opposite color."
+                    ]
+                },
+                {
+                    "id": "1.8",
+                    "title": "Historical Context: Brahmagupta's Rules (628 CE)",
+                    "definition": "Ancient rules for arithmetic on positive numbers (Dhana), negative numbers (Rina), and zero (Sunya).",
+                    "formulae": [
+                        "Dhana \u00d7 Dhana = Dhana",
+                        "Rina \u00d7 Rina = Dhana",
+                        "Dhana \u00d7 Rina = Rina"
+                    ],
+                    "examples": [
+                        "'The product of two debts is a fortune' (Rina \u00d7 Rina = Dhana).",
+                        "'Zero multiplied by a debt or a fortune is zero' (Sunya \u00d7 a = Sunya)."
+                    ]
                 }
             ]
         },
         {
             "number": 2,
-            "title": "Fractions and Decimals",
+            "title": "Fractions and Decimals (Working with Fractions)",
             "concepts": [
                 {
                     "id": "2.1",
@@ -155,12 +179,66 @@
                         "37/100 = 0.37.",
                         "0.125 = 125/1000 = 1/8."
                     ]
+                },
+                {
+                    "id": "2.7",
+                    "title": "Apavartana and Simplification",
+                    "definition": "The process of 'Apavartana' involves removing common factors from the numerator and denominator to find the simplest form.",
+                    "formulae": [],
+                    "examples": [
+                        "Umasvati (150 CE) used the term Apavartana for equivalent fraction reduction.",
+                        "Simplifying 60/90 to 2/3 by cancelling 30."
+                    ]
+                },
+                {
+                    "id": "2.8",
+                    "title": "Area Models and Fraction Multiplication",
+                    "definition": "Multiplication of fractions can be visualised as finding the area of a rectangle with fractional side lengths or using a Unit Square model.",
+                    "formulae": [
+                        "Area = Length \u00d7 Breadth (where both can be fractions)"
+                    ],
+                    "examples": [
+                        "Multiplying 1/2 by 1/3 is equivalent to taking 1/3 of a 1/2 strip of a unit square.",
+                        "Bh\u0101skara I's geometric interpretation of product magnitude."
+                    ]
+                },
+                {
+                    "id": "2.9",
+                    "title": "Bh\u0101skara II's (L\u012bl\u0101vat\u012b) Division Principle",
+                    "definition": "Division of fractions is the same as multiplication by the reciprocal of the divisor.",
+                    "formulae": [
+                        "a/b \u00f7 c/d = a/b \u00d7 d/c"
+                    ],
+                    "examples": [
+                        "How many 1/4 portions are there in 2? (2 \u00f7 1/4 = 8).",
+                        "The miser and the beggar: Sharing drammas and cowrie shells."
+                    ]
+                },
+                {
+                    "id": "2.10",
+                    "title": "Precision and the Decimal Point",
+                    "definition": "The decimal point represents increasing precision. Historical systems like al-Uql\u012bd\u012bs\u012b's used different symbols before the modern dot.",
+                    "formulae": [],
+                    "examples": [
+                        "Leap Year precision: 365.2422 days vs simple 365.25.",
+                        "Real-world errors: Air Canada Flight 143 fuel calculation mistake (Metric vs Imperial)."
+                    ]
+                },
+                {
+                    "id": "2.11",
+                    "title": "Cyclic Numbers and Special Patterns",
+                    "definition": "Some fractions produce repeating decimal patterns with unique properties, like Cyclic Numbers.",
+                    "formulae": [],
+                    "examples": [
+                        "Cyclic Number 142857 from 1/7: 142857 \u00d7 2 = 285714 (same digits rotated).",
+                        "Irukandji jellyfish: Measuring tiny organisms using decimals (2.5 cm)."
+                    ]
                 }
             ]
         },
         {
             "number": 3,
-            "title": "Data Handling",
+            "title": "Data Handling (Connecting the Dots)",
             "concepts": [
                 {
                     "id": "3.1",
@@ -209,12 +287,87 @@
                         "Getting a number greater than 6 on a standard die is impossible.",
                         "Getting a head when tossing a coin is equally likely as getting a tail."
                     ]
+                },
+                {
+                    "id": "3.6",
+                    "title": "Statistical Thinking: Questions and Statements",
+                    "definition": "Statistics involves collecting, organising, and analysing varied data. A statistical question expects a range of answers (e.g., 'How tall are students?'), while a statistical statement is a numerical summary or prediction.",
+                    "formulae": [],
+                    "examples": [
+                        "Question: 'What was the rainfall pattern in Barmer last year?'",
+                        "Statement: 'I take about 15 minutes to cycle from home.'"
+                    ]
+                },
+                {
+                    "id": "3.7",
+                    "title": "Arithmetic Mean: Fair-Share and Indian Terminology",
+                    "definition": "The Mean is the 'equalising' value found by dividing the sum of values by their count. Ancient Indian mathematicians called it 'samamiti' (mean measure) or 'samikarana' (equalising).",
+                    "formulae": [
+                        "Mean = (Sum of all values) / (Number of values)"
+                    ],
+                    "examples": [
+                        "Fair-share: 30 guavas shared by 5 friends = 6 each.",
+                        "Historical terms: Samarajju (Brahmagupta, 628 CE), Samikarana (Mah\u0101v\u012br\u0101ch\u0101rya, 850 CE), and S\u0101mya (\u015ar\u012bpati, 1039 CE).",
+                        "Jacob Kobel's Rod (16th century): Mean foot size of 16 adult males."
+                    ]
+                },
+                {
+                    "id": "3.8",
+                    "title": "Dot Plots, Variability and Range",
+                    "definition": "A dot plot visualises patterns and clusters. Variability describes the spread, while 'Range' is the difference between the maximum and minimum values.",
+                    "formulae": [
+                        "Range = Maximum Value - Minimum Value"
+                    ],
+                    "examples": [
+                        "Onion prices in Yahapur (clustered) vs Wahapur (spread/variable).",
+                        "Range in Wahapur: \u20b960 - \u20b917 = \u20b943."
+                    ]
+                },
+                {
+                    "id": "3.9",
+                    "title": "Outliers and Robustness of Median",
+                    "definition": "The Median is the middle value of sorted data. It is robust against outliers\u2014extreme values that skew the Arithmetic Mean.",
+                    "formulae": [],
+                    "examples": [
+                        "Poovizhi's family heights: Median (170 cm) represents the group better than Mean when a child (outlier) is present.",
+                        "Zero Median: Case where a cricket team scores high despite most players scoring 0."
+                    ]
+                },
+                {
+                    "id": "3.10",
+                    "title": "Central Tendency and Distribution Patterns",
+                    "definition": "Mean and Median are measures of where data 'piles up'. Their relative positions indicate distribution balance (Mean < Median or Mean > Median).",
+                    "formulae": [],
+                    "examples": [
+                        "Mean < Median: Influenced by lower-side values.",
+                        "Mean > Median: Influenced by higher-side outliers."
+                    ]
+                },
+                {
+                    "id": "3.11",
+                    "title": "Clustered Column Graphs",
+                    "definition": "Also called Double Bar Graphs, these compare multiple categories across different groups or periods side-by-side.",
+                    "formulae": [],
+                    "examples": [
+                        "Comparing monthly onion prices in Yahapur vs Wahapur.",
+                        "Rocket launch comparison (2021-2023): SpaceX, ISRO, NASA (Chandrayaan-3, Sputnik-1 missions)."
+                    ]
+                },
+                {
+                    "id": "3.12",
+                    "title": "Comparative Inference and Seasonal Patterns",
+                    "definition": "Analysing graphs reveals geographic and seasonal facts, such as daylight patterns indicating hemispheric locations.",
+                    "formulae": [],
+                    "examples": [
+                        "Helsinki (Finland) vs Wellington (New Zealand) daylight patterns (Summer vs Winter inversion).",
+                        "Midnight Sun in And\u00f8ya, Norway."
+                    ]
                 }
             ]
         },
         {
             "number": 4,
-            "title": "Simple Equations",
+            "title": "Simple Equations (Finding the Unknown)",
             "concepts": [
                 {
                     "id": "4.1",
@@ -259,14 +412,73 @@
                     "definition": "Word problems can be translated into equations in one variable and solved using the same methods.",
                     "formulae": [],
                     "examples": [
-                        "If a number increased by 9 gives 20, let the number be x: x + 9 = 20 ⇒ x = 11."
+                        "If a number increased by 9 gives 20, let the number be x: x + 9 = 20 \u21d2 x = 11."
+                    ]
+                },
+                {
+                    "id": "4.6",
+                    "title": "The Weighing Scale Analogy",
+                    "definition": "An equation behaves like a balanced weighing scale. Equality is preserved if we add, subtract, multiply, or divide the same weight (number) on both sides (LHS and RHS).",
+                    "formulae": [],
+                    "examples": [
+                        "Two fried eggs balancing 6 units: 2e = 6.",
+                        "Adding or removing equal weights from both plates keeps the scale balanced."
+                    ]
+                },
+                {
+                    "id": "4.7",
+                    "title": "Inverse Operations and Transposition",
+                    "definition": "Equations are solved using inverse operations: Addition \u2194 Subtraction and Multiplication \u2194 Division. Transposing a term involves its additive inverse or reciprocal.",
+                    "formulae": [
+                        "a + x = b \u2192 x = b - a",
+                        "ax = b \u2192 x = b/a"
+                    ],
+                    "examples": [
+                        "11y + (-5) = 61 becomes 11y = 66 by transposing (-5).",
+                        "u/15 = 6 becomes u = 6 \u00d7 15."
+                    ]
+                },
+                {
+                    "id": "4.8",
+                    "title": "Historical Context: B\u012bjaga\u1e47ita and Notations",
+                    "definition": "Algebra was known as B\u012bjaga\u1e47ita in ancient India (B\u012bja = seed). Brahmagupta (628 CE) and Aryabhata (499 CE) developed systematic methods. Fields Medalist David Mumford remarked that Brahmagupta is the 'key person' in the creation of algebra. Al-Khwarizmi (825 CE) later coined 'Algebra' (al-jabr).",
+                    "formulae": [
+                        "x = (D - B) / (A - C) (Brahmagupta's formula for Ax + B = Cx + D)"
+                    ],
+                    "examples": [
+                        "Ancient symbols: 'y' for y\u0101vat-t\u0101vat (unknown), 'k' for klaka (black), 'ni' for nilaka (blue), and 'r' for r\u016bpa (known constants).",
+                        "Bakhshali Manuscript (300 CE): Problem of four persons where the second gets twice the first, third thrice the second, and fourth four times the third, totaling 132.",
+                        "Bh\u0101skar\u0101ch\u0101rya: Parity problem between 300 rupees + 6 horses and 10 horses + 100 rupees debt."
+                    ]
+                },
+                {
+                    "id": "4.9",
+                    "title": "Algebraic Modelling and Patterns",
+                    "definition": "Real-life patterns and situations can be modelled into algebraic equations using variables and constants.",
+                    "formulae": [
+                        "Arrangement = Rate \u00d7 Position + Constant"
+                    ],
+                    "examples": [
+                        "Jasmine's Matchsticks: 2n + 1 = 99 stick positions.",
+                        "Madhubanti's Party: 25p + 50 = 500 (\u20b950 delivery + \u20b925 per plate).",
+                        "Riyaz's Math Trick: [(x - 3) \u00d7 4] + 8 = 24."
+                    ]
+                },
+                {
+                    "id": "4.10",
+                    "title": "Complex Parity and Comparisons",
+                    "definition": "Equations can be used to find when two different growing quantities become equal.",
+                    "formulae": [],
+                    "examples": [
+                        "Jahnavi and Sunita's savings comparison: 4000 + 650m = 5050 + 500m.",
+                        "Donkeys & Children riddle: 28 heads and 80 feet parity."
                     ]
                 }
             ]
         },
         {
             "number": 5,
-            "title": "Lines and Angles",
+            "title": "Lines and Angles (Parallel and Intersecting Lines)",
             "concepts": [
                 {
                     "id": "5.1",
@@ -308,12 +520,94 @@
                     "examples": [
                         "Railway tracks are approximately parallel lines."
                     ]
+                },
+                {
+                    "id": "5.5",
+                    "title": "Proof of Equality: Vertically Opposite Angles",
+                    "definition": "Whenever two lines intersect, vertically opposite angles are always equal. This property is arrived at through logical reasoning (Linear pair property) rather than just measurement.",
+                    "formulae": [
+                        "\u2220a + \u2220b = 180 (Linear pair)",
+                        "\u2220b + \u2220c = 180 (Linear pair)",
+                        "So, \u2220a = \u2220c (Vertically opposite angles equal)"
+                    ],
+                    "examples": [
+                        "In Fig 5.2, if \u2220a is 120, then \u2220b is 60, \u2220c is 120 and \u2220d is 60.",
+                        "Measurements may show 179 or 181 due to thickness of lines or tool errors, but ideal geometry reasoning stays exact."
+                    ]
+                },
+                {
+                    "id": "5.6",
+                    "title": "Parallelism in Paper Folding Patterns",
+                    "definition": "Folding paper can generate sets of parallel and perpendicular lines. Successive horizontal folds follow a specific mathematical pattern of growth.",
+                    "formulae": [
+                        "P = 2^n + 1 (where n is the number of folds and P is the number of parallel creases)"
+                    ],
+                    "examples": [
+                        "One horizontal fold creates 3 parallel lines; two folds create 5; three folds create 9.",
+                        "Folding diagonally creates lines parallel to the diagonal.",
+                        "Opposite edges of a square sheet are parallel; adjacent edges are perpendicular $(\\angle = 90^\\circ)$."
+                    ]
+                },
+                {
+                    "id": "5.7",
+                    "title": "Transversals and Angle Systems",
+                    "definition": "A transversal is a line that intersects two or more lines at distinct points. It forms 8 angles, resulting in a maximum of four distinct angle measures.",
+                    "formulae": [],
+                    "examples": [
+                        "If a transversal crosses two lines, pairs of vertically opposite angles (like \\angle 1 and \\angle 3) remain equal.",
+                        "Is it possible for all 8 angles to be different? No, because vertical opposite pairs must match."
+                    ]
+                },
+                {
+                    "id": "5.8",
+                    "title": "Corresponding and Alternate Angles Axioms",
+                    "definition": "When a transversal intersects parallel lines, corresponding angles and alternate angles are equal. This equality is a necessary and sufficient condition for parallelism.",
+                    "formulae": [
+                        "If \\angle corresponding1 = \\angle corresponding2, then L1 || L2"
+                    ],
+                    "examples": [
+                        "Verification using tracing paper: Tracing \\angle a and aligning it with \\angle b to prove equality.",
+                        "In Fig. 5.26, if \u22206 is 135, its corresponding angle \u22202 and alternate angle \u22204 are also 135.",
+                        "Alternate internal angles (like \u2220d and \u2220f) form a Z-pattern."
+                    ]
+                },
+                {
+                    "id": "5.9",
+                    "title": "Interior Angles on the Same Side (Co-interior)",
+                    "definition": "The sum of the interior angles on the same side of a transversal intersecting a pair of parallel lines is always 180 degrees.",
+                    "formulae": [
+                        "\u22203 + \u22206 = 180^\u2218 (Interior same-side sum)"
+                    ],
+                    "examples": [
+                        "In Fig. 5.28, if AB || CD and \u22203 is 50, then \u22206 is 130.",
+                        "In Fig. 5.29, if AB || CD and AD || BC, then \u2220ADC + \u2220DAB = 180. If \u2220DAC = 65, then \u2220CAB = 55.",
+                        "In Fig. 5.34, if EA \u22a5 AB and AB || EF, with \u2220BEF = 55, then x = 125."
+                    ]
+                },
+                {
+                    "id": "5.10",
+                    "title": "Geometrical Construction of Parallel Lines",
+                    "definition": "Parallel lines can be accurately drawn using geometry tools like a ruler and a set-square or through specific paper folding steps.",
+                    "formulae": [],
+                    "examples": [
+                        "Set-Square Method: Sliding the set-square along a fixed ruler to point A to ensure the same angle (90 or other) is maintained.",
+                        "Paper Folding Method: Folding line 't' \u22a5 'l', then line 'm' \u22a5 't' ensures 'm' || 'l'."
+                    ]
+                },
+                {
+                    "id": "5.11",
+                    "title": "Parallel Illusions",
+                    "definition": "Visual illusions where strictly parallel lines appear tilted or bent due to surrounding patterns and contrasting backgrounds.",
+                    "formulae": [],
+                    "examples": [
+                        "The 'Parallel Illusion' in Fig. 5.35 where the eye perceives lines as non-parallel despite geometrical proof."
+                    ]
                 }
             ]
         },
         {
             "number": 6,
-            "title": "The Triangle and Its Properties",
+            "title": "The Triangle and Its Properties (A Tale of Three Intersecting Lines)",
             "concepts": [
                 {
                     "id": "6.1",
@@ -364,12 +658,84 @@
                     "examples": [
                         "Every triangle has three medians and three altitudes."
                     ]
+                },
+                {
+                    "id": "6.6",
+                    "title": "Efficient Geometrical Construction (SSS)",
+                    "definition": "Constructing triangles by given sidelengths is most efficient using a compass to draw intersecting arcs from endpoints of a base line, rather than trial-and-error with a ruler.",
+                    "formulae": [],
+                    "examples": [
+                        "Equilateral Triangle (4 cm): Arcs of 4 cm radius from points A and B meet at vertex C.",
+                        "Scalene Construction (4, 5, 6 cm): Base AB (4 cm) with arcs of 5 cm from A and 6 cm from B.",
+                        "Circle Centers Geometry: Using centers A and B of two equal-sized overlapping circles to form isosceles (\u2206ABC) and equilateral (\u2206ABD) triangles."
+                    ]
+                },
+                {
+                    "id": "6.7",
+                    "title": "Circle Visualization for Triangle Existence",
+                    "definition": "The existence of a triangle depends on whether two circles (centered at base endpoints with radii equal to other sides) intersect. This relates to the Triangle Inequality.",
+                    "formulae": [
+                        "Sum of two radii > Base length (leads to Case 3: internal intersection)"
+                    ],
+                    "examples": [
+                        "Case 1: Circles touch (e.g., sides 3, 6, 9 where 3+6=9) \u2192 No triangle.",
+                        "Case 2: Circles don't intersect (Sum < Base) \u2192 No triangle.",
+                        "Equilateral Guarantee: An equilateral triangle of any sidelength (e.g., 50, 50, 50) is always possible because 50+50 > 50."
+                    ]
+                },
+                {
+                    "id": "6.8",
+                    "title": "Construction Validity: SAS and ASA Constellations",
+                    "definition": "For a triangle to be constructed with angles, the sum of given angles must be $< 180^\\circ$. If sum $= 180^\\circ$, lines will be parallel and never meet.",
+                    "formulae": [
+                        "\u2220A + \u2220B < 180^\u2218 (Condition for ASA construction validity)"
+                    ],
+                    "examples": [
+                        "Triangle with 3 cm, 120\u00b0, 8 cm (SAS) is valid.",
+                        "Triangle with 120\u00b0, 6 cm, 70\u00b0 is impossible (Sum = 190 > 180).",
+                        "If base angles are 40\u00b0 and 140\u00b0, the sides are parallel and do not form a triangle."
+                    ]
+                },
+                {
+                    "id": "6.9",
+                    "title": "Euclid's Proof: Angle Sum Property",
+                    "definition": "In 'The Elements' (300 BCE), Euclid proved the angle sum property by drawing a line through a vertex parallel to the opposite side.",
+                    "formulae": [
+                        "\u2220XAB = \u2220B and \u2220YAC = \u2220C (Alternate angles)",
+                        "\u2220A + \u2220XAB + \u2220YAC = 180^\u2218 (Straight angle)",
+                        "Therefore, \u2220A + \u2220B + \u2220C = 180^\u2218"
+                    ],
+                    "examples": [
+                        "Deducing third angle (60) if two are 50 and 70.",
+                        "Reflecting on the 'ingenious idea' of parallel lines to simplify geometric relationships."
+                    ]
+                },
+                {
+                    "id": "6.10",
+                    "title": "Precise Altitude Construction with Geometry Tools",
+                    "definition": "An altitude is the height of a vertex with respect to the opposite side. Precise construction requires a set-square sliding along a ruler to achieve a true perpendicular (90\u00b0).",
+                    "formulae": [],
+                    "examples": [
+                        "Dropping altitude AD \u22a5 BC by sliding a set-square till it touches vertex A.",
+                        "Right-angled triangle: The sides containing the right angle are themselves the altitudes.",
+                        "Obtuse triangle: The altitude from an acute vertex lies outside, requiring an extension of the base."
+                    ]
+                },
+                {
+                    "id": "6.11",
+                    "title": "Classification Nuances: Acute, Right, and Obtuse",
+                    "definition": "Triangles are classified by angle measures. While a single right or obtuse angle defines those types, an acute-angled triangle must have ALL three angles acute.",
+                    "formulae": [],
+                    "examples": [
+                        "Acute-angled: All three angles < 90\u00b0.",
+                        "Shortest path in a box riddle: Using spatial pathing on surfaces to reach the farthest corner."
+                    ]
                 }
             ]
         },
         {
             "number": 7,
-            "title": "Congruence of Triangles",
+            "title": "Congruence of Triangles (Geometric Twins)",
             "concepts": [
                 {
                     "id": "7.1",
@@ -397,6 +763,75 @@
                     "examples": [
                         "If three sides of one triangle equal three sides of another, they are congruent by SSS.",
                         "Two right triangles with equal hypotenuse and one corresponding side are congruent by RHS."
+                    ]
+                },
+                {
+                    "id": "7.4",
+                    "title": "The Correspondence Convention",
+                    "definition": "To express congruence accurately, vertices must be named in the exact order they overlap. \u0394ABC \u2245 \u0394XYZ means A corresponds to X, B to Y, and C to Z.",
+                    "formulae": [
+                        "Symbol: \u2245 (Congruent to)"
+                    ],
+                    "examples": [
+                        "Meera and Rabia's frame: Replicating a 40-60-80 cm triangular school frame by measuring corresponding sides.",
+                        "If \u0394HEN \u2245 \u0394BIG, then side HE = BI, EN = IG, and HN = BG.",
+                        "In a rectangle ABCD, the diagonal BD divides it into \u0394ABD \u2245 \u0394CDB (note the reversed vertex order for correct overlap)."
+                    ]
+                },
+                {
+                    "id": "7.5",
+                    "title": "Non-Congruent Cases: AAA and SSA failure",
+                    "definition": "Not all three-part measurements guarantee congruence. AAA (Angle-Angle-Angle) ensures the same shape but different sizes. SSA (Side-Side-Angle) with a non-included angle can result in two distinct, non-congruent triangles.",
+                    "formulae": [],
+                    "examples": [
+                        "AAA Example: Triangles with 30\u00b0, 70\u00b0, and 80\u00b0 can have varying side lengths.",
+                        "SSA Example: Constructing a triangle with base PQ=6cm, \u2220P=30\u00b0, and side QR=4cm results in two possible triangles \u2206PQR and \u2206PQS because the arc intersects the line at two points."
+                    ]
+                },
+                {
+                    "id": "7.6",
+                    "title": "AAS (Angle-Angle-Side) Property",
+                    "definition": "Two triangles are congruent if any two pairs of angles and one pair of corresponding sides are equal. This is an extension of ASA using the Angle Sum Property.",
+                    "formulae": [
+                        "ASA \u2192 AAS (via \u2220Sum = 180\u00b0)"
+                    ],
+                    "examples": [
+                        "If \u2220A = \u2220X, \u2220C = \u2220Z and side BC = YZ, then \u2220B must equal \u2220Y, satisfying the ASA condition."
+                    ]
+                },
+                {
+                    "id": "7.7",
+                    "title": "Congruence Proofs for Isosceles Properties",
+                    "definition": "Congruence can be used to deduce that angles opposite to equal sides are equal in an isosceles triangle.",
+                    "formulae": [
+                        "If AB = AC, then \u2220B = \u2220C (Corresponding parts of congruent \u2206ADB and \u2206ADC)"
+                    ],
+                    "examples": [
+                        "Drawing altitude AD from vertex A to base BC in isosceles \u2206ABC shows the two halves are congruent by RHS.",
+                        "Equilateral Proof: Since all sides are equal, using the isosceles logic repeatedly proves all angles = 180/3 = 60\u00b0."
+                    ]
+                },
+                {
+                    "id": "7.8",
+                    "title": "Superposition and Line of Symmetry Logic",
+                    "definition": "Two figures are congruent if they can be exactly superimposed, potentially after rotation or flipping. Symmetry acts as an internal verification of congruence.",
+                    "formulae": [],
+                    "examples": [
+                        "Tracing a symbol on a signboard to replicate it exactly.",
+                        "Observing diagonal symmetry in a square to prove \u2206ABC \u2245 \u2206ADC.",
+                        "Expression Engineer Puzzle: Splitting a region of white squares into 6 smaller congruent regions via division lines."
+                    ]
+                },
+                {
+                    "id": "7.9",
+                    "title": "Congruence in Real-Life Architecture",
+                    "definition": "Congruent triangles provide structural stability and aesthetic symmetry in famous architectural landmarks.",
+                    "formulae": [],
+                    "examples": [
+                        "Louvre Museum (Paris): Symmetrical glass triangles in the pyramid structure.",
+                        "Great Pyramid of Giza (Egypt): Massive congruent triangular faces.",
+                        "Howrah Bridge (Kolkata): Congruent steel trusses for load distribution.",
+                        "Rangoli and Dome designs using repeated congruent geometric twins."
                     ]
                 }
             ]
@@ -504,7 +939,7 @@
         },
         {
             "number": 10,
-            "title": "Practical Geometry",
+            "title": "Practical Geometry (Constructions and Tilings)",
             "concepts": [
                 {
                     "id": "10.1",
@@ -539,7 +974,92 @@
                     "definition": "Right‑angled triangles can be constructed when hypotenuse and one side are given, using a right angle at the appropriate vertex.",
                     "formulae": [],
                     "examples": [
-                        "Construct a right triangle with hypotenuse 5 cm and one side 3 cm using a right‑angle tool and compass."
+                        "Construct a right triangle with hypotenuse 5 cm and one side 3 cm using a right\u2011angle tool and compass."
+                    ]
+                },
+                {
+                    "id": "10.5",
+                    "title": "Perpendicular Bisector and Midpoint Symmetry",
+                    "definition": "Bisection is the division of a geometrical object into two identical parts. A perpendicular bisector of a line segment passes through its midpoint at a 90\u00b0 angle.",
+                    "formulae": [
+                        "AX = AY = BX = BY (Condition for perpendicular bisector AB of XY)"
+                    ],
+                    "examples": [
+                        "The 'Eyes' construction: Drawing symmetrical upper and lower arcs using points A and B on the perpendicular bisector.",
+                        "Proving bisection accuracy by showing \u2206AOX \u2245 \u2206AOY via SAS congruence."
+                    ]
+                },
+                {
+                    "id": "10.6",
+                    "title": "Historical Sulba-Sutra Rope Methods",
+                    "definition": "Ancient Indian geometric texts (Vedic period) describing exact procedures for constructing perpendiculars and altars using ropes and pegs.",
+                    "formulae": [],
+                    "examples": [
+                        "Katy\u0101yana-ulbastra 1.2: Using a looped rope stretched from two poles (X and Y) to find the bisector points A and B.",
+                        "Ropes as flexible geometric tools: Capable of forming straight lines (stretched) or arcs (fixed radius)."
+                    ]
+                },
+                {
+                    "id": "10.7",
+                    "title": "Angle Bisection and Angle Copying",
+                    "definition": "Any angle can be bisected or exactly replicated without measurement using only a ruler and compass, relying on SSS congruence properties.",
+                    "formulae": [
+                        "\u2220BOC = \u2220AOC (After bisecting \u2220AOB)",
+                        "Constructing 45\u00b0 from 90\u00b0, or 30\u00b0 from 60\u00b0."
+                    ],
+                    "examples": [
+                        "Creating an 8-petalled lotus(Fig. 6.5) design by repeatedly bisecting 360\u00b0 into 45\u00b0 segments.",
+                        "Copying an unknown angle \u2220A to \u2220X by constructing congruent isosceles triangles \u2206ABC \u2245 \u2206XYZ."
+                    ]
+                },
+                {
+                    "id": "10.8",
+                    "title": "Structural Arch Design with Support Lines",
+                    "definition": "Architectural arches (like Trefoil or Pointed arches) are constructed using symmetrical support line segments and specific arc radii for stability and aesthetics.",
+                    "formulae": [],
+                    "examples": [
+                        "Trefoil Arch (Diwan-i-Aam, Red Fort): Requiring support lines AB=CD and equal base angles.",
+                        "Pointed Gothic Arch: Constructed by marking midpoints on two supporting line segments and drawing intersecting arcs.",
+                        "Inflexed Arc: A complex symmetrical curve constructed using only a compass.",
+                        "Wavy Wave (Grade 6 revisit): Using two equal line segments as supporting lines and marking their midpoints to direct the arc sequence."
+                    ]
+                },
+                {
+                    "id": "10.9",
+                    "title": "Regular Hexagon and 60\u00b0 Construction",
+                    "definition": "A regular hexagon can be decomposed into six congruent equilateral triangles meeting at a central point. Each interior angle is 120\u00b0.",
+                    "formulae": [
+                        "Interior Angle = 60\u00b0 + 60\u00b0 = 120\u00b0",
+                        "Sum around center vertex = 60\u00b0 \u00d7 6 = 360\u00b0"
+                    ],
+                    "examples": [
+                        "Constructing a 60\u00b0 angle by drawing an equilateral triangle on a line segment.",
+                        "6-Pointed Star construction: Layering equilateral triangles (\u2206AGH, etc.) on a hexagonal base."
+                    ]
+                },
+                {
+                    "id": "10.10",
+                    "title": "Tiling Theory and Grid Parity",
+                    "definition": "Tiling (tessellation) is covering a region with shapes without gaps or overlaps. Grid tileability depends on the parity of rows and columns.",
+                    "formulae": [
+                        "m \u00d7 n grid is tileable with 2\u00d71 tiles if either m or n is even.",
+                        "Odd \u00d7 Odd grid is never tileable (total squares is odd)."
+                    ],
+                    "examples": [
+                        "Black-and-White Grid Proof: A $5 \\times 3$ grid with one square removed is non-tileable if the number of remaining black and white squares is unequal.",
+                        "Tangram Puzzles: Reconstructing an arrow or bird shape using 7 fixed geometric pieces."
+                    ]
+                },
+                {
+                    "id": "10.11",
+                    "title": "Perfect Tessellation of the Plane",
+                    "definition": "The infinite plane can be tiled using regular polygons like squares, equilateral triangles, and hexagons because their interior angles divide 360\u00b0 perfectly.",
+                    "formulae": [],
+                    "examples": [
+                        "Beehive cells: Natural hexagonal tiling that minimizes wasted space and material.",
+                        "Escher-style Tiling: Creative tessellations using animal shapes and complex periodic patterns.",
+                        "Optical Illusion: Creating visual depth and movement patterns using repeated geometric tessellations.",
+                        "2023 Discovery: Periodic tiling using more than one non-regular polygon shape."
                     ]
                 }
             ]
@@ -588,7 +1108,7 @@
         },
         {
             "number": 12,
-            "title": "Algebraic Expressions",
+            "title": "Algebraic Expressions (Expressions Using Letter-Numbers)",
             "concepts": [
                 {
                     "id": "12.1",
@@ -616,8 +1136,8 @@
                     "definition": "Algebraic expressions are added or subtracted by combining like terms.",
                     "formulae": [],
                     "examples": [
-                        "(3x + 4) + (2x − 1) = 5x + 3.",
-                        "(5a − 2b) − (3a + b) = 2a − 3b."
+                        "In (x + y) + 5, grouping (x + y) first does not change the total value.",
+                        "Using the distributive property: a(b + c) = ab + ac."
                     ]
                 },
                 {
@@ -637,6 +1157,86 @@
                     "formulae": [],
                     "examples": [
                         "2x(3x + 5) = 6x² + 10x."
+                    ]
+                },
+                {
+                    "id": "12.6",
+                    "title": "The Notion of Letter-Numbers & Contextual Variables",
+                    "definition": "Letter-numbers (variables) are letters used as concise symbols to represent unknown or changing values in mathematical relations.",
+                    "formulae": [
+                        "s = a + 3 (Shabnam's age is 3 more than Aftab's)",
+                        "2n (Number of matchsticks for n L-patterns)"
+                    ],
+                    "examples": [
+                        "If Aftab's age 'a' is 23, Shabnam's age 's' is 23 + 3 = 26.",
+                        "Cost of c coconuts and j kgs of jaggery: 35c + 60j."
+                    ]
+                },
+                {
+                    "id": "12.7",
+                    "title": "General Formulas & Rule of Omission",
+                    "definition": "Algebraic expressions allow for concise general formulas. A standard practice is to omit the multiplication symbol between numbers and letters (e.g., 4 \u00d7 n becomes 4n).",
+                    "formulae": [
+                        "Perimeter of Square = 4q",
+                        "Perimeter of Regular Hexagon = 6a"
+                    ],
+                    "examples": [
+                        "Munirathna's pipe: Connecting a 20m pipe to another of length 'k' results in 20 + k.",
+                        "Time taken to grind y kg of grain in a mill: 10 + 8y (10s startup + 8s per kg).",
+                        "Yahapur to Vahapur train time: 4t + 6 minutes (4 segments of length t and 3 stops of 2 mins each).",
+                        "Snail in a well: Total progress after 10 days and nights: 10(u - d) cm, but if d > u, it slips down more than it climbs."
+                    ]
+                },
+                {
+                    "id": "12.8",
+                    "title": "Simplification & Grid Sum Invariants",
+                    "definition": "Expressions are simplified by grouping like terms. Simplified forms (e.g., 2l + 2b) are equal to the initial form (l + b + l + b) as they yield identical values for any input.",
+                    "formulae": [
+                        "l + b + l + b = 2l + 2b",
+                        "Diagonal Sum of 2x2 Calendar Grid = 2a + 8"
+                    ],
+                    "examples": [
+                        "Calendar Property: In any 2x2 square, the sum of diagonal numbers (a and a+8) equals the sum of (a+1 and a+7).",
+                        "Distributive simplification: 5c + 3c + 10c = (5+3+10)c = 18c."
+                    ]
+                },
+                {
+                    "id": "12.9",
+                    "title": "Number Machines & Sequence Mapping",
+                    "definition": "Algebraic expressions act as 'Number Machines' that perform fixed operations on inputs to produce consistent output patterns.",
+                    "formulae": [
+                        "Rule: 2a - b (Two times the first number minus the second)",
+                        "nth term of Saree Design C = 3n"
+                    ],
+                    "examples": [
+                        "Design A, B, and C positions in a repeating saree border: Design A occurs at 3n-2, B at 3n-1, and C at 3n.",
+                        "Formula Detective: Input (5, 2) \u2192 Output (8) follow the 2a - b rule."
+                    ]
+                },
+                {
+                    "id": "12.10",
+                    "title": "Matchstick Logic & Step Formulas",
+                    "definition": "Stepwise growth in matchstick patterns can be described by general linear expressions based on the rate of increase per step.",
+                    "formulae": [
+                        "Triangles: 2y + 1 (or 3 + 2(y-1))",
+                        "Squares: 4 + 3(w - 1)"
+                    ],
+                    "examples": [
+                        "Step 33 of a triangle pattern requires 2(33) + 1 = 67 matchsticks.",
+                        "Proving equivalence: 3 + 2(y-1) simplifies to 2y + 1 using the distributive property."
+                    ]
+                },
+                {
+                    "id": "12.11",
+                    "title": "Cyclic Patterns & Grid Coordinate Systems",
+                    "definition": "Algebra can map positions in cyclic sequences (traffic signals) or infinite grids using row and column coordinates.",
+                    "formulae": [
+                        "Grid Value = 4(r - 1) + c (For a 4-column endless grid)",
+                        "Traffic Sequence: 4n-3 (Red), 4n-1 (Green), 2n (Yellow)"
+                    ],
+                    "examples": [
+                        "Determining position 122 in a 4-column grid: Divide 122 by 4 to find it falls in Row 31, Column 2.",
+                        "Traffic color at position 343: Since 343 matches the 4n-1 pattern (remainder 3), it is Green."
                     ]
                 }
             ]

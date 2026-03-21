@@ -719,6 +719,1014 @@
                     ]
                 }
             ]
+        },
+        {
+            "number": 17,
+            "title": "A SQUARE AND A CUBE",
+            "concepts": [
+                {
+                    "id": "17.1",
+                    "title": "The Locker Puzzle and Square Numbers",
+                    "definition": "A square number is a number that can be expressed as the product of a number with itself; these are the only numbers that remain open in the locker puzzle because they have an odd number of factors (each factor has a partner, except the square identifier which is its own partner).",
+                    "formulae": [],
+                    "examples": [
+                        "For locker #6, factors are 1, 2, 3 and 6; 1 pairs with 6, 2 pairs with 3. Since it has an even number of factors, it is toggled an even number of times and ends up closed.",
+                        "For locker #9, factors are 1, 3 and 9; 1 pairs with 9, and 3 is its own partner. This odd number of factors leaves the locker open.",
+                        "Square numbers are 1, 4, 9, 16, 25, ... resulting from 1×1, 2×2, 3×3, etc.",
+                        "Passcode clue: The first five locker numbers touched exactly twice (prime numbers) are 2-3-5-7-11."
+                    ]
+                },
+                {
+                    "id": "17.2",
+                    "title": "Perfect Squares and Their Units Digits",
+                    "definition": "The squares of natural numbers are called perfect squares. They always end with 0, 1, 4, 5, 6 or 9 in the units place; any number ending in 2, 3, 7 or 8 cannot be a square.",
+                    "formulae": [
+                        "n × n = n²"
+                    ],
+                    "examples": [
+                        "1, 4, 9, 16, 25 are perfect squares.",
+                        "Sidelength ⅗ units has area (3/5)² = 9/25; sidelength 2.5 units has area (2.5)² = 6.25.",
+                        "10² = 100, 20² = 400. Squares can only have an even number of zeros at the end.",
+                        "If a number has 1 or 9 in the units place, its square ends in 1; if it has 4 or 6, its square ends in 6."
+                    ]
+                },
+                {
+                    "id": "17.3",
+                    "title": "Square Numbers, Odd Numbers and Triangular Numbers",
+                    "definition": "Every square number is a sum of successive odd numbers starting from 1. Additionally, the sum of two consecutive triangular numbers (1, 3, 6, 10, ...) results in a square number.",
+                    "formulae": [
+                        "1 + 3 + 5 + ... + (2n - 1) = n²",
+                        "The nth odd number is 2n - 1",
+                        "1 + 3 = 4 = 2², 3 + 6 = 9 = 3², 6 + 10 = 16 = 4²"
+                    ],
+                    "examples": [
+                        "1 + 3 + 5 = 9 = 3².",
+                        "Given 35² = 1225, then 36² = 1225 + 71 = 1296 (where 71 is the 36th odd number, 2×36-1).",
+                        "Successively subtracting odd numbers from 25 (25-1, 24-3, 21-5, 16-7, 9-9) results in 0, confirming it is a perfect square."
+                    ]
+                },
+                {
+                    "id": "17.4",
+                    "title": "Square Roots and Inverse Operations",
+                    "definition": "The square root is the inverse operation of squaring. Every perfect square has two integral square roots: one positive and one negative.",
+                    "formulae": [
+                        "If y = x², then x is the square root of y",
+                        "√n² = ±n"
+                    ],
+                    "examples": [
+                        "Area of a square is 49 sq. cm, so side length is 7 cm.",
+                        "√64 = ±8 because 8 × 8 = 64 and (-8) × (-8) = 64."
+                    ]
+                },
+                {
+                    "id": "17.5",
+                    "title": "Finding and Estimating Square Roots",
+                    "definition": "Square roots can be found using prime factorisation by grouping factors into two identical sets or estimated by identifying the closest perfect squares.",
+                    "formulae": [],
+                    "examples": [
+                        "324 = 2 × 2 × 3 × 3 × 3 × 3 = (2 × 3 × 3)² = 18², so √324 = 18.",
+                        "√1936: between 1600 (40²) and 2500 (50²), ending in 6 means it is 44 or 46; 45²=2025, so √1936 = 44.",
+                        "Akhil has 125 cm² cloth; 11²=121 and 12²=144, so the largest square handkerchief he can cut has integer side 11 cm."
+                    ]
+                },
+                {
+                    "id": "17.6",
+                    "title": "Cubic Numbers and Perfect Cubes",
+                    "definition": "A number obtained by multiplying itself three times (n × n × n) is called a cube. Perfect cubes can be expressed as sums of consecutive odd numbers and follow patterns in successive differences.",
+                    "formulae": [
+                        "n × n × n = n³"
+                    ],
+                    "examples": [
+                        "2³ = 8, 3³ = 27, 4³ = 64.",
+                        "1 = 1³, 3+5 = 8 = 2³, 7+9+11 = 27 = 3³, 13+15+17+19 = 64 = 4³.",
+                        "Each prime factor of a number appears three times in the prime factorisation of its cube."
+                    ]
+                },
+                {
+                    "id": "17.7",
+                    "title": "Taxicab Numbers (Hardy-Ramanujan Number)",
+                    "definition": "Taxicab numbers are integers that can be expressed as the sum of two positive cubes in two different ways. The smallest such number is 1729.",
+                    "formulae": [],
+                    "examples": [
+                        "Ramanujan noted 1729 = 1³ + 12³ = 9³ + 10³ while visiting colleague G.H. Hardy.",
+                        "4104 and 13832 are the next two taxicab numbers.",
+                        "John Littlewood remarked: 'Every positive integer was one of his [Ramanujan's] personal friends'."
+                    ]
+                },
+                {
+                    "id": "17.8",
+                    "title": "Cube Roots",
+                    "definition": "The cube root ³√y is the number x such that x³ = y. It can be found by prime factorisation by grouping factors into triplets.",
+                    "formulae": [
+                        "If y = x³, then x = ³√y"
+                    ],
+                    "examples": [
+                        "³√8 = 2, ³√27 = 3, ³√1000 = 10.",
+                        "3375 = 3 × 3 × 3 × 5 × 5 × 5, so ³√3375 = 3 × 5 = 15.",
+                        "Is 1331 a perfect cube? Guessing without factorisation: ends in 1, so root likely ends in 1; 10³=1000 and 20³=8000, so ³√1331 = 11."
+                    ]
+                },
+                {
+                    "id": "17.9",
+                    "title": "A Pinch of History: Varga, Ghana and Mula",
+                    "definition": "Ancient Indian mathematicians used 'Varga' for square figures/powers, 'Ghana' for cubes, and 'Mula' (meaning root of a plant) for mathematical roots.",
+                    "formulae": [],
+                    "examples": [
+                        "Aryabhata (499 CE): 'The product of two equal quantities is called varga.'",
+                        "The fourth power was called varga-varga.",
+                        "Varga-mula means square-root and ghana-mula means cube-root.",
+                        "Sanskrit 'mula' was later emulated in Arabic as 'jidhr' and Latin as 'radix'."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 18,
+            "title": "A STORY OF NUMBERS",
+            "concepts": [
+                {
+                    "id": "18.1",
+                    "title": "Origin and Transmission of the Indian Number System",
+                    "definition": "The modern oral and written number system using ten symbols (0-9) originated in India around 2000 years ago, as seen in texts like the Yajurveda Samhitā and the Bakhshali manuscript, and was transmitted to the Arab world and later Europe.",
+                    "formulae": [],
+                    "examples": [
+                        "Ancient Indian names for powers of 10: eka (1), dasha (10), shata (100), sahasra (1000), yuta (10,000), all the way up to 10¹².",
+                        "Bakhshali manuscript (c. 3rd century CE): First known use of numbers written using ten digits, including 0 as a dot.",
+                        "Al-Khwārizmi's 'On the Calculation with Hindu Numerals' (c. 825 CE) and Al-Kindi's 'On the Use of the Hindu Numerals' (c. 830 CE) popularised the system in the Arab world.",
+                        "Fibonacci (c. 1200 CE) advocated for the adoption of Indian numerals in Europe."
+                    ]
+                },
+                {
+                    "id": "18.2",
+                    "title": "The Mechanism of Counting and Number Systems",
+                    "definition": "Counting is the process of establishing a one-to-one mapping between a collection of objects and a standard sequence (a number system) of objects, sounds, or written symbols.",
+                    "formulae": [],
+                    "examples": [
+                        "One-to-one mapping using sticks: for every cow in a herd, keep one stick to track the total quantity.",
+                        "Using a sequence of sounds like letters (a=1, b=2, c=3, ...).",
+                        "Numerals representing smaller numbers always had names, while written systems like the Roman system use symbols for larger quantities."
+                    ]
+                },
+                {
+                    "id": "18.3",
+                    "title": "Early Tally Systems and Bone Markings",
+                    "definition": "One of the oldest methods of number representation is through notches or tally marks cut on surfaces like bone, used for tracking livestock, trade, or astronomical events.",
+                    "formulae": [],
+                    "examples": [
+                        "The Lebombo bone (South Africa, c. 44,000 years old) with 29 notches, possibly used as a lunar calendar.",
+                        "The Ishango bone (Congo, c. 20,000– 35,000 years old) with notches indicating calendrical systems."
+                    ]
+                },
+                {
+                    "id": "18.4",
+                    "title": "Counting in Groups (Gumulgal System)",
+                    "definition": "Efficiency in counting is achieved by grouping objects into a fixed size (2, 5, 10, or 20) and using the word or symbol associated with that group to represent larger numbers.",
+                    "formulae": [],
+                    "examples": [
+                        "The Gumulgal (Australia) count in 2s: 1 (urapon), 2 (ukasar), 3 (ukasar-urapon), 4 (ukasar-ukasar). Any number greater than 6 is called 'ras'.",
+                        "Human limit of perception: Most humans can immediately see groups up to 4 or 5 without explicit counting."
+                    ]
+                },
+                {
+                    "id": "18.5",
+                    "title": "The Roman Number System and Landmark Numbers",
+                    "definition": "A written system using specific landmark numbers as anchors to represent other numbers through grouping and additive/subtractive rules.",
+                    "formulae": [],
+                    "examples": [
+                        "Landmark numerals: I=1, V=5, X=10, L=50, C=100, D=500, M=1,000.",
+                        "Representing 27: 10 + 10 + 5 + 1 + 1 (XXVII).",
+                        "Representing 2367: 1000 + 1000 + 100 + 100 + 100 + 50 + 10 + 5 + 1 + 1 (MMCCCLXII)."
+                    ]
+                },
+                {
+                    "id": "18.6",
+                    "title": "The Egyptian Number System (Base-10)",
+                    "definition": "A hieroglyphic base-10 system developed around 3000 BCE where each landmark number is 10 times the previous one (powers of 10).",
+                    "formulae": [],
+                    "examples": [
+                        "Egyptian symbols: | = 1, ∩ = 10, 𓍢 = 100.",
+                        "Representing 324: Three 𓍢 (100s), two ∩ (10s), and four | (1s)."
+                    ]
+                },
+                {
+                    "id": "18.7",
+                    "title": "The Notion of a Base (Base-n Number Systems)",
+                    "definition": "A system where all landmark numbers are powers of a fixed number n (the base), starting from n⁰=1, n, n², n³, etc.",
+                    "formulae": [
+                        "Landmarks = n⁰, n¹, n², n³, ..."
+                    ],
+                    "examples": [
+                        "Base-5 system landmarks: 1, 5, 25, 125, 625.",
+                        "Advantages: The product of any two landmark numbers is another landmark number, simplifying arithmetic."
+                    ]
+                },
+                {
+                    "id": "18.8",
+                    "title": "The Abacus and Decimal Calculation",
+                    "definition": "A calculating tool where successive lines represent successive powers of 10, using counters to perform arithmetic operations like addition via carrying over.",
+                    "formulae": [],
+                    "examples": [
+                        "Representing 3426: Three counters on 1000s line, four on 100s, two on 10s, and six on 1s.",
+                        "Addition: 7 ones and 3 ones together make 10, contributing a single counter to the 10s line."
+                    ]
+                },
+                {
+                    "id": "18.9",
+                    "title": "Place Value and the Mesopotamian (Babylonian) System",
+                    "definition": "A sexagesimal (base-60) positional system where the position of a symbol determines the power of 60 it is associated with; later systems used placeholders for blank spaces.",
+                    "formulae": [],
+                    "examples": [
+                        "Symbol Y = 1, < = 10.",
+                        "640 = (10) × 60 + 40.",
+                        "Placeholder: Mesopotamians used blank spaces and later symbols to denote skipping a power of 60 (nothingness)."
+                    ]
+                },
+                {
+                    "id": "18.10",
+                    "title": "The Mayan Number System",
+                    "definition": "A vertical positional system based on base-20 (with a variant 360) using dots (1), bars (5), and a seashell symbol for zero.",
+                    "formulae": [],
+                    "examples": [
+                        "Landmarks: 1, 20, 360 (20 × 18), 7200.",
+                        "Seashell symbol used specifically as a placeholder for zero."
+                    ]
+                },
+                {
+                    "id": "18.11",
+                    "title": "The Chinese Rod Numerals",
+                    "definition": "A decimal positional system using rod symbols in alternating orientations (Zongs and Hengs) to represent place values.",
+                    "formulae": [],
+                    "examples": [
+                        "Zongs: represent units, hundreds, 10,000s.",
+                        "Hengs: represent tens, thousands, 100,000s.",
+                        "Used blank spaces (and later symbols) for zero to indicate missing place values."
+                    ]
+                },
+                {
+                    "id": "18.12",
+                    "title": "The Hindu Number System and the Power of Zero",
+                    "definition": "A fully developed positional decimal system using the digit 0 both as a placeholder and a number subject to arithmetic operations.",
+                    "formulae": [],
+                    "examples": [
+                        "Aryabhata (499 CE) used zero in elaborate scientific computations.",
+                        "Brahmagupta (628 CE) codified arithmetic properties: 0 plus any number is that number, 0 times any number is zero.",
+                        "Created the foundation for modern algebra by introducing negative numbers and the status of zero as a number in its own right."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 19,
+            "title": "ALGEBRA PLAY",
+            "concepts": [
+                {
+                    "id": "19.1",
+                    "title": "Introduction to Algebraic Fun",
+                    "definition": "Algebra is more than just solving for unknown letter-numbers; it is an indispensable tool for investigation, providing a method to model situations, explain why tricks and puzzles work, and invent new mathematical games.",
+                    "formulae": [],
+                    "examples": [
+                        "Justifying why a 'Think of a Number' trick always leads to the same outcome.",
+                        "Using algebra to model the growth of a number in a magical sequence."
+                    ]
+                },
+                {
+                    "id": "19.2",
+                    "title": "'Think of a Number' Tricks and Algebraic Explanation",
+                    "definition": "These tricks use a sequence of operations that result in a predictable value. Algebra explains this by representing the starting number with a variable (e.g., x) and showing how the operations simplify.",
+                    "formulae": [
+                        "x \u2192 2x \u2192 2x + 4 \u2192 x + 2 \u2192 (x + 2) - x = 2"
+                    ],
+                    "examples": [
+                        "Think of a number, double it, add 4, divide by 2, subtract the original number. The result is always 2.",
+                        "To change the game to make the final answer 5, add 10 instead of 4 (so (2x+10)/2 - x = 5)."
+                    ]
+                },
+                {
+                    "id": "19.3",
+                    "title": "Calendar Date Guessing Trick",
+                    "definition": "A trick to find a specific date (month M and day D) by applying multiple linear operations that isolate the parts of the number into hundreds and units places.",
+                    "formulae": [
+                        "M \u2192 5M \u2192 5M + 6 \u2192 20M + 24 \u2192 20M + 33 \u2192 100M + 165 \u2192 100M + 165 + D",
+                        "Original Date = (Final Answer - 165)"
+                    ],
+                    "examples": [
+                        "Mukta's answer was 291: 291 - 165 = 126. The 1 represents M (January) and 26 represents D (26th).",
+                        "Answer 1390: 1390 - 165 = 1225. Date is 25th of December (M=12, D=25).",
+                        "If final answers are 1269, 394, or 296: subtract 165 to get 1104 (Nov 04), 229 (Feb 29), and 131 (Jan 31)."
+                    ]
+                },
+                {
+                    "id": "19.4",
+                    "title": "Number Pyramids: Construction Rules",
+                    "definition": "A number pyramid is a grid where each number is formed by the sum of the two numbers directly below it. Algebra is used to find missing values if only partial information is given.",
+                    "formulae": [
+                        "Top Number = Left Number + Right Number (directly below)"
+                    ],
+                    "examples": [
+                        "Bottom row 1, 9, 4 results in middle row 10, 13 and top row 23.",
+                        "If the top is 60 and bottom outer numbers are 12 and 8, find middle number 'c': (12+c) + (c+8) = 60 \u2192 2c + 20 = 60 \u2192 c = 20.",
+                        "Pyramid with top 10, 4 and bottom 1, results in 6 and 3 in the middle."
+                    ]
+                },
+                {
+                    "id": "19.5",
+                    "title": "Number Pyramids: Bottom and Top Row Relationship",
+                    "definition": "The number in the top row can be expressed as a linear combination of the numbers in the bottom row using algebraic coefficients.",
+                    "formulae": [
+                        "For 3 rows (bottom a, b, c): Top = a + 2b + c",
+                        "For 4 rows (bottom a, b, c, d): Top = a + 3b + 3c + d"
+                    ],
+                    "examples": [
+                        "Pyramid with bottom 4, 13, 8: Top = 4 + 2(13) + 8 = 4 + 26 + 8 = 38.",
+                        "Pyramid with bottom 7, 11, 3: Top = 7 + 2(11) + 3 = 7 + 22 + 3 = 32.",
+                        "Pyramid with bottom 10, 14, 25: Top = 10 + 2(14) + 25 = 10 + 28 + 25 = 63.",
+                        "If bottom row is 9, 7, 5, 11 (4 rows): Top = 9 + 3(7) + 3(5) + 11 = 9 + 21 + 15 + 11 = 56."
+                    ]
+                },
+                {
+                    "id": "19.6",
+                    "title": "Calendar Magic: 2x2 Grid Properties",
+                    "definition": "In a standard calendar grid of 2x2, the numbers follow a specific pattern: if the top-left is 'a', the others are a+1, a+7, and a+8. The sum of these four numbers follows a fixed algebraic formula.",
+                    "formulae": [
+                        "Sum = a + (a+1) + (a+7) + (a+8) = 4a + 16"
+                    ],
+                    "examples": [
+                        "If the friend reports a sum of 36: 4a + 16 = 36 \u2192 4a = 20 \u2192 a = 5. The grid is 5, 6, 12, 13.",
+                        "If the friend picks a 2x2 grid from August 2025 starting with 6, the numbers are 6, 7 in the first row and 13, 14 in the second."
+                    ]
+                },
+                {
+                    "id": "19.7",
+                    "title": "Algebra Grids and Shape Logic",
+                    "definition": "A puzzle where shapes (circles, squares, triangles) represent numbers, and rows/columns provide sum totals, allowing the values of each shape to be derived through substitution.",
+                    "formulae": [],
+                    "examples": [
+                        "A row with three circles sums to 15, so one circle = 5.",
+                        "A row with a circle and two triangles sums to 11; if circle is 5, then 2 \u00d7 triangle = 6, so triangle = 3.",
+                        "Analyzing rows horizontally and down the last column to find missing values."
+                    ]
+                },
+                {
+                    "id": "19.8",
+                    "title": "The Largest Product Principle",
+                    "definition": "To maximize the product (AB \u00d7 C) using three digits p < q < r, it is always optimal to place the largest digit (r) as the multiplier and the other two (q and p) as the tens and units digits of the multiplicand respectively.",
+                    "formulae": [
+                        "Max Product = qp \u00d7 r (e.g., 52 \u00d7 3 is smaller than 32 \u00d7 5)"
+                    ],
+                    "examples": [
+                        "Using digits 2, 3, 5: options include 23\u00d75=115, 25\u00d73=75, 52\u00d73=156, 32\u00d75=160. The largest is 32\u00d75.",
+                        "Using digits 1, 3, 7: Largest product is 31 \u00d7 7 = 217.",
+                        "Using digits 3, 5, 9: Largest product is 53 \u00d7 9 = 477."
+                    ]
+                },
+                {
+                    "id": "19.9",
+                    "title": "Divisibility Tricks: 2-Digit Reversal",
+                    "definition": "Numerical tricks involving reversed digits can be explained by expanding the numbers (e.g., ab = 10a + b). The properties of the resulting algebraic expressions reveal why they are divisible by 9 or 11.",
+                    "formulae": [
+                        "Difference: (10b + a) - (10a + b) = 9(b - a)",
+                        "Sum: (10a + b) + (10b + a) = 11(a + b)"
+                    ],
+                    "examples": [
+                        "Reverse 31 to 13: 31 - 13 = 18 (divisible by 9); 31 + 13 = 44 (divisible by 11).",
+                        "Reverse 28 to 82: 82 - 28 = 54 (9 \u00d7 6); 82 + 28 = 110 (11 \u00d7 10).",
+                        "Reverse 12 to 21: 21 - 12 = 9 (9 \u00d7 1); 21 + 12 = 33 (11 \u00d7 3)."
+                    ]
+                },
+                {
+                    "id": "19.10",
+                    "title": "3-Digit Cycling and Divisibility by 37",
+                    "definition": "Cycling the digits of a 3-digit number abc to form bca and cab leads to a sum that is always divisible by 111, and thus by 37 and 3.",
+                    "formulae": [
+                        "abc + bca + cab = (100a+10b+c) + (100b+10c+a) + (100c+10a+b) = 111(a+b+c)",
+                        "111 = 37 \u00d7 3"
+                    ],
+                    "examples": [
+                        "For number 123: 123 + 231 + 312 = 666 = 111 \u00d7 6. 666 is divisible by 37 (18) and 3 (222).",
+                        "The trick works for any three-digit number because the coefficients (100, 10, 1) cycle and always sum to 111."
+                    ]
+                },
+                {
+                    "id": "19.11",
+                    "title": "Repeating Digit Patterns (abcabc)",
+                    "definition": "Repeating a 3-digit number to form a 6-digit number is equivalent to multiplying the original number by 1001, which is the product of 7, 11, and 13.",
+                    "formulae": [
+                        "abcabc = abc \u00d7 1000 + abc = abc \u00d7 1001",
+                        "1001 = 7 \u00d7 11 \u00d7 13"
+                    ],
+                    "examples": [
+                        "Take 256: 256256 / 7 = 36608; 36608 / 11 = 3328; 3328 / 13 = 256 (the original number).",
+                        "Multiplying 7, 11, and 13 gives 1001, which explains why the original digits return."
+                    ]
+                },
+                {
+                    "id": "19.12",
+                    "title": "Modeling with Linear Equations",
+                    "definition": "Algebra helps solve real-world puzzles by translating verbal descriptions into equations involving variables like ages, costs, or counts of items.",
+                    "formulae": [],
+                    "examples": [
+                        "Horses and Hens: H + h = 55 heads, 4H + 2h = 150 legs. Solving gives 20 horses and 35 hens.",
+                        "Shrine Flower Doubling: A person starting with 7 flowers and giving 8 at each of 3 shrines will end with zero.",
+                        "Gauri and Naina's Cows: N = 2G and N - 3 = G + 3. Solving gives G = 6 and N = 12.",
+                        "Mother's age: M = 5D; M+6 = 3(D+6). Solving gives Daughter's age D = 6."
+                    ]
+                },
+                {
+                    "id": "19.13",
+                    "title": "Business and Economics Modeling",
+                    "definition": "Modeling business scenarios involves equations for expenses (fixed + variable costs) and revenue to determine prices or sales volume needed for a specific profit.",
+                    "formulae": [
+                        "Profit = Total Sales - (Fixed Expenses + Variable Costs)"
+                    ],
+                    "examples": [
+                        "Dosa Cart: Rent 5000/day, cost is 210 per dosa. To make 2000 profit selling 100 dosas: Selling Price = (5000 + 2000)/100 + 210 = 280.",
+                        "If selling price is 250: (250 - 210) \u00d7 count - 5000 = 2000 \u2192 40 \u00d7 count = 7000 \u2192 count = 175 dosas.",
+                        "Customer price limit of 250 (50 profit per dosa example in manual analysis)."
+                    ]
+                },
+                {
+                    "id": "19.14",
+                    "title": "Sequence Patterns and Doubling Effects",
+                    "definition": "Analyzing sequences where values double and are then reduced by a constant amount (e.g., Karim's Genie) reveals exponential growth properties and how starting values affect the result.",
+                    "formulae": [
+                        "Result = (((Initial \u00d7 2) - Cost) \u00d7 2 - Cost) \u00d7 2 - Cost"
+                    ],
+                    "examples": [
+                        "Karim had 7 coins and gave 8 each time: Round 1 (14-8=6), Round 2 (12-8=4), Round 3 (8-8=0).",
+                        "If Karim wants to gain money, the coin count must be greater than the cost per round (Starting coins > Cost).",
+                        "Fraction sequence: 1/3, (1+3)/(5+7), (1+3+5)/(7+9+11) all evaluate to 1/3 due to sum of odd numbers properties."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 20,
+            "title": "AREA",
+            "concepts": [
+                {
+                    "id": "20.1",
+                    "title": "Measuring Area using Unit Squares",
+                    "definition": "The area of a region is measured by finding the number of unit squares (squares of sidelength 1 unit) that can be packed into or whose area equals that of the given region. Area can be a whole number or a fraction.",
+                    "formulae": [],
+                    "examples": [
+                        "A rectangle with sidelengths 7 cm and 4 cm contains 28 unit squares (28 cm\u00b2).",
+                        "A rectangle with sidelengths 8 cm and 3 cm contains 24 unit squares.",
+                        "Rangoli powder example: Comparing rectangles to see which requires more powder to be colored evenly.",
+                        "Measuring area by counting squares on grid paper."
+                    ]
+                },
+                {
+                    "id": "20.2",
+                    "title": "Area of Rectangle and Square",
+                    "definition": "The area of a rectangle is the product of its length and width. For a square, since all sides are equal, the area is the square of its sidelength.",
+                    "formulae": [
+                        "Area of a rectangle = length \u00d7 width",
+                        "Area of a square = side \u00d7 side"
+                    ],
+                    "examples": [
+                        "Identifying missing sidelengths (e.g., if area is 28 in\u00b2 and one side is 7 in, the other is 4 in).",
+                        "Calculating the area of a shaded path laid around a rectangular park EFGH.",
+                        "Area of a crosspath in a plot with sides 14 m and 12 m."
+                    ]
+                },
+                {
+                    "id": "20.3",
+                    "title": "Area versus Perimeter",
+                    "definition": "Perimeter is NOT a measure of area. Two regions can have the same perimeter but different areas, and a region with a larger perimeter can have a smaller area than another.",
+                    "formulae": [],
+                    "examples": [
+                        "A long thin rectangle has a larger perimeter but smaller area than a square of the same boundary length.",
+                        "Finding two rectangles where Perimeter(1) > Perimeter(2) but Area(1) < Area(2).",
+                        "Infinite ways to divide a square into 4 parts of equal area by altering compression and expansion along edges."
+                    ]
+                },
+                {
+                    "id": "20.4",
+                    "title": "Area of a Triangle",
+                    "definition": "The area of a triangle is half the area of the rectangle formed by the same base and height (altitude).",
+                    "formulae": [
+                        "Area of a triangle = 1/2 \u00d7 base \u00d7 height"
+                    ],
+                    "examples": [
+                        "The diagonal of a rectangle divides it into two congruent triangles of equal area.",
+                        "If a rectangle has area 28 cm\u00b2, each triangle formed by its diagonal has area 14 cm\u00b2.",
+                        "\u0394XDC and \u0394YDC have equal area because their altitudes are equal to the height of rectangle ABCD."
+                    ]
+                },
+                {
+                    "id": "20.5",
+                    "title": "Height and Base of a Triangle",
+                    "definition": "The area formula (1/2 \u00d7 b \u00d7 h) holds for all triangles. Any side can be a base, and the height is the perpendicular distance from the opposite vertex to that base.",
+                    "formulae": [],
+                    "examples": [
+                        "In \u0394ABC, if AX=5 and BC=3, Area = 1/2 \u00d7 5 \u00d7 3 = 15/2 sq. units.",
+                        "If the area is 15/2 and the altitude BY is perpendicular to base AC (length 4), then 2 \u00d7 BY = 15/2, so BY = 15/4.",
+                        "Formula holds even when the altitude falls outside the triangle base (using \u0394ADC and \u0394ADB difference logic)."
+                    ]
+                },
+                {
+                    "id": "20.6",
+                    "title": "Median Property and Equal Areas",
+                    "definition": "In any triangle, the line joining a vertex to the midpoint of its opposite side (the median) divides the triangle into two triangles of equal areas.",
+                    "formulae": [],
+                    "examples": [
+                        "Triangles 1 and 2 formed by a median have the same altitude and equal bases (since midpoint bisects), hence equal areas.",
+                        "The four triangles obtained by drawing the diagonals of a rectangle have equal areas because they have equal altitude-base pairs."
+                    ]
+                },
+                {
+                    "id": "20.7",
+                    "title": "Triangles between Parallel Lines",
+                    "definition": "All triangles that share a common base and have their third vertex on a line parallel to that base have the same height and, therefore, equal areas.",
+                    "formulae": [],
+                    "examples": [
+                        "If line l is parallel to BC, any triangle \u0394ABC with A on l has the same area regardless of its position on the line.",
+                        " AXDC and \u0394YBC have equal area when between identical parallel constraints."
+                    ]
+                },
+                {
+                    "id": "20.8",
+                    "title": "Minimum Perimeter Triangle",
+                    "definition": "Among all triangles with the same base and equal area, the triangle with the minimum perimeter is the isosceles triangle (where the vertex lies on the perpendicular bisector of the base).",
+                    "formulae": [],
+                    "examples": [
+                        "Shortest path puzzle: Finding the path from house to river to tank using mirror/reflection logic.",
+                        "Shortest possible path is a straight line segment after reflection of one point across the mirror-line l."
+                    ]
+                },
+                {
+                    "id": "20.9",
+                    "title": "Geometry of Shulba-Sutras",
+                    "definition": "Ancient Indian geometric texts (dealing with altar construction) that solve transformation problems, such as changing a shape into another of equal area.",
+                    "formulae": [],
+                    "examples": [
+                        "Method to transform a rectangle into a triangle of equal area.",
+                        "Method to transform a triangle into a rectangle of equal area via dissection.",
+                        "Solutions for exact prescribed shapes and areas in ancient altar building."
+                    ]
+                },
+                {
+                    "id": "20.10",
+                    "title": "Area of any Polygon",
+                    "definition": "The area of any polygon (quadrilateral, pentagon, hexagon, etc.) can be evaluated by dividing it into triangles (triangulation) and summing their individual areas.",
+                    "formulae": [
+                        "Area of Quadrilateral = Area(\u03941) + Area(\u03942)"
+                    ],
+                    "examples": [
+                        "Area of quadrilateral ABCD given AC = 22 cm, BM = 3 cm, and DN = 3 cm: (1/2 \u00d7 22 \u00d7 3) + (1/2 \u00d7 22 \u00d7 3) = 66 cm\u00b2.",
+                        "Finding the area of a regular hexagon by dividing it into a trapezium, a rhombus, and a triangle."
+                    ]
+                },
+                {
+                    "id": "20.11",
+                    "title": "Area of a Parallelogram",
+                    "definition": "A parallelogram can be converted into a rectangle of equal area by dissection (cutting and rearranging). Its area is the product of its base and its corresponding height.",
+                    "formulae": [
+                        "Area of a parallelogram = base \u00d7 height"
+                    ],
+                    "examples": [
+                        "Dissecting along AX \u22a5 CD and fitting \u0394AXD onto the other side to complete a rectangle.",
+                        "If a rectangle and a parallelogram have side lengths 5 cm and 4 cm, the rectangle has the greater area because its height is the full side length."
+                    ]
+                },
+                {
+                    "id": "20.12",
+                    "title": "Area of a Rhombus",
+                    "definition": "A rhombus is a parallelogram with perpendicular diagonals. Its area can be expressed as half the product of its diagonals.",
+                    "formulae": [
+                        "Area of a rhombus = 1/2 \u00d7 product of diagonals = 1/2 \u00d7 d1 \u00d7 d2"
+                    ],
+                    "examples": [
+                        "A rhombus with diagonals 20 cm and 15 cm has area 150 cm\u00b2.",
+                        "Dissecting a rhombus into two isosceles triangles which are then transformed into a joined rectangle WXYZ."
+                    ]
+                },
+                {
+                    "id": "20.13",
+                    "title": "Area of a Trapezium",
+                    "definition": "A trapezium is a quadrilateral with one pair of parallel sides. Its area is half the height times the sum of the parallel sides.",
+                    "formulae": [
+                        "Area of a trapezium = 1/2 \u00d7 height \u00d7 (sum of parallel sides) = 1/2 \u00d7 h \u00d7 (a + b)"
+                    ],
+                    "examples": [
+                        "Finding the area of trapezium WXYZ by constructing altitudes WM and XN to form a rectangle WXNM.",
+                        "Deriving the formula using two identical copies of a trapezium to form a large parallelogram.",
+                        "Breaking a trapezium into a rectangle and two triangles: Area = 1/2hx + ha + 1/2hy."
+                    ]
+                },
+                {
+                    "id": "20.14",
+                    "title": "Standard Units and Area Conversions",
+                    "definition": "Land areas and furniture are measured using both metric and imperial units. Conversions depend on the squares of linear measurements.",
+                    "formulae": [
+                        "1 in = 2.54 cm",
+                        "1 in\u00b2 = 6.4516 cm\u00b2",
+                        "1 acre = 43,560 ft\u00b2"
+                    ],
+                    "examples": [
+                        "Area of an A4 sheet (21 cm \u00d7 29.7 cm) equals 623.7 cm\u00b2.",
+                        "Converting 161.29 cm\u00b2 to in\u00b2: 161.29 / 6.4516 = 25 in\u00b2 (a 5x5 square).",
+                        "Visualizing how many A4 sheets fit on a school tabletop."
+                    ]
+                },
+                {
+                    "id": "20.15",
+                    "title": "Local Units of Measurement",
+                    "definition": "Diverse regions of India use traditional local units for land area measurement in addition to standardized km\u00b2 and acres.",
+                    "formulae": [],
+                    "examples": [
+                        "Bigha, Gaj, Katha, Dhur (North India).",
+                        "Cent, Ankanam (South India).",
+                        "Estimating the size of a village/town relative to the school area."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 21,
+            "title": "EXPLORING SOME GEOMETRIC THEMES",
+            "concepts": [
+                {
+                    "id": "21.1",
+                    "title": "Fractals and Self-Similarity",
+                    "definition": "Fractals are geometric objects that exhibit self-similarity, meaning they show the same or similar patterns over and over again at smaller and smaller scales.",
+                    "formulae": [],
+                    "examples": [
+                        "Natural occurances: Ferns, trees (trunk/limbs/branches), clouds, coastlines, mountains, and lightning.",
+                        "A fern leaf has smaller copies of itself as sub-leaves, which in turn have smaller copies as sub-sub-leaves."
+                    ]
+                },
+                {
+                    "id": "21.2",
+                    "title": "Sierpinski Carpet",
+                    "definition": "A mathematical fractal discovered by Sierpinski, made by iteratively removing the central square from a 3x3 grid of smaller squares.",
+                    "formulae": [
+                        "Remaining squares at step n: Rn = 8^n",
+                        "Holes at step n + 1: Hn+1 = Hn + Rn"
+                    ],
+                    "examples": [
+                        "Step 1: 8 remaining squares, 1 hole.",
+                        "Step 2: 64 remaining squares (8^2), 9 total holes (1 + 8).",
+                        "Step 3: 512 remaining squares (8^3), 73 total holes (1 + 8 + 64)."
+                    ]
+                },
+                {
+                    "id": "21.3",
+                    "title": "Sierpinski Gasket (Triangle)",
+                    "definition": "Also known as the Sierpinski Triangle, this fractal is generated by joining the midpoints of an equilateral triangle and removing the central triangle, repeating on the remaining 3 triangles.",
+                    "formulae": [],
+                    "examples": [
+                        "By joining midpoints, an equilateral triangle is divided into 4 identical equilateral triangles.",
+                        "Area of the region remaining at the nth step if starting area is 1: Area = (3/4)^n."
+                    ]
+                },
+                {
+                    "id": "21.4",
+                    "title": "Koch Snowflake",
+                    "definition": "Named after Helge von Koch (1904), this fractal starts with an equilateral triangle where each side is replaced by a 'bump'-shaped structure through division into 3 parts.",
+                    "formulae": [],
+                    "examples": [
+                        "Each side is divided into 3 equal parts, an equilateral triangle is raised over the middle, and the middle part is removed.",
+                        "Perimeter of the nth step shape if starting sidelength is 1: Perimeter = 3 \u00d7 (4/3)^n."
+                    ]
+                },
+                {
+                    "id": "21.5",
+                    "title": "Fractals in Art and Culture",
+                    "definition": "Fractal patterns have been used for centuries in human-made art, including traditional architecture, wedding blankets, and modern printmaking.",
+                    "formulae": [],
+                    "examples": [
+                        "Indian Temples: Kandariya Mahadev Temple in Khajuraho (1025 C.E.) uses fractal copies of structures.",
+                        "African Cultures: Nigerian Fulani wedding blankets with nested diamond patterns.",
+                        "M.C. Escher: Prints like 'Smaller and Smaller' exploring lizard patterns at diminishing scales."
+                    ]
+                },
+                {
+                    "id": "21.6",
+                    "title": "Visualising Solids and Profiles",
+                    "definition": "Visualising involves imagining the profiles (outlines) of solids from different viewpoints without physical drawing. Different viewpoints can result in different outlines (square, circular, triangular).",
+                    "formulae": [],
+                    "examples": [
+                        "Nikolas Tesla (1856-1943) built entire inventions entirely in his imagination before physical construction.",
+                        "A cylinder has a rectangular profile from the side and a circular profile from above.",
+                        "A cone has a triangular profile from the side and a circular profile from below."
+                    ]
+                },
+                {
+                    "id": "21.7",
+                    "title": "Faces, Edges, and Vertices",
+                    "definition": "The structural components used to describe solids with plane surfaces. Faces are flat boundaries, edges are line segments of face meeting, and vertices are corner points.",
+                    "formulae": [],
+                    "examples": [
+                        "Cube or Cuboid: 6 faces, 12 edges, 8 vertices.",
+                        "If a prism base has n sides: Faces = n+2, Edges = 3n, Vertices = 2n.",
+                        "If a pyramid base has n sides: Faces = n+1, Edges = 2n, Vertices = n+1."
+                    ]
+                },
+                {
+                    "id": "21.8",
+                    "title": "Prisms",
+                    "definition": "A solid with two congruent polygons as opposite faces (bases) and parallelogram-shaped side faces connecting them.",
+                    "formulae": [],
+                    "examples": [
+                        "Triangular Prism: Base is a triangle.",
+                        "Pentagonal and Hexagonal Prisms: Bases are pentagons and hexagons respectively.",
+                        "Prism with 10-sided polygons: 12 faces, 30 edges, 20 vertices."
+                    ]
+                },
+                {
+                    "id": "21.9",
+                    "title": "Pyramids",
+                    "definition": "A solid with a single polygonal base and a point (apex) outside the plane of the base, connected to all vertices of the base.",
+                    "formulae": [],
+                    "examples": [
+                        "Triangular Pyramid: Also called a tetrahedron.",
+                        "Square Pyramid and Pentagonal Pyramid: Based on the shape of their base polygons.",
+                        "Pyramid with 10-sided base: 11 faces, 20 edges, 11 vertices."
+                    ]
+                },
+                {
+                    "id": "21.10",
+                    "title": "Nets of Solids",
+                    "definition": "A net is a 2D flat shape obtained by 'unfolding' a 3D solid onto a plane. It represents the boundary surfaces of the solid.",
+                    "formulae": [],
+                    "examples": [
+                        "Folding paper or cardboard nets to manufacture hollow solids.",
+                        "Practical assembly often requires 'flaps' for sticking faces together, which are not part of the mathematical net."
+                    ]
+                },
+                {
+                    "id": "21.11",
+                    "title": "Nets of a Cube",
+                    "definition": "A cube can be unfolded into multiple 2D shapes. There are exactly 11 such unique structures where one cannot be rotated or flipped into another.",
+                    "formulae": [],
+                    "examples": [
+                        "Visualising how different configurations of 6 squares can fold into a cube.",
+                        "Cutouts and folding tests to verify valid net structures."
+                    ]
+                },
+                {
+                    "id": "21.12",
+                    "title": "Nets of Complex Solids",
+                    "definition": "Different mathematical solids have specific numbers of unique nets. A sphere, however, has no perfect net that can wrap around it without wrinkles.",
+                    "formulae": [],
+                    "examples": [
+                        "Regular Tetrahedron: 2 possible nets.",
+                        "Octahedron (two square pyramids joined): 11 possible nets.",
+                        "Dodecahedron (pentagon faces): 43,380 possible nets."
+                    ]
+                },
+                {
+                    "id": "21.13",
+                    "title": "Shortest Paths on a Surface",
+                    "definition": "The shortest path between two points on the surface of a solid (like a cuboid) is found by unfolding the solid as a net and finding the straight line distance. This allows applying the Baudhayana Theorem on a flat surface.",
+                    "formulae": [
+                        "Baudhayana Theorem: d^2 = x^2 + y^2"
+                    ],
+                    "examples": [
+                        "Ant and Laddu problem: Shortest path depends on which unfolding allows the straightest line.",
+                        "Calculation: d^2 = 24^2 + 32^2 = 576 + 1024 = 1600; d = 40 cm.",
+                        "Paths that go outside the net are not physically realisable on the cuboid."
+                    ]
+                },
+                {
+                    "id": "21.14",
+                    "title": "Projections and Viewpoints",
+                    "definition": "Representing a solid on a plane by projecting its points perpendicularly. The standard three-projection set (Front, Top, Side) formalises silhouettes from specific viewpoints.",
+                    "formulae": [],
+                    "examples": [
+                        "Vertical Plane (Front View), Horizontal Plane (Top View), Side Plane (Side View).",
+                        "Viewpoint challenge: Visualising a solid with a rectangular profile from one side and circular from another (e.g., a cylinder).",
+                        "Perspective profiles: Trapezium profile from one viewpoint and circular from another."
+                    ]
+                },
+                {
+                    "id": "21.15",
+                    "title": "Shadows as Projections",
+                    "definition": "Shadows cast by perpendicular sunlight are indistinguishable from projections. Parallel lines in an object will always cast parallel shadows, preserving parallelism.",
+                    "formulae": [],
+                    "examples": [
+                        "Parallelogram sunlight shadow: Remains a parallelogram regardless of orientation.",
+                        "Varying the distance between a torch and an object changes shadow size, but the Sun's extreme distance makes shadows indistinguishable from projections."
+                    ]
+                },
+                {
+                    "id": "21.16",
+                    "title": "Isometric Projections and Drawing",
+                    "definition": "An isometric ('equal measure') projection represents a cube balanced on a corner such that all edges appear equal. Projects to a regular hexagon grid.",
+                    "formulae": [],
+                    "examples": [
+                        "Isometric grid axes: Height (|), Depth (/), and Length (\\).",
+                        "Drawing Tetris shapes (arrangements of four cubes) in different orientations along the principal axes.",
+                        "Impossible Triangle: An optical illusion that can be recreated on an isometric grid but is not physically realisable as a 3D model of cubes."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 22,
+            "title": "FRACTIONS IN DISGUISE",
+            "concepts": [
+                {
+                    "id": "22.1",
+                    "title": "Fractions as Percentages",
+                    "definition": "The word 'per cent' is derived from the Latin phrase 'per centum', meaning 'by the hundred' or 'out of hundred'. Percentages are simply fractions where the denominator is 100.",
+                    "formulae": [
+                        "z% = z / 100"
+                    ],
+                    "examples": [
+                        "25 per cent (25%) means 25 out of every 100.",
+                        "50% of a quantity S is (50/100) \u00d7 S = 1/2 S."
+                    ]
+                },
+                {
+                    "id": "22.2",
+                    "title": "Expressing Fractions as Percentages",
+                    "definition": "To express a fraction as a percentage, we find its equivalent fraction with 100 as the denominator or simply multiply the fraction by 100.",
+                    "formulae": [],
+                    "examples": [
+                        "Surya's paint: 3/4 = (3 \u00d7 25) / (4 \u00d7 25) = 75/100 = 75%.",
+                        "2/5 = (2/5) \u00d7 100 = 40%."
+                    ]
+                },
+                {
+                    "id": "22.3",
+                    "title": "Percentages for Comparison",
+                    "definition": "Percentages provide a standard base of 100, making it easy to compare ratios or proportions even when the original totals (wholes) are different.",
+                    "formulae": [],
+                    "examples": [
+                        "Biscuit Variety 1 (9/34 sugar) vs Variety 2 (13/45 sugar).",
+                        "Expressed as 26.47% vs 28.88%, it is immediately clear Variety 2 is more sugary."
+                    ]
+                },
+                {
+                    "id": "22.4",
+                    "title": "Percentages Around Us",
+                    "definition": "Percentages are widely used to describe proportions in life, science, and the world population.",
+                    "formulae": [],
+                    "examples": [
+                        "Human body: About 60% water by weight.",
+                        "Ice cream: About 30-50% air by volume.",
+                        "Solar System mass: About 99.86% is contained in the Sun."
+                    ]
+                },
+                {
+                    "id": "22.5",
+                    "title": "Percentage of a Quantity",
+                    "definition": "To find the value representing a certain percentage of a known quantity, we multiply the quantity by the percentage (as a fraction or decimal).",
+                    "formulae": [
+                        "y% of x = (y / 100) \u00d7 x"
+                    ],
+                    "examples": [
+                        "Madhu ate 120 g of biscuits with 25% sugar: (25/100) \u00d7 120 = 30 g of sugar.",
+                        "Madhav ate 95 g of biscuits with 35% sugar: (35/100) \u00d7 95 = 33.25 g of sugar."
+                    ]
+                },
+                {
+                    "id": "22.6",
+                    "title": "Mental Computation of Percentages",
+                    "definition": "Quick calculations using relationships between base percentages like 10%, 20%, 5%, and 25%.",
+                    "formulae": [],
+                    "examples": [
+                        "20% of a value is double 10% of that value.",
+                        "15% of a value can be found by adding 10% and 5% (half of 10%) of the value.",
+                        "25% of a quantity (a quarter) is the same as dividing the value by 4."
+                    ]
+                },
+                {
+                    "id": "22.7",
+                    "title": "The FDP Trio: Fractions, Decimals, Percentages",
+                    "definition": "A trio representing the same proportion in three different notations. Each can be converted to the other seamlessly.",
+                    "formulae": [],
+                    "examples": [
+                        "50% = 50/100 = 1/2 = 0.5.",
+                        "Multiplying by 0.8 is the same as finding 80% or 4/5th of a value."
+                    ]
+                },
+                {
+                    "id": "22.8",
+                    "title": "Ratio to Percentage Conversion",
+                    "definition": "A ratio can be converted to a fraction by considering the parts relative to the total sum of parts, and then to a percentage.",
+                    "formulae": [],
+                    "examples": [
+                        "Millet to water ratio 2:7: Millet is 2/9 of the mixture.",
+                        "Percentage of millet = (2/9) \u00d7 100 = 22.22%. Percentage of water = 77.78%."
+                    ]
+                },
+                {
+                    "id": "22.9",
+                    "title": "Percentages Greater than 100",
+                    "definition": "Used when a value exceeds its original whole or target. 100% represents the whole, while values above 100% indicate growth or surplus.",
+                    "formulae": [],
+                    "examples": [
+                        "Sales of 6000 against a 5000 target: (6000/5000) \u00d7 100 = 120% target achieved.",
+                        "Harvest increase: 650 kg this year vs 260 kg last year = (650/260) \u00d7 100 = 250% of last year."
+                    ]
+                },
+                {
+                    "id": "22.10",
+                    "title": "Percentage Increase and Decrease",
+                    "definition": "A way to describe the rate of change in quantities such as price, population, or footfall relative to the original value.",
+                    "formulae": [
+                        "Percentage Change = (Change / Original Value) \u00d7 100"
+                    ],
+                    "examples": [
+                        "Tomato price: From 30 to 42 in 3 years is a (12/30) \u00d7 100 = 40% increase.",
+                        "Theater footfall: From 160 to 100 is a (60/160) \u00d7 100 = 37.5% decrease."
+                    ]
+                },
+                {
+                    "id": "22.11",
+                    "title": "Profit and Loss Terms",
+                    "definition": "Key labels used in trade: Cost Price (CP) is the purchase price; Selling Price (SP) is the amount received from customers; Marked Price (MP) is the quoted or MRP price.",
+                    "formulae": [
+                        "Profit = SP - CP (if SP > CP)",
+                        "Loss = CP - SP (if CP > SP)"
+                    ],
+                    "examples": [
+                        "Sweater retail: Wholesale CP = 300, MP = 480, SP = 430. Profit = 430 - 300 = 130."
+                    ]
+                },
+                {
+                    "id": "22.12",
+                    "title": "Percentage Profit and Loss",
+                    "definition": "Profit or loss expressed as a percentage, almost always calculated with respect to the Cost Price (100% base).",
+                    "formulae": [
+                        "Percentage Profit = (Profit / CP) \u00d7 100",
+                        "Percentage Loss = (Loss / CP) \u00d7 100"
+                    ],
+                    "examples": [
+                        "Kishanlal: (130/300) \u00d7 100 = 43.3% profit.",
+                        "Raghu: Rice CP 350, SP 300. (50/350) \u00d7 100 = 14.28% loss."
+                    ]
+                },
+                {
+                    "id": "22.13",
+                    "title": "Gross Profit vs Net Profit",
+                    "definition": "Gross profit is the difference between SP and the purchase cost of goods. Net profit is what remains after deducting other operational expenses (transport, salary, electricity, etc.) from revenue.",
+                    "formulae": [],
+                    "examples": [
+                        "Gross Profit 32,000 - Expenses 8,000 = Net Profit 24,000.",
+                        "Net profit percentage is calculated relative to the overall monthly revenue."
+                    ]
+                },
+                {
+                    "id": "22.14",
+                    "title": "Goods and Services Tax (GST)",
+                    "definition": "Tax specifies as a percentage added to the subtotal amount of a sale. It can include Central GST (CGST) and State GST (SGST).",
+                    "formulae": [],
+                    "examples": [
+                        "CGST 9% and SGST 9% on a 450 bulb bill totals 18% tax (81.00), making the final amount 531."
+                    ]
+                },
+                {
+                    "id": "22.15",
+                    "title": "Growth and Simple Interest",
+                    "definition": "Interest gained on a principal amount (P) for a fixed period (t) at a rate (r) where the principal remains the same for all terms.",
+                    "formulae": [
+                        "Interest = P \u00d7 r \u00d7 t",
+                        "Total Amount (A) = P + P \u00d7 r \u00d7 t = P(1 + rt)"
+                    ],
+                    "examples": [
+                        "Investing 6000 at 10% p.a. for 3 years: 6000 + 1800 = 7800 total amount.",
+                        "Interest for 1 term: P \u00d7 r; Interest for t terms: P \u00d7 r \u00d7 t."
+                    ]
+                },
+                {
+                    "id": "22.16",
+                    "title": "Compounding and Compound Interest",
+                    "definition": "Growth where interest gained in each term is added back to the principal for the subsequent period. This results in exponential growth.",
+                    "formulae": [
+                        "Total Amount (A) = P(1 + r)^t"
+                    ],
+                    "examples": [
+                        "Investing 6000 at 10% p.a. for 3 years: 6000 \u00d7 (1.1)^3 = 6000 \u00d7 1.331 = 7986.",
+                        "The percentage gain over 3 years is 33.1% compared to 30% without compounding."
+                    ]
+                },
+                {
+                    "id": "22.17",
+                    "title": "Depreciation",
+                    "definition": "The reduction of financial value of items or materials over time due to age and usage.",
+                    "formulae": [],
+                    "examples": [
+                        "TV bought at 21,000 depreciates 5%: Value after 1 year = 21,000 - 1050 = 19,950.",
+                        "Population decline: Reducing 10% every decade means population is 0.9 times current each decade."
+                    ]
+                },
+                {
+                    "id": "22.18",
+                    "title": "Successive and Symmetric Percentages",
+                    "definition": "Complex percentage properties including compound discounts and the commutative property of percentage multiplication.",
+                    "formulae": [
+                        "x% of y = y% of x"
+                    ],
+                    "examples": [
+                        "Symmetry: 5% of 40 = 2; 40% of 5 = 2. Also 25% of 12 = 3; 12% of 25 = 3.",
+                        "Successive discounts: '30% + 20% off' means applying 30% first, then 20% on the reduced price (not 50% off)."
+                    ]
+                }
+            ]
         }
     ]
 }

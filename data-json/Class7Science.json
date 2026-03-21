@@ -28,21 +28,22 @@
                 {
                     "id": "1.3",
                     "title": "Photosynthesis",
-                    "definition": "Photosynthesis is the process by which green plants prepare food using sunlight, carbon dioxide, water and chlorophyll, releasing oxygen.",
+                    "definition": "Photosynthesis is the process by which green plants prepare food (glucose) using sunlight, carbon dioxide, water and chlorophyll, releasing oxygen. The produced glucose serves as an instant source of energy and is later converted into starch for storage.",
                     "formulae": [
-                        "carbon dioxide + water → (sunlight, chlorophyll) → carbohydrate (food) + oxygen"
+                        "Sunlight + Carbon dioxide + Water → (Chlorophyll) → Glucose + Oxygen"
                     ],
                     "examples": [
-                        "A plant kept in the dark for many days becomes pale and weak because it cannot photosynthesise properly."
+                        "A plant kept in the dark for many days becomes pale and weak because it cannot photosynthesise properly and exhausts its stored starch.",
+                        "If one half of a leaf is kept in a bottle containing caustic soda (which absorbs CO2), that part fails the starch test, proving CO2 is essential for photosynthesis."
                     ]
                 },
                 {
                     "id": "1.4",
                     "title": "Stomata and Chlorophyll",
-                    "definition": "Stomata are tiny pores on the leaf surface that allow entry of carbon dioxide and exit of oxygen and water vapour. Chlorophyll is the green pigment in leaves that absorbs sunlight for photosynthesis.",
+                    "definition": "Stomata are tiny pores on the leaf surface through which gases like carbon dioxide and oxygen are exchanged during photosynthesis and respiration. Chlorophyll is the green pigment in leaves that absorbs sunlight and is essential for photosynthesis.",
                     "formulae": [],
                     "examples": [
-                        "Under a simple microscope the underside of a leaf shows many stomata."
+                        "Under a microscope, the lower surface of a rhoeo leaf shows many stomata surrounded by guard cells."
                     ]
                 },
                 {
@@ -62,6 +63,53 @@
                     "examples": [
                         "Pulse crops often have root nodules containing Rhizobium bacteria that fix nitrogen."
                     ]
+                },
+                {
+                    "id": "1.7",
+                    "title": "Transport of Water and Minerals (Xylem)",
+                    "definition": "Water and dissolved minerals present in the soil are taken up by the roots and transported to all parts of the plant through thin tube-like structures called the xylem.",
+                    "formulae": [],
+                    "examples": [
+                        "If a twig is placed in red-coloured water, the red colour eventually appears in the stem, leaves, and flowers, indicating transport through the xylem."
+                    ]
+                },
+                {
+                    "id": "1.8",
+                    "title": "Transport of Food (Phloem)",
+                    "definition": "The food prepared by leaves via photosynthesis is transported to all parts of the plant, including seeds and roots for storage, through a set of thin tube-like structures called the phloem.",
+                    "formulae": [],
+                    "examples": [
+                        "Food produced in the 'food factories' of leaves is moved to the roots of a potato plant to be stored as starch."
+                    ]
+                },
+                {
+                    "id": "1.9",
+                    "title": "Respiration in Plants",
+                    "definition": "Respiration is the process in which glucose is broken down in the presence of oxygen within the cells to release carbon dioxide, water, and energy used for growth and development.",
+                    "formulae": [
+                        "Glucose + Oxygen → Carbon dioxide + Water + Energy"
+                    ],
+                    "examples": [
+                        "Soaked moong bean seeds kept in a closed flask release carbon dioxide during respiration, which can be confirmed by the lime water test."
+                    ]
+                },
+                {
+                    "id": "1.10",
+                    "title": "Starch Test (Iodine Test)",
+                    "definition": "The iodine test is used to detect the presence of starch in leaves and other plant parts; a blue-black colour change when iodine solution is added indicates that starch is present.",
+                    "formulae": [],
+                    "examples": [
+                        "A green leaf decolourised in alcohol turns blue-black when treated with iodine, confirming the presence of starch produced during photosynthesis."
+                    ]
+                },
+                {
+                    "id": "1.11",
+                    "title": "Photosynthesis in Non-Green Leaves",
+                    "definition": "Many plants have leaves that appear red, violet, or brown; these leaves still contain chlorophyll and perform photosynthesis, but the green colour is hidden by large amounts of other coloured pigments.",
+                    "formulae": [],
+                    "examples": [
+                        "Iodine tests on red or violet Coleus leaves show the presence of starch, proving that they also perform photosynthesis."
+                    ]
                 }
             ]
         },
@@ -70,40 +118,151 @@
             "title": "Nutrition in Animals",
             "concepts": [
                 {
-                    "id": "2.1",
-                    "title": "Steps of Nutrition in Humans",
-                    "definition": "Human nutrition involves ingestion, digestion, absorption, assimilation and egestion of food.",
+                    "id": "2.0",
+                    "title": "Life Processes",
+                    "definition": "Life processes are the essential functions performed by living beings to survive, including nutrition, respiration, circulation, excretion, and reproduction.",
                     "formulae": [],
                     "examples": [
-                        "Chewing chapati in the mouth, digestion in stomach and small intestine, absorption into blood and removal of undigested matter as faeces."
+                        "Animals obtain energy from food through nutrition and respiration to maintain their life processes."
+                    ]
+                },
+                {
+                    "id": "2.1",
+                    "title": "Steps of Nutrition in Animals",
+                    "definition": "Animal nutrition involves the breakdown of complex food components (carbohydrates, proteins, fats) into simpler forms through steps including ingestion, digestion, absorption, transport, and egestion.",
+                    "formulae": [],
+                    "examples": [
+                        "Bees suck nectar from flowers (ingestion), while aquatic animals may filter tiny food particles floating nearby."
                     ]
                 },
                 {
                     "id": "2.2",
                     "title": "Human Digestive System",
-                    "definition": "The digestive system consists of mouth, oesophagus, stomach, small intestine, large intestine, rectum and anus, along with glands like liver and pancreas.",
+                    "definition": "The digestive system consists of a long alimentary canal starting from the mouth (buccal cavity), through the oesophagus, stomach, small intestine, large intestine, and ending at the anus, along with glands like the liver and pancreas.",
                     "formulae": [],
                     "examples": [
-                        "Bile from the liver helps in digestion and absorption of fats in the small intestine."
+                        "The stomach churning food with acid and the liver secreting bile are key parts of the human digestive process."
                     ]
                 },
                 {
                     "id": "2.3",
-                    "title": "Teeth and Their Functions",
-                    "definition": "Incisors cut food, canines tear food, and premolars and molars grind and chew food; milk teeth in children are replaced by permanent teeth.",
+                    "title": "Teeth and Mechanical Digestion",
+                    "definition": "Digestion starts with mechanical breakdown where teeth (incisors, canines, premolars, and molars) crush and chew food into smaller pieces, assisted by saliva which moistens and begins starch digestion.",
                     "formulae": [],
                     "examples": [
-                        "Biting an apple mainly uses incisors, while chewing rice uses premolars and molars."
+                        "Chewing starchy food like chapati or rice thoroughly causes it to taste sweet as saliva breaks down the starch into sugars."
                     ]
                 },
                 {
                     "id": "2.4",
-                    "title": "Digestion in Other Animals",
-                    "definition": "Ruminants chew cud and have a special stomach for digesting grass, while unicellular organisms like Amoeba use pseudopodia to engulf and digest food.",
+                    "title": "Stomach and Small Intestine Functions",
+                    "definition": "The stomach uses acid to kill bacteria and digestive juices to break down proteins. The small intestine, the longest part (6m), receives bile from the liver and pancreatic juice to complete the digestion of fats, proteins, and carbohydrates.",
                     "formulae": [],
                     "examples": [
-                        "A cow appears to keep chewing even when not eating fresh grass because it is chewing cud.",
-                        "Amoeba forms a food vacuole around engulfed food where digestion occurs."
+                        "Bile neutralises stomach acids and breaks down fats into tiny droplets for easier digestion in the small intestine."
+                    ]
+                },
+                {
+                    "id": "2.5",
+                    "title": "Absorption in Small Intestine (Villi)",
+                    "definition": "Digested nutrients are absorbed into the blood through thousands of finger-like projections called villi in the small intestine, which provide a large surface area for efficient absorption.",
+                    "formulae": [],
+                    "examples": [
+                        "Villi allow nutrients like glucose and amino acids to pass directly into the blood vessels for transport across the body."
+                    ]
+                },
+                {
+                    "id": "2.6",
+                    "title": "Large Intestine and Egestion",
+                    "definition": "The large intestine is wider but shorter (1.5m) than the small intestine; its main function is to absorb water and salts from undigested food and store the semi-solid waste for egestion via the anus.",
+                    "formulae": [],
+                    "examples": [
+                        "Fibre-rich foods help the large intestine function properly by making stool easier to pass through the rectum."
+                    ]
+                },
+                {
+                    "id": "2.7",
+                    "title": "Digestion in Ruminants and Birds",
+                    "definition": "Ruminants like cows partially digest food (cud) and bring it back to the mouth for further chewing. Birds, lacking teeth, use a muscular gizzard often containing grit (stones) to grind their food.",
+                    "formulae": [],
+                    "examples": [
+                        "Cows spend many hours daily in 'rumination' to digest tough grass. Gizzard stones help birds physically break down hard seeds."
+                    ]
+                },
+                {
+                    "id": "2.8",
+                    "title": "Digestion in Unicellular Organisms (Amoeba)",
+                    "definition": "Unicellular organisms like Amoeba use pseudopodia (false feet) to engulf food particles, forming a food vacuole where digestive juices break down the food.",
+                    "formulae": [],
+                    "examples": [
+                        "Amoeba senses food, traps it with pseudopodia, and absorbs digested nutrients directly into its single cell."
+                    ]
+                },
+                {
+                    "id": "2.9",
+                    "title": "Human Respiratory System",
+                    "definition": "The respiratory system includes nostrils (for inhalation/exhalation), nasal passages with filtering hair/mucus, the windpipe, and the lungs which contain balloon-like sacs called alveoli for gas exchange.",
+                    "formulae": [],
+                    "examples": [
+                        "Inhaling through the nose allows hair and mucus to trap dust and infectious particles, protecting the lungs."
+                    ]
+                },
+                {
+                    "id": "2.10",
+                    "title": "Mechanism of Breathing",
+                    "definition": "Breathing is a physical process where the rib cage and a dome-shaped muscle called the diaphragm move to change chest volume, causing air to move into (inhalation) or out of (exhalation) the lungs.",
+                    "formulae": [],
+                    "examples": [
+                        "During inhalation, the diaphragm moves down and the ribs move outwards to pull fresh air into the alveoli."
+                    ]
+                },
+                {
+                    "id": "2.11",
+                    "title": "Respiration in Animals",
+                    "definition": "Respiration is a chemical process inside the body where oxygen is used to break down glucose into carbon dioxide, water, and usable energy. Breathing is the physical process of inhaling and exhaling to supply oxygen and remove carbon dioxide.",
+                    "formulae": [
+                        "Glucose + Oxygen → Carbon dioxide + Water + Energy",
+                        "Inhaled Air: ~21% Oxygen, 0.04% Carbon dioxide",
+                        "Exhaled Air: ~16.4% Oxygen, 4.4% Carbon dioxide"
+                    ],
+                    "examples": [
+                        "Exhaled air contains significantly more carbon dioxide than inhaled air, making it turn lime water milky."
+                    ]
+                },
+                {
+                    "id": "2.12",
+                    "title": "Gas Exchange in Alveoli",
+                    "definition": "Exchange of gases occurs across the thin walls of alveoli in the lungs; oxygen passes into the blood while carbon dioxide from the blood passes into the lungs to be exhaled.",
+                    "formulae": [],
+                    "examples": [
+                        "The enormous surface area of millions of alveoli ensures that the body receives enough oxygen for constant energy production."
+                    ]
+                },
+                {
+                    "id": "2.13",
+                    "title": "Breathing in Fishes and Amphibians",
+                    "definition": "Fish use gills to extract dissolved oxygen from water. Amphibians like frogs use lungs on land and skin for gas exchange in water; earthworms breathe through their moist skin.",
+                    "formulae": [],
+                    "examples": [
+                        "Gills are richly supplied with blood vessels to facilitate efficient gas exchange between water and the circulatory system."
+                    ]
+                },
+                {
+                    "id": "2.14",
+                    "title": "Human Circulatory System",
+                    "definition": "The circulatory system, consisting of the heart, blood, and blood vessels, acts as a transport network moving nutrients, oxygen, and waste products across the body.",
+                    "formulae": [],
+                    "examples": [
+                        "The heart pumps blood continuously to deliver oxygen from the lungs and nutrients from the intestines to every cell in the body."
+                    ]
+                },
+                {
+                    "id": "2.15",
+                    "title": "Movement of Food (Peristalsis)",
+                    "definition": "The walls of the food pipe (oesophagus) and the rest of the alimentary canal gently contract and relax in a wave‑like motion to push food forward through the system.",
+                    "formulae": [],
+                    "examples": [
+                        "Peristalsis occurs throughout the digestive tract, ensuring food moves into the stomach and intestines regardless of body position."
                     ]
                 }
             ]
@@ -189,19 +348,75 @@
                 {
                     "id": "4.4",
                     "title": "Modes of Heat Transfer",
-                    "definition": "Conduction is heat transfer in solids without movement of matter, convection is heat transfer in liquids and gases by movement of particles, and radiation is heat transfer without any medium.",
+                    "definition": "Heat transfer occurs through three processes: conduction (in solids, where particles pass heat to neighbours without moving), convection (in liquids and gases, by actual movement of particles), and radiation (direct transfer without a medium).",
                     "formulae": [],
                     "examples": [
-                        "Metal spoon in hot tea gets hot by conduction, water in a pot heats by convection, and heat from the Sun reaches Earth by radiation."
+                        "Metal spoon in hot tea heats by conduction, water in a pan by convection, and the Sun's heat reaches Earth by radiation."
                     ]
                 },
                 {
                     "id": "4.5",
                     "title": "Conductors and Insulators",
-                    "definition": "Conductors allow heat to pass through easily, while insulators do not allow heat to pass through easily.",
+                    "definition": "Good conductors are materials (like metals) that allow heat to pass through them easily. Poor conductors or insulators (like wood, glass, air, and wool) do not allow heat to pass through them easily.",
                     "formulae": [],
                     "examples": [
-                        "Metal pans are conductors used for cooking, while their plastic or wooden handles act as insulators to protect hands."
+                        "Utensils are made of metals for quick heating, while their handles are made of wood or plastic to prevent heat transfer."
+                    ]
+                },
+                {
+                    "id": "4.6",
+                    "title": "Sea Breeze and Land Breeze",
+                    "definition": "Due to convection, cooler air moves from the sea to land during the day (sea breeze), and from the land to sea at night (land breeze) as land heats and cools faster than water.",
+                    "formulae": [],
+                    "examples": [
+                        "Coastal houses often have windows facing the sea to receive the cooling sea breeze during hot days."
+                    ]
+                },
+                {
+                    "id": "4.7",
+                    "title": "Absorption and Reflection of Heat",
+                    "definition": "All objects radiate heat; dark-coloured surfaces absorb more heat while light-coloured or shiny surfaces reflect most of the heat that falls on them.",
+                    "formulae": [],
+                    "examples": [
+                        "Wearing light-coloured clothes in summer helps stay cool by reflecting sunlight, while dark clothes in winter keep us warm by absorbing heat."
+                    ]
+                },
+                {
+                    "id": "4.8",
+                    "title": "Water Cycle",
+                    "definition": "The continuous movement of water—upward as water vapour (through evaporation and transpiration) and downward through precipitation after it cools and condenses to form clouds—is called the water cycle.",
+                    "formulae": [
+                        "Evaporation + Transpiration → Condensation → Precipitation"
+                    ],
+                    "examples": [
+                        "Heat from the Sun makes evaporation faster on sunny days; the redistribution of water through rain and snow helps replenish rivers and oceans."
+                    ]
+                },
+                {
+                    "id": "4.9",
+                    "title": "Infiltration and Groundwater",
+                    "definition": "Infiltration is the process of surface water seeping through soil and rocks. This water gets stored in the pore spaces beneath the surface as groundwater.",
+                    "formulae": [],
+                    "examples": [
+                        "Rainwater seeps into the ground to recharge groundwater levels, which can then be extracted using wells or handpumps."
+                    ]
+                },
+                {
+                    "id": "4.10",
+                    "title": "Aquifers",
+                    "definition": "Aquifers are underground layers of sediments and rocks that store water in their pore spaces, serving as natural reservoirs for groundwater extraction.",
+                    "formulae": [],
+                    "examples": [
+                        "Drilling bore wells into deep aquifers allows access to stored water even during dry seasons."
+                    ]
+                },
+                {
+                    "id": "4.11",
+                    "title": "Convection in Nature (Bukhari and Smoke)",
+                    "definition": "Convection causes hot air and smoke to expand, become lighter, and rise; this principle is seen in smoke movement and traditional heaters like the Bukhari.",
+                    "formulae": [],
+                    "examples": [
+                        "Smoke from a fireplace rises up because its hot gases are lighter than the surrounding air. In a Bukhari, all three processes of heat transfer (conduction, convection, and radiation) work together to warm the room and cook food."
                     ]
                 }
             ]
@@ -212,40 +427,67 @@
             "concepts": [
                 {
                     "id": "5.1",
-                    "title": "Acids and Bases",
-                    "definition": "Acids taste sour and turn blue litmus red; bases taste bitter, feel soapy and turn red litmus blue.",
+                    "title": "Acidic and Basic Substances",
+                    "definition": "Substances that taste sour tend to contain acids and are acidic in nature (turn blue litmus red). Substances that taste bitter and feel soapy or slippery to touch are generally basic in nature (turn red litmus blue).",
                     "formulae": [],
                     "examples": [
-                        "Lemon juice contains citric acid; baking soda solution is a mild base."
+                        "Lemon juice, vinegar, and amla are acidic; baking soda solution, soap, and lime water are basic."
                     ]
                 },
                 {
                     "id": "5.2",
-                    "title": "Indicators",
-                    "definition": "Indicators are substances that show different colours in acidic and basic solutions, helping to identify them.",
+                    "title": "Acid-Base Indicators",
+                    "definition": "Indicators are natural or synthetic substances that show different colours in acidic and basic solutions. Litmus is a common natural indicator obtained from lichens (association of fungus and alga).",
                     "formulae": [],
                     "examples": [
-                        "Litmus, turmeric and china rose are natural indicators; phenolphthalein is a synthetic indicator."
+                        "Litmus (blue/red), turmeric, red rose extract, china rose, jamun, beetroot, and purple cabbage are natural indicators used to test the nature of substances."
                     ]
                 },
                 {
                     "id": "5.3",
-                    "title": "Neutralisation",
-                    "definition": "Neutralisation is the reaction between an acid and a base to form salt and water, often releasing heat.",
+                    "title": "Neutralisation Reaction",
+                    "definition": "When an acid and a base are mixed in sufficient quantity, they neutralise each other's effect to form salt and water, with the evolution (release) of heat.",
                     "formulae": [
-                        "acid + base → salt + water (+ heat)"
+                        "Acid + Base → Salt + Water + Heat"
                     ],
                     "examples": [
-                        "Hydrochloric acid reacting with sodium hydroxide forms sodium chloride and water."
+                        "Mixing lemon juice with lime water eventually results in a solution that is neither acidic nor basic."
                     ]
                 },
                 {
                     "id": "5.4",
-                    "title": "Uses of Neutralisation",
-                    "definition": "Neutralisation reactions are used to treat indigestion, reduce soil acidity and relieve insect stings.",
+                    "title": "Neutralisation in Daily Life",
+                    "definition": "Neutralisation is used to manage everyday problems like acidic soil (treated with lime), basic soil (treated with organic matter, manure or composted leaves), ant bites, and factory waste.",
                     "formulae": [],
                     "examples": [
-                        "Antacids neutralise excess acid in the stomach; lime is used to reduce acidity of soil; baking soda paste is applied on ant stings."
+                        "Rubbing moist baking soda neutralises the formic acid injected by an ant bite; organic matter releases acids to neutralise basic soil."
+                    ]
+                },
+                {
+                    "id": "5.5",
+                    "title": "Neutral Substances",
+                    "definition": "Substances that are neither acidic nor basic in nature and do not change the colour of either red or blue litmus paper are called neutral substances.",
+                    "formulae": [],
+                    "examples": [
+                        "Sugar solution, salt solution, and tap water are examples of neutral substances."
+                    ]
+                },
+                {
+                    "id": "5.6",
+                    "title": "Natural Indicators (Red Rose and Turmeric)",
+                    "definition": "Red rose extract acts as an indicator by turning red in acidic solutions and green in basic solutions. Turmeric paper turns red in basic solutions but remains yellow in acidic and neutral solutions.",
+                    "formulae": [],
+                    "examples": [
+                        "Soap solution turns turmeric paper red, while lemon juice leaves it yellow; rose extract turns green when mixed with soap."
+                    ]
+                },
+                {
+                    "id": "5.7",
+                    "title": "Olfactory Indicators",
+                    "definition": "Olfactory indicators are substances whose odour changes when mixed with an acidic or basic medium.",
+                    "formulae": [],
+                    "examples": [
+                        "Chopped onions can be used as an olfactory indicator as their smell changes when treated with substances like baking soda solution."
                     ]
                 }
             ]
@@ -257,28 +499,33 @@
                 {
                     "id": "6.1",
                     "title": "Physical Change",
-                    "definition": "A physical change affects only physical properties like state, shape or size and does not produce a new substance; it is often reversible.",
+                    "definition": "A physical change is one in which a substance or object undergoes a change in its physical properties like shape, size, and state, and no new substance is formed.",
                     "formulae": [],
                     "examples": [
-                        "Melting of ice to water and freezing it back to ice is a physical change."
+                        "Melting ice cubes, chopping vegetables, folding paper, inflating/deflating a balloon, and crushing a piece of chalk into powder are all physical changes."
                     ]
                 },
                 {
                     "id": "6.2",
-                    "title": "Chemical Change",
-                    "definition": "A chemical change produces one or more new substances with new properties and is usually irreversible.",
-                    "formulae": [],
+                    "title": "Chemical Change and Chemical Reaction",
+                    "definition": "A chemical change is one in which one or more new substances are formed through a process called a chemical reaction, which can be represented by a chemical equation.",
+                    "formulae": [
+                        "Calcium hydroxide + Carbon dioxide → Calcium carbonate + Water",
+                        "Vinegar + Baking soda → Carbon dioxide + Other substances"
+                    ],
                     "examples": [
-                        "Burning of paper, rusting of iron and curdling of milk are chemical changes."
+                        "Burning paper and mixing baking soda with lemon juice are chemical changes that produce new substances like carbon dioxide."
                     ]
                 },
                 {
                     "id": "6.3",
-                    "title": "Rusting of Iron",
-                    "definition": "Rusting is the formation of reddish‑brown rust on iron when it reacts with oxygen and moisture, which weakens iron objects.",
-                    "formulae": [],
+                    "title": "Rusting",
+                    "definition": "Rusting is a chemical change where iron reacts with oxygen and moisture to form a new brown-coloured substance called rust (iron oxide).",
+                    "formulae": [
+                        "Iron + Oxygen + Water → Iron Oxide (Rust)"
+                    ],
                     "examples": [
-                        "Iron gates kept in the open develop rust; painting prevents rust by stopping contact with air and moisture."
+                        "Iron nails or gates developing a reddish-brown layer when exposed to air and humidity for a long time."
                     ]
                 },
                 {
@@ -288,6 +535,62 @@
                     "formulae": [],
                     "examples": [
                         "Pure copper sulphate crystals can be obtained by crystallising its hot concentrated solution."
+                    ]
+                },
+                {
+                    "id": "6.5",
+                    "title": "Combustion and Combustible Substances",
+                    "definition": "Combustion is a chemical reaction where a substance (combustible substance/fuel) reacts with oxygen to produce heat and/or light.",
+                    "formulae": [
+                        "Magnesium + Oxygen → Magnesium oxide + Heat + Light"
+                    ],
+                    "examples": [
+                        "Burning of magnesium ribbon, wood, or paper are examples of combustion involving chemical changes."
+                    ]
+                },
+                {
+                    "id": "6.6",
+                    "title": "Ignition Temperature and Fire Triangle",
+                    "definition": "The minimum temperature at which a substance catches fire is its ignition temperature. Combustion requires three things (Fire Triangle): fuel, oxygen, and heat/ignition temperature.",
+                    "formulae": [],
+                    "examples": [
+                        "Focusing sunrays with a magnifying glass on a piece of paper heats it to its ignition temperature, causing it to emit smoke and catch fire."
+                    ]
+                },
+                {
+                    "id": "6.7",
+                    "title": "Weathering of Rocks",
+                    "definition": "Weathering refers to the physical and chemical changes that break up large rocks into smaller pieces (sediments), eventually leading to soil formation.",
+                    "formulae": [],
+                    "examples": [
+                        "Iron-rich basalt rocks turning red due to oxidation is a chemical weathering process, while rocks cracking due to freezing water is physical weathering."
+                    ]
+                },
+                {
+                    "id": "6.8",
+                    "title": "Erosion",
+                    "definition": "Erosion is the natural process where rock pebbles, soil, and sediments are broken down and moved from one location to another by forces like wind and flowing water.",
+                    "formulae": [],
+                    "examples": [
+                        "River rocks becoming smoother over time due to constant abrasion by flowing water is a result of erosion."
+                    ]
+                },
+                {
+                    "id": "6.9",
+                    "title": "Bioluminescence and Desirable Changes",
+                    "definition": "Bioluminescence is light production in living organisms (like fireflies) through chemical changes. Desirable changes are those that are useful, like ripening of fruits or making curd.",
+                    "formulae": [],
+                    "examples": [
+                        "Fireflies emitting light in the evening is a natural chemical change; converting food waste into compost is a desirable change."
+                    ]
+                },
+                {
+                    "id": "6.10",
+                    "title": "Burning of a Candle (Dual Changes)",
+                    "definition": "The burning of a candle involves both physical and chemical changes occurring simultaneously.",
+                    "formulae": [],
+                    "examples": [
+                        "Melting of wax and its evaporation are physical changes, while the burning of wax vapour to produce a flame, heat, light, and carbon dioxide is a chemical change."
                     ]
                 }
             ]
@@ -609,62 +912,103 @@
             "concepts": [
                 {
                     "id": "13.1",
-                    "title": "Distance and Time",
-                    "definition": "Distance is the total length of the path travelled by an object and time is the duration of its motion or event.",
+                    "title": "Measurement of Time",
+                    "definition": "Humans track time using events in nature that repeat after definite intervals, such as the rising Sun or phases of the Moon. Early devices include sundials, water clocks, hourglasses, and candle clocks.",
                     "formulae": [],
                     "examples": [
-                        "If you walk from home to school along the road, the length of that route is the distance covered."
+                        "In a sundial, time is determined by the changing position of the shadow cast by the Sun (solar time). The Samrat Yantra in Jaipur is the world's largest stone sundial."
                     ]
                 },
                 {
                     "id": "13.2",
-                    "title": "Motion, Uniform and Non‑uniform Motion",
-                    "definition": "An object is in motion if its position changes with time; in uniform motion it covers equal distances in equal time intervals, while in non‑uniform motion it does not.",
+                    "title": "Uniform and Non-uniform Linear Motion",
+                    "definition": "Uniform linear motion is when an object moves along a straight line with a constant (unchanging) speed. Non-uniform linear motion is when the speed of an object moving along a straight line keeps changing.",
                     "formulae": [],
                     "examples": [
-                        "A car at steady 60 km/h shows uniform motion; a car in city traffic shows non‑uniform motion."
+                        "A train moving at a steady 60 km/h between two stations is in uniform motion; it is in non-uniform motion when it slows down to halt at a station."
                     ]
                 },
                 {
                     "id": "13.3",
                     "title": "Speed",
-                    "definition": "Speed is the distance travelled per unit time and indicates how fast an object moves.",
+                    "definition": "Speed is the total distance covered by an object divided by the total time taken to cover it (distance covered in a unit time).",
                     "formulae": [
-                        "Speed = Distance / Time",
-                        "Distance = Speed × Time",
-                        "Time = Distance / Speed"
+                        "Speed = Total distance covered / Total time taken",
+                        "Total distance covered = Speed × Total time taken",
+                        "Total time taken = Total distance covered / Speed"
                     ],
                     "examples": [
-                        "A car travelling 240 km in 4 hours has speed 240 ÷ 4 = 60 km/h."
+                        "Calculating the speed of a train by using a railway timetable to find the distance and time taken between two stations (Activity 8.4)."
                     ]
                 },
                 {
                     "id": "13.4",
                     "title": "Average Speed",
-                    "definition": "Average speed is the total distance travelled divided by the total time taken when speed is not constant.",
+                    "definition": "The speed calculated using total distance and total time is the average speed, as an object may not travel with the same speed during the entire duration. In daily life, 'speed' is often used for 'average speed'.",
                     "formulae": [
                         "Average speed = Total distance / Total time"
                     ],
                     "examples": [
-                        "If you travel 100 km in 2 hours and 50 km in 1 hour, average speed is 150 ÷ 3 = 50 km/h."
+                        "A marathon runner may speed up or slow down; their overall speed for the race is their average speed."
                     ]
                 },
                 {
                     "id": "13.5",
-                    "title": "Measurement of Time",
-                    "definition": "Clocks, watches and stopwatches are used to measure time intervals accurately in daily life and experiments.",
+                    "title": "Water Clocks and Ghatika‑yantra",
+                    "definition": "Water clocks used the flow of water into or out of a vessel to measure time. In ancient India, the sinking bowl-type water clock was known as the Ghatika‑yantra.",
                     "formulae": [],
                     "examples": [
-                        "A stopwatch is used in a race to measure the time taken by runners."
+                        "A simple water clock can be constructed using a transparent plastic bottle where water drips through a small hole in the cap (Activity 8.1)."
                     ]
                 },
                 {
                     "id": "13.6",
                     "title": "Distance–Time Graphs",
-                    "definition": "In a distance–time graph, distance is plotted on the vertical axis and time on the horizontal axis; the graph’s shape shows how motion changes.",
+                    "definition": "In a distance–time graph, distance is plotted on the vertical axis and time on the horizontal axis; a straight line indicates motion with constant speed.",
                     "formulae": [],
                     "examples": [
-                        "A straight line from the origin in a distance–time graph represents motion with constant speed."
+                        "Plotting the position of a train at fixed intervals to visualize its uniform or non‑uniform motion."
+                    ]
+                },
+                {
+                    "id": "13.7",
+                    "title": "Simple Pendulum and Time Period",
+                    "definition": "A simple pendulum consists of a suspended metallic ball (bob). The time taken for one oscillation (mean position to extreme positions and back) is its time period. The time period depends on the length of the string but not on the bob's mass.",
+                    "formulae": [
+                        "Time Period = Total time taken / Number of oscillations"
+                    ],
+                    "examples": [
+                        "Measuring the time taken for 10 oscillations of a 100 cm string to calculate its time period (Activity 8.2); two pendulums of the same length always have the same time period."
+                    ]
+                },
+                {
+                    "id": "13.8",
+                    "title": "SI Units and Formatting",
+                    "definition": "The SI unit of time is the second (s), and the SI unit of speed is metre/second (m/s). Smaller units include millisecond (one-thousandth of a second) and microsecond (one-millionth of a second).",
+                    "formulae": [
+                        "60 s = 1 min",
+                        "60 min = 1 h"
+                    ],
+                    "examples": [
+                        "Correct formatting: '10 s', '5 m/s'. Symbols are lowercase, singular, and have a space after the number. Avoid incorrect forms like 'sec' or 'hrs'."
+                    ]
+                },
+                {
+                    "id": "13.9",
+                    "title": "Modern Clocks",
+                    "definition": "Modern clocks measure time using periodically repeating processes like vibrations from a quartz crystal (quartz clocks) or atoms (atomic clocks). The pendulum clock was invented in 1656 by Christiaan Huygens.",
+                    "formulae": [],
+                    "examples": [
+                        "Atomic clocks are so precise they lose only one second in millions of years, far surpassing the mechanical clocks of the past."
+                    ]
+                },
+                {
+                    "id": "13.10",
+                    "title": "Speedometer and Odometer",
+                    "definition": "A speedometer displays a vehicle's speed in km/h, while an odometer measures the total distance travelled by the vehicle in kilometres.",
+                    "formulae": [],
+                    "examples": [
+                        "Dashboard instruments in cars and buses help drivers monitor speed and track total distance covered during a trip."
                     ]
                 }
             ]
@@ -675,20 +1019,20 @@
             "concepts": [
                 {
                     "id": "14.1",
-                    "title": "Electric Current and Circuit",
-                    "definition": "Electric current is the flow of electric charge through a conductor in a closed path called an electric circuit.",
+                    "title": "Electrical Circuit and Current",
+                    "definition": "An electrical circuit provides a complete path for electric current to flow. Current flows from the positive to the negative terminal of the source only when the circuit is closed.",
                     "formulae": [],
                     "examples": [
-                        "When a bulb is connected to a cell with wires and the switch is on, current flows and the bulb glows."
+                        "Making a torch lamp glow by connecting it to an electric cell using wires (Activity 3.6)."
                     ]
                 },
                 {
                     "id": "14.2",
-                    "title": "Circuit Symbols and Diagrams",
-                    "definition": "Standard symbols for components like cell, battery, switch and bulb are used to draw simple and clear circuit diagrams.",
+                    "title": "Circuit Symbols and Standardisation",
+                    "definition": "Standard symbols are used for circuit diagrams. In a cell symbol, the long line represents the positive terminal and the short thick line represents the negative terminal. Organisations like IEC, ANSI, and IEEE create these standards.",
                     "formulae": [],
                     "examples": [
-                        "Two or more cells drawn end to end with proper symbols represent a battery in a circuit diagram."
+                        "Drawing a circuit diagram to represent a real-world setup with a cell, switch, and lamp."
                     ]
                 },
                 {
@@ -727,6 +1071,51 @@
                     "examples": [
                         "In case of a short circuit at home, the fuse wire melts and switches off the supply to protect appliances."
                     ]
+                },
+                {
+                    "id": "14.7",
+                    "title": "Electric Cell and Battery",
+                    "definition": "An electric cell is a portable source of electrical energy with two terminals: positive (metal cap) and negative (metal disc). Batteries include cylindrical, button, and rechargeable types, made by connecting cells positive-to-negative.",
+                    "formulae": [],
+                    "examples": [
+                        "Cylindrical batteries for torches; button cells for watches and hearing aids; rechargeable batteries for mobile phones and laptops."
+                    ]
+                },
+                {
+                    "id": "14.8",
+                    "title": "Incandescent and LED Lamps",
+                    "definition": "Incandescent lamps use a glowing filament; if the filament is broken (fused), current stops flowing. LEDs have no filament and allow current in only one direction (longer wire is positive terminal).",
+                    "formulae": [],
+                    "examples": [
+                        "Connecting the longer wire of an LED to the positive terminal of a battery (Activity 3.7); interchanging wires prevents it from glowing."
+                    ]
+                },
+                {
+                    "id": "14.9",
+                    "title": "Electrical Switch (ON and OFF Positions)",
+                    "definition": "A switch either completes (ON position/closed circuit) or breaks (OFF position/open circuit) the path for current. It can be placed anywhere in a circuit.",
+                    "formulae": [],
+                    "examples": [
+                        "A switch closes the gap to allow current from the cell's positive to negative terminal (Activity 3.9)."
+                    ]
+                },
+                {
+                    "id": "14.10",
+                    "title": "Electrical Conductors and Insulators",
+                    "definition": "Conductors allow current flow easily (Silver, Copper, and Gold are the best). Insulators (plastic, rubber, ceramics, wood) do not allow current to pass and protect from electric shocks.",
+                    "formulae": [],
+                    "examples": [
+                        "Copper is used for wires due to cost and supply; insulators like ceramics are used for plug tops and switch covers."
+                    ]
+                },
+                {
+                    "id": "14.11",
+                    "title": "Direct Current (DC) and Alternating Current (AC)",
+                    "definition": "Direct Current (DC) is the type of electricity from cells/batteries for small devices. Alternating Current (AC) is the type from power plants that comes to wall sockets.",
+                    "formulae": [],
+                    "examples": [
+                        "A torch runs on DC from its cells, while a refrigerator runs on AC from the wall socket."
+                    ]
                 }
             ]
         },
@@ -736,11 +1125,11 @@
             "concepts": [
                 {
                     "id": "15.1",
-                    "title": "Rectilinear Propagation and Shadows",
-                    "definition": "Light travels in straight lines in a given medium, and shadows are formed when an opaque object blocks light.",
+                    "title": "Sources of Light: Luminous and Non‑luminous",
+                    "definition": "Objects that emit their own light (Sun, stars, fireflies) are luminous. Objects that do not emit light (Moon, mirrors) but reflect it from other sources are non‑luminous.",
                     "formulae": [],
                     "examples": [
-                        "An object placed in front of a torch forms a sharp shadow on a screen."
+                        "The Sun is the main natural source of light; certain animals like fireflies use flashes of light to communicate."
                     ]
                 },
                 {
@@ -755,10 +1144,10 @@
                 {
                     "id": "15.3",
                     "title": "Reflection of Light",
-                    "definition": "Reflection is the bouncing back of light when it falls on a surface and does not pass through it.",
+                    "definition": "Reflection is the change in the direction of light when it falls on a shiny surface or a mirror.",
                     "formulae": [],
                     "examples": [
-                        "A plane mirror reflects light to form images."
+                        "Shining a torch on a mirror and using it to redirect a thin beam of light along a paper (Activity 11.6)."
                     ]
                 },
                 {
@@ -775,10 +1164,64 @@
                 {
                     "id": "15.5",
                     "title": "Images in Plane Mirrors",
-                    "definition": "A plane mirror forms a virtual, erect image of the same size as the object, appearing behind the mirror at the same distance as the object is in front, with left–right reversal.",
+                    "definition": "A plane mirror forms an erect image of the same size as the object, at the same distance behind the mirror, which cannot be obtained on a screen and is laterally inverted.",
                     "formulae": [],
                     "examples": [
-                        "Your right hand appears as left in the plane mirror due to lateral inversion."
+                        "The word 'AMBULANCE' is written laterally inverted (Activity 11.8). Kerala's Aranmula Kannadi is a unique metal-surface mirror that reflects very clearly."
+                    ]
+                },
+                {
+                    "id": "15.6",
+                    "title": "Rectilinear Propagation of Light",
+                    "definition": "Light travels in a straight line path under normal conditions. It can only be seen through a straight channel or pipe.",
+                    "formulae": [],
+                    "examples": [
+                        "A candle flame can be seen through a straight pipe but is invisible when the pipe is bent (Activity 11.2)."
+                    ]
+                },
+                {
+                    "id": "15.7",
+                    "title": "Shadow Formation and Properties",
+                    "definition": "A shadow is a dark patch formed when an opaque object blocks light. To observe a shadow, a light source, an opaque object, and a screen (like a wall or ground) are required.",
+                    "formulae": [],
+                    "examples": [
+                        "The shape and size of a shadow change as the object is moved closer to or further from the light source (Activity 11.4)."
+                    ]
+                },
+                {
+                    "id": "15.8",
+                    "title": "Shadow Puppetry",
+                    "definition": "Shadow puppetry is a cultural art form where flat cut-out figures are moved between a light source and a screen to create life-like characters.",
+                    "formulae": [],
+                    "examples": [
+                        "Traditional styles include Charma Bahuli Natya (Maharashtra), Tholu Bommalata (Andhra Pradesh), and Ravana Chhaya (Odisha)."
+                    ]
+                },
+                {
+                    "id": "15.9",
+                    "title": "Pinhole Camera",
+                    "definition": "A pinhole camera is a simple light-proof box with a tiny hole that forms an upside down (inverted) image of an object on a screen.",
+                    "formulae": [],
+                    "examples": [
+                        "Constructing a sliding box camera to view trees or buildings in bright sunlight (Activity 11.10)."
+                    ]
+                },
+                {
+                    "id": "15.10",
+                    "title": "Periscope and Kaleidoscope",
+                    "definition": "Optical instruments based on reflection. A periscope uses two mirrors to see over obstacles; a kaleidoscope uses three mirrors to form beautiful patterns.",
+                    "formulae": [],
+                    "examples": [
+                        "Submarines use periscopes to see above water; designers use kaleidoscopes for pattern ideas."
+                    ]
+                },
+                {
+                    "id": "15.11",
+                    "title": "Speed of Light",
+                    "definition": "Light travels extremely fast. For instance, sunlight takes approximately 8 minutes and 20 seconds to reach the Earth.",
+                    "formulae": [],
+                    "examples": [
+                        "If the Sun stopped emitting light, we would only notice it after about 8 minutes and 20 seconds."
                     ]
                 }
             ]
@@ -906,6 +1349,447 @@
                     "formulae": [],
                     "examples": [
                         "Avoid pouring used cooking oil or medicines into the sink to reduce water pollution."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 19,
+            "title": "The World of Metals and Non-metals",
+            "concepts": [
+                {
+                    "id": "19.1",
+                    "title": "Metals and Metallic Lustre",
+                    "definition": "Metals are materials that are generally hard and have a shiny appearance known as metallic lustre. They are used to make items of daily use.",
+                    "formulae": [],
+                    "examples": [
+                        "Ironsmiths use iron to make flat pans (tawas), buckets (baltis), tongs (chimtas), and farming tools like spades (phawras)."
+                    ]
+                },
+                {
+                    "id": "19.2",
+                    "title": "Malleability",
+                    "definition": "Malleability is the property by which materials can be beaten into thin sheets without breaking. Gold and silver are the most malleable metals.",
+                    "formulae": [],
+                    "examples": [
+                        "Beating an iron nail or aluminium wire with a hammer flattens it into a sheet (Activity 4.1); silver foil on sweets is another example."
+                    ]
+                },
+                {
+                    "id": "19.3",
+                    "title": "Ductility",
+                    "definition": "Ductility is the property of materials that allows them to be drawn into thin wires. It is mainly possessed by metals.",
+                    "formulae": [],
+                    "examples": [
+                        "Copper and aluminium are drawn into wires for electrical fittings; steel wires are used in suspension bridges and cranes."
+                    ]
+                },
+                {
+                    "id": "19.4",
+                    "title": "Sonority",
+                    "definition": "Sonority is the property of metals that enables them to produce a ringing sound when struck or dropped. Metals are said to be sonorous.",
+                    "formulae": [],
+                    "examples": [
+                        "A metal coin or spoon produces a ringing sound when dropped on the floor, unlike wood or coal (Activity 4.2)."
+                    ]
+                },
+                {
+                    "id": "19.5",
+                    "title": "Conduction of Heat",
+                    "definition": "Conduction is the transfer of heat from one point to another within a material. Metals are good conductors of heat.",
+                    "formulae": [],
+                    "examples": [
+                        "A metal spoon immersed in hot water becomes hot at the upper end, while a wooden spoon remains cool (Activity 4.3)."
+                    ]
+                },
+                {
+                    "id": "19.6",
+                    "title": "Conduction of Electricity",
+                    "definition": "Materials that allow electricity to flow through them easily are called good conductors of electricity. Metals like copper and iron are good conductors.",
+                    "formulae": [],
+                    "examples": [
+                        "Using a tester circuit, the bulb glows with an iron nail or aluminium foil but not with sulfur or wood (Activity 4.4)."
+                    ]
+                },
+                {
+                    "id": "19.7",
+                    "title": "Physical States and Soft Metals",
+                    "definition": "While most metals are hard solids, sodium and potassium are soft enough to be cut with a knife. Mercury is the only metal found as a liquid at room temperature.",
+                    "formulae": [],
+                    "examples": [
+                        "Mercury is used in thermometers; sodium must be stored in kerosene because it reacts vigorously with air and water."
+                    ]
+                },
+                {
+                    "id": "19.8",
+                    "title": "Rusting of Iron",
+                    "definition": "Rusting is the process where iron develops a brown deposit (rust) when exposed to moist air (both oxygen and water).",
+                    "formulae": [
+                        "Iron + Oxygen + Water \u2192 Rust (Iron Oxide)"
+                    ],
+                    "examples": [
+                        "Iron nails develop rust in a bottle with both air and water, but not in dry air or air-free water (Activity 4.5)."
+                    ]
+                },
+                {
+                    "id": "19.9",
+                    "title": "Corrosion and Galvanisation",
+                    "definition": "Corrosion is the gradual deterioration of metal surfaces by air and moisture. Galvanisation is the process of applying a protective layer of zinc on iron to prevent rusting.",
+                    "formulae": [],
+                    "examples": [
+                        "Copper develops a green coating and silver develops a black coating due to corrosion in the atmosphere."
+                    ]
+                },
+                {
+                    "id": "19.10",
+                    "title": "Metal Oxides (Basic Nature)",
+                    "definition": "Metals react with oxygen to form metal oxides, which are generally basic in nature and turn red litmus paper blue.",
+                    "formulae": [
+                        "Magnesium + Oxygen \u2192 Magnesium Oxide"
+                    ],
+                    "examples": [
+                        "Burning magnesium ribbon produce a white powder (magnesium oxide) whose solution turns red litmus blue (Activity 4.6)."
+                    ]
+                },
+                {
+                    "id": "19.11",
+                    "title": "Non-metals and Brittle Nature",
+                    "definition": "Non-metals (like sulfur and phosphorus) are generally soft, dull, and brittle. Phosphorus is highly reactive and is stored in water to prevent it from catching fire in air.",
+                    "formulae": [],
+                    "examples": [
+                        "A piece of coal or sulfur breaks into pieces when beaten with a hammer, showing they are brittle."
+                    ]
+                },
+                {
+                    "id": "19.12",
+                    "title": "Non-metal Oxides (Acidic Nature)",
+                    "definition": "Non-metals react with oxygen to form oxides that are generally acidic in nature and turn blue litmus paper red.",
+                    "formulae": [
+                        "Sulfur + Oxygen \u2192 Sulfur Dioxide",
+                        "Sulfur Dioxide + Water \u2192 Sulfurous Acid"
+                    ],
+                    "examples": [
+                        "Burning sulfur produce sulfur dioxide gas, which when dissolved in water forms sulfurous acid and turns blue litmus red (Activity 4.7)."
+                    ]
+                },
+                {
+                    "id": "19.13",
+                    "title": "Elements and the periodic table",
+                    "definition": "An element is a substance that cannot be broken down into simpler substances. There are 118 known elements acting as building blocks of all matter.",
+                    "formulae": [],
+                    "examples": [
+                        "Pure oxygen, hydrogen, nitrogen, carbon, sulfur, iron, and copper are all examples of elements."
+                    ]
+                },
+                {
+                    "id": "19.14",
+                    "title": "Alloys and Modern Metallurgy",
+                    "definition": "An alloy is a mixture of two or more metals, or a metal and a non-metal, designed to enhance properties like strength and rust resistance.",
+                    "formulae": [],
+                    "examples": [
+                        "Steel (Iron + Carbon) is an alloy used for strength; special alloys like Zirconium and Titanium are used in aerospace."
+                    ]
+                },
+                {
+                    "id": "19.15",
+                    "title": "Scientific Heritage: The Iron Pillar of Delhi",
+                    "definition": "The Iron Pillar of Delhi (made >1600 years ago) demonstrates ancient India's skill in rust-resistant metallurgy. Other metal art styles include Dhokra, Bidriware, Pembarthi, and Kamrupi.",
+                    "formulae": [],
+                    "examples": [
+                        "Despite facing wind and rain for 16 centuries, the 8-metre tall iron pillar has barely any rust."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 20,
+            "title": "Adolescence - A Stage of Growth and Change",
+            "concepts": [
+                {
+                    "id": "20.1",
+                    "title": "Stages of Human Life",
+                    "definition": "The journey of human life is divided into distinct stages including infancy, childhood, adolescence, adulthood, and old age, each marked by specific growth patterns.",
+                    "formulae": [],
+                    "examples": [
+                        "A person transitions from childhood to adolescence around 10 years of age, marking the start of rapid maturity."
+                    ]
+                },
+                {
+                    "id": "20.2",
+                    "title": "Adolescence and Puberty",
+                    "definition": "Adolescence is the period of transition between childhood and adulthood (ages 10-19). Puberty is the specific stage within this period when the body undergoes internal and external changes to reach reproductive maturity.",
+                    "formulae": [],
+                    "examples": [
+                        "During puberty, the body prepares for adulthood by developing the capability to reproduce."
+                    ]
+                },
+                {
+                    "id": "20.3",
+                    "title": "Visible Physical Changes",
+                    "definition": "Growth during adolescence is marked by a prominent increase in height, changes in body structure such as broader shoulders in boys, and the development of breasts in girls.",
+                    "formulae": [],
+                    "examples": [
+                        "Students often notice differences in height, strength, and appearance when moving from Grade 5 to Grade 8 (Activity 6.1)."
+                    ]
+                },
+                {
+                    "id": "20.4",
+                    "title": "Adam's Apple and Voice Changes",
+                    "definition": "In adolescent boys, the growth of the voice box (larynx) leads to a deeper, sometimes hoarse voice; this enlarged structure may be visible as a bump in the throat called the Adam's apple.",
+                    "formulae": [],
+                    "examples": [
+                        "The hoarseness in an adolescent boy's voice is a natural sign of the larynx expanding during puberty."
+                    ]
+                },
+                {
+                    "id": "20.5",
+                    "title": "Acne and Pimples",
+                    "definition": "Acne is a skin condition common in adolescents where reddish pimples appear due to increased oily secretions from skin glands that can clog pores and lead to infection.",
+                    "formulae": [],
+                    "examples": [
+                        "Emergence of pimples on the face is a manifestation of increased glandular activity during the teenage years."
+                    ]
+                },
+                {
+                    "id": "20.6",
+                    "title": "Secondary Sexual Characteristics",
+                    "definition": "Secondary sexual characteristics are features that help to distinguish the male from the female but are not directly involved in reproduction, marking the onset of puberty.",
+                    "formulae": [],
+                    "examples": [
+                        "Characteristic changes like change in voice and facial hair in boys, and the development of breasts in girls, are secondary sexual characteristics."
+                    ]
+                },
+                {
+                    "id": "20.7",
+                    "title": "The Menstrual Cycle and Menstruation",
+                    "definition": "The menstrual cycle is a natural 28-30 day process in females involving the discharge of blood (menstruation) for 3-7 days; it begins at puberty and ends at menopause (age 45-55).",
+                    "formulae": [],
+                    "examples": [
+                        "A regular menstrual cycle is one of the signs of good reproductive health in women."
+                    ]
+                },
+                {
+                    "id": "20.8",
+                    "title": "Emotional and Behavioural Changes",
+                    "definition": "Adolescents often experience mood swings, heightened curiosity, and stronger emotions like empathy or sensitivity as their minds and bodies mature.",
+                    "formulae": [],
+                    "examples": [
+                        "An adolescent might show increased compasssion by joining social initiatives to support the disadvantaged (Activity 6.2)."
+                    ]
+                },
+                {
+                    "id": "20.9",
+                    "title": "Nutritional Needs (Iron and B12)",
+                    "definition": "Due to rapid growth, adolescents require a diet rich in proteins, carbohydrates, fats, vitamins, and minerals. Iron and Vitamin B12 are essential for blood formation and body function.",
+                    "formulae": [],
+                    "examples": [
+                        "Spinach and kidney beans provide iron; milk and millets provide calcium for optimal bone growth (Activity 6.3)."
+                    ]
+                },
+                {
+                    "id": "20.10",
+                    "title": "Personal and Menstrual Hygiene",
+                    "definition": "Maintaining body hygiene in regions like armpits and the pubic area protects against infections. Menstrual hygiene involves the use of sanitary pads or reusable cloth pads.",
+                    "formulae": [],
+                    "examples": [
+                        "Disposing of used sanitary pads properly by wrapping them in newspaper is important for community health and cleanliness."
+                    ]
+                },
+                {
+                    "id": "20.11",
+                    "title": "Government Health Schemes (MHS and RKsK)",
+                    "definition": "Government initiatives like the Menstrual Hygiene Scheme (MHS), Rashtriya Kishor Swasthya Karyakram (RKsK), and state-level programmes like the 'Shuchi Scheme' in Karnataka provide health support and awareness for adolescents.",
+                    "formulae": [],
+                    "examples": [
+                        "Biodegradable pads are provided through Jan Aushadhi Kendras under the Suvidha initiative; Tamil Nadu and Odisha also provide free sanitary napkins in government schools."
+                    ]
+                },
+                {
+                    "id": "20.12",
+                    "title": "Social Life and Cyberbullying",
+                    "definition": "Adolescents interact through physical and digital platforms. Cyberbullying involves using digital devices to harass, spread rumours, or share personal info without consent.",
+                    "formulae": [],
+                    "examples": [
+                        "Designing posters about responsible social media behaviour—such as not sharing photos with strangers—helps spread awareness (Activity 6.4)."
+                    ]
+                },
+                {
+                    "id": "20.13",
+                    "title": "Substance Abuse and 'Saying NO'",
+                    "definition": "Substance abuse is the addictive consumption of harmful substances such as tobacco, alcohol, or illegal drugs. It is crucial to remain firm and say 'NO' the first time and every time.",
+                    "formulae": [],
+                    "examples": [
+                        "The Nasha Mukt Bharat Abhiyaan and National De-addiction Helpline (14446) are government efforts to prevent substance abuse and support recovery."
+                    ]
+                },
+                {
+                    "id": "20.14",
+                    "title": "Hormones: The Chemical Regulators",
+                    "definition": "Hormones are chemicals produced in the body that regulate growth, development, mood, and reproductive maturity.",
+                    "formulae": [],
+                    "examples": [
+                        "Signals from the brain trigger the release of hormones that lead to the physical and internal changes of puberty."
+                    ]
+                },
+                {
+                    "id": "20.15",
+                    "title": "Dorothy Hodgkin and Vitamin B12",
+                    "definition": "Dorothy Hodgkin was a Nobel-winning scientist who studied the structure of Vitamin B12, an essential nutrient that the human body cannot produce on its own.",
+                    "formulae": [],
+                    "examples": [
+                        "In 1964, she became the third woman to win the Nobel Prize in Chemistry for her groundbreaking structural studies."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 21,
+            "title": "Earth, Moon, and the Sun",
+            "concepts": [
+                {
+                    "id": "21.1",
+                    "title": "Rotation of the Earth",
+                    "definition": "Rotation is the motion of the Earth spinning on its imaginary axis, which passes through the geographic North and South Poles, taking approximately 24 hours for one full turn.",
+                    "formulae": [],
+                    "examples": [
+                        "Similar to a merry-go-round turning anti-clockwise, the Earth rotates from West to East, causing objects around it to appear moving in the opposite direction (Activity 12.1)."
+                    ]
+                },
+                {
+                    "id": "21.2",
+                    "title": "Day and Night Cycle",
+                    "definition": "The Earth's rotation from West to East causes the day-night cycle. The side facing the Sun experiences daytime, while the opposite side experiences night.",
+                    "formulae": [],
+                    "examples": [
+                        "As a globe rotates from West to East in front of a torch, locations move into light (sunrise) and then into darkness (sunset) (Activity 12.2)."
+                    ]
+                },
+                {
+                    "id": "21.3",
+                    "title": "Apparent Motion of Celestial Objects",
+                    "definition": "Due to the Earth's West-to-East rotation, the Sun, Moon, and stars appear to rise in the East, move across the sky, and set in the West.",
+                    "formulae": [],
+                    "examples": [
+                        "The Big Dipper (Saptarishi) appears to move around the Pole Star (Dhruva Tara) over several hours due to the Earth's rotation (Activity 12.3)."
+                    ]
+                },
+                {
+                    "id": "21.4",
+                    "title": "The Foucault Pendulum",
+                    "definition": "A Foucault pendulum is a long pendulum used to demonstrate the Earth's rotation. The first simple demonstration was given by Leon Foucault in the mid-19th century.",
+                    "formulae": [],
+                    "examples": [
+                        "A 22-metre Foucault pendulum is hung in the Constitution Hall of the new Parliament building in New Delhi to symbolise scientific integration."
+                    ]
+                },
+                {
+                    "id": "21.5",
+                    "title": "Aryabhata's Astronomical Contributions",
+                    "definition": "Aryabhata was an ancient Indian astronomer who accurately calculated the Earth's rotation period as 23 hours 56 minutes 4.1 seconds; he explained in 'Aryabhatiya' that stationary stars appear to move West just as stationary objects on a bank appear to move backwards to a man in a boat.",
+                    "formulae": [
+                        "Earth's Rotation Period (Aryabhata) \u2248 23h 56m 4.1s"
+                    ],
+                    "examples": [
+                        "In Golapada, Verse 9, he noted that stars are seen by the 'people of Lanka' as moving towards the west due to Earth's rotation."
+                    ]
+                },
+                {
+                    "id": "21.6",
+                    "title": "Revolution and Orbit",
+                    "definition": "Revolution is the motion of the Earth in a nearly circular path (orbit) around the Sun, taking about 365 days and 6 hours (one year) to complete.",
+                    "formulae": [],
+                    "examples": [
+                        "The Earth's revolution leads to a changing view of the night sky throughout the year as we look in different directions in space."
+                    ]
+                },
+                {
+                    "id": "21.7",
+                    "title": "Tilt of Earth's Axis and Seasons",
+                    "definition": "Seasons occur because the Earth's axis of rotation is tilted and its surface is spherical, causing different parts of the Earth to receive varying intensity and duration of sunlight.",
+                    "formulae": [],
+                    "examples": [
+                        "The tilt of the Earth causes the Northern Hemisphere to experience more intense sunlight in June, leading to the summer season."
+                    ]
+                },
+                {
+                    "id": "21.8",
+                    "title": "Solstices and Equinoxes",
+                    "definition": "Solstices are days with the longest or shortest daytime (June 21 and Dec 22). Equinoxes are days when daytime and night-time are equal (March 21 and Sep 23).",
+                    "formulae": [],
+                    "examples": [
+                        "Summer solstice (around 21 June) marks the longest day in the Northern Hemisphere, while winter solstice (around 22 December) marks the shortest."
+                    ]
+                },
+                {
+                    "id": "21.9",
+                    "title": "Indigenous Seasonal Markers",
+                    "definition": "Many indigenous communities use astronomical patterns to identify seasonal changes and predict natural events.",
+                    "formulae": [],
+                    "examples": [
+                        "The Bhil and Pawara communities of western India use specific star patterns as markers for the arrival of monsoon rains."
+                    ]
+                },
+                {
+                    "id": "21.10",
+                    "title": "Solar Eclipse: Geometry and Types",
+                    "definition": "A solar eclipse occurs when the Moon passes between the Sun and the Earth, blocking sunlight. It can be total (complete occlusion) or partial.",
+                    "formulae": [],
+                    "examples": [
+                        "During a total solar eclipse, the Moon's shadow falls on a small area of the Earth, turning day into temporary darkness."
+                    ]
+                },
+                {
+                    "id": "21.11",
+                    "title": "Apparent Size and Eclipse Principles",
+                    "definition": "Apparent size is the size of an object as seen by the eye, depending on its physical size and distance. The Moon can block the Sun because it is much closer to Earth despite being smaller.",
+                    "formulae": [],
+                    "examples": [
+                        "A thumb held close to the eye can appear to cover a friend's head located 5 metres away (Activity 12.4)."
+                    ]
+                },
+                {
+                    "id": "21.12",
+                    "title": "Transit of Venus",
+                    "definition": "A Transit of Venus is a rare astronomical event where Venus passes between the Sun and the Earth, appearing as a tiny black dot against the Sun's bright face.",
+                    "formulae": [],
+                    "examples": [
+                        "Unlike the Moon during a solar eclipse, Venus is too far from Earth to block the Sun entirely."
+                    ]
+                },
+                {
+                    "id": "21.13",
+                    "title": "Lunar Eclipse: Geometry and Appearance",
+                    "definition": "A lunar eclipse occurs when the Earth passes between the Sun and the Moon, casting its shadow on the Moon. During a total lunar eclipse, the Moon appears dark red.",
+                    "formulae": [],
+                    "examples": [
+                        "A lunar eclipse can be safely observed with the naked eye and is visible from a much larger part of the Earth than a solar eclipse."
+                    ]
+                },
+                {
+                    "id": "21.14",
+                    "title": "Safe Viewing of Solar Eclipses",
+                    "definition": "Directly viewing a solar eclipse can cause permanent eye damage or blindness. It must be strictly avoided unless using specialized safety gear or projection methods.",
+                    "formulae": [],
+                    "examples": [
+                        "Using a mirror to project the Sun's image onto a wall is a safe way to observe an eclipse under teacher supervision."
+                    ]
+                },
+                {
+                    "id": "21.15",
+                    "title": "Astronomical Observatories and 'Grahan'",
+                    "definition": "India has a rich tradition of astronomical research. 'Grahan' is the Sanskrit term for eclipse. The 'Surya Siddhanta' is a famous text for predicting eclipses using rhythmic shlokas.",
+                    "formulae": [],
+                    "examples": [
+                        "The Kodaikanal Solar Observatory, established in 1899 in the Palani range of hills, has provided solar data for over 100 years."
+                    ]
+                },
+                {
+                    "id": "21.16",
+                    "title": "M.K. Vainu Bappu: Father of Modern Indian Astronomy",
+                    "definition": "M.K. Vainu Bappu led efforts in setting up modern telescopes in India, including those at Manora Peak near Nainital (Uttarakhand) and Kavalur (Tamil Nadu).",
+                    "formulae": [],
+                    "examples": [
+                        "He discovered a comet, studied stars, and travelled globally to research solar eclipses; the Vainu Bappu Observatory at Kavalur is named after him."
                     ]
                 }
             ]
