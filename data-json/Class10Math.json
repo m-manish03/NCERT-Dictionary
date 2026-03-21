@@ -10,51 +10,71 @@
                 {
                     "id": "1.1",
                     "title": "Euclid’s Division Lemma",
-                    "definition": "Given any two positive integers a and b (a > b), there exist unique integers q and r such that a = bq + r, where 0 ≤ r < b.",
+                    "definition": "Given any two positive integers a and b (a > b), there exist unique integers q and r such that a = bq + r, where 0 ≤ r < b. Euclid's division algorithm is based on this lemma and is used to compute the HCF of two positive integers.",
                     "formulae": [
                         "a = bq + r, 0 ≤ r < b"
                     ],
                     "examples": [
-                        "For a = 20, b = 6, 20 = 6×3 + 2, so q = 3, r = 2."
+                        "For a = 20, b = 6, 20 = 6×3 + 2, so q = 3, r = 2.",
+                        "Euclid's division algorithm is used to find the HCF of two positive integers."
                     ]
                 },
                 {
                     "id": "1.2",
                     "title": "Fundamental Theorem of Arithmetic",
-                    "definition": "Every composite number greater than 1 can be expressed as a product of primes, and this factorisation is unique apart from the order of the factors.",
+                    "definition": "Every composite number greater than 1 can be expressed (factorised) as a product of primes, and this factorisation is unique apart from the order of the factors. The prime factorisation of a natural number is unique, except for the order of its factors.",
                     "formulae": [],
                     "examples": [
-                        "60 = 2² × 3 × 5; 84 = 2² × 3 × 7."
+                        "60 = 2² × 3 × 5; 84 = 2² × 3 × 7.",
+                        "Example 1: Consider the numbers 4ⁿ, where n is a natural number. There is no natural number n for which 4ⁿ ends with the digit zero."
                     ]
                 },
                 {
                     "id": "1.3",
                     "title": "HCF and LCM using Prime Factorisation",
-                    "definition": "Highest Common Factor (HCF) and Least Common Multiple (LCM) of two or more numbers can be found from their prime factorizations.",
-                    "formulae": [],
+                    "definition": "Highest Common Factor (HCF) and Least Common Multiple (LCM) of two or more numbers can be found from their prime factorizations. HCF(a, b) is the product of the smallest power of each common prime factor; LCM(a, b) is the product of the greatest power of each prime factor involved.",
+                    "formulae": [
+                        "HCF(a, b) × LCM(a, b) = a × b"
+                    ],
                     "examples": [
-                        "12 = 2²×3, 18 = 2×3²; HCF = 2¹×3¹ = 6, LCM = 2²×3² = 36."
+                        "12 = 2²×3, 18 = 2×3²; HCF = 2¹×3¹ = 6, LCM = 2²×3² = 36.",
+                        "Example 2: LCM(6, 20) = 2² × 3 × 5 = 60; HCF(6, 20) = 2. Verification: HCF × LCM = 6 × 20 = 120.",
+                        "Example 3: HCF(96, 404) = 4; LCM(96, 404) = (96 × 404) / 4 = 9696.",
+                        "Example 4: HCF(6, 72, 120) = 6; LCM(6, 72, 120) = 360. Note: product of three numbers is not equal to product of their HCF and LCM."
                     ]
                 },
                 {
                     "id": "1.4",
                     "title": "Irrational Numbers and Their Properties",
-                    "definition": "A number is irrational if it cannot be expressed as p/q with integers p, q and q ≠ 0. Sum, difference, product or quotient (q ≠ 0) of a non‑zero rational and an irrational number is irrational.",
+                    "definition": "A number is irrational if it cannot be expressed as p/q with integers p, q and q ≠ 0. Sum, difference, product or quotient (q ≠ 0) of a non-zero rational and an irrational number is irrational. Theorem 1.2: Let p be a prime number. If p divides a², then p divides a. Theorem 1.3: √2 is irrational.",
                     "formulae": [],
                     "examples": [
                         "√2, √3, π are irrational numbers.",
-                        "2 + √3 and 5√2 are irrational."
+                        "2 + √3 and 5√2 are irrational.",
+                        "Example 5: Prove that √3 is irrational.",
+                        "Example 6: Show that 5 − √3 is irrational.",
+                        "Example 7: Show that 3√2 is irrational."
                     ]
                 },
                 {
                     "id": "1.5",
                     "title": "Decimal Expansions of Rational Numbers",
-                    "definition": "Rational numbers have either terminating or non‑terminating recurring decimal expansions, depending on prime factors of denominator in lowest form.",
+                    "definition": "Rational numbers have either terminating or non-terminating recurring decimal expansions. The prime factorisation of the denominator q of a rational number p/q completely reveals the nature of the decimal expansion: it is terminating if q = 2ⁿ5ᵐ, and non-terminating repeating otherwise.",
                     "formulae": [],
                     "examples": [
                         "1/8 = 0.125 is terminating since denominator 8 = 2³.",
                         "1/3 = 0.333… is non‑terminating recurring since denominator 3 has a prime factor other than 2 or 5."
                     ]
+                },
+                {
+                    "id": "1.6",
+                    "title": "HCF and LCM of Three Numbers",
+                    "definition": "Specific formulas hold good for the HCF and LCM of three positive integers p, q and r.",
+                    "formulae": [
+                        "LCM(p, q, r) = (p · q · r · HCF(p, q, r)) / (HCF(p, q) · HCF(q, r) · HCF(p, r))",
+                        "HCF(p, q, r) = (p · q · r · LCM(p, q, r)) / (LCM(p, q) · LCM(q, r) · LCM(p, r))"
+                    ],
+                    "examples": []
                 }
             ]
         },
@@ -65,32 +85,39 @@
                 {
                     "id": "2.1",
                     "title": "Degree and Types of Polynomials",
-                    "definition": "A polynomial in x is an expression of the form a_n x^n + ... + a_1 x + a_0 with real coefficients. Degree is highest power of x with non‑zero coefficient; it defines linear, quadratic, cubic polynomials etc.",
+                    "definition": "A polynomial p(x) in x is an expression involving powers of x. Degree is the highest power of x. Linear (degree 1: ax+b), Quadratic (degree 2: ax²+bx+c), and Cubic (degree 3: ax³+bx²+cx+d) are common types. Value of p(x) at x=k is p(k).",
                     "formulae": [],
                     "examples": [
                         "3x² − 2x + 1 is quadratic (degree 2).",
-                        "5x³ − x + 7 is cubic (degree 3)."
+                        "5x³ − x + 7 is cubic (degree 3).",
+                        "Linear: 2x - 3, √3x + 5. Quadratic: 2x² + 3x - 2/5, y² - 2. Cubic: 2 - x³, x³, 3x³ - 2x² + x - 1.",
+                        "Zero of linear polynomial ax + b is -b/a = -(constant term)/(coefficient of x)."
                     ]
                 },
                 {
                     "id": "2.2",
                     "title": "Zeroes of a Polynomial and Graph",
-                    "definition": "A zero of polynomial p(x) is a value a such that p(a) = 0. Graphically, zeros are x‑coordinates where graph of p(x) intersects x‑axis.",
+                    "definition": "A zero of polynomial p(x) is a value k such that p(k) = 0. Graphically, zeroes are x-coordinates where the graph intersects the x-axis. A quadratic graph is a parabola (upward if a > 0, downward if a < 0). A polynomial of degree n has at most n zeroes.",
                     "formulae": [],
                     "examples": [
-                        "For p(x) = x² − 4, zeros are x = 2, −2; graph cuts x‑axis at 2 and −2."
+                        "For p(x) = x² − 4, zeros are x = 2, −2; graph cuts x‑axis at 2 and −2.",
+                        "Example 1: Number of zeroes of p(x) for given graphs is determined by the number of points where the graph intersects the x-axis."
                     ]
                 },
                 {
                     "id": "2.3",
                     "title": "Relationship Between Zeroes and Coefficients",
-                    "definition": "For quadratic polynomial ax² + bx + c with zeros α and β, there are standard relations between zeros and coefficients.",
+                    "definition": "Relationship between zeroes (α, β, γ) and coefficients. Quadratic (ax²+bx+c): α+β = -b/a, αβ = c/a. Cubic (ax³+bx²+cx+d): α+β+γ = -b/a, αβ+βγ+γα = c/a, αβγ = -d/a.",
                     "formulae": [
                         "α + β = −b/a",
                         "αβ = c/a"
                     ],
                     "examples": [
-                        "For x² − 5x + 6, α + β = 5, αβ = 6 (zeros 2 and 3)."
+                        "For x² − 5x + 6, α + β = 5, αβ = 6 (zeros 2 and 3).",
+                        "Example 2: Zeroes of x² + 7x + 10 are -2 and -5. Sum = -7, Product = 10.",
+                        "Example 3: Zeroes of x² - 3 are √3 and -√3. Sum = 0, Product = -3.",
+                        "Example 4: Quadratic polynomial with sum -3 and product 2 is x² + 3x + 2.",
+                        "Example 5: Verify that 3, -1, -1/3 are zeroes of 3x³ - 5x² - 11x - 3 and verify relationships."
                     ]
                 },
                 {
@@ -111,19 +138,32 @@
                 {
                     "id": "3.1",
                     "title": "System of Linear Equations and Graphical Solution",
-                    "definition": "A pair of linear equations in two variables represents two lines in a plane; their intersection, parallelism or coincidence give number of solutions.",
-                    "formulae": [],
+                    "definition": "A pair of linear equations (a₁x+b₁y+c₁=0, a₂x+b₂y+c₂=0) represents two lines. Consistent: at least one solution. Inconsistent: no solution. Dependent: identical equations with infinitely many common solutions.",
+                    "formulae": [
+                        "Intersecting (unique): a₁/a₂ ≠ b₁/b₂",
+                        "Coincident (infinite): a₁/a₂ = b₁/b₂ = c₁/c₂",
+                        "Parallel (none): a₁/a₂ = b₁/b₂ ≠ c₁/c₂"
+                    ],
                     "examples": [
-                        "Unique solution if lines intersect at one point; no solution if lines are parallel; infinitely many solutions if lines coincide."
+                        "Unique solution if lines intersect at one point; no solution if lines are parallel; infinitely many solutions if lines coincide.",
+                        "Example 1: x + 3y = 6 and 2x - 3y = 12 are consistent and intersect at (6, 0).",
+                        "Example 2: 2x + 3y - 9 = 0 and 4x + 6y - 18 = 0 are coincident (infinitely many solutions).",
+                        "Example 3: Champa's pants (x) and skirts (y) problem represented by y = 2x-2 and y = 4x-4 intersects at (1, 0)."
                     ]
                 },
                 {
                     "id": "3.2",
                     "title": "Algebraic Methods: Substitution and Elimination",
-                    "definition": "Algebraic methods solve pairs of linear equations by eliminating one variable or substituting expression from one equation into another.",
+                    "definition": "Methods to find exact solutions. Substitution: Express one variable in terms of other and substitute into second equation. Elimination: Multiply equations by constants to equalize a coefficient, then add/subtract to remove one variable.",
                     "formulae": [],
                     "examples": [
-                        "Solving 2x + 3y = 11 and 3x − y = 4 by elimination or substitution."
+                        "Solving 2x + 3y = 11 and 3x − y = 4 by elimination or substitution.",
+                        "Example 4: 7x - 15y = 2 and x + 2y = 3 solved by substitution results in x = 49/29, y = 19/29.",
+                        "Example 5: Age problem (Aftab and daughter) s-7t+42=0 and s-3t=6 solved using substitution gives ages 42 and 12.",
+                        "Example 6: Cost of pencils and erasers: can lead to infinitely many solutions if both equations are same.",
+                        "Example 7: Two rails x+2y-4=0 and 2x+4y-12=0 have no solution (parallel).",
+                        "Example 8: Income/Expenditure ratio problem solved by elimination.",
+                        "Example 10: Two-digit number reversing digits problem."
                     ]
                 },
                 {
@@ -144,32 +184,41 @@
                 {
                     "id": "4.1",
                     "title": "Quadratic Equation and Standard Form",
-                    "definition": "A quadratic equation in x is an equation of the form ax² + bx + c = 0, where a, b, c are real and a ≠ 0.",
+                    "definition": "A quadratic equation in x is of form ax²+bx+c=0 (a≠0). Standard form has terms in descending order of degrees. Historically studied by Babylonians, Euclid, Brahmagupta and Sridharacharya.",
                     "formulae": [],
                     "examples": [
-                        "2x² − 3x + 1 = 0; x² + 5x − 6 = 0."
+                        "2x² − 3x + 1 = 0; x² + 5x − 6 = 0.",
+                        "Example 1: Situations like marble counts (x²-45x+324=0) or toy production (x²-55x+750=0) can be represented as quadratic equations.",
+                        "Example 2: Checking if an equation like (x+2)³ = x³ - 4 is quadratic after simplification."
                     ]
                 },
                 {
                     "id": "4.2",
                     "title": "Methods of Solving Quadratic Equations",
-                    "definition": "Quadratic equations can be solved by factorisation, completing the square, or quadratic formula.",
+                    "definition": "Roots are values satisfying ax²+bx+c=0. Factorisation: Splitting the middle term into two linear factors. Quadratic Formula (Sridharacharya): x = [-b ± √(b² - 4ac)] / 2a.",
                     "formulae": [
                         "x = [−b ± √(b² − 4ac)] / (2a)"
                     ],
                     "examples": [
-                        "x² − 5x + 6 = 0 solved by factorisation: (x − 2)(x − 3) = 0 ⇒ x = 2,3."
+                        "x² − 5x + 6 = 0 solved by factorisation: (x − 2)(x − 3) = 0 ⇒ x = 2,3.",
+                        "Example 3: Roots of 2x² - 5x + 3 = 0 by factorisation are 1 and 3/2.",
+                        "Example 4: Roots of 6x² - x - 2 = 0 are 2/3 and -1/2.",
+                        "Example 5: Roots of 3x² - 2√6x + 2 = 0 are √(2/3), √(2/3) (repeated root).",
+                        "Example 6: Solving the prayer hall problem results in breadth 12m and length 25m."
                     ]
                 },
                 {
                     "id": "4.3",
                     "title": "Nature of Roots and Discriminant",
-                    "definition": "Discriminant D = b² − 4ac determines nature of roots: real and distinct, real and equal, or complex.",
+                    "definition": "Discriminant D = b² - 4ac. Nature of roots: (i) Two distinct real roots if D > 0. (ii) Two equal real roots if D = 0. (iii) No real roots if D < 0.",
                     "formulae": [
                         "D = b² − 4ac"
                     ],
                     "examples": [
-                        "D > 0: two distinct real roots; D = 0: equal real roots; D < 0: no real roots."
+                        "D > 0: two distinct real roots; D = 0: equal real roots; D < 0: no real roots.",
+                        "Example 7: Discriminant of 2x² - 4x + 3 = 0 is -8, so no real roots exist.",
+                        "Example 8: Placing a pole on boundary of circular park involves checking D of x² + 7x - 60 = 0 (possible since D > 0).",
+                        "Example 9: Discriminant of 3x² - 2x + 1/3 = 0 is 0, so roots are equal (1/3, 1/3)."
                     ]
                 }
             ]
@@ -181,34 +230,52 @@
                 {
                     "id": "5.1",
                     "title": "Definition of Arithmetic Progression (AP)",
-                    "definition": "An AP is a sequence where the difference between consecutive terms is constant, called common difference d.",
+                    "definition": "An Arithmetic Progression (AP) is a list in which each term is obtained by adding a fixed number 'd' (common difference) to the preceding term. General form: a, a+d, a+2d, ... Finite AP has a last term; Infinite AP does not.",
                     "formulae": [],
                     "examples": [
                         "2, 5, 8, 11, ... is AP with d = 3.",
-                        "7, 4, 1, −2, ... is AP with d = −3."
+                        "7, 4, 1, −2, ... is AP with d = −3.",
+                        "Example 1: In the AP 3/2, 1/2, -1/2, -3/2, ..., first term a = 3/2 and common difference d = -1.",
+                        "Example 2: Check if lists like 4, 10, 16, 22, ... form an AP using a_k+1 - a_k."
                     ]
                 },
                 {
                     "id": "5.2",
                     "title": "nth Term of an AP",
-                    "definition": "The nth term of an AP with first term a and common difference d is given by a_n = a + (n − 1)d.",
+                    "definition": "The nth term aₙ of an AP with first term 'a' and common difference 'd' is aₙ = a + (n-1)d. aₙ is also called the general term. If there are 'm' terms, aₘ is the last term 'l'.",
                     "formulae": [
-                        "a_n = a + (n − 1)d"
+                        "a_n = a + (n − 1)d",
+                        "a _ { n } = a + ( n - 1 ) d"
                     ],
                     "examples": [
-                        "AP 3, 7, 11,... has a = 3, d = 4; 10th term a_10 = 3 + 9×4 = 39."
+                        "AP 3, 7, 11,... has a = 3, d = 4; 10th term a_10 = 3 + 9×4 = 39.",
+                        "Example 3: Find the 10th term of the AP 2, 7, 12, ... (Result: 47).",
+                        "Example 4: Which term of the AP 21, 18, 15, ... is -81? (Result: 35th).",
+                        "Example 5: Determine the AP whose 3rd term is 5 and 7th term is 9.",
+                        "Example 6: Checking if a number like 301 is a term of the AP 5, 11, 17, 23, ...",
+                        "Example 7: How many two-digit numbers are divisible by 3?",
+                        "Example 8: Finding the 11th term from the last of the AP 10, 7, 4, ..., -62."
                     ]
                 },
                 {
                     "id": "5.3",
                     "title": "Sum of First n Terms of an AP",
-                    "definition": "Sum of first n terms of AP is given by formulas involving first and last terms or first term and common difference.",
+                    "definition": "Sum of first n terms S = (n/2)[2a + (n-1)d] or S = (n/2)(a + l). Gauss's method involved reversing the series 1 to 100 to find the sum 5050. Property: aₙ = Sₙ - Sₙ₋₁.",
                     "formulae": [
                         "S_n = n/2 [2a + (n − 1)d]",
-                        "S_n = n/2 (a + l) where l is nth term"
+                        "S_n = n/2 (a + l) where l is nth term",
+                        "S = (n/2)[2a + (n-1)d]",
+                        "S = (n/2)(a + l)",
+                        "aₙ = Sₙ - Sₙ₋₁"
                     ],
                     "examples": [
-                        "Sum of first 5 terms of 2, 4, 6, ...: a = 2, d = 2, S_5 = 5/2 [4 + 8] = 30."
+                        "Sum of first 5 terms of 2, 4, 6, ...: a = 2, d = 2, S_5 = 5/2 [4 + 8] = 30.",
+                        "Example 11: Find the sum of the first 22 terms of the AP 8, 3, -2, ...",
+                        "Example 12: If the sum of first 14 terms is 1050 and first term is 10, find 20th term.",
+                        "Example 13: Finding the number of terms 'n' such that the sum of 24, 21, 18, ... is 78.",
+                        "Example 14: Sum of first n positive integers is n(n+1)/2.",
+                        "Example 15: Find the sum of first 24 terms when aₙ = 3 + 2n.",
+                        "Example 16: TV manufacturer production problem: uniform increase leads to an AP."
                     ]
                 }
             ]
@@ -220,19 +287,36 @@
                 {
                     "id": "6.1",
                     "title": "Similarity of Figures and Triangles",
-                    "definition": "Two figures are similar if they have same shape but not necessarily same size; in triangles, similarity uses angle equality and proportionality of sides.",
+                    "definition": "Two figures are similar if they have the same shape but not necessarily same size. Polygons are similar if (i) corresponding angles are equal and (ii) corresponding sides are in the same ratio (scale factor). All congruent figures are similar.",
                     "formulae": [],
                     "examples": [
-                        "Two equiangular triangles are similar."
+                        "Two equiangular triangles are similar.",
+                        "Example: All circles, squares, and equilateral triangles are similar.",
+                        "Non-similar: A square and a rectangle (angles equal but sides not proportional); a square and a rhombus (sides proportional but angles not equal).",
+                        "Activity 1: Quadrilateral shadow enlargement using a light bulb shows similar figures."
                     ]
                 },
                 {
                     "id": "6.2",
                     "title": "Criteria for Similarity of Triangles",
-                    "definition": "Triangles are similar if they satisfy similarity criteria: AAA (or AA), SAS, or SSS proportionality.",
-                    "formulae": [],
+                    "definition": "Triangles are similar if corresponding angles are equal and sides are proportional. Basic Proportionality Theorem (BPT/Thales): If a line || to one side of a triangle intersects others, it divides them in the same ratio. Criteria: AAA (or AA), SSS, and SAS.",
+                    "formulae": [
+                        "BPT: If DE || BC, then AD/DB = AE/EC",
+                        "Converse of BPT: If AD/DB = AE/EC, then DE || BC",
+                        "AAA Criterion: ∠A=∠D, ∠B=∠E, ∠C=∠F",
+                        "SSS Criterion: AB/DE = BC/EF = CA/FD",
+                        "SAS Criterion: AB/DE = AC/DF and ∠A=∠D"
+                    ],
                     "examples": [
-                        "If corresponding angles are equal, triangles are similar by AA criterion."
+                        "If corresponding angles are equal, triangles are similar by AA criterion.",
+                        "Example 1: Using BPT to show AD/AB = AE/AC.",
+                        "Example 2: In trapezium ABCD (AB || DC) with line EF || AB, then AE/ED = BF/FC.",
+                        "Example 3: If PS/SQ = PT/TR and ∠PST = ∠PRQ, then ΔPQR is an isosceles triangle.",
+                        "Example 4: In Fig. 6.29, PQ || RS implies ΔPOQ ~ ΔSOR by AAA similarity.",
+                        "Example 5: Finding ∠P = 40° using similarity of ΔABC and ΔRQP.",
+                        "Example 6: OA·OB = OC·OD implies ΔAOD ~ ΔCOB and hence ∠A = ∠C, ∠B = ∠D.",
+                        "Example 7: Girl's shadow (speed 1.2 m/s, height 90cm) after 4s is 1.6m long by AA similarity.",
+                        "Example 8: If ΔABC ~ ΔPQR and CM, RN are medians, then ΔAMC ~ ΔPNR."
                     ]
                 },
                 {
@@ -266,23 +350,36 @@
                 {
                     "id": "7.1",
                     "title": "Distance Formula",
-                    "definition": "Distance between two points (x₁, y₁) and (x₂, y₂) in Cartesian plane is given by square root of sum of squares of differences of coordinates.",
+                    "definition": "Distance between P(x₁, y₁) and Q(x₂, y₂) is PQ = √[(x₂ - x₁)² + (y₂ - y₁)²]. Distance of P(x, y) from origin O(0, 0) is OP = √(x² + y²).",
                     "formulae": [
                         "d = √[(x₂ − x₁)² + (y₂ − y₁)²]"
                     ],
                     "examples": [
-                        "Distance between (1,2) and (4,6) is √[(3)² + (4)²] = 5."
+                        "Distance between (1,2) and (4,6) is √[(3)² + (4)²] = 5.",
+                        "Example 1: Points (3, 2), (-2, -3) and (2, 3) form a right-angled triangle.",
+                        "Example 2: Points (1, 7), (4, 2), (-1, -1) and (-4, 4) are vertices of a square.",
+                        "Example 3: Points (3, 1), (6, 4) and (8, 6) are collinear as AB + BC = AC.",
+                        "Example 4: Relation x - y = 2 for point (x, y) equidistant from (7, 1) and (3, 5).",
+                        "Example 5: Point on y-axis equidistant from (6, 5) and (-4, 3) is (0, 9)."
                     ]
                 },
                 {
                     "id": "7.2",
                     "title": "Section Formula (Internal)",
-                    "definition": "Coordinates of a point dividing a line segment internally in a given ratio m:n are given by weighted averages of endpoints.",
+                    "definition": "Coordinates of point P(x, y) dividing AB internally in ratio m₁:m₂ are ((m₁x₂ + m₂x₁)/(m₁+m₂), (m₁y₂ + m₂y₁)/(m₁+m₂)). Midpoint of AB is ((x₁+x₂)/2, (y₁+y₂)/2).",
                     "formulae": [
-                        "Point P dividing AB internally in ratio m:n has coordinates ((mx₂ + nx₁)/(m + n), (my₂ + ny₁)/(m + n))"
+                        "Point P dividing AB internally in ratio m:n has coordinates ((mx₂ + nx₁)/(m + n), (my₂ + ny₁)/(m + n))",
+                        "Section Formula: P = ((m₁x₂ + m₂x₁)/(m₁ + m₂), (m₁y₂ + m₂y₁)/(m₁ + m₂))",
+                        "Midpoint: ((x₁ + x₂)/2, (y₁ + y₂)/2)",
+                        "Ratio k:1 coords: ((kx₂ + x₁)/(k + 1), (ky₂ + y₁)/(k + 1))"
                     ],
                     "examples": [
-                        "Midpoint (m = n) formula: ((x₁ + x₂)/2, (y₁ + y₂)/2)."
+                        "Midpoint (m = n) formula: ((x₁ + x₂)/2, (y₁ + y₂)/2).",
+                        "Example 6: Point dividing (4, -3) and (8, 5) in ratio 3:1 is (7, 3).",
+                        "Example 7: Point (-4, 6) divides line segment joining (-6, 10) and (3, -8) in ratio 2:7.",
+                        "Example 8: Points of trisection for (2, -2) and (-7, 4) are (-1, 0) and (-4, 2).",
+                        "Example 9: y-axis divides (5, -6) and (-1, -4) in ratio 5:1 at point (0, -13/3).",
+                        "Example 10: If (6, 1), (8, 2), (9, 4) and (p, 3) are vertices of a parallelogram, then p = 7."
                     ]
                 },
                 {
@@ -305,7 +402,7 @@
                 {
                     "id": "8.1",
                     "title": "Trigonometric Ratios of Acute Angles",
-                    "definition": "For a right triangle with acute angle θ, trigonometric ratios relate side lengths: sine, cosine, tangent and their reciprocals cosecant, secant and cotangent.",
+                    "definition": "Trigonometric ratios relate sides and acute angles in a right triangle. For ∠A, sin A = side opposite/hypotenuse, cos A = side adjacent/hypotenuse, tan A = side opposite/side adjacent. Historical note: Aryabhata (AD 500) used ardha-jya (half-chord), later translated as sinus.",
                     "formulae": [
                         "sinθ = opposite / hypotenuse",
                         "cosθ = adjacent / hypotenuse",
@@ -313,16 +410,30 @@
                         "cosecθ = 1/sinθ, secθ = 1/cosθ, cotθ = 1/tanθ"
                     ],
                     "examples": [
-                        "For 3‑4‑5 triangle, sinθ = 3/5, cosθ = 4/5, tanθ = 3/4 for angle opposite side 3."
+                        "For 3‑4‑5 triangle, sinθ = 3/5, cosθ = 4/5, tanθ = 3/4 for angle opposite side 3.",
+                        "Example 1: Given tan A = 4/3, other ratios are sin A=4/5, cos A=3/5, cosec A=5/4, sec A=5/3, cot A=3/4.",
+                        "Example 2: If sin B = sin Q for two right triangles, then acute angles B and Q are equal.",
+                        "Example 3: In ΔACB (∠C=90°), if AB=29, BC=21, then cos²θ + sin²θ = 1 and cos²θ - sin²θ = 41/841.",
+                        "Example 4: In right ΔABC (∠B=90°), if tan A = 1, then 2 sin A cos A = 1.",
+                        "Example 5: In ΔOPQ (∠P=90°), if OP=7 and OQ - PQ = 1, then sin Q = 7/25 and cos Q = 24/25."
                     ]
                 },
                 {
                     "id": "8.2",
                     "title": "Trigonometric Ratios of Specific Angles",
                     "definition": "Standard values of trigonometric ratios are known for angles 0°, 30°, 45°, 60° and 90°.",
-                    "formulae": [],
+                    "formulae": [
+                        "sin 0°=0, cos 0°=1, tan 0°=0",
+                        "sin 30°=1/2, cos 30°=√3/2, tan 30°=1/rt3",
+                        "sin 45°=1/rt2, cos 45°=1/rt2, tan 45°=1",
+                        "sin 60°=rt3/2, cos 60°=1/2, tan 60°=rt3",
+                        "sin 90°=1, cos 90°=0, tan 90°=Not Defined"
+                    ],
                     "examples": [
-                        "sin30° = 1/2, cos30° = √3/2, tan45° = 1, sin90° = 1, cos90° = 0."
+                        "sin30° = 1/2, cos30° = √3/2, tan45° = 1, sin90° = 1, cos90° = 0.",
+                        "Example 6: In ΔABC (∠B=90°, ∠C=30°, AB=5cm), BC = 5√3 cm and AC = 10 cm.",
+                        "Example 7: In ΔPQR (∠Q=90°, PQ=3, PR=6), ∠PRQ = 30° and ∠QPR = 60°.",
+                        "Example 8: If sin(A-B) = 1/2 and cos(A+B) = 1/2, then A = 45° and B = 15°."
                     ]
                 },
                 {
@@ -340,6 +451,22 @@
                     "examples": [
                         "sin30° = cos60°, tan20° = cot70°."
                     ]
+                },
+                {
+                    "id": "8.4",
+                    "title": "Trigonometric Identities",
+                    "definition": "An equation involving trigonometric ratios of an angle is an identity if it holds for all values of the angle(s) involved.",
+                    "formulae": [
+                        "sin² A + cos² A = 1",
+                        "1 + tan² A = sec² A (0° ≤ A < 90°)",
+                        "cot² A + 1 = cosec² A (0° < A ≤ 90°)"
+                    ],
+                    "examples": [
+                        "Example 9: Express cos A, tan A and sec A in terms of sin A.",
+                        "Example 10: Prove sec A(1 - sin A)(sec A + tan A) = 1.",
+                        "Example 11: Prove (cot A - cos A)/(cot A + cos A) = (cosec A - 1)/(cosec A + 1).",
+                        "Example 12: Prove (sin θ - cos θ + 1)/(sin θ + cos θ - 1) = 1/(sec θ - tan θ) using 1 + tan² θ = sec² θ."
+                    ]
                 }
             ]
         },
@@ -350,10 +477,17 @@
                 {
                     "id": "9.1",
                     "title": "Heights and Distances",
-                    "definition": "Trigonometry is used to find heights of objects and distances between points that are not easy to measure directly, using angles of elevation and depression.",
+                    "definition": "Trigonometry is used to find heights of objects and distances between points. Line of Sight: Line from observer's eye to viewed point. Angle of Elevation: Angle formed by line of sight with horizontal (point above). Angle of Depression: Angle formed by line of sight with horizontal (point below).",
                     "formulae": [],
                     "examples": [
-                        "Finding height of a tree given distance from base and angle of elevation using tanθ = opposite/adjacent."
+                        "Finding height of a tree given distance from base and angle of elevation using tanθ = opposite/adjacent.",
+                        "Example 1: Tower height (h) = 15√3 m given distance 15m and angle of elevation 60°.",
+                        "Example 2: Ladder length (BC) = 4.28m to reach 1.3m below the top of a 5m pole at 60° inclination.",
+                        "Example 3: Chimney height (AB) = 30m given observer height 1.5m, distance 28.5m, and elevation 45°.",
+                        "Example 4: Flagstaff length (DB) = 7.32m and building distance (PA) = 17.32m from elevation angles 45° and 30°.",
+                        "Example 5: Shadow length difference (40m) between 30° and 60° Sun altitude gives tower height 20√3 m.",
+                        "Example 6: Multi-storeyed building height and distance = 4(3 + √3) m from angles of depression 30° and 45° to an 8m building.",
+                        "Example 7: Width of river AB = 3(1 + √3) m given bridge height 3m and depression angles 30° and 45°."
                     ]
                 }
             ]
@@ -365,19 +499,34 @@
                 {
                     "id": "10.1",
                     "title": "Tangent to a Circle",
-                    "definition": "A tangent to a circle is a line that touches the circle at exactly one point and is perpendicular to radius through the point of contact.",
-                    "formulae": [],
+                    "definition": "A tangent to a circle is a line that intersects the circle at only one point. The common point is the point of contact. Theorem 10.1: The tangent at any point of a circle is perpendicular to the radius through the point of contact.",
+                    "formulae": [
+                        "Tangent ⊥ Radius at point of contact"
+                    ],
                     "examples": [
-                        "If OT is radius and PT tangent at T, then OT ⟂ PT."
+                        "If OT is radius and PT tangent at T, then OT ⟂ PT.",
+                        "Activity 1: Rotating a wire about a point P on a circular wire shows only one tangent exists at P.",
+                        "Activity 2: There cannot be more than two tangents parallel to a given secant.",
+                        "Exercise 10.1 Q3: If radius is 5cm and OQ = 12cm, then tangent PQ = √119 cm."
                     ]
                 },
                 {
                     "id": "10.2",
                     "title": "Number of Tangents from a Point",
-                    "definition": "From a point outside a circle, exactly two tangents can be drawn to the circle; from a point on circle, only one; from inside, none.",
-                    "formulae": [],
+                    "definition": "Number of tangents: No tangent from inside, one from a point on the circle, and exactly two from an external point. Theorem 10.2: The lengths of tangents drawn from an external point to a circle are equal.",
+                    "formulae": [
+                        "PT₁ = PT₂ (Length of tangents from external point P)",
+                        "The centre lies on the bisector of the angle between the two tangents."
+                    ],
                     "examples": [
-                        "From point P outside circle, tangents PA and PB are equal in length."
+                        "From point P outside circle, tangents PA and PB are equal in length.",
+                        "Example 1: In concentric circles, a chord of the larger circle touching the smaller one is bisected at the point of contact.",
+                        "Example 2: For tangents TP and TQ from external point T, ∠PTQ = 2∠OPQ.",
+                        "Example 3: For a 5cm radius circle and 8cm chord PQ, the tangent length TP = 20/3 cm.",
+                        "Exercise 10.2 Q8: For a quadrilateral ABCD circumscribing a circle, AB + CD = AD + BC.",
+                        "Exercise 10.2 Q9: For parallel tangents XY and X'Y' and another tangent AB, ∠AOB = 90°.",
+                        "Exercise 10.2 Q11: A parallelogram circumscribing a circle is a rhombus.",
+                        "Exercise 10.2 Q13: Opposite sides of a circumscribing quadrilateral subtend supplementary angles at the centre."
                     ]
                 }
             ]
@@ -425,13 +574,22 @@
                 {
                     "id": "12.2",
                     "title": "Area of Sector and Segment",
-                    "definition": "Sector is region bounded by two radii and an arc; segment is region bounded by chord and its corresponding arc.",
+                    "definition": "A sector is a portion of circular region enclosed by two radii and the corresponding arc (minor or major). A segment is a portion enclosed between a chord and its corresponding arc (minor or major). Unless stated otherwise, 'sector' and 'segment' refer to the minor ones.",
                     "formulae": [
                         "Area of sector (θ in degrees) = (θ/360°) × πr²",
-                        "Length of arc = (θ/360°) × 2πr"
+                        "Length of arc = (θ/360°) × 2πr",
+                        "Area of sector = (θ/360) × πr²",
+                        "Length of arc = (θ/360) × 2πr",
+                        "Area of segment = Area of sector - Area of triangle"
                     ],
                     "examples": [
-                        "Sector with θ = 90°, r = 7 cm has area (1/4)π×7² = (49/4)π."
+                        "Sector with θ = 90°, r = 7 cm has area (1/4)π×7² = (49/4)π.",
+                        "Example 1: For r = 4cm, θ = 30°, sector area ≈ 4.19 cm² and major sector area ≈ 46.1 cm².",
+                        "Example 2: For r = 21cm, θ = 120°, area of segment AYB = (462 - 441√3/4) cm².",
+                        "Ex 11.1 Q3: Area swept by 14cm minute hand in 5 mins (θ = 30°) = 154/3 cm².",
+                        "Ex 11.1 Q8: Grazing area for horse with 5m rope in square field = 19.625 m².",
+                        "Ex 11.1 Q10: Area between two consecutive ribs of an 8-rib umbrella (r = 45cm) = 22275/28 cm².",
+                        "Ex 11.1 Q11: Total area cleaned by two 25cm wipers (115°) ≈ 1254.96 cm²."
                     ]
                 },
                 {
@@ -500,6 +658,34 @@
                     "examples": [
                         "Water bucket approximated as frustum of a cone."
                     ]
+                },
+                {
+                    "id": "13.5",
+                    "title": "Surface Area of Combination of Solids",
+                    "definition": "The total surface area of a solid formed by the combination of any two or more basic solids is the sum of the curved surface areas of the individual parts that are visible.",
+                    "formulae": [
+                        "TSA (combined) = Σ CSA of visible parts"
+                    ],
+                    "examples": [
+                        "Example 1: Playing top (lattu) area = CSA of hemisphere + CSA of cone = (2πr²) + (πrl).",
+                        "Example 2: Decorative block (cube + hemisphere) area = 6a² - πr² + 2πr².",
+                        "Example 3: Rocket toy (cone on cylinder) area involves CSA of cone, CSA of cylinder, and the base area difference.",
+                        "Example 4: Bird-bath (cylinder with hemispherical depression) TSA = 2πrh + 2πr²."
+                    ]
+                },
+                {
+                    "id": "13.6",
+                    "title": "Volume of Combination of Solids",
+                    "definition": "The volume of a solid formed by joining two or more basic solids is the sum of the volumes of the individual constituent solids.",
+                    "formulae": [
+                        "Volume (combined) = Σ Volume of constituents"
+                    ],
+                    "examples": [
+                        "Example 5: Industrial shed (cuboid + half-cylinder) volume = Volume of cuboid + 1/2 × Volume of cylinder.",
+                        "Example 6: Juice glass capacity = Volume of cylinder - Volume of hemispherical raised portion.",
+                        "Example 7: Toy (hemisphere + cone) volume = 2/3πr³ + 1/3πr²h.",
+                        "Ex 12.2 Q3: Volume of 45 gulab jamuns (cylinder + 2 hemispheres) with 30% syrup content."
+                    ]
                 }
             ]
         },
@@ -510,7 +696,7 @@
                 {
                     "id": "14.1",
                     "title": "Grouped Frequency Distribution",
-                    "definition": "Large data are organised into class intervals and corresponding frequencies to form grouped frequency distributions.",
+                    "definition": "Large data are organised into class intervals. Class Mark = (Upper Class Limit + Lower Class Limit) / 2. Frequencies are assumed to be centred around class marks.",
                     "formulae": [],
                     "examples": [
                         "Grouping marks of students into intervals 0–10, 10–20, etc. with frequencies."
@@ -521,24 +707,44 @@
                     "title": "Mean of Grouped Data",
                     "definition": "Mean of grouped data can be found using direct, assumed mean or step‑deviation methods based on midpoints and frequencies.",
                     "formulae": [
-                        "Mean (direct) = Σfᵢxᵢ / Σfᵢ"
+                        "Direct Method: x̄ = Σfi xi / Σfi",
+                        "Assumed Mean Method: x̄ = a + Σfi di / Σfi (di = xi - a)",
+                        "Step-deviation Method: x̄ = a + h(Σfi ui / Σfi) (ui = (xi - a)/h)"
                     ],
                     "examples": [
-                        "Calculating average marks from grouped frequency table using midpoints xᵢ."
+                        "Calculating average marks from grouped frequency table using midpoints xᵢ.",
+                        "Example 1: Mean marks of 30 students using direct method (x̄ = 59.3).",
+                        "Example 2: Mean percentage of female teachers (x̄ = 39.71) using all three methods.",
+                        "Example 3: Mean wickets taken by bowlers using step-deviation method (x̄ = 152.89)."
                     ]
                 },
                 {
                     "id": "14.3",
-                    "title": "Mode and Median of Grouped Data",
-                    "definition": "Mode is value with highest frequency; median is central value dividing data into two equal halves, obtained using formulas for grouped data.",
-                    "formulae": [],
+                    "title": "Mode of Grouped Data",
+                    "definition": "Mode is the value having the maximum frequency. In grouped data, the modal class is the class with the highest frequency.",
+                    "formulae": [
+                        "Mode = l + [ (f1 - f0) / (2f1 - f0 - f2) ] × h"
+                    ],
                     "examples": [
-                        "Finding median class and using cumulative frequencies to compute median.",
-                        "Mode approximated using modal class."
+                        "Example 5: Mode of family size data (modal class 3-5) = 3.286.",
+                        "Example 6: Comparing mode (52) and mean (62) for student marks."
                     ]
                 },
                 {
                     "id": "14.4",
+                    "title": "Median of Grouped Data",
+                    "definition": "Median is the middle-most observation. Median Class is the class whose cumulative frequency is greater than (and nearest to) n/2.",
+                    "formulae": [
+                        "Median = l + [ (n/2 - cf) / f ] × h",
+                        "Empirical Relation: 3 Median = Mode + 2 Mean"
+                    ],
+                    "examples": [
+                        "Example 7: Median height of 51 girls = 149.03 cm.",
+                        "Example 8: Finding missing frequencies x and y given median = 525 and total frequency = 100."
+                    ]
+                },
+                {
+                    "id": "14.5",
                     "title": "Graphical Representation: Ogives (Intro)",
                     "definition": "Cumulative frequency curves (ogives) graphically represent data and help find median and other measures.",
                     "formulae": [],
@@ -570,7 +776,10 @@
                     ],
                     "examples": [
                         "Probability of getting head in coin toss = 1/2.",
-                        "Probability of getting even number on a die = 3/6 = 1/2."
+                        "Probability of getting even number on a die = 3/6 = 1/2.",
+                        "Example 4: Probability of an ace from a deck of 52 cards is 4/52 = 1/13.",
+                        "Example 9: Tossing two coins simultaneously: P(at least one head) = 3/4.",
+                        "Example 13: Sum of two dice being 8 has 5 favourable outcomes; P(sum=8) = 5/36."
                     ]
                 },
                 {
@@ -578,10 +787,50 @@
                     "title": "Complementary Events",
                     "definition": "Complementary events E and not‑E together cover all outcomes; their probabilities add to 1.",
                     "formulae": [
-                        "P(E) + P(not E) = 1"
+                        "P(E) + P(not E) = 1",
+                        "P(Ē) = 1 - P(E)"
                     ],
                     "examples": [
-                        "If probability of passing an exam is 0.8, probability of failing is 0.2."
+                        "If probability of passing an exam is 0.8, probability of failing is 0.2.",
+                        "Example 5: If Sangeeta's winning probability is 0.62, Reshma's winning probability is 1 - 0.62 = 0.38.",
+                        "Example 6: Probability of two friends having different birthdays is 364/365, and same birthday is 1/365."
+                    ]
+                },
+                {
+                    "id": "15.4",
+                    "title": "Elementary Events",
+                    "definition": "An event having only one outcome of the experiment is called an elementary event. The sum of the probabilities of all the elementary events of an experiment is 1.",
+                    "formulae": [
+                        "Σ P(Elementary Events) = 1"
+                    ],
+                    "examples": [
+                        "Example 2: Drawing any one of 3 different colored balls (Red, Blue, Yellow) has probability 1/3 each; sum is 1."
+                    ]
+                },
+                {
+                    "id": "15.5",
+                    "title": "Impossible and Sure Events",
+                    "definition": "The probability of an impossible event is 0. The probability of a sure (certain) event is 1. For any event E, 0 ≤ P(E) ≤ 1.",
+                    "formulae": [
+                        "P(Impossible Event) = 0",
+                        "P(Sure Event) = 1",
+                        "0 ≤ P(E) ≤ 1"
+                    ],
+                    "examples": [
+                        "Probability of getting 8 on a single die throw is 0 (Impossible event).",
+                        "Probability of getting a number less than 7 on a single die throw is 1 (Sure event)."
+                    ]
+                },
+                {
+                    "id": "15.6",
+                    "title": "Geometric Probability",
+                    "definition": "For experiments with infinitely many outcomes, probability can be calculated as the ratio of favourable length/area to the total length/area.",
+                    "formulae": [
+                        "P(E) = (Favourable Area) / (Total Area)"
+                    ],
+                    "examples": [
+                        "Example 10: Musical chair game stopping within first half-minute (1/4 probability).",
+                        "Example 11: Helicopter crash inside a lake in a rectangular region based on area ratio (5/27)."
                     ]
                 }
             ]

@@ -10,26 +10,30 @@
                 {
                     "id": "1.1",
                     "title": "Chemical Reactions and Chemical Equations",
-                    "definition": "A chemical reaction is a process in which one or more substances (reactants) change to form new substances (products) with different properties. A chemical equation is a symbolic representation of this reaction using chemical formulae.",
+                    "definition": "A chemical reaction is a process in which one or more substances (reactants) change to form new substances (products) with different properties. A chemical equation is a symbolic representation of this reaction using chemical formulae. Characteristics of chemical reactions include change in state, change in colour, evolution of a gas and change in temperature.",
                     "formulae": [],
                     "examples": [
                         "Magnesium + Oxygen → Magnesium oxide (word equation).",
-                        "2Mg + O2 → 2MgO (balanced chemical equation)."
+                        "2Mg + O2 → 2MgO (balanced chemical equation).",
+                        "Activity 1.1: Magnesium ribbon burns with a dazzling white flame and changes into a white powder (magnesium oxide).",
+                        "Activity 1.2: Reaction between lead nitrate solution and potassium iodide solution.",
+                        "Activity 1.3: Action of dilute sulphuric acid or hydrochloric acid on zinc granules producing hydrogen gas and heat."
                     ]
                 },
                 {
                     "id": "1.2",
                     "title": "Balancing Chemical Equations",
-                    "definition": "Chemical equations are balanced so that the number of atoms of each element is the same on both sides, satisfying the law of conservation of mass.",
+                    "definition": "Chemical equations are balanced so that the number of atoms of each element is the same on both sides, satisfying the law of conservation of mass (mass can neither be created nor destroyed). A skeletal chemical equation is an unbalanced representation of a reaction.",
                     "formulae": [],
                     "examples": [
-                        "Unbalanced: Fe + O2 → Fe2O3; Balanced: 4Fe + 3O2 → 2Fe2O3."
+                        "Unbalanced: Fe + O2 → Fe2O3; Balanced: 4Fe + 3O2 → 2Fe2O3.",
+                        "Balanced: 3Fe(s) + 4H2O(g) → Fe3O4(s) + 4H2(g) (reaction with steam)."
                     ]
                 },
                 {
                     "id": "1.3",
                     "title": "Types of Chemical Reactions",
-                    "definition": "Common types include combination, decomposition, displacement, double displacement and redox reactions, based on how reactants change to products.",
+                    "definition": "Common types include combination, decomposition, displacement, double displacement and redox reactions, based on how reactants change to products. These reactions involve breaking and making of bonds between atoms.",
                     "formulae": [],
                     "examples": [
                         "Combination: 2H2 + O2 → 2H2O.",
@@ -39,13 +43,85 @@
                     ]
                 },
                 {
+                    "id": "1.5",
+                    "title": "Combination Reaction",
+                    "definition": "A reaction in which a single product is formed from two or more reactants. Reactions in which heat is released along with the formation of products are called exothermic chemical reactions.",
+                    "formulae": [
+                        "CaO(s) + H2O(l) → Ca(OH)2(aq) + Heat"
+                    ],
+                    "examples": [
+                        "Activity 1.4: Calcium oxide (quick lime) reacts vigorously with water to produce slaked lime (calcium hydroxide), releasing a large amount of heat.",
+                        "Whitewashing: Slaked lime reacts with CO2 in air to form a thin layer of calcium carbonate (CaCO3) on walls.",
+                        "Burning of coal: C(s) + O2(g) → CO2(g).",
+                        "Formation of water: 2H2(g) + O2(g) → 2H2O(l).",
+                        "Respiration: C6H12O6(aq) + 6O2(aq) → 6CO2(aq) + 6H2O(l) + energy (Exothermic process).",
+                        "Burning of natural gas: CH4(g) + 2O2(g) → CO2(g) + 2H2O(g).",
+                        "Decomposition of vegetable matter into compost (Exothermic)."
+                    ]
+                },
+                {
+                    "id": "1.6",
+                    "title": "Decomposition Reaction",
+                    "definition": "A reaction in which a single reactant breaks down to give simpler products. These reactions require energy in the form of heat, light or electricity for breaking down reactants and are known as endothermic reactions.",
+                    "formulae": [
+                        "2FeSO4(s) --Heat--> Fe2O3(s) + SO2(g) + SO3(g)"
+                    ],
+                    "examples": [
+                        "Activity 1.5: Ferrous sulphate crystals lose water when heated and change colour, then decompose to ferric oxide, sulphur dioxide and sulphur trioxide.",
+                        "Thermal decomposition of Limestone: CaCO3(s) --Heat--> CaO(s) + CO2(g) (Used in manufacture of cement).",
+                        "Activity 1.6: Heating lead nitrate powder causes emission of brown fumes of nitrogen dioxide (NO2).",
+                        "Activity 1.7: Electrolysis of water (Electrolytic decomposition).",
+                        "Activity 1.8: White silver chloride turns grey in sunlight due to decomposition into silver and chlorine (Photolytic decomposition).",
+                        "Silver bromide decomposition is used in black and white photography."
+                    ]
+                },
+                {
+                    "id": "1.7",
+                    "title": "Displacement Reaction",
+                    "definition": "A chemical reaction in which a more reactive element displaces or removes another less reactive element from its compound.",
+                    "formulae": [
+                        "Fe(s) + CuSO4(aq) → FeSO4(aq) + Cu(s)"
+                    ],
+                    "examples": [
+                        "Activity 1.9: Iron nail becomes brownish and the blue colour of copper sulphate solution fades as iron displaces copper.",
+                        "Zn(s) + CuSO4(aq) → ZnSO4(aq) + Cu(s) (Zinc is more reactive than copper).",
+                        "Pb(s) + CuCl2(aq) → PbCl2(aq) + Cu(s) (Lead is more reactive than copper)."
+                    ]
+                },
+                {
+                    "id": "1.8",
+                    "title": "Double Displacement Reaction",
+                    "definition": "Reactions in which there is an exchange of ions between the reactants. Any reaction that produces an insoluble substance (precipitate) is called a precipitation reaction.",
+                    "formulae": [
+                        "Na2SO4(aq) + BaCl2(aq) → BaSO4(s) + 2NaCl(aq)"
+                    ],
+                    "examples": [
+                        "Activity 1.10: Sodium sulphate solution reacts with barium chloride solution to form a white precipitate of barium sulphate.",
+                        "Reaction between lead(II) nitrate and potassium iodide forming a yellow precipitate of lead iodide."
+                    ]
+                },
+                {
+                    "id": "1.9",
+                    "title": "Oxidation and Reduction",
+                    "definition": "Oxidation is the gain of oxygen or loss of hydrogen. Reduction is the loss of oxygen or gain of hydrogen. Reactions where one reactant gets oxidised while the other gets reduced are called oxidation-reduction reactions or redox reactions.",
+                    "formulae": [
+                        "CuO + H2 --Heat--> Cu + H2O"
+                    ],
+                    "examples": [
+                        "Activity 1.11: Copper powder on heating becomes coated with black copper(II) oxide; if hydrogen gas is passed over heated CuO, it turns brown.",
+                        "ZnO + C → Zn + CO (Carbon is oxidised, ZnO is reduced).",
+                        "MnO2 + 4HCl → MnCl2 + 2H2O + Cl2 (HCl is oxidised to Cl2, MnO2 is reduced to MnCl2)."
+                    ]
+                },
+                {
                     "id": "1.4",
                     "title": "Effects of Oxidation and Reduction: Corrosion and Rancidity",
-                    "definition": "Oxidation is gain of oxygen or loss of electrons; reduction is loss of oxygen or gain of electrons. Slow oxidation can cause corrosion of metals and rancidity of fats and oils.",
+                    "definition": "Oxidation is gain of oxygen or loss of electrons; reduction is loss of oxygen or gain of electrons. Slow oxidation can cause corrosion of metals (attacked by moisture, acids, etc.) and rancidity of fats and oils (changing smell and taste).",
                     "formulae": [],
                     "examples": [
                         "Rusting of iron: 4Fe + 3O2 + 2xH2O → 2Fe2O3·xH2O.",
-                        "Chips packed in nitrogen to slow rancidity of oil."
+                        "Corrosion: Black coating on silver and green coating on copper.",
+                        "Food preservation: Adding antioxidants, keeping food in air tight containers, or flushing bags with nitrogen gas to prevent rancidity."
                     ]
                 }
             ]
@@ -57,40 +133,101 @@
                 {
                     "id": "2.1",
                     "title": "Acids and Bases and Their Indicators",
-                    "definition": "Acids produce H+ ions in aqueous solution; bases produce OH− ions. Indicators like litmus, phenolphthalein and methyl orange show different colours in acids and bases.",
+                    "definition": "Acids produce H+ ions in aqueous solution; bases produce OH− ions. Acids are sour in taste and change the colour of blue litmus to red, whereas bases are bitter and change red litmus to blue. Indicators like litmus (purple dye from lichen), turmeric, phenolphthalein and methyl orange show different colours in acids and bases.",
                     "formulae": [],
                     "examples": [
                         "HCl is an acid, NaOH is a base.",
-                        "Blue litmus turns red in acids; red litmus turns blue in bases."
+                        "Blue litmus turns red in acids; red litmus turns blue in bases.",
+                        "Olfactory Indicators: Substances whose odour changes in acidic or basic media, such as onion, vanilla essence and clove oil."
                     ]
                 },
                 {
                     "id": "2.2",
                     "title": "Chemical Properties of Acids and Bases",
-                    "definition": "Acids and bases show characteristic reactions with metals, metal oxides, carbonates and each other, often producing salts and other compounds.",
+                    "definition": "Acids and bases show characteristic reactions with metals, metal oxides, carbonates and each other, often producing salts and other compounds. Neutralisation is the reaction between an acid and a base to give a salt and water.",
                     "formulae": [],
                     "examples": [
-                        "Acid + metal → salt + H2 (e.g., 2HCl + Zn → ZnCl2 + H2).",
-                        "Base + acid → salt + water (neutralisation): NaOH + HCl → NaCl + H2O."
+                        "Acid + Metal → Salt + Hydrogen gas (e.g., Zn + H2SO4 → ZnSO4 + H2).",
+                        "Base + Metal → Salt + Hydrogen gas: 2NaOH + Zn → Na2ZnO2 (Sodium zincate) + H2.",
+                        "Reaction with Carbonates/Hydrogencarbonates: Acid + Metal Carbonate/Hydrogencarbonate → Salt + CO2 + Water.",
+                        "Lime Water Test: CO2 passing through calcium hydroxide turns it milky (CaCO3 precipitate); excess CO2 makes it clear (Ca(HCO3)2).",
+                        "Base + Acid → Salt + Water (Neutralisation): NaOH + HCl → NaCl + H2O.",
+                        "Metallic oxides are basic (react with acids); non-metallic oxides are acidic (react with bases)."
                     ]
                 },
                 {
                     "id": "2.3",
                     "title": "pH and Its Importance",
-                    "definition": "pH is a measure of acidity or basicity of a solution on a scale from 0 to 14, defined as negative logarithm of hydrogen ion concentration.",
+                    "definition": "pH is a measure of hydrogen ion concentration on a scale from 0 (very acidic) to 14 (very alkaline). Higher the hydronium ion concentration, lower is the pH value. Strong acids/bases produce more H+/OH- ions respectively.",
                     "formulae": [],
                     "examples": [
                         "pH < 7 indicates acidic, pH = 7 neutral, pH > 7 basic.",
-                        "Human blood has pH around 7.4."
+                        "Universal Indicator: A mixture of several indicators showing different colours at different H+ concentrations.",
+                        "Hydrochloric acid is a strong acid, while acetic acid is a weak acid."
                     ]
                 },
                 {
                     "id": "2.4",
                     "title": "Salts and Their Uses",
-                    "definition": "Salts are ionic compounds formed by neutralisation of acids and bases and have many household and industrial uses.",
+                    "definition": "Salts are ionic compounds formed by neutralisation. Salts of strong acid and strong base are neutral (pH 7); strong acid and weak base are acidic (pH < 7); strong base and weak acid are basic (pH > 7).",
                     "formulae": [],
                     "examples": [
-                        "Common salt NaCl, baking soda NaHCO3, washing soda Na2CO3·10H2O, plaster of Paris CaSO4·½H2O."
+                        "Common salt NaCl used in food and as raw material for chemicals.",
+                        "Rock salt: Large brown crystals of sodium chloride formed from dried bygone seas.",
+                        "Potassium sulphate, sodium sulphate, calcium sulphate, copper sulphate and ammonium chloride are common salts."
+                    ]
+                },
+                {
+                    "id": "2.5",
+                    "title": "Acids and Bases in Water Solution",
+                    "definition": "Acids generate hydronium ions (H3O+) or H+(aq) ions in the presence of water. Bases generate hydroxide (OH-) ions in water. Bases which are soluble in water are called alkalis; they are soapy to touch, bitter and corrosive.",
+                    "formulae": [
+                        "HCl + H2O → H3O+ + Cl-",
+                        "H+ + H2O → H3O+"
+                    ],
+                    "examples": [
+                        "Activity 2.8: Acidic solutions conduct electricity due to ions; compounds like alcohol and glucose do not conduct.",
+                        "Activity 2.9: Separation of H+ ions from HCl molecules cannot occur in the absence of water; dry HCl gas does not change dry litmus paper.",
+                        "Dilution: The process of dissolving an acid or base in water is highly exothermic; acid must always be added slowly to water with constant stirring."
+                    ]
+                },
+                {
+                    "id": "2.6",
+                    "title": "Importance of pH in Everyday Life",
+                    "definition": "Living organisms, including humans (pH 7.0–7.8), are sensitive to narrow ranges of pH change in their environment and metabolic systems.",
+                    "formulae": [],
+                    "examples": [
+                        "Acid Rain: Rainwater with pH less than 5.6 flowing into rivers affecting aquatic life.",
+                        "Digestive System: Stomach produces HCl; antacids like Magnesium hydroxide (Milk of magnesia) neutralise excess acid during indigestion.",
+                        "Tooth Decay: Starts when mouth pH is below 5.5; basic toothpastes neutralise excess acid.",
+                        "Self Defence: Bee stings (acidic) and Nettle stings (methanoic acid) cause pain; neutralised by mild bases like baking soda. Dock plant is a traditional remedy."
+                    ]
+                },
+                {
+                    "id": "2.7",
+                    "title": "Chemicals from Common Salt",
+                    "definition": "Common salt (sodium chloride) is an important raw material for various chemicals used in daily life and industry.",
+                    "formulae": [
+                        "2NaCl(aq) + 2H2O(l) → 2NaOH(aq) + Cl2(g) + H2(g)"
+                    ],
+                    "examples": [
+                        "Sodium Hydroxide: Produced by chlor-alkali process via electrolysis of brine.",
+                        "Bleaching Powder (CaOCl2): Produced by action of chlorine on dry slaked lime; used in textile, laundry and as disinfectant.",
+                        "Baking Soda (NaHCO3): Used in pakoras, antacids and fire extinguishers; heating gives sodium carbonate and CO2.",
+                        "Washing Soda (Na2CO3.10H2O): Obtained by recrystallisation of sodium carbonate; used in glass, soap, paper and for removing water hardness."
+                    ]
+                },
+                {
+                    "id": "2.8",
+                    "title": "Water of Crystallisation",
+                    "definition": "Water of crystallisation is the fixed number of water molecules present in one formula unit of a salt. Hydrated salts lose this water and their colour upon heating.",
+                    "formulae": [
+                        "CaSO4·1/2H2O + 1.5H2O → CaSO4·2H2O"
+                    ],
+                    "examples": [
+                        "Copper sulphate crystals (CuSO4.5H2O) are blue but turn white on heating.",
+                        "Gypsum (CaSO4.2H2O) and Plaster of Paris (CaSO4.1/2H2O).",
+                        "Plaster of Paris uses: Supporting fractured bones, making toys, decorative materials and smoothing surfaces."
                     ]
                 }
             ]
@@ -102,38 +239,118 @@
                 {
                     "id": "3.1",
                     "title": "Physical Properties of Metals and Non-metals",
-                    "definition": "Metals are generally lustrous, malleable, ductile, good conductors and sonorous; non‑metals are usually dull, brittle in solid state and poor conductors.",
+                    "definition": "Metals are lustrous, malleable, ductile, good conductors of heat and electricity, and sonorous. Non‑metals are usually dull, brittle in solid state, and poor conductors. Elements can be more clearly classified on the basis of chemical properties.",
                     "formulae": [],
                     "examples": [
-                        "Iron, copper and aluminium are metals; sulphur and phosphorus are non‑metals."
+                        "Metallic Lustre: Metals in pure state have a shining surface.",
+                        "Malleability: Metals like gold and silver can be beaten into thin sheets.",
+                        "Ductility: Metals can be drawn into thin wires; gold is the most ductile.",
+                        "Conduction: Silver and copper are best conductors of heat; lead and mercury are poor conductors. Electric wires have PVC or rubber coating.",
+                        "Exceptions: Mercury is liquid at room temperature; Gallium and Caesium melt on the palm; Iodine is a lustrous non-metal; Carbon allotropes like Diamond (hardest) and Graphite (conductor); Alkali metals (Li, Na, K) are soft and can be cut with a knife."
                     ]
                 },
                 {
                     "id": "3.2",
                     "title": "Chemical Properties of Metals",
-                    "definition": "Metals react with oxygen, water, acids and other salts; reactivity varies and is summarised in the reactivity series.",
-                    "formulae": [],
+                    "definition": "Metals react with oxygen, water, acids and other salts. Most metals give rise to basic oxides; however, some show both acidic and basic behaviour. Reactivity varies significantly across different metals.",
+                    "formulae": [
+                        "Metal + Oxygen → Metal oxide",
+                        "2Cu + O2 → 2CuO (Black copper(II) oxide)",
+                        "4Al + 3O2 → 2Al2O3"
+                    ],
                     "examples": [
-                        "4Na + O2 → 2Na2O; 2Mg + O2 → 2MgO.",
-                        "Metal + acid → salt + H2, e.g., Zn + H2SO4 → ZnSO4 + H2."
+                        "Amphoteric Oxides: Oxides like Al2O3 and ZnO react with both acids and bases to produce salt and water.",
+                        "Anodising: Process of forming a thick oxide layer of aluminium to improve corrosion resistance.",
+                        "Reaction with Water: Sodium and Potassium react violently with cold water; Calcium floats due to H2 bubbles; Magnesium reacts with hot water; Aluminium, Iron and Zinc react with steam.",
+                        "Aqua Regia: A freshly prepared mixture of concentrated HCl and HNO3 (3:1) that dissolves gold and platinum."
+                    ]
+                },
+                {
+                    "id": "3.5",
+                    "title": "The Reactivity Series",
+                    "definition": "The reactivity series is a list of metals arranged in the order of their decreasing activities, determined primarily through displacement reactions.",
+                    "formulae": [
+                        "Metal A + Salt solution of B → Salt solution of A + Metal B"
+                    ],
+                    "examples": [
+                        "Activity 3.12: Iron displaces copper from copper sulphate solution.",
+                        "Series: K > Na > Ca > Mg > Al > Zn > Fe > Pb > [H] > Cu > Hg > Ag > Au."
                     ]
                 },
                 {
                     "id": "3.3",
                     "title": "Ionic Compounds",
-                    "definition": "Ionic compounds form due to transfer of electrons from metals to non‑metals, producing oppositely charged ions held by electrostatic forces.",
+                    "definition": "Ionic or electrovalent compounds are formed by the transfer of electrons from a metal to a non-metal, held by strong electrostatic forces of attraction. They exist as aggregates of oppositely charged ions.",
+                    "formulae": [
+                        "Na → Na+ + e-; Cl + e- → Cl-; Na+ + Cl- → NaCl",
+                        "Mg → Mg2+ + 2e-; 2Cl + 2e- → 2Cl-; Mg2+ + 2Cl- → MgCl2"
+                    ],
+                    "examples": [
+                        "Physical Nature: Solids, hard and generally brittle.",
+                        "Melting and Boiling Points: High points due to strong inter-ionic attraction.",
+                        "Solubility: Generally soluble in water and insoluble in solvents like kerosene or petrol.",
+                        "Conduction: Conduct electricity in molten state or aqueous solution, but not in solid state."
+                    ]
+                },
+                {
+                    "id": "3.6",
+                    "title": "Extraction of Metals",
+                    "definition": "Metallurgy is the process of extracting metals from their ores and refining them. Elements or compounds occurring naturally in the earth's crust are minerals; those from which metals can be profitably extracted are ores.",
                     "formulae": [],
                     "examples": [
-                        "Formation of NaCl from Na and Cl; CaCl2 from Ca and Cl2."
+                        "Gangue: Large amounts of impurities like soil and sand found in mined ores.",
+                        "Low Reactivity: Metals like Mercury (from Cinnabar HgS) and Copper (from Cu2S) extracted by heating alone.",
+                        "Middle Reactivity: Found as sulphides or carbonates; converted to oxides before reduction."
+                    ]
+                },
+                {
+                    "id": "3.7",
+                    "title": "Roasting, Calcination and Reduction",
+                    "definition": "Extraction methods for moderately and highly reactive metals. Sulphide ores are roasted (excess air) and carbonate ores are calcinated (limited air) to obtain oxides, which are then reduced.",
+                    "formulae": [
+                        "Roasting: 2ZnS + 3O2 --Heat--> 2ZnO + 2SO2",
+                        "Calcination: ZnCO3 --Heat--> ZnO + CO2",
+                        "Reduction: ZnO + C → Zn + CO",
+                        "Thermit: Fe2O3 + 2Al → 2Fe(l) + Al2O3 + Heat"
+                    ],
+                    "examples": [
+                        "Thermit Reaction: Highly exothermic displacement used to join railway tracks or cracked machine parts.",
+                        "Electrolytic Reduction: Metals like Sodium, Magnesium and Calcium obtained by electrolysis of molten chlorides; Aluminium from its oxide."
+                    ]
+                },
+                {
+                    "id": "3.8",
+                    "title": "Refining of Metals",
+                    "definition": "The final stage of metallurgy where impurities are removed from the metal produced by reduction. The most common method is electrolytic refining.",
+                    "formulae": [],
+                    "examples": [
+                        "Electrolytic Refining of Copper: Impure metal (anode), pure metal strip (cathode), and acidified copper sulphate (electrolyte).",
+                        "Anode Mud: Insoluble impurities that settle at the bottom of the anode during refining."
                     ]
                 },
                 {
                     "id": "3.4",
                     "title": "Corrosion and Its Prevention",
-                    "definition": "Corrosion is the gradual damage of metals by chemical reactions with environment, especially air and moisture. It can be reduced by protective coatings or sacrificial metals.",
+                    "definition": "Corrosion is the gradual damage of metals by chemical reaction with the environment (air and moisture). It can be prevented by various protective coatings or by altering properties.",
                     "formulae": [],
                     "examples": [
-                        "Galvanisation of iron by zinc coating; painting and oiling metal surfaces."
+                        "Conditions for Rusting: Iron requires both air (oxygen) and water (moisture) to rust (Activity 3.14).",
+                        "Silver turns black due to silver sulphide; Copper turns green due to basic copper carbonate.",
+                        "Prevention: Painting, oiling, greasing, chrome plating, anodising or galvanising.",
+                        "Galvanisation: Protecting steel/iron by coating with zinc."
+                    ]
+                },
+                {
+                    "id": "3.9",
+                    "title": "Alloys",
+                    "definition": "An alloy is a homogeneous mixture of two or more metals, or a metal and a non-metal, used to improve the properties of a metal.",
+                    "formulae": [],
+                    "examples": [
+                        "Steel: Iron mixed with 0.05% carbon; Stainless steel: Iron + Nickel + Chromium (hard, resists rust).",
+                        "Brass (Cu + Zn) and Bronze (Cu + Sn) are not good conductors compared to pure copper.",
+                        "Solder (Pb + Sn): Low melting point used for welding electrical wires.",
+                        "Amalgam: Any alloy where one of the metals is mercury.",
+                        "Pure Gold: 24 carat (very soft); 22 carat gold (22 parts gold + 2 parts copper/silver) used for jewellery in India."
                     ]
                 }
             ]
@@ -145,47 +362,98 @@
                 {
                     "id": "4.1",
                     "title": "Versatile Nature of Carbon",
-                    "definition": "Carbon forms a vast number of compounds due to catenation (self‑linking) and tetravalency, allowing chains, branches and rings.",
+                    "definition": "The unique ability of carbon to form a huge variety of compounds is due to two factors: catenation and tetravalency. Small size of carbon atom enables the nucleus to hold on to shared pairs of electrons strongly, making bonds exceptionally stable.",
                     "formulae": [],
                     "examples": [
-                        "Chains in alkanes like hexane; rings in benzene; branched isomers like isobutane."
+                        "Catenation: Carbon can form long chains, branched chains or rings by bonding with other carbon atoms; links can be single, double or triple.",
+                        "Tetravalency: Carbon has four valence electrons and is capable of bonding with oxygen, hydrogen, nitrogen, sulphur, chlorine, etc.",
+                        "Saturated Compounds: Carbon compounds linked by only single bonds (e.g., Alkanes).",
+                        "Unsaturated Compounds: Carbon compounds having double or triple bonds (e.g., Alkenes, Alkynes); they are more reactive than saturated ones."
                     ]
                 },
                 {
                     "id": "4.2",
                     "title": "Covalent Bonding in Carbon Compounds",
-                    "definition": "Carbon shares electrons with other atoms to form covalent bonds, resulting in stable molecules of organics compounds.",
-                    "formulae": [],
+                    "definition": "Covalent bonds are formed by sharing of valence electrons between atoms. Such molecules have strong bonds within but weak intermolecular forces, resulting in low melting/boiling points and lack of electrical conductivity.",
+                    "formulae": [
+                        "Single Bond: H-H (H2 molecule)",
+                        "Double Bond: O=O (O2 molecule)",
+                        "Triple Bond: N≡N (N2 molecule)"
+                    ],
                     "examples": [
-                        "Methane CH4, ethene C2H4, carbon dioxide CO2."
+                        "Electron Dot Structure: Representation of valence electrons using dots or crosses (e.g., CH4, CO2, H2O).",
+                        "Allotropes of Carbon: Diamond (rigid 3D, hardest), Graphite (hexagonal layers, conductor), and Buckminsterfullerene (C-60, football shaped).",
+                        "Table 4.1: Acetic acid (BP 391K), Ethanol (BP 351K), Methane (BP 111K)."
+                    ]
+                },
+                {
+                    "id": "4.6",
+                    "title": "Saturated and Unsaturated Carbon Compounds",
+                    "definition": "Hydrocarbons consist of only carbon and hydrogen. Saturated hydrocarbons (alkanes) have single bonds; unsaturated ones (alkenes/alkynes) have double or triple bonds.",
+                    "formulae": [
+                        "Alkanes: CnH2n+2",
+                        "Alkenes: CnH2n",
+                        "Alkynes: CnH2n-2"
+                    ],
+                    "examples": [
+                        "Structural Isomers: Compounds with identical molecular formula but different structures (e.g., Butane C4H10 can be straight or branched).",
+                        "Cyclic Hydrocarbons: Hexagonal ring in Cyclohexane (C6H12) or Benzene (C6H6).",
+                        "Butane skeletal structures: Straight chain vs Branched chain."
                     ]
                 },
                 {
                     "id": "4.3",
                     "title": "Homologous Series and Functional Groups",
-                    "definition": "Homologous series is a family of organic compounds with same functional group and general formula, differing by CH2 unit. Functional groups decide chemical properties.",
+                    "definition": "A homologous series is a family of organic compounds with same functional group and general formula, where successive members differ by a -CH2- unit and 14u mass. Functional groups confer specific chemical properties.",
                     "formulae": [],
                     "examples": [
-                        "Alkane series: CnH2n+2; alcohol group –OH; carboxylic acid group –COOH."
+                        "Heteroatom: Element like Cl, Br, O, N or S replacing hydrogen in a hydrocarbon chain.",
+                        "Functional Groups: Halogen (–Cl/–Br), Alcohol (–OH), Aldehyde (–CHO), Ketone (>C=O), Carboxylic acid (–COOH).",
+                        "Nomenclature: Naming based on basic chain modified by prefix (Chloro-) or suffix (-ol, -al, -one, -oic acid).",
+                        "Gradation in physical properties (MP/BP increase with molecular mass) but similar chemical properties."
+                    ]
+                },
+                {
+                    "id": "4.7",
+                    "title": "Chemical Properties of Carbon Compounds",
+                    "definition": "Carbon and its compounds (fuels) show characteristic reactions like combustion, oxidation, addition and substitution.",
+                    "formulae": [
+                        "Combustion: CH4 + 2O2 → CO2 + 2H2O + heat and light",
+                        "Oxidation: Ethanol --Alkaline KMnO4 + Heat--> Ethanoic acid",
+                        "Substitution: CH4 + Cl2 --Sunlight--> CH3Cl + HCl"
+                    ],
+                    "examples": [
+                        "Oxidising Agents: Alkaline KMnO4 or acidified K2Cr2O7 capable of adding oxygen to other substances.",
+                        "Addition Reaction: Hydrogenation of unsaturated vegetable oils to saturated fats using Nickel catalyst.",
+                        "Flame nature (Activity 4.3): Saturated gives blue clean flame; unsaturated gives yellow sooty flame."
                     ]
                 },
                 {
                     "id": "4.4",
                     "title": "Important Carbon Compounds: Ethanol and Ethanoic Acid",
-                    "definition": "Ethanol and ethanoic acid are common organic compounds with wide use as solvent, fuel and acid, showing typical reactions of alcohols and carboxylic acids.",
-                    "formulae": [],
+                    "definition": "Ethanol (alcohol) and ethanoic acid (acetic acid) are commercially vital organic compounds with distinct chemical reactivities.",
+                    "formulae": [
+                        "2Na + 2CH3CH2OH → 2CH3CH2O-Na+ + H2 (Sodium ethoxide)",
+                        "Ethanol --Hot Conc. H2SO4--> Ethene + H2O (Dehydration)",
+                        "Esterification: Acid + Alcohol --Acid catalyst--> Ester + Water"
+                    ],
                     "examples": [
-                        "Ethanol C2H5OH used in spirit; ethanoic acid CH3COOH in vinegar.",
-                        "Esterification: alcohol + acid → ester + water."
+                        "Glacial Acetic Acid: Pure ethanoic acid that freezes in cold climates (MP 290K).",
+                        "Saponification: Hydrolysis of ester using NaOH to prepare soap; reverse of esterification.",
+                        "Lime Water Test: Ethanoic acid reacting with carbonates/hydrogencarbonates evolves CO2 gas.",
+                        "Industrial ethanol misuse is prevented by adding methanol/dyes (Denatured alcohol)."
                     ]
                 },
                 {
                     "id": "4.5",
-                    "title": "Soaps and Detergents (Intro)",
-                    "definition": "Soaps and detergents are cleansing agents that help remove dirt and oil by forming micelles, but differ in composition and action in hard water.",
+                    "title": "Soaps and Detergents",
+                    "definition": "Cleansing agents whose molecule has two ends: a hydrophilic (ionic) head and a hydrophobic (hydrocarbon) tail. They emulsify oily dirt to enable its removal.",
                     "formulae": [],
                     "examples": [
-                        "Soap is sodium or potassium salt of fatty acid; detergents are sulphonic acid salts effective in hard water."
+                        "Micelles: Clusters where hydrophobic tails are in the interior trapping oil and ionic ends face water outside.",
+                        "Scum: Insoluble precipitate formed by soap with Calcium and Magnesium salts in hard water.",
+                        "Detergents: Sodium salts of sulphonic acids; do not form scum and remain effective in hard water.",
+                        "Cleaning Mechanism: Micelles stay as colloid due to ion-ion repulsion, allowing suspended dirt to be rinsed away."
                     ]
                 }
             ]
@@ -230,49 +498,75 @@
                 {
                     "id": "6.1",
                     "title": "Life Processes and Their Types",
-                    "definition": "Life processes are activities essential for maintaining life, including nutrition, respiration, transportation and excretion.",
+                    "definition": "Life processes are the essential maintenance functions of living organisms that prevent damage and breakdown. Even when an organism is inactive or asleep, these processes must continue to maintain a state of order and provide energy for survival.",
                     "formulae": [],
                     "examples": [
-                        "Plants performing photosynthesis, animals respiring for energy, circulation of blood in humans."
+                        "Maintenance Job: Processes like nutrition and respiration that keep the body designed and functioning.",
+                        "Energy: External sources (food) converted into a uniform source for molecular movements.",
+                        "Carbon-based life: Most food sources are carbon-based molecules, and their breakdown often involves oxidising-reducing reactions.",
+                        "Major Processes: Nutrition (intake), Respiration (breakdown for energy), Transportation (distribution), and Excretion (removal of harmful by-products)."
                     ]
                 },
                 {
                     "id": "6.2",
                     "title": "Nutrition in Plants and Animals",
-                    "definition": "Nutrition is intake and use of food materials. Plants are autotrophs making food by photosynthesis; most animals are heterotrophs depending on others.",
+                    "definition": "Nutrition is the intake and use of food materials for energy and body building. Plants are autotrophs making food by photosynthesis; animals and fungi are heterotrophs depending on autotrophs.",
                     "formulae": [
-                        "Photosynthesis: 6CO2 + 6H2O → C6H12O6 + 6O2 (in presence of light and chlorophyll)"
+                        "Photosynthesis: 6CO2 + 12H2O --Chlorophyll/Sunlight--> C6H12O6 + 6O2 + 6H2O"
                     ],
                     "examples": [
-                        "Human digestive system with mouth, stomach and intestines; modes like holozoic nutrition."
+                        "Autotrophic: Carbon and energy requirements met by photosynthesis (absorption, conversion to chemical energy, and reduction of CO2).",
+                        "Energy Reserves: Starch in plants and Glycogen in humans serve as internal energy reserves.",
+                        "Stomata: Tiny pores on leaf surfaces; Guard cells swell (open) or shrink (close) the pore (Activity 5.2).",
+                        "Amoeba (Holozoic): Uses pseudopodia to capture food in a food-vacuole where it is broken down.",
+                        "Human Alimentary Canal: Basic parts include mouth (salivary amylase), stomach (pepsin, HCl, mucus), small intestine (complete digestion site), and large intestine.",
+                        "Enzymes: Salivary Amylase (starch), Pepsin (protein in stomach), Trypsin (protein in intestine), Lipase (emulsified fats).",
+                        "Villi: Finger-like projections in the small intestine that increase surface area for absorption into blood vessels."
                     ]
                 },
                 {
                     "id": "6.3",
                     "title": "Respiration: Aerobic and Anaerobic",
-                    "definition": "Respiration is oxidation of food to release energy. Aerobic respiration uses oxygen, while anaerobic does not and yields less energy.",
-                    "formulae": [],
+                    "definition": "Respiration involves the breakdown of food (glucose) to release energy in the form of ATP. It can occur in the presence of oxygen (aerobic) or absence of oxygen (anaerobic).",
+                    "formulae": [
+                        "ATP Production: ADP + P --Energy--> ATP (30.5 kJ/mol released during terminal bond breakage)"
+                    ],
                     "examples": [
-                        "In humans: glucose + oxygen → carbon dioxide + water + energy.",
-                        "Yeast performing anaerobic respiration producing alcohol and CO2."
+                        "Cytoplasm: Glucose (6-C) breaks into Pyruvate (3-C).",
+                        "Anaerobic (Yeast): Pyruvate converts to Ethanol and CO2.",
+                        "Lack of O2 (Muscle): Pyruvate converts to Lactic Acid, causing cramps during sudden activity.",
+                        "Aerobic (Mitochondria): Pyruvate breaks into CO2, water, and much larger energy (ATP).",
+                        "Human System: Nostrils (filtering hair/mucus), Pharynx, Larynx, Trachea (rings of cartilage), Bronchi, and Alveoli.",
+                        "Alveoli: Balloon-like structures providing an extensive surface (about 80 m²) for gas exchange with blood vessels.",
+                        "Respiratory Pigment: Haemoglobin in RBCs has high affinity for oxygen; CO2 is mostly transported in dissolved form."
                     ]
                 },
                 {
                     "id": "6.4",
                     "title": "Transportation in Plants and Animals",
-                    "definition": "Transport systems move materials like water, minerals, food and gases in organisms. Plants use xylem and phloem; animals use circulatory system with blood and vessels.",
+                    "definition": "Transport systems move nutrients, gases and wastes. Humans use a circulatory system (heart, blood, vessels); plants use vascular tissues (xylem for water, phloem for food).",
                     "formulae": [],
                     "examples": [
-                        "Heart pumping blood through arteries and veins; transpiration pull in xylem."
+                        "Human Heart: 4 chambers (2 atria, 2 ventricles); separation prevents O2-rich and CO2-rich blood from mixing.",
+                        "Double Circulation: Blood passes through the heart twice during each cycle (efficient O2 supply for mammals/birds).",
+                        "Blood Pressure: Normal systolic (~120 mmHg) and diastolic (~80 mmHg). Measured via sphygmomanometer.",
+                        "Blood Vessels: Arteries (away, thick/elastic walls), Veins (back, valves), Capillaries (one-cell thick, exchange site).",
+                        "Lymph (Tissue Fluid): Colourless fluid that drains excess extracellular fluid and absorbed fats back into blood.",
+                        "Xylem: Vessels and tracheids move water/minerals via root pressure (night) and Transpiration Pull (major daytime force).",
+                        "Phloem: Sieve tubes and companion cells achieve Translocation of sucrose using ATP energy (osmotic pressure mechanism)."
                     ]
                 },
                 {
                     "id": "6.5",
                     "title": "Excretion in Plants and Animals",
-                    "definition": "Excretion removes metabolic wastes from the body to maintain internal balance. Animals have specialised organs; plants use diffusion and storage.",
+                    "definition": "Excretion is the biological process of removing metabolic nitrogenous wastes from the body. Unicellular organisms use diffusion; multicellular use specialised tissues.",
                     "formulae": [],
                     "examples": [
-                        "Human excretory system with kidneys, ureters, urinary bladder and urethra; plants excreting through leaves and gums."
+                        "Human System: Kidneys (filter), Ureters (transport), Urinary Bladder (storage), Urethra (release).",
+                        "Nephron: Basic filtration unit; consists of Bowman's capsule (collects filtrate) and tubular part for selective reabsorption.",
+                        "Reabsorption: Glucose, amino acids, salts and major water amount are selectively re-absorbed from the ~180L daily filtrate.",
+                        "Hemodialysis (Artificial Kidney): Device to remove nitrogenous waste products from blood through dialysis when kidneys fail.",
+                        "Plant Strategies: Oxygen elimination (photosynthesis), Transpiration (excess water), resins/gums storage, falling leaves, and soil excretion."
                     ]
                 }
             ]
@@ -284,28 +578,53 @@
                 {
                     "id": "7.1",
                     "title": "Control and Coordination in Animals",
-                    "definition": "Coordination is integration of different organs using nervous system and endocrine (hormonal) system.",
+                    "definition": "Nervous and endocrine systems provide control and coordination. Nervous tissue is an organised network of neurons specialised for conducting information via electrical impulses. Reflex actions are sudden, involuntary responses to changes in the environment.",
                     "formulae": [],
                     "examples": [
-                        "Brain, spinal cord and nerves transmitting impulses; hormones like insulin regulating blood sugar."
+                        "Receptors: Gustatory (taste), Olfactory (smell) located in sense organs.",
+                        "Reflex Arc: Connection between input (sensory) and output (motor) nerves in the spinal cord for quick responses (Fig 6.2).",
+                        "Human Brain (Cerebrum): Main thinking part; has separate areas for sight, hearing, smell, and hunger.",
+                        "Hind-brain: Medulla (involuntary actions like blood pressure/vomiting); Cerebellum (maintains posture, balance, and precision).",
+                        "Protection: Brain sits in a bony cranium box with fluid-filled balloon (cerebrospinal fluid) for shock absorption.",
+                        "Muscle Movement: Special proteins change shape and arrangement in response to nervous electrical impulses."
                     ]
                 },
                 {
                     "id": "7.2",
                     "title": "Structure and Function of Neuron",
-                    "definition": "Neurons are specialised nerve cells with cell body, dendrites and axon that transmit nerve impulses by electrical and chemical signals.",
+                    "definition": "Neuron is the fundamental unit of the nervous system. Information travels as an electrical impulse from dendrite to axon, and as a chemical signal across the synapse.",
                     "formulae": [],
                     "examples": [
-                        "Reflex actions like knee‑jerk using reflex arc involving receptor, sensory neuron, spinal cord, motor neuron and effector."
+                        "Impulse Path: Information acquired at dendritic tip -> sets off chemical reaction -> electrical impulse travels to cell body -> along axon to nerve ending.",
+                        "Synapse: Gap where electrical impulse triggers release of chemicals to start a similar impulse in the next neuron (Activity 6.1).",
+                        "Peripheral Nervous System: Consists of cranial nerves (from brain) and spinal nerves (from spinal cord) facilitating communication."
                     ]
                 },
                 {
                     "id": "7.3",
                     "title": "Plant Hormones and Tropic Movements",
-                    "definition": "Plants respond to stimuli through hormones and directional growth movements called tropisms.",
+                    "definition": "Plants use electrical-chemical means for coordination without specialised tissues. They show immediate response independent of growth, and directional movement dependent on growth (tropism).",
                     "formulae": [],
                     "examples": [
-                        "Auxins, gibberellins, cytokinins and ethylene; phototropism (bending towards light), geotropism (root growing downward)."
+                        "Immediate Response: Sensitive plant (Mimosa pudica) leaves fold by changing water amount in cells (swelling/shrinking).",
+                        "Tropic Movements: Phototropism (towards light), Geotropism (gravity response), Chemotropism (pollen tube growth), Hydrotropism (water response).",
+                        "Auxin: Synthesised at shoot tips; diffuses to shady side stimulated cells to grow longer, making the plant bend towards light.",
+                        "Growth Promoting Phytohormones: Auxins (cell growth), Gibberellins (stem growth), Cytokinins (cell division in fruits/seeds).",
+                        "Growth Inhibiting: Abscisic acid (wilting of leaves)."
+                    ]
+                },
+                {
+                    "id": "7.4",
+                    "title": "Hormones in Animals",
+                    "definition": "Animal hormones are secreted by endocrine glands directly into blood to reach target organs. They provide wide-ranging persistent changes needed for coordinated growth and responses.",
+                    "formulae": [],
+                    "examples": [
+                        "Adrenaline: Adrenal gland; heart beats faster and breathing rate increases to ready the body for fight or flight (emergency hormone).",
+                        "Thyroxin: Thyroid gland needs Iodine to regulate carbohydrate, protein, and fat metabolism; deficiency causes Goitre.",
+                        "Pituitary Hormones: Growth hormone regulates development; deficiency leads to dwarfism.",
+                        "Insulin: Pancreas; regulates blood sugar levels; deficiency causes Diabetes.",
+                        "Puberty Hormones: Testosterone (males) and Oestrogen (females) for sex organ development.",
+                        "Feedback Mechanism: Timing and amount of hormone release are regulated by detectors (e.g., pancreas detecting sugar rise)."
                     ]
                 }
             ]
@@ -317,28 +636,53 @@
                 {
                     "id": "8.1",
                     "title": "Asexual Reproduction",
-                    "definition": "Asexual reproduction involves a single parent producing genetically identical offspring without formation and fusion of gametes.",
+                    "definition": "Asexual reproduction involves the creation of new generations from a single individual. It relies on the consistency of DNA copying while allowing for variations that provide stability to populations in changing niches.",
                     "formulae": [],
                     "examples": [
-                        "Binary fission in Amoeba, budding in yeast, fragmentation in Spirogyra, vegetative propagation in plants."
+                        "Fission: Binary fission in Amoeba (any plane) and Leishmania (definite orientation with whip-like structure); Multiple fission in Plasmodium (malarial parasite).",
+                        "Fragmentation: Spirogyra simply breaks into smaller pieces upon maturation which grow into new individuals.",
+                        "Regeneration: Hydra and Planaria can be cut into pieces and each grow into a complete organism via proliferating specialised cells.",
+                        "Budding: Hydra develops a bud as an outgrowth due to repeated cell division at one site ( matures and detaches).",
+                        "Vegetative Propagation: New plants from root, stem or leaves; e.g., Bryophyllum (buds in leaf notches fall on soil), Sugarcane (stem), Grafting/Layering.",
+                        "Tissue Culture: Growing many plants in disease-free conditions from one parent using callus in artificial medium.",
+                        "Spore Formation: Rhizopus (bread mould) uses sporangia (tiny blob-on-a-stick structures) containing spores with thick protective walls."
                     ]
                 },
                 {
                     "id": "8.2",
                     "title": "Sexual Reproduction in Flowering Plants",
-                    "definition": "Sexual reproduction involves formation of male and female gametes, their fusion and development of seeds and fruits.",
+                    "definition": "Sexual reproduction involves combining DNA from two different individuals, creating novel combinations and speeding up variation. In plants, this occur in flowers.",
                     "formulae": [],
                     "examples": [
-                        "Structure of flower: stamen (male), pistil (female); pollination and fertilisation."
+                        "Flower Structure: Stamens (Male - Anther produces pollen) and Carpel/Pistil (Female - Stigma, Style, Ovary with ovules).",
+                        "Pollination: Transfer of pollen from stamen to stigma; Self-pollination (same flower) or Cross-pollination (wind/water/animals).",
+                        "Fertilisation: Pollen tube grows through style to reach ovary; zygote forms within ovule.",
+                        "Post-fertilisation: Ovule develops tough coat into seed (containing embryo); Ovary matures into fruit.",
+                        "Germination: Process where the embryo in a seed develops into a seedling under appropriate conditions (Activity 7.7)."
                     ]
                 },
                 {
                     "id": "8.3",
                     "title": "Reproduction in Humans",
-                    "definition": "Human reproduction includes male and female reproductive systems, gamete formation, fertilisation, embryo development and birth.",
+                    "definition": "Human reproduction is sexual and involves internal transfer of germ-cells. Puberty marks the period of maturation of reproductive tissues.",
                     "formulae": [],
                     "examples": [
-                        "Testes producing sperms; ovaries producing ova; foetal development in uterus."
+                        "Puberty: Body resources shift from growth to maturation; hair growth in armpits/genitalia, breast size increase (girls), facial hair growth and voice crack (boys).",
+                        "Male Reproductive System: Testes in scrotum (lower temp for sperms), Vas deferens (delivery path), Prostate/Seminal vesicles (add fluid/nutrition), Urethra (common passage).",
+                        "Female Reproductive System: Ovaries (produce egg/oestrogen), Fallopian tubes (fertilisation site), Uterus (womb for implantation), Vagina.",
+                        "Placenta: Special disc-like tissue with villi embedded in uterine wall for nourishment (glucose/O2) and waste removal for the embryo.",
+                        "Menstruation: Periodic cycle (roughly monthly) where the thick, spongy uterine lining breaks and comes out through the vagina as blood and mucous."
+                    ]
+                },
+                {
+                    "id": "8.4",
+                    "title": "Reproductive Health",
+                    "definition": "Health related to sexual maturation and prevention of diseases. Includes choices regarding the timing and number of children and prevention of STDs.",
+                    "formulae": [],
+                    "examples": [
+                        "Sexually Transmitted Diseases (STDs): Bacterial (Gonorrhoea, Syphilis), Viral (Warts, HIV-AIDS).",
+                        "Contraceptive Methods: Mechanical barriers (Condoms, Copper-T/IUCD), Hormonal/Chemical (Oral pills), Surgical (Vasectomy - male, Tubectomy - female).",
+                        "Social issues: Prevention of reckless female foeticide and maintenance of healthy sex ratios."
                     ]
                 }
             ]
@@ -349,24 +693,51 @@
             "concepts": [
                 {
                     "id": "9.1",
-                    "title": "Heredity and Inheritance",
-                    "definition": "Heredity is transmission of traits from parents to offspring through genes. Inheritance patterns follow certain rules studied by Mendel.",
+                    "title": "Accumulation of Variation During Reproduction",
+                    "definition": "Reproduction gives rise to individuals that are similar but subtly different. Variations accumulate over generations, providing diversity and basis for evolution.",
                     "formulae": [],
                     "examples": [
-                        "Mendel’s experiments on pea plants with tall/short, round/wrinkled seeds."
+                        "Asexual: Minor differences due to DNA copying inaccuracies (e.g., in bacteria).",
+                        "Sexual: Greater diversity is generated due to combining DNA from two individuals.",
+                        "Survival: Variants like heat-resistant bacteria survive heat waves (Selection by environmental factors)."
                     ]
                 },
                 {
                     "id": "9.2",
-                    "title": "Traits, Genes and Chromosomes",
-                    "definition": "Traits are characteristics; genes are units of heredity located on chromosomes made of DNA.",
+                    "title": "Rules for the Inheritance of Traits - Mendel's Contributions",
+                    "definition": "Mendel worked out the main rules of inheritance using contrasting characters in garden peas (Pisum sativum) like height and seed shape.",
                     "formulae": [],
                     "examples": [
-                        "Eye colour, height as traits; alleles as different forms of a gene."
+                        "Inherited Traits: Visible variants in populations (e.g., attached vs free earlobes in human class - Activity 8.1).",
+                        "Monohybrid Cross (Tall/Short): F1 all tall (dominance); F2 shows 3 tall : 1 short ratio (Activity 8.2 confirms 1:2:1 genotype ratio).",
+                        "Dominant/Recessive: 'T' (tall) is dominant as it's expressed in Tt; 't' (short) is recessive expressed only in tt.",
+                        "Dihybrid Cross (Tall-Round vs Short-Wrinkled): F2 reveals independent inheritance of traits (Formation of new combinations like Tall-Wrinkled)."
                     ]
                 },
                 {
                     "id": "9.3",
+                    "title": "Mechanism of Heredity (DNA and Genes)",
+                    "definition": "Cellular DNA is the information source for making proteins. A section of DNA providing info for one protein is a gene for that protein.",
+                    "formulae": [],
+                    "examples": [
+                        "Gene Expression: Efficient enzyme -> more hormone -> Tall plant; Genes control traits by providing protein information.",
+                        "Chromosomes: Each cell has two copies of each chromosome (maternal and paternal). Germ-cells take one chromosome from each pair.",
+                        "Stability: Combination of germ-cells restores normal chromosome number in progeny, ensuring DNA stability of the species."
+                    ]
+                },
+                {
+                    "id": "9.4",
+                    "title": "Sex Determination",
+                    "definition": "Sex determination strategies vary; humans use genetic determination while some reptiles use environmental triggers like temperature.",
+                    "formulae": [],
+                    "examples": [
+                        "Environmental Cues: Reptiles (temperature of eggs) or snails (sex change) determine gender.",
+                        "Human Sex Chromosomes: Females have XX (perfect pair); Males have XY (mismatched, Y is short).",
+                        "Father's Role: Mothers always contribute X; the child's sex is determined by whether the father contributes X (girl) or Y (boy)."
+                    ]
+                },
+                {
+                    "id": "9.5",
                     "title": "Evolution (Concept Level)",
                     "definition": "Evolution is gradual change in heritable characteristics of species over generations due to variation and natural selection.",
                     "formulae": [],
@@ -382,33 +753,73 @@
             "concepts": [
                 {
                     "id": "10.1",
-                    "title": "Reflection of Light by Spherical Mirrors",
-                    "definition": "Spherical mirrors (concave and convex) reflect light according to laws of reflection; image formation depends on object position.",
+                    "title": "Reflection of Light & Spherical Mirrors",
+                    "definition": "Reflection is the phenomenon where a highly polished surface, like a mirror, sends back most of the light falling on it. Spherical mirrors have reflecting surfaces that form part of a sphere.",
                     "formulae": [
-                        "Mirror formula (concept only here): 1/f = 1/v + 1/u"
+                        "Laws of Reflection: (i) Angle of incidence = Angle of reflection; (ii) Incident ray, reflected ray and normal lie in the same plane.",
+                        "Relationship: R = 2f (Radius of curvature is twice the focal length)."
                     ],
                     "examples": [
-                        "Concave mirrors form real or virtual images; convex mirrors always form virtual, diminished images."
+                        "Concave Mirror (Converging): Curved inwards; used in torches, search-lights, dentist mirrors, and solar furnaces to concentrate sunlight (Activity 9.2).",
+                        "Convex Mirror (Diverging): Curved outwards; used as rear-view mirrors in vehicles for a wider field of view (erect and diminished image).",
+                        "Image Formation: Concave mirrors can form real/inverted or virtual/erect images depending on object position (Table 9.1)."
                     ]
                 },
                 {
                     "id": "10.2",
-                    "title": "Refraction of Light and Refractive Index",
-                    "definition": "Refraction is bending of light when it passes between media of different optical densities; refractive index measures optical density.",
-                    "formulae": [],
+                    "title": "Mirror Formula and Magnification",
+                    "definition": "The mirror formula relates object distance (u), image distance (v), and focal length (f) using the New Cartesian Sign Convention.",
+                    "formulae": [
+                        "Mirror Formula: 1/v + 1/u = 1/f",
+                        "Magnification (m): m = Height of image (h') / Height of object (h) = -v/u"
+                    ],
                     "examples": [
-                        "Light bending when entering water from air; apparent shift in position of objects under water."
+                        "Sign Convention: Object always on left; distances right of origin (+x) are positive; heights above axis (+y) are positive.",
+                        "Real Image: Indicated by negative magnification (m).",
+                        "Virtual Image: Indicated by positive magnification (m)."
                     ]
                 },
                 {
                     "id": "10.3",
-                    "title": "Refraction by Spherical Lenses",
-                    "definition": "Convex and concave lenses refract light; image formation patterns depend on object distance.",
+                    "title": "Refraction and Refractive Index",
+                    "definition": "Refraction is the bending of light when it travels obliquely from one transparent medium to another due to change in the speed of light.",
                     "formulae": [
-                        "Lens formula (concept): 1/f = 1/v − 1/u"
+                        "Laws of Refraction: (i) Incident/refracted/normal rays lie in the same plane; (ii) Snell’s Law: sin i / sin r = constant.",
+                        "Refractive Index (n21): n21 = Speed of light in medium 1 (v1) / Speed of light in medium 2 (v2).",
+                        "Absolute Refractive Index (nm): nm = c / v (where c is speed of light in vacuum)."
                     ],
                     "examples": [
-                        "Convex lens can form real or virtual images; concave lens forms virtual, diminished images."
+                        "Optical Phenomena: Apparent raised bottom of a water tank; pencil appearing bent in water (Activity 9.7/9.8).",
+                        "Refractive Indices: Water (1.33), Crown glass (1.52), Diamond (2.42 - highest optical density).",
+                        "Optical density: Kerosene is optically denser than water despite lower mass density (Table 9.3)."
+                    ]
+                },
+                {
+                    "id": "10.4",
+                    "title": "Spherical Lenses",
+                    "definition": "A lens is a transparent material bound by at least one spherical surface. Convex lenses converge light while concave lenses diverge light.",
+                    "formulae": [
+                        "Lens Formula: 1/v - 1/u = 1/f",
+                        "Magnification (m): m = h' / h = v / u"
+                    ],
+                    "examples": [
+                        "Convex Lens (Converging): Thicker in the middle; forms real/inverted images (except when object is between F and O - Table 9.4).",
+                        "Concave Lens (Diverging): Thicker at edges; always forms virtual, erect, and diminished images (Table 9.5).",
+                        "Sign Convention: Focal length of convex lens is positive; concave lens is negative."
+                    ]
+                },
+                {
+                    "id": "10.5",
+                    "title": "Power of a Lens",
+                    "definition": "Power is the measure of the degree of convergence or divergence of light rays achieved by a lens. It is the reciprocal of its focal length.",
+                    "formulae": [
+                        "Power (P): P = 1 / f (f in metres)",
+                        "Combination of Lenses: P = P1 + P2 + P3 + ..."
+                    ],
+                    "examples": [
+                        "Unit: Dioptre (D); 1 D = 1 m^-1.",
+                        "Prescription: Convex lens power is positive (+); Concave lens power is negative (-).",
+                        "Optical Instruments: Camera, microscopes, and telescopes use combinations of lenses to minimize certain defects."
                     ]
                 }
             ]
@@ -420,28 +831,71 @@
                 {
                     "id": "11.1",
                     "title": "Structure and Functioning of Human Eye",
-                    "definition": "The eye has parts like cornea, iris, pupil, lens, retina and optic nerve that enable vision by focusing light on retina.",
+                    "definition": "The human eye is a sensitive sense organ that works like a camera, forming an inverted real image on the light-sensitive retina.",
                     "formulae": [],
                     "examples": [
-                        "Ciliary muscles adjust lens curvature for near and distant vision (accommodation)."
+                        "Anatomy: Cornea (transparent bulge), Iris (controls pupil), Pupil (regulates light), and Retina (screen with light-sensitive cells).",
+                        "Power of Accommodation: Ability of ciliary muscles to adjust focal length; relaxed muscles make lens thin for distant vision (Activity 10.1).",
+                        "Visual Points: Near point (25 cm) is the least distance of distinct vision; Far point is infinity for a normal eye.",
+                        "Cataract: Condition where the crystalline lens becomes milky and cloudy at old age, causing vision loss."
                     ]
                 },
                 {
                     "id": "11.2",
                     "title": "Defects of Vision and Correction",
-                    "definition": "Common eye defects include myopia, hypermetropia and presbyopia, corrected using suitable lenses.",
+                    "definition": "Refractive defects arise when the eye loses its power of accommodation, leading to blurred vision.",
                     "formulae": [],
                     "examples": [
-                        "Myopia (short‑sightedness) corrected by concave lens; hypermetropia by convex lens."
+                        "Myopia (Near-sightedness): Image forms in front of retina; corrected by concave lens of suitable power (Fig 10.2).",
+                        "Hypermetropia (Far-sightedness): Image forms behind retina; corrected by convex lens of suitable power (Fig 10.3).",
+                        "Presbyopia: Decreased accommodation with ageing due to weak ciliary muscles; often requires bi-focal lenses."
                     ]
                 },
                 {
                     "id": "11.3",
-                    "title": "Dispersion and Scattering of Light",
-                    "definition": "Dispersion is splitting of white light into constituent colours; scattering is deviation of light by particles, explaining phenomena like blue sky and red sunsets.",
+                    "title": "Refraction of Light Through a Prism",
+                    "definition": "A prism is a triangular glass body with inclined refracting surfaces that cause the emergent ray to bend at an angle to the incident ray.",
+                    "formulae": [
+                        "Angle of Deviation (D): The angle between the incident ray and the emergent ray."
+                    ],
+                    "examples": [
+                        "Prism Anatomy: Two triangular bases and three rectangular lateral surfaces; Angle of the Prism (A).",
+                        "Activity 10.1: Tracing the path of light through a prism to observe bending towards and away from the normal."
+                    ]
+                },
+                {
+                    "id": "11.4",
+                    "title": "Dispersion of White Light",
+                    "definition": "Dispersion is the splitting of white light into its seven component colours (spectrum) when passed through a prism.",
+                    "formulae": [
+                        "VIBGYOR: Violet, Indigo, Blue, Green, Yellow, Orange, Red."
+                    ],
+                    "examples": [
+                        "Spectrum: Red light bends the least while violet bends the most (Activity 10.2).",
+                        "Newton's Experiment: Using a second inverted prism to recombine the spectrum back into white light (Fig 10.6).",
+                        "Rainbow: Natural spectrum caused by dispersion and internal reflection of sunlight by water droplets (Fig 10.8)."
+                    ]
+                },
+                {
+                    "id": "11.5",
+                    "title": "Atmospheric Refraction",
+                    "definition": "The refraction of light by the Earth's atmosphere due to gradually changing refractive index caused by physical conditions like air temperature.",
                     "formulae": [],
                     "examples": [
-                        "Rainbow formation by dispersion; blue colour of sky due to scattering of shorter wavelength light."
+                        "Twinkling of Stars: Fluctuating apparent position of point-sized stars due to non-stationary atmospheric conditions.",
+                        "Advance Sunrise/Delayed Sunset: Sun is visible 2 minutes before actual crossing of horizon due to atmospheric refraction (Fig 10.10).",
+                        "Planets: Do not twinkle because they are extended sources that average out variations."
+                    ]
+                },
+                {
+                    "id": "11.6",
+                    "title": "Scattering of Light",
+                    "definition": "Scattering occurs when a light beam strikes fine particles (smoke, dust, air molecules) in a heterogeneous mixture like the atmosphere.",
+                    "formulae": [],
+                    "examples": [
+                        "Tyndall Effect: Path of light becomes visible due to diffuse reflection by colloidal particles (mist/forest canopy).",
+                        "Blue Sky: Fine air molecules scatter short wavelength blue light more strongly than red light.",
+                        "Sunrise/Sunset Reddening: Light from the Sun near the horizon passes through thick layers of air where blue is scattered away, leaving red light."
                     ]
                 }
             ]
@@ -452,52 +906,75 @@
             "concepts": [
                 {
                     "id": "12.1",
-                    "title": "Electric Current and Potential Difference",
-                    "definition": "Electric current is rate of flow of charge; potential difference is work done per unit charge to move a charge between two points.",
+                    "title": "Electric Current and Circuit",
+                    "definition": "Electric current is the rate of flow of electric charges through a conductor. A continuous and closed path of an electric current is called an electric circuit.",
                     "formulae": [
-                        "I = Q / t",
-                        "V = W / Q"
+                        "I = Q / t (Current = Charge / Time)",
+                        "1 A = 1 C / 1 s",
+                        "Direction: Conventionally opposite to the flow of electrons (negative charges)."
                     ],
                     "examples": [
-                        "Current in a circuit measured in amperes using ammeter; potential difference measured in volts using voltmeter."
+                        "Charge: 1 Coulomb (C) is equivalent to the charge in ~6 × 10^18 electrons; 1 electron = 1.6 × 10^-19 C.",
+                        "Measurement: Ammeter is used to measure current and is always connected in series (Fig 11.1).",
+                        "Activity 11.1: Calculating charge flow ($Q = It$) for a bulb drawing 0.5 A for 10 minutes."
                     ]
                 },
                 {
                     "id": "12.2",
-                    "title": "Ohm’s Law and Resistance",
-                    "definition": "Ohm’s law states that current through a conductor is directly proportional to potential difference across it, at constant temperature.",
+                    "title": "Potential Difference and Ohm's Law",
+                    "definition": "Potential difference (V) is the work done to move a unit charge between two points. Ohm's Law states that V across a metallic wire is directly proportional to current (I) at constant temperature.",
                     "formulae": [
-                        "V = IR",
-                        "R = V / I"
+                        "V = W / Q (Potential Difference = Work / Charge)",
+                        "Ohm's Law: V = IR",
+                        "Resistance: R = V / I"
                     ],
                     "examples": [
-                        "Plot of V vs I for ohmic conductor is straight line through origin; slope gives resistance."
+                        "Units: Potential difference is in Volts (V); Resistance is in Ohms (Ω). 1 Ω = 1 V / 1 A.",
+                        "Measurement: Voltmeter is used to measure V and is always connected in parallel (Example 11.2).",
+                        "Activity 11.1: Plotting a V-I graph for nichrome wire to verify the linear relationship (Ohm's Law)."
                     ]
                 },
                 {
                     "id": "12.3",
-                    "title": "Resistors in Series and Parallel",
-                    "definition": "Equivalent resistance of resistors depends on whether they are connected in series or parallel.",
+                    "title": "Resistance and Resistivity",
+                    "definition": "Resistance is the property of a conductor to resist the flow of charges. Resistivity (ρ) is a characteristic property of the material.",
                     "formulae": [
-                        "Series: R_eq = R1 + R2 + ...",
-                        "Parallel: 1/R_eq = 1/R1 + 1/R2 + ..."
+                        "R = ρ (L / A)",
+                        "Resistivity Unit: Ω m",
+                        "Series: Rs = R1 + R2 + R3",
+                        "Parallel: 1/Rp = 1/R1 + 1/R2 + 1/R3"
                     ],
                     "examples": [
-                        "Series connection increases total resistance; parallel connection decreases it."
+                        "Factors: Resistance depends on length (L), area of cross-section (A), and material nature (Activity 11.3).",
+                        "Materials: Metals have low resistivity (Silver: 1.60 × 10^-8 Ωm); Alloys (Nichrome: 100 × 10^-6 Ωm) are used in heating devices.",
+                        "Circuit Advantage: Parallel circuits divide current and ensure other components work if one fails (Example 11.9)."
                     ]
                 },
                 {
                     "id": "12.4",
-                    "title": "Electric Power and Heating Effect",
-                    "definition": "Electric power is rate of doing work or energy consumption; current through resistance produces heat (Joule heating).",
+                    "title": "Heating Effect of Electric Current",
+                    "definition": "The dissipation of electrical energy as heat in a resistor is known as the heating effect of electric current.",
                     "formulae": [
-                        "P = VI",
-                        "P = I^2 R",
-                        "P = V^2 / R",
-                        "Heat H = I^2 R t"
+                        "Joule's Law of Heating: H = I^2 Rt"
                     ],
                     "examples": [
-                        "Electric heater, bulb and fuse working based on heating effect of current."
+                        "Practical Uses: Electric iron, toaster, oven, and kettle (Joule's heating).",
+                        "Electric Bulb: Tungsten filament (melting point 3380°C) is used to emit light; filled with Nitrogen/Argon gases.",
+                        "Electric Fuse: A safety device made of a metal/alloy with appropriate melting point, connected in series to protect appliances."
+                    ]
+                },
+                {
+                    "id": "12.5",
+                    "title": "Electric Power",
+                    "definition": "Electric power is the rate at which electrical energy is dissipated or consumed in an electric circuit.",
+                    "formulae": [
+                        "P = VI = I^2 R = V^2 / R",
+                        "Unit: Watt (W). 1 W = 1 V × 1 A.",
+                        "Commercial Unit: 1 kWh = 3.6 × 10^6 Joules (J)."
+                    ],
+                    "examples": [
+                        "Power Rating: An electric bulb rated 220 V and 100 W (Example 11.12).",
+                        "Cost Calculation: Calculating energy cost for a 400 W refrigerator operating 8 hours/day (Example 11.13)."
                     ]
                 }
             ]
@@ -509,28 +986,60 @@
                 {
                     "id": "13.1",
                     "title": "Magnetic Field and Field Lines",
-                    "definition": "A current‑carrying conductor produces a magnetic field around it; field lines represent direction and strength of field.",
-                    "formulae": [],
+                    "definition": "A magnetic field is the region surrounding a magnet where its influence/force can be detected. Field lines represent the paths of magnetic force.",
+                    "formulae": [
+                        "Oersted's Discovery: Compass needle deflections near current-carrying wires (1820).",
+                        "Properties: Emerge from North pole, merge at South pole; closed curves; no intersection.",
+                        "Relative Strength: Shown by degree of closeness of field lines (strongest at poles)."
+                    ],
                     "examples": [
-                        "Right‑hand thumb rule gives direction of field around straight current‑carrying conductor."
+                        "Activity 12.2: Using iron filings to demonstrate field patterns around a bar magnet.",
+                        "Activity 12.3: Drawing field lines step-by-step using a small compass needle.",
+                        "Compass: A small bar magnet whose north pole matches the direction of the magnetic field."
                     ]
                 },
                 {
                     "id": "13.2",
-                    "title": "Force on Current-Carrying Conductor",
-                    "definition": "A conductor carrying current in a magnetic field experiences a force; its direction is given by Fleming’s left‑hand rule.",
-                    "formulae": [],
+                    "title": "Magnetic Field Patterns and Rules",
+                    "definition": "Magnetic field patterns depend on the shape of the current-carrying conductor (Straight, Circular, or Solenoid).",
+                    "formulae": [
+                        "Right-Hand Thumb Rule: Thumb (Current), Fingers (Field direction).",
+                        "Straight Conductor: Concentric circles; strength increases with current ($I$) and decreases with distance ($1/r$).",
+                        "Solenoid: Parallel straight field lines inside (Uniform field)."
+                    ],
                     "examples": [
-                        "Working principle of electric motor based on this force."
+                        "Activity 12.5: Observing concentric circle patterns of iron filings around a straight vertical wire.",
+                        "Activity 12.6: Showing field lines of a circular coil appearing as straight lines at its centre.",
+                        "Electromagnet: A soft iron core magnetised by the strong field inside a solenoid (Fig 12.11)."
                     ]
                 },
                 {
                     "id": "13.3",
-                    "title": "Electromagnetic Induction (Concept)",
-                    "definition": "Change in magnetic field linked with a conductor induces an electric current in it; direction is given by Fleming’s right‑hand rule.",
-                    "formulae": [],
+                    "title": "Force and Electromagnetic Induction",
+                    "definition": "Force is exerted on a current-carrying conductor in a magnetic field. Induction occurs when moving magnets/changing fields induce a current.",
+                    "formulae": [
+                        "Fleming's Left-Hand Rule: Forefinger (Field), Middle (Current), Thumb (Motion/Force).",
+                        "Fleming's Right-Hand Rule: Thumb (Movement), Forefinger (Field), Middle (Induced current)."
+                    ],
                     "examples": [
-                        "Working of generator and some power‑generation devices."
+                        "Activity 12.7: Displacement of an aluminium rod (AB) in a magnetic field depends on $I$ and $B$ directions.",
+                        "Magnetism in Medicine: Heart and brain magnetic fields form the basis for MRI (Magnetic Resonance Imaging).",
+                        "Faraday's Observation: Changing magnetic field induces domestic/experimental currents (Section 12.5)."
+                    ]
+                },
+                {
+                    "id": "13.4",
+                    "title": "Domestic Electric Circuits",
+                    "definition": "Domestic supply consists of Live, Neutral, and Earth wires for powering appliances safely in parallel.",
+                    "formulae": [
+                        "Potential Difference: 220 V (between Live/Neutral); 50 Hz frequency.",
+                        "Live (Red), Neutral (Black), Earth (Green) wires.",
+                        "Circuit Ratings: 15 A (heavy appliances) and 5 A (light appliances)."
+                    ],
+                    "examples": [
+                        "Safety Devices: Fuse (protection from high current) and Earthing (prevents shock from metallic bodies).",
+                        "Short-Circuiting: Abrupt current increase when insulation fails and live-neutral wires touch.",
+                        "Overloading: Caused by hike in supply voltage or connecting too many appliances to one socket."
                     ]
                 }
             ]
@@ -575,29 +1084,46 @@
                 {
                     "id": "15.1",
                     "title": "Ecosystem and Its Components",
-                    "definition": "An ecosystem includes all living organisms in an area and their physical environment interacting as a system.",
-                    "formulae": [],
+                    "definition": "An ecosystem consists of biotic components (living organisms) and abiotic components (physical factors like temperature, rainfall, wind, soil) interacting together.",
+                    "formulae": [
+                        "Producers: Green plants and certain bacteria that produce food by photosynthesis.",
+                        "Consumers: Herbivores (primary), Carnivores (secondary/tertiary), Omnivores, and Parasites.",
+                        "Decomposers: Microorganisms (bacteria/fungi) that break down organic remains into simple inorganic substances."
+                    ],
                     "examples": [
-                        "Forest, pond and desert ecosystems with producers, consumers and decomposers."
+                        "Natural Ecosystems: Forests, ponds, and lakes.",
+                        "Human-made Ecosystems: Gardens, crop-fields, and aquariums (Activity 13.1).",
+                        "Waste Types: Biodegradable (broken down by biological processes) and Non-biodegradable (persist for long periods)."
                     ]
                 },
                 {
                     "id": "15.2",
-                    "title": "Food Chains and Food Webs",
-                    "definition": "Food chains show linear feeding relationships; food webs are interconnected food chains showing complex interactions.",
-                    "formulae": [],
+                    "title": "Food Chains and Energy Flow",
+                    "definition": "A food chain is a series of organisms at various biotic levels feeding on one another. Interconnected food chains form a food web.",
+                    "formulae": [
+                        "10% Law: On average, only 10% of food eaten at one trophic level is available to the next (Fig 13.2).",
+                        "Energy Flow: Unidirectional flow from Sun to producers to consumers; energy diminishes progressively.",
+                        "Biological Magnification: Progressive accumulation of non-degradable chemicals (pesticides) at higher trophic levels."
+                    ],
                     "examples": [
-                        "Grass → grasshopper → frog → snake → eagle.",
-                        "Many food chains interconnected in a forest form a food web."
+                        "Trophic Levels: Grass (Producer) → Goat (Primary) → Human (Secondary/Tertiary).",
+                        "Energy Loss: Food chains are generally limited to 3-4 steps due to drastic energy loss at each level.",
+                        "Pollution: Pesticides like DDT enter the food chain and reach maximum concentration in humans at the top level."
                     ]
                 },
                 {
                     "id": "15.3",
-                    "title": "Ozone Layer and Its Depletion",
-                    "definition": "The ozone layer protects Earth from harmful UV radiation; certain chemicals like CFCs cause its depletion.",
-                    "formulae": [],
+                    "title": "Environmental Problems and Waste Management",
+                    "definition": "Environmental issues like ozone depletion and improper waste disposal impact our health and the ecosystem.",
+                    "formulae": [
+                        "Ozone (O3): Formed by UV radiation acting on O2 molecules; shields Earth from harmful UV rays.",
+                        "CFCs: Chlorofluorocarbons used in refrigerants and fire extinguishers, responsible for ozone depletion.",
+                        "UNEP: 1987 agreement to freeze CFC production at 1986 levels."
+                    ],
                     "examples": [
-                        "International efforts to reduce CFC use to protect ozone layer."
+                        "Health Effect: UV radiation causes skin cancer in human beings.",
+                        "Garbage: Managing waste through sewage treatment, land-fills, and recycling.",
+                        "Packaging: Transition from plastic glasses to clay kulhads and eventually paper cups in trains for hygiene and soil conservation."
                     ]
                 }
             ]
