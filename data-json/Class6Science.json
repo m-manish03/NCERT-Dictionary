@@ -5,637 +5,1266 @@
     "chapters": [
         {
             "number": 1,
-            "title": "Food: Where Does It Come From?",
+            "title": "A Journey through States of Water",
             "concepts": [
                 {
                     "id": "1.1",
-                    "title": "Food and Its Sources",
-                    "definition": "Food is any nutritious substance that living organisms eat or drink to maintain life and growth. Food materials come mainly from plants and animals.",
+                    "title": "States of Water",
+                    "definition": "Water exists in three different states: solid (ice), liquid (water), and gaseous (water vapour). Each state has distinct properties: ice (solid) retains its shape and does not flow or spread; water (liquid) flows, spreads, and takes the shape of its container while keeping its volume constant; water vapour (gas) is invisible and exhibits the property of spreading out in the entire available space.",
                     "formulae": [],
                     "examples": [
-                        "We get rice, wheat, fruits and vegetables from plants.",
-                        "We get milk, eggs, meat and honey from animals."
+                        "Ice cubes or ice in a freezer (solid state).",
+                        "Water in a glass, milk, oil, or lemonade (liquid state).",
+                        "Invisible water vapour in the air around us (gaseous state)."
                     ]
                 },
                 {
                     "id": "1.2",
-                    "title": "Plant Parts as Food",
-                    "definition": "Different parts of plants such as roots, stems, leaves, flowers, fruits and seeds are used as food.",
+                    "title": "Evaporation",
+                    "definition": "The process of conversion of water into its vapour state is called evaporation. This process takes place continuously, even at room temperature.",
                     "formulae": [],
                     "examples": [
-                        "Carrot and radish are edible roots; potato is an underground stem; spinach is a leaf; cauliflower is a flower; apple is a fruit; wheat and gram are seeds."
+                        "Drying of wet clothes on a line.",
+                        "Water disappearing from puddles in a playground.",
+                        "Water sprinkled on a hot pan (like making a dosa) turning into steam.",
+                        "Mopped floor drying up after some time.",
+                        "Hand sanitiser disappearing as you rub it on your hands."
                     ]
                 },
                 {
                     "id": "1.3",
-                    "title": "Animal Products as Food",
-                    "definition": "Animals provide many food items such as milk, meat, eggs, honey and fish.",
+                    "title": "Factors Affecting Evaporation",
+                    "definition": "The rate of evaporation is affected by several conditions: it is faster with a larger exposed surface area, higher temperature (like in sunlight), and increased air movement (wind). Conversely, higher humidity—which is the amount of water vapour present in the air—makes evaporation slower.",
                     "formulae": [],
                     "examples": [
-                        "Cows and buffaloes give milk; hens give eggs; bees make honey from nectar of flowers."
+                        "Water evaporates faster from a wide plate than from a small bottle cap (Activity 8.7).",
+                        "Clothes dry faster on a hot sunny day or a windy day than on a cold or rainy day.",
+                        "Sweat on our body evaporates faster when we sit under a fan.",
+                        "Clothes dry slowly on a rainy day when the air is more humid."
                     ]
                 },
                 {
                     "id": "1.4",
-                    "title": "Herbivores, Carnivores and Omnivores",
-                    "definition": "Animals are grouped by their food habits: herbivores eat only plants, carnivores eat only other animals and omnivores eat both plants and animals.",
+                    "title": "Humidity",
+                    "definition": "Humidity is the amount of water vapour present in the air. High humidity, common on rainy days, slows down the process of evaporation.",
                     "formulae": [],
                     "examples": [
-                        "Cow and goat are herbivores; lion and tiger are carnivores; humans and bears are omnivores."
+                        "The air feeling 'heavy' or clothes taking longer to dry on a rainy day.",
+                        "Humidity data being reported in newspapers to describe daily weather patterns."
+                    ]
+                },
+                {
+                    "id": "1.5",
+                    "title": "Condensation",
+                    "definition": "The process of conversion of water vapour into its liquid state is called condensation. This occurs when water vapour comes in contact with a cold surface.",
+                    "formulae": [],
+                    "examples": [
+                        "Water droplets appearing on the outer surface of a glass tumbler containing cold water and ice cubes.",
+                        "Dew drops on plants in the morning.",
+                        "Water drops accumulating on the inner side of a steel plate used to cover a boiling utensil.",
+                        "Atmospheric Water Generator (AWG) machines collecting water from humid air."
+                    ]
+                },
+                {
+                    "id": "1.6",
+                    "title": "Melting and Freezing",
+                    "definition": "Melting is the conversion of a solid into a liquid state (usually on heating), as seen with ice turning into water or wax becoming liquid. Freezing is the conversion of a liquid into a solid state (usually on cooling), such as water turning into ice or liquid wax solidifying.",
+                    "formulae": [],
+                    "examples": [
+                        "Ice cube melting into water when left at room temperature (Activity 8.1).",
+                        "A burning candle turning wax into liquid, which then solidifies when cooled.",
+                        "Coconut oil solidifying during the winter season.",
+                        "Water in a freezer being converted into ice cubes."
+                    ]
+                },
+                {
+                    "id": "1.7",
+                    "title": "Cooling Effect of Evaporation",
+                    "definition": "Evaporation causes a cooling effect because water takes heat from its surroundings to change into vapour. This is why water in porous containers or surfaces feels cooler after some evaporation occurs.",
+                    "formulae": [],
+                    "examples": [
+                        "Water in an earthen pot (Matka) or a Surahi remains cold because water seeps through the surface and evaporates.",
+                        "Making and using an electricity-free model of a pot-in-pot cooler (Activity 8.9).",
+                        "Cooling sensation on the skin when sweat evaporates or when hand sanitiser is rubbed on hands.",
+                        "Sprinkling water on a hot floor or roof during summer to impart a cooling effect."
+                    ]
+                },
+                {
+                    "id": "1.8",
+                    "title": "Cloud Formation",
+                    "definition": "As water vapour rises (being lighter than air), it enters cooler layers of the atmosphere where it condenses around tiny dust particles to form tiny droplets. These floating droplets aggregate to form clouds.",
+                    "formulae": [],
+                    "examples": [
+                        "Tiny water droplets joining together to form bigger drops that eventually fall as rain.",
+                        "Observing haziness in a bottle containing smoke particles and water when squeezed and released (Activity 8.10)."
+                    ]
+                },
+                {
+                    "id": "1.9",
+                    "title": "Water Cycle",
+                    "definition": "The circulation of water between the Earth's surface and the atmosphere through evaporation, condensation, and return as rain, hail, or snow is known as the water cycle.",
+                    "formulae": [],
+                    "examples": [
+                        "Water from oceans and rivers evaporating and returning to Earth as precipitation.",
+                        "Labeling the movement of water between clouds, rivers, oceans, and groundwater (Activity 8.11)."
+                    ]
+                },
+                {
+                    "id": "1.10",
+                    "title": "Water Conservation",
+                    "definition": "Using water wisely and protecting it from pollution is essential because only a small portion of Earth's water is fit for use by humans, plants, and animals.",
+                    "formulae": [],
+                    "examples": [
+                        "Repairing leaking taps and avoiding wastage during daily activities.",
+                        "Keeping rivers and other water bodies free from pollution.",
+                        "Conserving 'Nature’s Treasures' by using water responsibly as population increases."
                     ]
                 }
             ]
         },
         {
             "number": 2,
-            "title": "Components of Food",
+            "title": "Beyond Earth",
             "concepts": [
                 {
                     "id": "2.1",
-                    "title": "Nutrients and Their Types",
-                    "definition": "Nutrients are substances in food that our body needs for energy, growth, repair and maintenance. Major nutrients are carbohydrates, proteins, fats, vitamins, minerals, along with water and roughage.",
+                    "title": "Stars and Constellations",
+                    "definition": "Stars are heavenly bodies that shine with their own light. Constellations are imaginary patterns or shapes formed by groups of stars. The International Astronomical Union (IAU) officially lists 88 constellations. In Indian astronomy, the term nakshatra is used to denote a certain star or group of stars.",
                     "formulae": [],
                     "examples": [
-                        "Rice and sugar are rich in carbohydrates; pulses and meat in proteins; oils and ghee in fats; fruits and vegetables in vitamins and minerals."
+                        "Orion (the Hunter) featuring the star Ardra (Betelgeuse) and three middle stars representing a hunter's belt (Activity 12.3).",
+                        "Taurus (the Bull) which includes Krittika (Pleiades) and Rohini (Aldebaran).",
+                        "Ursa Major (Saptarishi) containing the Big Dipper pattern.",
+                        "Ursa Minor containing the Little Dipper and the Pole Star (Dhruva Tara).",
+                        "Canis Major containing Sirius, the brightest star in the night sky (Activity 12.3).",
+                        "Drawing connecting lines between stars to imagine patterns (Activity 12.1)."
                     ]
                 },
                 {
                     "id": "2.2",
-                    "title": "Functions of Nutrients",
-                    "definition": "Carbohydrates and fats mainly give energy; proteins help in growth and repair; vitamins and minerals protect us from diseases and keep the body working properly; water and roughage help digestion and removal of wastes.",
+                    "title": "The Pole Star (Dhruva Tara)",
+                    "definition": "The Pole Star, or Polaris, is a star that appears stationary in the North direction in the Northern hemisphere, making it useful for finding directions. It is part of the Little Dipper pattern.",
                     "formulae": [],
                     "examples": [
-                        "Growing children need more protein to build body tissues.",
-                        "Vitamin C deficiency causes scurvy; iron deficiency causes anaemia."
+                        "Locating the Pole Star by imagining a straight line passing through the two stars at the end of the Big Dipper's cup (Activity 12.2)."
                     ]
                 },
                 {
                     "id": "2.3",
-                    "title": "Balanced Diet",
-                    "definition": "A balanced diet contains all nutrients, water and roughage in proper amounts needed by the body for good health.",
+                    "title": "Night Sky Watching and Light Pollution",
+                    "definition": "Night sky watching is the observation of celestial objects, best done from dark, open areas. Light pollution—excessive artificial light—reduces visibility. Dark sky reserves, like Hanle in Ladakh, are established to preserve dark skies for research.",
                     "formulae": [],
                     "examples": [
-                        "A plate with chapati or rice, dal, vegetables, some salad and curd is closer to a balanced diet than only chips or sweets."
+                        "Waiting 30 minutes for eyes to adjust to darkness (Activity 12.5 context).",
+                        "Using apps like Sky Map or Stellarium, or tools like the Himalayan Chandra Telescope at Mount Saraswati.",
+                        "The Hanle Dark Sky Reserve (HDSR) in Ladakh being the first of its kind in India."
                     ]
                 },
                 {
                     "id": "2.4",
-                    "title": "Deficiency Diseases",
-                    "definition": "Lack of one or more nutrients over a long period leads to deficiency diseases with specific symptoms.",
+                    "title": "The Sun and its Energy",
+                    "definition": "The Sun is the closest star to Earth and an extremely hot spherical ball of gases. It is about 100 times bigger than Earth in diameter and is the main source of heat and light energy. The distance between the Sun and Earth is 150 million km (1 au).",
                     "formulae": [],
                     "examples": [
-                        "Lack of vitamin D causes rickets (weak, bent bones); lack of iodine causes goitre (swollen neck)."
+                        "The Sun powers the Earth's climate, weather, winds, and water cycle.",
+                        "Sunlight is essential for plants to grow through photosynthesis, providing oxygen to animals and humans.",
+                        "The next nearest star, Proxima Centauri, is about 269,000 au away."
+                    ]
+                },
+                {
+                    "id": "2.5",
+                    "title": "Planets of the Solar System",
+                    "definition": "A planet is a large, nearly spherical object that revolves around the Sun. The Solar System has eight planets: Mercury (Budha), Venus (Shukra), Earth (Prithvi), Mars (Mangala), Jupiter (Brihaspati), Saturn (Shani), Uranus, and Neptune.",
+                    "formulae": [],
+                    "examples": [
+                        "Venus (Morning/Evening Star) is brightest at dawn or dusk (Activity 12.4).",
+                        "Mars (Red Planet) appears red due to its soil colour.",
+                        "Earth (Blue Planet) appears blue from space because of water coverage.",
+                        "Giant gaseous planets (Jupiter, Saturn, Uranus, Neptune) have large flat ring-like structures.",
+                        "Pluto, once called the ninth planet, is now classified as a dwarf planet after the 2006 IAU definition."
+                    ]
+                },
+                {
+                    "id": "2.6",
+                    "title": "Natural Satellites and the Moon",
+                    "definition": "A satellite is an object that moves around a larger object. The Moon is Earth's only natural satellite. It is about a quarter the size of Earth and takes nearly 27 days to complete one revolution. It has no atmosphere, water, or life.",
+                    "formulae": [],
+                    "examples": [
+                        "Circular bowl-like structures called craters on the Moon's surface.",
+                        "India's Chandrayaan missions (1, 2, and 3) to study the Moon.",
+                        "The Vikram lander and Pragyan rover of Chandrayaan-3 soft-landing near the Moon's south pole on 23 August 2023.",
+                        "National Space Day celebrated in India on August 23 every year."
+                    ]
+                },
+                {
+                    "id": "2.7",
+                    "title": "Asteroids and Comets",
+                    "definition": "Asteroids are rocky, irregular objects revolving around the Sun, mostly between Mars and Jupiter (Asteroid Belt). Comets (Dhumaketu) are icy-rocky visitors from the outer regions made of dust, gases, rocks and ice.",
+                    "formulae": [],
+                    "examples": [
+                        "The evaporating ice of a comet as it approaches the Sun forms a long tail.",
+                        "The famous Halley's Comet which appears every 76 years.",
+                        "Tribal names for comets: 'Pucchya-Taro' (star with a tail) or 'Zendya-Taro' (star like a flag)."
+                    ]
+                },
+                {
+                    "id": "2.8",
+                    "title": "Our Solar System",
+                    "definition": "The Solar System is made up of the Sun, eight planets, their moons, and many smaller objects including asteroids and comets. All these objects shine by reflecting sunlight.",
+                    "formulae": [],
+                    "examples": [
+                        "Revolution: the movement of all these objects around the Sun.",
+                        "The Sun being the hardest and heaviest object, holding the system together."
+                    ]
+                },
+                {
+                    "id": "2.9",
+                    "title": "The Milky Way Galaxy (Akasha Ganga)",
+                    "definition": "A galaxy consists of millions to billions of stars. Our Solar System is a tiny part of the Milky Way Galaxy, which appears as a faint band of light across a very dark night sky.",
+                    "formulae": [],
+                    "examples": [
+                        "The Milky Way clearly visible from high-altitude dark areas like Ladakh."
+                    ]
+                },
+                {
+                    "id": "2.10",
+                    "title": "The Universe",
+                    "definition": "The Universe includes all galaxies, stars, and space. Scientists continue to search for life elsewhere, particularly on exoplanets revolving around other stars.",
+                    "formulae": [],
+                    "examples": [
+                        "The ongoing scientific search for evidence of life beyond Earth."
                     ]
                 }
             ]
         },
         {
             "number": 3,
-            "title": "Fibre to Fabric",
+            "title": "Diversity in the Living World",
             "concepts": [
                 {
                     "id": "3.1",
-                    "title": "Fibres, Yarn and Fabric",
-                    "definition": "Fibres are thin strands that can be spun into yarn; yarn is a long continuous thread; fabric is cloth made by weaving or knitting yarn.",
+                    "title": "Biodiversity and Interdependence",
+                    "definition": "Biodiversity refers to the variety of plants and animals found in a particular region. Living things are interdependent, meaning they rely on each other for food, shelter, and survival.",
                     "formulae": [],
                     "examples": [
-                        "Cotton fibres are spun into cotton yarn which is woven into cloth.",
-                        "Wool yarn is knitted into sweaters."
+                        "Trees providing food and shelter to birds and monkeys.",
+                        "Animals such as monkeys jumping from tree to tree and butterflies moving from flower to flower.",
+                        "Birds mimicking unique chirps as an example of diversity in nature.",
+                        "Observing different plants, insects, and birds during a nature walk (Activity 2.1)."
                     ]
                 },
                 {
                     "id": "3.2",
-                    "title": "Plant Fibres: Cotton and Jute",
-                    "definition": "Cotton comes from cotton bolls on cotton plants; jute comes from the stem of jute plants.",
+                    "title": "Classification of Plants (Herbs, Shrubs, Trees)",
+                    "definition": "Plants are grouped based on their height, stem nature, and branching patterns. Herbs have soft green stems; shrubs have woody stems branching close to the ground; trees have thick hard stems branching higher up.",
                     "formulae": [],
                     "examples": [
-                        "In cotton ginning, cotton fibres are separated from seeds.",
-                        "Jute stems are soaked in water and then fibres are stripped off."
+                        "Tomato (herb), Rose (shrub), and Mango (tree).",
+                        "Climbers (e.g., money plant) and creepers (e.g., pumpkin) have weak stems needing support (Activity 2.4)."
                     ]
                 },
                 {
                     "id": "3.3",
-                    "title": "Spinning and Weaving",
-                    "definition": "Spinning converts fibres into yarn by twisting; weaving makes fabric by crossing two sets of yarns at right angles on a loom.",
+                    "title": "Leaf Venation (Reticulate and Parallel)",
+                    "definition": "Venation is the pattern of veins on a leaf. Reticulate venation is net-like on both sides of a middle vein; parallel venation has veins running parallel to each other.",
                     "formulae": [],
                     "examples": [
-                        "Charkha and spinning wheels are used for spinning; handlooms and powerlooms are used for weaving."
+                        "Hibiscus leaves show reticulate venation.",
+                        "Banana and grass leaves show parallel venation (Activity 2.5)."
+                    ]
+                },
+                {
+                    "id": "3.4",
+                    "title": "Root Systems (Taproot and Fibrous Roots)",
+                    "definition": "A taproot system has one main root with smaller side roots. A fibrous root system consists of a bunch of similar-sized thin roots arising from the base of the stem.",
+                    "formulae": [],
+                    "examples": [
+                        "Mustard and hibiscus have taproots.",
+                        "Common grass and wheat have fibrous roots (Activity 2.6)."
+                    ]
+                },
+                {
+                    "id": "3.5",
+                    "title": "Seed Types (Monocots and Dicots)",
+                    "definition": "Plants are classified as Monocots (seeds with one cotyledon) or Dicots (seeds with two cotyledons). Monocots typically have parallel venation and fibrous roots; Dicots have reticulate venation and taproots.",
+                    "formulae": [],
+                    "examples": [
+                        "Dicots: Chickpea (chana) and kidney beans, showing reticulate venation in leaves and taproots.",
+                        "Monocots: Maize, wheat, and lemongrass, showing parallel venation and fibrous roots (Activity 2.8).",
+                        "Plants like sadabahar (periwinkle) and hibiscus are dicots; grasses and banana plants are monocots."
+                    ]
+                },
+                {
+                    "id": "3.6",
+                    "title": "Animal Movement and Habitats",
+                    "definition": "Animals are grouped based on how they move (flight, running, swimming) and the body parts they use (wings, legs, fins).",
+                    "formulae": [],
+                    "examples": [
+                        "Pigeons use wings to fly; fish use fins to swim (Activity 2.9).",
+                        "Ants use legs for walking; goats use legs for walking and jumping."
+                    ]
+                },
+                {
+                    "id": "3.7",
+                    "title": "Adaptations and Survival",
+                    "definition": "Adaptations are special features that enable plants and animals to survive in certain surroundings.",
+                    "formulae": [],
+                    "examples": [
+                        "Conical shape of deodar trees and sloping branches help snow slide off in cold mountains.",
+                        "Camels in hot deserts (Rajasthan) have long legs with wide hooves for sandy terrain, dry dung, and don't sweat to conserve water.",
+                        "Camels in cold deserts (Ladakh) have shorter legs for mountains, two humps that shrink in late winters when food is scarce, and grow long hair for winter.",
+                        "Rhododendrons having shorter heights and smaller leaves on mountain tops to survive heavy winds (e.g., Nilgiris) vs taller in other regions (e.g., Sikkim).",
+                        "Cactus plants with thick fleshy stems to store water in deserts."
+                    ]
+                },
+                {
+                    "id": "3.8",
+                    "title": "Habitat (Terrestrial, Aquatic, and Amphibians)",
+                    "definition": "Habitat is the place where a plant or animal lives. Terrestrial habitats are land-based (forests, deserts); Aquatic habitats are water-based (oceans, lakes).",
+                    "formulae": [],
+                    "examples": [
+                        "Terrestrial: Camels in deserts, Lions in forests.",
+                        "Aquatic: Whale and colourful fish in the ocean.",
+                        "Amphibians: Frogs, which can live both on land and in water."
+                    ]
+                },
+                {
+                    "id": "3.9",
+                    "title": "Conservation of Biodiversity",
+                    "definition": "The protection and restoration of habitats and species to prevent the loss of biodiversity due to human activities.",
+                    "formulae": [],
+                    "examples": [
+                        "Project Tiger (1973), Cheetah Reintroduction Project (2022), and Protected areas for Great Indian Bustards (Gujarat, Rajasthan, Maharashtra).",
+                        "The 'Save Silent Valley' movement against a hydroelectric dam over the Kunthipuzha river in Palakkad, Kerala, led by common people.",
+                        "Documenting and preserving biodiversity across the Indian subcontinent."
+                    ]
+                },
+                {
+                    "id": "3.10",
+                    "title": "Sacred Groves",
+                    "definition": "Sacred groves are community-protected patches of undisturbed forests where no one is allowed to harm animals or cut trees.",
+                    "formulae": [],
+                    "examples": [
+                        "Serving as repositories of medicinal plants and local biodiversity treasures across India."
+                    ]
+                },
+                {
+                    "id": "3.11",
+                    "title": "Pioneers in Biodiversity (Janaki Ammal and Salim Ali)",
+                    "definition": "Notable scientists who documented and preserved India's rich biodiversity.",
+                    "formulae": [],
+                    "examples": [
+                        "Janaki Ammal: Botanist and head of Botanical Survey of India; dedicated to environmental work and the Save Silent Valley movement.",
+                        "Salim Ali: The 'Birdman of India' and Padma Vibhushan awardee; wrote a landmark 10-book series on birds of the Indian Subcontinent.",
+                        "Salim Ali's role in preserving Keoladeo National Park (Rajasthan) and Ranganathittu Bird Sanctuary (Karnataka)."
                     ]
                 }
             ]
         },
         {
             "number": 4,
-            "title": "Sorting Materials into Groups",
+            "title": "Exploring Magnets",
             "concepts": [
                 {
                     "id": "4.1",
-                    "title": "Objects and Materials",
-                    "definition": "Objects are things we see and use; they are made from different materials such as wood, metal, glass, plastic and cotton.",
+                    "title": "Magnetic and Non-magnetic Materials",
+                    "definition": "Materials attracted to magnets are magnetic materials (e.g., iron, nickel, cobalt). Materials not attracted are non-magnetic materials (e.g., plastic, wood, glass). Naturally occurring magnets discovered in ancient times are known as lodestones.",
                     "formulae": [],
                     "examples": [
-                        "A chair can be made of wood or plastic; utensils are often made of steel or aluminium."
+                        "Iron nails, steel paper clips, and objects containing nickel or cobalt being attracted to a magnet.",
+                        "Testing objects like erasers (rubber), plastic rulers, and pencils (wood) which do not stick to magnets (Activity 4.1)."
                     ]
                 },
                 {
                     "id": "4.2",
-                    "title": "Properties of Materials",
-                    "definition": "Materials are grouped based on properties such as appearance, hardness, solubility, transparency, conduction of heat and electricity.",
+                    "title": "Poles of a Magnet",
+                    "definition": "The regions of a magnet where the attraction is strongest are called poles: the North pole and the South pole. They always exist in pairs even in the smallest broken piece of a magnet; a single pole cannot exist.",
                     "formulae": [],
                     "examples": [
-                        "Metals are shiny and hard; chalk is dull and soft; salt dissolves in water but sand does not."
+                        "Iron filings sticking mostly to the ends of a bar magnet rather than the middle (Activity 4.2).",
+                        "Magnets come in shapes like bar, cylindrical, horse-shoe, and ring, all having two poles."
                     ]
                 },
                 {
                     "id": "4.3",
-                    "title": "Transparent, Translucent and Opaque",
-                    "definition": "Transparent materials allow almost all light to pass; translucent allow some light; opaque do not allow light to pass.",
+                    "title": "Magnetic Compass and Finding Directions",
+                    "definition": "A freely suspended magnet always rests in the north-south direction because Earth behaves like a giant magnet. A magnetic compass is a circular box with a magnetized needle mounted on a pin that indicates directions.",
                     "formulae": [],
                     "examples": [
-                        "Clear glass is transparent; oiled paper is translucent; wood and metal are opaque."
+                        "Suspending a bar magnet by a thread to observe it resting in the N-S direction (Activity 4.3).",
+                        "The end of the compass needle pointing North is usually painted red for easier identification."
+                    ]
+                },
+                {
+                    "id": "4.4",
+                    "title": "Matsya-yantra (Machchhyantra)",
+                    "definition": "An ancient Indian navigation device consisting of a magnetized fish-shaped iron piece placed in a vessel of oil, used by sailors to find directions long before modern compasses.",
+                    "formulae": [],
+                    "examples": [
+                        "Indian sailors using the 'fish-shaped instrument' (matsya-yantra) to navigate the seas (Do you know? section)."
+                    ]
+                },
+                {
+                    "id": "4.5",
+                    "title": "Making Artificial Magnets and Compasses",
+                    "definition": "Magnetism can be induced in an iron piece by repeatedly stroking it with one pole of a permanent magnet. A simple compass can be made using a magnetized needle and a cork.",
+                    "formulae": [],
+                    "examples": [
+                        "Magnetising an iron sewing needle by stroking it 30-40 times in one direction with a bar magnet (Activity 4.4).",
+                        "Floating the magnetized needle through a cork in a bowl of water or oil to find directions."
+                    ]
+                },
+                {
+                    "id": "4.6",
+                    "title": "Attraction and Repulsion (The Sure Test)",
+                    "definition": "Unlike poles attract, and like poles repel. Repulsion is the only 'sure test' to identify whether an object is a magnet, as both poles of a magnet will attract ordinary iron.",
+                    "formulae": [],
+                    "examples": [
+                        "Interaction between two magnetic cars speeded towards or away from each other based on pole orientation (Activity 4.5).",
+                        "Using a marking-less magnet and observing repulsion to identify its poles with another marked magnet."
+                    ]
+                },
+                {
+                    "id": "4.7",
+                    "title": "Magnetic Effect through Materials",
+                    "definition": "Magnetic force is capable of passing through non-magnetic materials like thin sheets of wood, glass, or plastic without much change in strength.",
+                    "formulae": [],
+                    "examples": [
+                        "Moving a magnet below a cardboard tray to lead steel balls through a maze (Activity 4.7).",
+                        "Picking out a steel paper clip from water by moving a magnet outside the glass."
+                    ]
+                },
+                {
+                    "id": "4.8",
+                    "title": "Proper Care and Storage of Magnets",
+                    "definition": "Magnets lose properties if heated, hammered, or dropped. They should be stored in pairs with unlike poles together, separated by wood, and with soft iron keepers across the ends.",
+                    "formulae": [],
+                    "examples": [
+                        "Storing bar magnets with unlike poles on the same side and iron pieces (keepers) across the ends.",
+                        "Keeping magnets away from cassettes, mobile phones, remote controls, and gadgets (More to know! section).",
+                        "Storing a horse-shoe magnet with a single iron keeper across its two poles."
+                    ]
+                },
+                {
+                    "id": "4.9",
+                    "title": "Fun with Magnets and Applications",
+                    "definition": "Magnets can be used to create interactive toys and games, and they have important applications in technology like Maglev trains and medicine.",
+                    "formulae": [],
+                    "examples": [
+                        "Creating a 'Hopping Frog' toy using ring magnets and their repulsion property.",
+                    "Leading steel balls through a maze or picking up paper clips from water without getting wet.",
+                        "Maglev (Magnetic Levitation) trains that use magnets to float above tracks."
                     ]
                 }
             ]
         },
         {
             "number": 5,
-            "title": "Separation of Substances",
+            "title": "Living Creatures: Exploring their Characteristics",
             "concepts": [
                 {
                     "id": "5.1",
-                    "title": "Need for Separation",
-                    "definition": "Substances are separated to remove impurities, get useful components, or obtain pure samples.",
+                    "title": "Common Characteristics of Living Beings",
+                    "definition": "Living beings are distinguished by features like movement, growth, nutrition, respiration, excretion, response to stimuli, reproduction, and death. Absence of any of these indicates a non-living thing.",
                     "formulae": [],
                     "examples": [
-                        "Stones are removed from rice; cream is separated from milk; salt is separated from sand."
+                        "Pigeons and snails moving, growing, and responding to stimuli (Activity 10.1).",
+                        "Plants like climbers winding around objects to show movement, unlike books or pencils."
                     ]
                 },
                 {
                     "id": "5.2",
-                    "title": "Methods of Separation",
-                    "definition": "Different methods like handpicking, threshing, winnowing, sieving, filtration, evaporation and decantation are used depending on properties of components.",
+                    "title": "Nutrition, Respiration, and Excretion",
+                    "definition": "Living beings need nutrition for growth. Respiration involves gas exchange (using stomata in plants). Excretion is waste removal (sweat, urine, or water droplets on leaves).",
                     "formulae": [],
                     "examples": [
-                        "Winnowing separates husk from grain using wind; sieving separates flour from coarser particles."
+                        "Insectivorous plants like Drosera having saucer-shaped leaves with sticky hairs to trap insects for nutrition.",
+                        "Tiny pores called stomata on leaves helping plants take air in and out.",
+                        "Water droplets on grass and roses as a form of plant excretion."
                     ]
                 },
                 {
                     "id": "5.3",
-                    "title": "Soluble and Insoluble Substances",
-                    "definition": "Substances that dissolve in a given liquid form solutions; those that do not dissolve are insoluble and can often be separated by filtration.",
+                    "title": "Stimuli and Response",
+                    "definition": "A stimulus is any event that prompts a response. Examples include light, touch, heat, and gravity.",
                     "formulae": [],
                     "examples": [
-                        "Salt is soluble in water; sand is insoluble and can be removed by filtration."
+                        "Touch-me-not (Mimosa/Chhui-mui) folding leaves when touched.",
+                        "Sleeping leaves of Amla (Indian gooseberry) folding after sunset.",
+                        "Stepping on a thorn or touching a hot cup of tea."
                     ]
                 },
                 {
                     "id": "5.4",
-                    "title": "Evaporation and Condensation in Separation",
-                    "definition": "Evaporation removes the liquid part to obtain dissolved solids; condensation converts vapour back to liquid.",
+                    "title": "Seed Germination and Essential Conditions",
+                    "definition": "Seed germination requires air and the right amount of water. Water softens the seed coat to help the embryo develop into a plant.",
                     "formulae": [],
                     "examples": [
-                        "Salt is obtained from seawater by evaporation; distillation uses evaporation followed by condensation to purify liquids."
+                        "Most seeds don't need light for germination, but Coleus and Petunia require light while Calendula and Zinnia need darkness.",
+                        "Excess water preventing air from reaching seeds and inhibiting germination (Activity 10.2)."
+                    ]
+                },
+                {
+                    "id": "5.5",
+                    "title": "Growth Orientation in Plants",
+                    "definition": "Plants show biased movement during growth: roots grow downwards into the soil, while shoots grow upwards and towards sunlight.",
+                    "formulae": [],
+                    "examples": [
+                        "Shoot of an inverted plant bending upwards to seek light while the root bends downwards (Activity 10.3)."
+                    ]
+                },
+                {
+                    "id": "5.6",
+                    "title": "Jagadish Chandra Bose and the Crescograph",
+                    "definition": "Indian scientist (1858-1937) who proved plants sense and respond to stimuli. He invented the crescograph to measure plant growth speed and reactions to light, heat, and electricity.",
+                    "formulae": [],
+                    "examples": [
+                        "Demonstrating that plants are sensitive to their environment using specialized recording instruments."
+                    ]
+                },
+                {
+                    "id": "5.7",
+                    "title": "Life Cycle of a Plant",
+                    "definition": "Stages from seed germination, maturity (flowering and fruiting), to seed production for the next generation.",
+                    "formulae": [],
+                    "examples": [
+                        "Following a bean plant's life cycle from a seed to the formation of pods with new seeds (Activity 10.4)."
+                    ]
+                },
+                {
+                    "id": "5.8",
+                    "title": "Life Cycle of a Mosquito",
+                    "definition": "A four-stage cycle: Egg, Larva, Pupa, and Adult. Larvae and pupae live in water and move to the surface to breathe air.",
+                    "formulae": [],
+                    "examples": [
+                        "Female mosquitoes transmitting diseases like malaria and dengue.",
+                        "Spraying kerosene oil on stagnant water to create a layer that blocks air from larvae and pupae (Activity 10.5)."
+                    ]
+                },
+                {
+                    "id": "5.9",
+                    "title": "Life Cycle of a Frog",
+                    "definition": "Stages include spawn (jelly-like egg clusters), embryo, tadpole (aquatic with swimming tail), froglet, and adult frog.",
+                    "formulae": [],
+                    "examples": [
+                        "Tadpoles developing hind legs and losing their tails as they transform into land-dwelling adults (Activity 10.6)."
+                    ]
+                },
+                {
+                    "id": "5.10",
+                    "title": "Life Cycle of a Silk Moth",
+                    "definition": "Four-stage development (Egg, Larva, Pupa, Adult). Larvae (caterpillars) secrete silk fibers to form cocoons.",
+                    "formulae": [],
+                    "examples": [
+                        "Silk production centers set up by the Khadi and Village Industries Commission (KVIC) in India."
                     ]
                 }
             ]
         },
         {
             "number": 6,
-            "title": "Changes Around Us",
+            "title": "Materials Around Us",
             "concepts": [
                 {
                     "id": "6.1",
-                    "title": "Different Types of Changes",
-                    "definition": "Changes occur when things are heated, cooled, mixed, stretched or compressed; they can affect shape, size, state or colour.",
+                    "title": "Objects and Materials",
+                    "definition": "A material is any substance used to create an object. Materials like clay and iron are used to make the 'crucible' (a vessel for melting substances), as mentioned in the ancient scientific text Rasaratnasamuchchaya.",
                     "formulae": [],
                     "examples": [
-                        "Melting wax, stretching a rubber band, mixing sugar in water are all changes."
+                        "A tumbler can be made from plastic, glass, or metal (Activity 6.3).",
+                        "Materials used to make a pen include plastic, metal, and ink."
                     ]
                 },
                 {
                     "id": "6.2",
-                    "title": "Reversible and Irreversible Changes",
-                    "definition": "Reversible changes can be undone to get the original material back; irreversible changes cannot be reversed easily.",
+                    "title": "History of Pottery and Terracotta",
+                    "definition": "Pottery in India dates back 7,000-8,000 years to Lahuradewa (Ganga plains) and Mehrgarh (Baluchistan). Terracotta refers to baked clay. Harappan (Sindhu-Sarasvati) pottery (2600-1900 BCE) featured black-on-red designs.",
                     "formulae": [],
                     "examples": [
-                        "Melting of ice is reversible; burning of paper is irreversible."
+                        "Storage jars for grains and oil with geometric patterns exhibited at the National Museum, New Delhi.",
+                        "Decorative coats on pottery known as 'slips'."
                     ]
                 },
                 {
                     "id": "6.3",
-                    "title": "Physical and Chemical Changes (Intro)",
-                    "definition": "Physical changes only alter physical properties and do not form new substances; chemical changes form new substances with new properties.",
+                    "title": "Classification of Materials",
+                    "definition": "Classification is the method of arranging objects into groups based on common properties (color, shape, material) to study patterns and behavior.",
                     "formulae": [],
                     "examples": [
-                        "Folding paper is a physical change; formation of curd from milk is a chemical change."
+                        "Sorting balls by their bounce height (Activity 6.4).",
+                        "Grocers keeping similar food items together for easy identification."
+                    ]
+                },
+                {
+                    "id": "6.4",
+                    "title": "Appearance: Lustrous and Non-lustrous",
+                    "definition": "Lustre is the shiny appearance typical of metals like gold, copper, and aluminium. Materials that do not shine are non-lustrous.",
+                    "formulae": [],
+                    "examples": [
+                        "Freshly cut surface of iron showing lustre.",
+                        "Materials becoming dull due to the effect of air and moisture (oxidation)."
+                    ]
+                },
+                {
+                    "id": "6.5",
+                    "title": "Hardness and Softness",
+                    "definition": "Hard materials are difficult to compress or scratch (stone, iron); soft materials are easily compressed (sponge, eraser). Hardness is a relative property.",
+                    "formulae": [],
+                    "examples": [
+                        "Rubber being harder than sponge but softer than iron (Activity 6.5)."
+                    ]
+                },
+                {
+                    "id": "6.6",
+                    "title": "Transparency: Transparent, Opaque, and Translucent",
+                    "definition": "Transparent materials allow clear vision (glass, air); opaque materials do not allow vision (wood); translucent materials allow hazy vision (frosted glass, butter paper).",
+                    "formulae": [],
+                    "examples": [
+                        "Hiding behind a wall (opaque) vs looking through a glass window (transparent) in hide-and-seek."
+                    ]
+                },
+                {
+                    "id": "6.7",
+                    "title": "Solubility and Solutions",
+                    "definition": "Soluble materials (sugar, salt) completely disappear in water to form a solution. Insoluble materials (sand, sawdust) do not dissolve even after stirring.",
+                    "formulae": [],
+                    "examples": [
+                        "Mixing sugar, salt, and lemon juice in water to make Shikanji (lemonade) (Activity 6.7).",
+                        "Oxygen gas dissolved in water supporting aquatic life."
+                    ]
+                },
+                {
+                    "id": "6.8",
+                    "title": "Matter, Mass, and Volume",
+                    "definition": "Matter is anything that occupies space and has mass. Mass quantifies quantity (kg), while volume is the space occupied (L, mL, or SI unit m^3). Notation requires a space between the number and unit (e.g., 7 kg).",
+                    "formulae": [
+                        "1 m^3 = 1000 L"
+                    ],
+                    "examples": [
+                        "Using a balance to weigh cups of water, sand, and pebbles to compare their mass (Activity 6.8).",
+                        "Volume of water marked as 'net quantity' on bottles (e.g., 500 mL)."
+                    ]
+                },
+                {
+                    "id": "6.9",
+                    "title": "Ayurvedic Guna (20 Properties of Matter)",
+                    "definition": "Ayurveda (Ahtanga hridaya) describes all physical matter, living systems, and food through 20 properties (gunas) organized in 10 pairs of opposites.",
+                    "formulae": [],
+                    "examples": [
+                        "Guru (heavy) vs Laghu (light); Shita (cold) vs Ushna (hot); Mridu (soft) vs Kathina (hard); Drava (liquid) vs Sandra (solid).",
+                        "Sthira (stable) vs Chala (moving/unstable); Snigdha (unctuous/oily) vs Ruksha (dry)."
+                    ]
+                },
+                {
+                    "id": "6.10",
+                    "title": "ORS — Oral Rehydration Solution",
+                    "definition": "A solution prepared at home or using packets to treat dehydration due to illness.",
+                    "formulae": [],
+                    "examples": [
+                        "Dissolving 6 teaspoons of sugar and half a teaspoon of salt in 1 litre of boiled and cooled water."
                     ]
                 }
             ]
         },
         {
             "number": 7,
-            "title": "Getting to Know Plants",
+            "title": "Measurement of Length and Motion",
             "concepts": [
                 {
                     "id": "7.1",
-                    "title": "Herbs, Shrubs and Trees",
-                    "definition": "Plants are grouped by size and stem type: herbs are small with soft stems, shrubs are medium‑sized with woody stems branching from base, trees are tall with a single woody stem.",
+                    "title": "History of Measurement",
+                    "definition": "Ancient units like Angula (finger width), Handspan (Balisht), Stride, and Yojana varied between individuals. Harappan excavations reveal scales with ruled markings, indicating early standardized measurement.",
                     "formulae": [],
                     "examples": [
-                        "Mint is a herb; rose is a shrub; neem and mango are trees."
+                        "Measuring the classroom table using a handspan (balisht) as a unit (Activity 5.1).",
+                        "Traditional carpenters still using angula for measurements."
                     ]
                 },
                 {
                     "id": "7.2",
-                    "title": "Parts of Plants",
-                    "definition": "Main parts are root, stem, leaf, flower and fruit; each part has specific roles in support, transport, photosynthesis and reproduction.",
+                    "title": "Standard Units and SI System",
+                    "definition": "The International System of Units (SI) was adopted to ensure uniform measurements globally. The SI unit of length is the metre (m).",
                     "formulae": [],
                     "examples": [
-                        "Roots anchor the plant and absorb water; leaves make food; flowers form fruits and seeds."
+                        "Large lengths are measured in kilometres, while smaller lengths use centimetres or millimetres."
                     ]
                 },
                 {
                     "id": "7.3",
-                    "title": "Types of Roots and Leaves",
-                    "definition": "Roots may be tap roots or fibrous roots. Leaves have veins and midrib; they show venation patterns like reticulate or parallel.",
-                    "formulae": [],
+                    "title": "Metric Conversions (Length)",
+                    "definition": "Length units are written in lowercase (m, km, cm) with a space between the number and unit. Symbols are never pluralized (e.g., 5 kg, not 5 kgs).",
+                    "formulae": [
+                        "1 km = 1000 m",
+                        "1 m = 100 cm",
+                        "1 cm = 10 mm",
+                        "1 inch = 2.54 cm"
+                    ],
                     "examples": [
-                        "Pea has tap root; wheat has fibrous roots. Mango leaf shows reticulate venation; grass leaf shows parallel venation."
+                        "A 1.5 km distance between home and school is equivalent to 1500 metres."
                     ]
                 },
                 {
                     "id": "7.4",
-                    "title": "Functions of Leaves and Photosynthesis (Intro)",
-                    "definition": "Leaves prepare food using sunlight, carbon dioxide and water in a process called photosynthesis, often indicated by presence of chlorophyll and stomata.",
+                    "title": "Correct Measurement Techniques",
+                    "definition": "Accuracy requires placing the scale along the object, positioning the eye directly above the point, and adjusting for worn or broken scale ends.",
+                    "formulae": [
+                        "Actual Length = Final Reading - Initial Reading (for broken ends)"
+                    ],
+                    "examples": [
+                        "Subtracting 1.0 cm from a final reading of 10.4 cm to get 9.4 cm for a broken-end scale.",
+                        "Using a thread or flexible tape to measure the girth of a tree or a curved line."
+                    ]
+                },
+                {
+                    "id": "7.5",
+                    "title": "Position and Reference Point",
+                    "definition": "A reference point is a fixed object or location used to describe the position or distance of an object.",
                     "formulae": [],
                     "examples": [
-                        "Boiled leaf iodine test shows presence of starch, evidence of photosynthesis."
+                        "Kilometre stones showing distance relative to 'Delhi' as the reference point.",
+                        "Using a bus stand as a common reference point to compare house distances."
+                    ]
+                },
+                {
+                    "id": "7.6",
+                    "title": "Rest and Motion",
+                    "definition": "An object is in motion if its position changes with respect to a reference point over time; otherwise, it is at rest. Motion is relative to the chosen reference point.",
+                    "formulae": [],
+                    "examples": [
+                        "Passengers in a bus are at rest relative to the bus but in motion relative to trees outside."
+                    ]
+                },
+                {
+                    "id": "7.7",
+                    "title": "Types of Motion: Linear and Circular",
+                    "definition": "Linear motion involves movement along a straight line. Circular motion occurs when an object follows a circular path.",
+                    "formulae": [],
+                    "examples": [
+                        "An orange dropping from a tree or students in a march-past (linear).",
+                        "A whirling eraser tied to a thread or a merry-go-round (circular)."
+                    ]
+                },
+                {
+                    "id": "7.8",
+                    "title": "Oscillatory and Periodic Motion",
+                    "definition": "Oscillatory motion is to-and-fro movement about a fixed position. Motion that repeats itself at regular intervals is called periodic motion.",
+                    "formulae": [],
+                    "examples": [
+                        "The movement of a swing or a vibrating metal strip (oscillatory).",
+                        "Circular and oscillatory motions are also periodic as they repeat their paths."
+                    ]
+                },
+                {
+                    "id": "7.9",
+                    "title": "Distance Measurement using Wheels",
+                    "definition": "Distance can be measured by multiplying the number of wheel rotations by the wheel's circumference.",
+                    "formulae": [
+                        "Distance = Number of Turns x Circumference"
+                    ],
+                    "examples": [
+                        "Using a Jones Counter attached to a bicycle wheel to measure road-running race distances."
                     ]
                 }
             ]
         },
         {
             "number": 8,
-            "title": "Body Movements",
+            "title": "Methods of Separation in Everyday Life",
             "concepts": [
                 {
                     "id": "8.1",
-                    "title": "Movement and Locomotion",
-                    "definition": "Movement is change in position of a body part; locomotion is movement that takes the whole body from one place to another.",
+                    "title": "Handpicking",
+                    "definition": "A method of separating solid components from a mixture by hand based on differences in size, colour, or shape. Kabir's quote highlights discarding vices while keeping virtues, similar to winnowing or handpicking.",
                     "formulae": [],
                     "examples": [
-                        "Bending an arm is movement; walking from one room to another is locomotion."
+                        "Removing stones and husk from grains (wheat or rice).",
+                        "Separating whole black peppers from pulao (Activity 9.1)."
                     ]
                 },
                 {
                     "id": "8.2",
-                    "title": "Human Skeletal System",
-                    "definition": "The skeleton is the framework of bones and cartilage that gives shape, protects organs and helps in movement with the help of muscles.",
+                    "title": "Threshing and Threshers",
+                    "definition": "Threshing is the process of beating harvested stalks against a hard wooden log to separate grains. Modern machines called threshers perform this task alongside winnowing.",
                     "formulae": [],
                     "examples": [
-                        "The skull protects the brain; rib cage protects heart and lungs."
+                        "Separating grains from wheat stalks in Haryana fields (Activity 9.2)."
                     ]
                 },
                 {
                     "id": "8.3",
-                    "title": "Joints and Their Types",
-                    "definition": "Joints are places where two or more bones meet; types include ball‑and‑socket, hinge, pivot and fixed joints.",
+                    "title": "Winnowing and Soop",
+                    "definition": "Winnowing uses wind or blowing air to separate heavier grains from lighter husk. A traditional bamboo tray called a soop is used for this process.",
                     "formulae": [],
                     "examples": [
-                        "Shoulder and hip have ball‑and‑socket joints; elbow and knee have hinge joints; neck has a pivot joint."
+                        "Standing on a raised platform and moving a soop in the direction of wind to separate wheat from husk."
                     ]
                 },
                 {
                     "id": "8.4",
-                    "title": "Movement in Different Animals",
-                    "definition": "Animals have different body structures and move in various ways such as walking, running, crawling, flying and swimming.",
+                    "title": "Sieving",
+                    "definition": "Sieving separates solid components of different sizes using a sieve. It is effective when particle sizes in a mixture vary significantly.",
                     "formulae": [],
                     "examples": [
-                        "Earthworm moves by contracting and expanding its body; fish uses fins and tail to swim; birds use wings to fly."
+                        "Removing bran or small stones from wheat flour before kneading.",
+                        "Construction sites using large sieves to separate pebbles and stones from sand."
+                    ]
+                },
+                {
+                    "id": "8.5",
+                    "title": "Evaporation and Salt Production",
+                    "definition": "Evaporation converts liquid into vapour, leaving dissolved solids behind. This is the primary method for obtaining salt from seawater.",
+                    "formulae": [],
+                    "examples": [
+                        "Obtaining common salt from Sambhar Lake or seawater pits.",
+                        "Drying medicinal herbs in the shade in Ayurveda to evaporate excess water.",
+                        "Dandi March (Namak Satyagrah) as a struggle for salt production rights."
+                    ]
+                },
+                {
+                    "id": "8.6",
+                    "title": "Sedimentation and Decantation",
+                    "definition": "Sedimentation involves the settling of heavier insoluble solids at the bottom. Decantation is the removal of the top liquid after sedimentation.",
+                    "formulae": [],
+                    "examples": [
+                        "Washing rice and pulses where stones settle and water is tilted out.",
+                        "Gently pouring tea after letting tea leaves settle (without a strainer)."
+                    ]
+                },
+                {
+                    "id": "8.7",
+                    "title": "Filtration: Filtrate and Residue",
+                    "definition": "Filtration separates insoluble solids from a liquid using a filter (cloth, paper, or sand). The clear liquid is the filtrate, and the trapped solid is the residue.",
+                    "formulae": [],
+                    "examples": [
+                        "Using a strainer for tea or a piece of cloth for muddy water.",
+                        "Folding filter paper into a cone for fine filtration (Activity 9.4)."
+                    ]
+                },
+                {
+                    "id": "8.8",
+                    "title": "Churning and Mathni",
+                    "definition": "Churning is the process of vigorous stirring used to extract lighter butter from curd (buttermilk). A mathni (churner) is used for this purpose.",
+                    "formulae": [],
+                    "examples": [
+                        "Lady using a big mathni to separate butter from churning curd in Madhya Pradesh."
+                    ]
+                },
+                {
+                    "id": "8.9",
+                    "title": "Magnetic Separation",
+                    "definition": "Separation of magnetic substances (like iron) from non-magnetic ones using a magnet.",
+                    "formulae": [],
+                    "examples": [
+                        "Using magnets to pick up iron nails dropped in sawdust (Activity 9.12).",
+                        "Industrial cranes with magnets separating scrap iron for recycling."
+                    ]
+                },
+                {
+                    "id": "8.10",
+                    "title": "Environmental Impact of Separation",
+                    "definition": "Modern separation often involves awareness of pollutants like plastics that interfere with natural systems and ecosystems.",
+                    "formulae": [],
+                    "examples": [
+                        "Fisherman's net trapping plastics along with fish, highlighting river pollution."
                     ]
                 }
             ]
         },
         {
             "number": 9,
-            "title": "The Living Organisms and Their Surroundings",
+            "title": "Mindful Eating: A Path to a Healthy Body",
             "concepts": [
                 {
                     "id": "9.1",
-                    "title": "Habitat and Adaptation",
-                    "definition": "Habitat is the natural home or environment of an organism. Adaptations are special features that help organisms survive in their habitat.",
+                    "title": "Food Diversity and Traditional Dishes",
+                    "definition": "Food habits across Indian states (Punjab, Karnataka, Manipur) vary based on soil, climate, and locally grown crops.",
                     "formulae": [],
                     "examples": [
-                        "Fish live in water habitat with gills and fins; camels live in deserts with humps and long legs."
+                        "Sarson da saag and makki di roti in Punjab.",
+                        "Idli, dosa, and ragi mudde in Karnataka.",
+                        "Eromba and kangsoi in Manipur (Activity 3.2)."
                     ]
                 },
                 {
                     "id": "9.2",
-                    "title": "Types of Habitats",
-                    "definition": "Main habitat types include terrestrial (land) and aquatic (water), further divided into deserts, forests, mountains, freshwater and marine habitats.",
+                    "title": "Culinary Practices and Tools",
+                    "definition": "Methods of food preparation have evolved from traditional tools like chulha and sil-batta to modern gas stoves and electrical grinders due to technological advancements.",
                     "formulae": [],
                     "examples": [
-                        "Cactus grows in desert habitat; pine trees grow in mountain habitat."
+                        "Interacting with elders to compare manual grinding versus modern electrical mixers (Activity 3.3)."
                     ]
                 },
                 {
                     "id": "9.3",
-                    "title": "Characteristics of Living Organisms",
-                    "definition": "Living organisms show characteristics such as growth, movement, response to stimuli, need for food, respiration, excretion and reproduction.",
+                    "title": "Energy-Giving Foods (Carbohydrates and Fats)",
+                    "definition": "Carbohydrates (glucose, starch) provide instant energy, while fats serve as stored energy and keep the body warm.",
                     "formulae": [],
                     "examples": [
-                        "Plants bend towards light (response to stimulus); humans grow from babies to adults."
+                        "Sources of carbohydrates: wheat, rice, maize, and potatoes.",
+                        "Sources of fats: groundnuts, almonds, ghee, and oil.",
+                        "Polar bears surviving winter hibernation on accumulated body fat."
+                    ]
+                },
+                {
+                    "id": "9.4",
+                    "title": "Body-Building Foods (Proteins)",
+                    "definition": "Proteins are essential for the growth and repair of the body. They are found in both plant and animal sources.",
+                    "formulae": [],
+                    "examples": [
+                        "Plant sources: pulses, beans, peas, and nuts.",
+                        "Animal sources: milk, eggs, fish, and meat.",
+                        "Edible mushrooms are also good protein sources."
+                    ]
+                },
+                {
+                    "id": "9.5",
+                    "title": "Protective Nutrients and Vitamins",
+                    "definition": "Vitamins (A, B1, C, D) and minerals protect the body from diseases and maintain health even when required in small amounts.",
+                    "formulae": [],
+                    "examples": [
+                        "Vitamin C in citrus fruits (lemon, orange) cures scurvy (James Lind, 1746).",
+                        "Vitamin A keeps eyes and skin healthy."
+                    ]
+                },
+                {
+                    "id": "9.6",
+                    "title": "Deficiency Diseases and Minerals",
+                    "definition": "Lack of specific vitamins or minerals in the diet leads to deficiency diseases.",
+                    "formulae": [],
+                    "examples": [
+                        "Goitre (neck swelling) caused by iodine deficiency; prevented by iodised salt.",
+                        "Calcium and Vitamin D required for strong bones (Rickets)."
+                    ]
+                },
+                {
+                    "id": "9.7",
+                    "title": "Dietary Fibre (Roughage) and Water",
+                    "definition": "Roughage helps in undigested food passage and smooth stools. Water aids nutrient absorption and waste removal via sweat and urine.",
+                    "formulae": [],
+                    "examples": [
+                        "Wholegrains, pulses, and leafy vegetables provide essential roughage."
+                    ]
+                },
+                {
+                    "id": "9.8",
+                    "title": "Nutrition Research and PM POSHAN",
+                    "definition": "Coluthur Gopalan (1918-2019) initiated nutrition research in India, leading to the Mid Day Meal (PM POSHAN) initiative in schools.",
+                    "formulae": [],
+                    "examples": [
+                        "Analyzing over 500 Indian foods for their nutritional value."
+                    ]
+                },
+                {
+                    "id": "9.9",
+                    "title": "Food Testing Protocols",
+                    "definition": "Simple chemical tests are used to detect starch, fats, and proteins in food samples.",
+                    "formulae": [
+                        "Starch + Iodine = Blue-black colour",
+                        "Protein + Copper sulphate + Caustic soda = Violet colour"
+                    ],
+                    "examples": [
+                        "Presence of starch in potato slices or boiled rice (Activity 3.5).",
+                        "Leaving an oily patch on paper to test for fats (Activity 3.6)."
+                    ]
+                },
+                {
+                    "id": "9.10",
+                    "title": "Balanced Diet, Junk Food, and Millets",
+                    "definition": "A balanced diet contains all nutrients, roughage, and water. Junk food (high-calorie, low-nutrient) causes obesity. Millets (Nutri-cereals) are highly nutritious native crops. Food miles measure the distance from farm to plate.",
+                    "formulae": [],
+                    "examples": [
+                        "Comparing nutritional labels of potato wafers versus roasted chana (Activity 3.9).",
+                        "FSSAI regulations and food fortification (adding nutrients during processing).",
+                        "Promoting local food to reduce food miles and pollution."
                     ]
                 }
             ]
         },
         {
             "number": 10,
-            "title": "Motion and Measurement of Distances",
+            "title": "Nature's Treasures",
             "concepts": [
                 {
                     "id": "10.1",
-                    "title": "Need for Standard Units",
-                    "definition": "Standard units of measurement ensure that everyone measures quantities like length in the same way everywhere.",
+                    "title": "Natural and Human-made Resources",
+                    "definition": "Resources from nature (air, water, forests) sustain life. Human-made resources (furniture, bicycles) are created for comfort. M.K. Gandhi's quote on need versus greed highlights the need for judicial use: \"Earth provides enough to satisfy every man's need but not for every man's greed.\"",
                     "formulae": [],
                     "examples": [
-                        "Earlier non‑standard units like handspan or foot varied from person to person; metre is a standard unit of length."
+                        "Natural assets: Western Ghats, sunshine, fertile soil.",
+                        "Human-made resources: Solar panels, furniture, electric bulbs."
                     ]
                 },
                 {
                     "id": "10.2",
-                    "title": "Units of Length and Conversion",
-                    "definition": "Standard unit of length in SI is metre; smaller units include centimetre and millimetre; kilometre is used for large distances.",
-                    "formulae": [
-                        "1 m = 100 cm",
-                        "1 cm = 10 mm",
-                        "1 km = 1000 m"
-                    ],
+                    "title": "Air: Composition and Wind Energy",
+                    "definition": "Air is a mixture of nitrogen (78%), oxygen (21%), and argon, carbon dioxide, and others (1%). Moving air is Wind, which powers windmills to generate electricity.",
+                    "formulae": [],
                     "examples": [
-                        "A pencil may be 15 cm long; distance between cities measured in kilometres."
+                        "Muppandal Wind Farm (Tamil Nadu), Jaisalmer Wind Park (Rajasthan), and Brahmanvel Wind Farm (Maharashtra).",
+                        "Rotating wings of a firki (paper pinwheel) as a model for windmills (Activity 11.2)."
                     ]
                 },
                 {
                     "id": "10.3",
-                    "title": "Measuring Length",
-                    "definition": "Length is measured using rulers, measuring tapes, metre rods etc., keeping zero mark properly aligned and eye in correct position to avoid errors.",
+                    "title": "Water: Sources and Conservation",
+                    "definition": "Two-thirds of Earth is covered by water, mostly saline (oceans). Freshwater (rivers, lakes, groundwater) is limited. World Water Day is observed on 22nd March.",
                     "formulae": [],
                     "examples": [
-                        "To measure a table, place the metre scale along its edge with zero at one end."
+                        "Fetching water over long distances in water-scarce regions.",
+                        "Human activities like throwing plastic wrappers/trash pollute freshwater sources."
                     ]
                 },
                 {
                     "id": "10.4",
-                    "title": "Types of Motion",
-                    "definition": "Motion can be rectilinear (straight line), circular, periodic or random depending on path and pattern.",
+                    "title": "Rainwater Harvesting: Bawadi and Vav",
+                    "definition": "Rainwater harvesting is storing rainwater for later use. Traditional stepwells serve as systems to harvest filtered rain and water seepage.",
                     "formulae": [],
                     "examples": [
-                        "A car on a straight road shows rectilinear motion; a child on a swing shows periodic motion; the tip of a clock’s second hand shows circular motion."
+                        "Bawadi in Rajasthan (e.g., Toorji ka Jhalra in Jodhpur) and Vav in Gujarat."
+                    ]
+                },
+                {
+                    "id": "10.5",
+                    "title": "Solar Energy: The Primary Source",
+                    "definition": "The Sun provides heat and light, serving as the main source of energy for all living beings (photosynthesis, heat).",
+                    "formulae": [],
+                    "examples": [
+                        "Solar panels on street lights, solar cookers, and solar water heaters.",
+                        "Traditional gratitude ritual of offering water to the Sun in the morning."
+                    ]
+                },
+                {
+                    "id": "10.6",
+                    "title": "Forests: Preservation and Chipko Movement",
+                    "definition": "Forests provide products (fruit, wood, medicine) and shelter. Traditional conservation prevents plucking fruits left for wildlife (Activity 11.4).",
+                    "formulae": [],
+                    "examples": [
+                        "Van Mahotsav week in July for planting trees.",
+                        "Chipko movement in Uttarakhand where women hugged trees to prevent felling."
+                    ]
+                },
+                {
+                    "id": "10.7",
+                    "title": "Soil Formation and Agents",
+                    "definition": "Soil forms over thousands of years through rock disintegration by the Sun, water, and living organisms. Earthworms act as agents that turn and loosen the soil.",
+                    "formulae": [],
+                    "examples": [
+                        "Recycling in nature: fallen forest leaves decaying to enrich soil nutrients."
+                    ]
+                },
+                {
+                    "id": "10.8",
+                    "title": "Rocks, Minerals and Ancient Tools",
+                    "definition": "Rocks are made of minerals from which metals (Gold, Al, Cu, Fe) are extracted. Rocks have been used for construction and tools for millennia.",
+                    "formulae": [],
+                    "examples": [
+                        "Roofing slates and laterite bricks.",
+                        "Ancient tools: hand axes and arrowheads.",
+                        "Basic mobile phones containing gold, silver, copper, and cobalt."
+                    ]
+                },
+                {
+                    "id": "10.9",
+                    "title": "Fossil Fuels: Petroleum, Coal and Gas",
+                    "definition": "Non-renewable fuels (petrol, diesel, natural gas, coal) formed from ancient remains of plants and microorganisms over millions of years.",
+                    "formulae": [],
+                    "examples": [
+                        "CNG (Compressed Natural Gas) as a cleaner alternative for vehicles.",
+                        "Coal used for generating most of India's electricity."
+                    ]
+                },
+                {
+                    "id": "10.10",
+                    "title": "Renewable versus Non-renewable Resources",
+                    "definition": "Renewable resources (Air, Water, Forest) replenish within a reasonable time. Non-renewable (Minerals, Soil, Fossil fuels) do not.",
+                    "formulae": [],
+                    "examples": [
+                        "Walking or cycling instead of using fuel-based vehicles."
+                    ]
+                },
+                {
+                    "id": "10.11",
+                    "title": "Judicious Consumption and Future Sustainability",
+                    "definition": "Conserving natural resources and using alternatives (Electric Vehicles) to ensure present needs are met without harming the future environment.",
+                    "formulae": [],
+                    "examples": [
+                        "Reducing food miles by supporting local producers to cut transport pollution."
                     ]
                 }
             ]
         },
         {
             "number": 11,
-            "title": "Light, Shadows and Reflections",
+            "title": "Temperature and its Measurement",
             "concepts": [
                 {
                     "id": "11.1",
-                    "title": "Luminous and Non-Luminous Objects",
-                    "definition": "Luminous objects produce their own light; non‑luminous objects do not and are seen by reflected light.",
+                    "title": "Unreliability of Sense of Touch",
+                    "definition": "Experience shows that sense of touch is subjective and not always a reliable indicator of hotness or coldness.",
                     "formulae": [],
                     "examples": [
-                        "The Sun and an electric bulb are luminous; a chair and book are non‑luminous."
+                        "Dipping hands in warm, tap, and ice-cold water to compare subjective feel (Activity 7.1)."
                     ]
                 },
                 {
                     "id": "11.2",
-                    "title": "Shadow Formation",
-                    "definition": "A shadow is formed on a screen when an opaque object blocks light from a source; it needs a light source, an object and a screen.",
+                    "title": "Temperature and the Thermometer",
+                    "definition": "Temperature is a reliable measure of the degree of hotness or coldness of an object. A thermometer is the device used for this measurement.",
                     "formulae": [],
                     "examples": [
-                        "Your hand blocking torchlight makes a shadow on the wall."
+                        "A hotter body has a higher temperature than a colder one."
                     ]
                 },
                 {
                     "id": "11.3",
-                    "title": "Transparent, Translucent and Opaque (Light Context)",
-                    "definition": "Transparent objects let most light pass and form faint shadows; translucent let some light through and form blurred shadows; opaque form dark, clear shadows.",
+                    "title": "Clinical and Digital Thermometers",
+                    "definition": "Clinical thermometers measure human body temperature. Modern digital versions use heat sensors and avoid toxic mercury.",
                     "formulae": [],
                     "examples": [
-                        "Thin cloth is translucent; thick cardboard is opaque."
+                        "Using a digital clinical thermometer with a reset button and beep sound (Activity 7.2)."
                     ]
                 },
                 {
                     "id": "11.4",
-                    "title": "Reflection in Plane Mirrors (Intro)",
-                    "definition": "Reflection is bouncing back of light from a surface; a plane mirror reflects light and forms an image that looks like the object but reversed left to right.",
+                    "title": "Normal Body Temperature (37.0°C)",
+                    "definition": "The average body temperature of healthy people is taken as 37.0°C (98.6°F). It ranges from 35.0°C to 42.0°C.",
                     "formulae": [],
                     "examples": [
-                        "Your right hand appears as left in a mirror due to lateral inversion."
+                        "Healthy children often have slightly higher temperatures than adults; elderly people may have lower ones."
+                    ]
+                },
+                {
+                    "id": "11.5",
+                    "title": "Mercury Toxicity and Infrastructure",
+                    "definition": "Mercury is toxic and difficult to dispose of safely if a glass thermometer breaks, leading to its replacement by digital and non-contact (Infrared) thermometers.",
+                    "formulae": [],
+                    "examples": [
+                        "Infrared thermometers used for remote screening during the COVID-19 pandemic."
+                    ]
+                },
+                {
+                    "id": "11.6",
+                    "title": "Laboratory Thermometer and Range",
+                    "definition": "Used for measuring non-body temperatures (e.g., boiling water, ice). It typically ranges from -10°C to 110°C.",
+                    "formulae": [],
+                    "examples": [
+                        "Measuring the constant temperature of melting ice or boiling water (Activity 7.5)."
+                    ]
+                },
+                {
+                    "id": "11.7",
+                    "title": "Temperature Scales: Celsius, Fahrenheit, and Kelvin",
+                    "definition": "The three main temperature scales. Kelvin (K) is the SI unit of temperature.",
+                    "formulae": [
+                        "T(K) = T(°C) + 273.15"
+                    ],
+                    "examples": [
+                        "Converting Shillong's boiling water temperature (~98°C) to Kelvin."
+                    ]
+                },
+                {
+                    "id": "11.8",
+                    "title": "Measurement Precautions and Smallest Division",
+                    "definition": "Thermometers must be held vertically and read while immersed. The smallest division depends on the marks between bigger units.",
+                    "formulae": [],
+                    "examples": [
+                        "A thermometer with 10 divisions between 0°C and 10°C has a smallest division of 1°C (Activity 7.4)."
+                    ]
+                },
+                {
+                    "id": "11.9",
+                    "title": "Air Temperature and Weather Reports",
+                    "definition": "Air temperature is a primary weather parameter monitored at weather stations. Daily reports include maximum and minimum temperatures.",
+                    "formulae": [],
+                    "examples": [
+                        "Analyzing 10 successive days of weather reports for temperature trends (Activity 7.7)."
+                    ]
+                },
+                {
+                    "id": "11.10",
+                    "title": "Anna Mani: The Weather Woman of India",
+                    "definition": "Indian scientist (1918-2001) who invented numerous weather measurement instruments and was a pioneer in solar and wind energy research.",
+                    "formulae": [],
+                    "examples": [
+                        "Her work helped India become a global leader in renewable energy."
+                    ]
+                },
+                {
+                    "id": "11.11",
+                    "title": "Absolute Zero and Extreme Temperatures",
+                    "definition": "Absolute zero (-273.15°C or 0 K) is the lowest possible temperature. The Sun's core reaches 15 million degrees Celsius.",
+                    "formulae": [],
+                    "examples": [
+                        "Pulse rate was a traditional indicator of fever in India before thermometers."
                     ]
                 }
             ]
         },
         {
             "number": 12,
-            "title": "Electricity and Circuits",
+            "title": "The Wonderful World of Science",
             "concepts": [
                 {
                     "id": "12.1",
-                    "title": "Electric Cell and Battery",
-                    "definition": "An electric cell is a small source of electrical energy with two terminals, positive and negative; a battery is a group of cells connected together.",
+                    "title": "Science and Curiosity",
+                    "definition": "Science is a way of thinking and observing to understand the universe. Curiosity is the most important element for scientific discovery.",
                     "formulae": [],
                     "examples": [
-                        "Torch cells connected in series form a battery providing more voltage."
+                        "Wondering why stars shine or how flowers know when to bloom."
                     ]
                 },
                 {
                     "id": "12.2",
-                    "title": "Electric Circuit",
-                    "definition": "An electric circuit is a closed path along which current can flow from the cell through wires and devices back to the cell.",
+                    "title": "The Jigsaw Puzzle of Science",
+                    "definition": "Science is like an unending jigsaw puzzle. New knowledge adds pieces, and sometimes discoveries move pieces (change theories).",
                     "formulae": [],
                     "examples": [
-                        "A simple circuit includes a cell, switch, bulb and connecting wires."
+                        "New discoveries changing our understanding of previous theories or \"wrongly placed puzzle pieces.\""
                     ]
                 },
                 {
                     "id": "12.3",
-                    "title": "Conductors and Insulators",
-                    "definition": "Conductors allow electric current to pass through easily; insulators do not.",
+                    "title": "The Scientific Method: Five Steps",
+                    "definition": "A step-by-step process used to find reliable answers: Observation, Questioning, Guessing (Hypothesis), Testing (Experiment), and Analysis.",
                     "formulae": [],
                     "examples": [
-                        "Metals like copper and aluminium are conductors; rubber, plastic and wood are insulators."
+                        "Identifying why a pen stopped writing—guessing it is out of ink vs. dried ink (Activity 1.1)."
                     ]
                 },
                 {
                     "id": "12.4",
-                    "title": "Bulb and Its Glowing",
-                    "definition": "A bulb has a thin filament that glows when electric current passes through, converting electrical energy to light and heat.",
+                    "title": "Everyday Applications of Science",
+                    "definition": "Anyone who uses the scientific method to solve daily problems works like a scientist.",
                     "formulae": [],
                     "examples": [
-                        "If the filament breaks, the circuit is open and the bulb does not glow."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 13,
-            "title": "Fun with Magnets",
-            "concepts": [
-                {
-                    "id": "13.1",
-                    "title": "Discovery and Types of Magnets",
-                    "definition": "Magnets attract certain metals like iron and were first discovered as natural magnets called lodestones; magnets can be bar, horseshoe or ring shaped.",
-                    "formulae": [],
-                    "examples": [
-                        "A bar magnet has two ends called poles; a horseshoe magnet is shaped like a U."
+                        "A bicycle repairer finding a flat tyre leak; a cook wondering why dal spilled; an electrician diagnosing a bulb failure (Activity 1.2)."
                     ]
                 },
                 {
-                    "id": "13.2",
-                    "title": "Magnetic and Non-Magnetic Materials",
-                    "definition": "Magnetic materials are attracted by a magnet; non‑magnetic materials are not.",
+                    "id": "12.5",
+                    "title": "Collaboration and Long-term Learning",
+                    "definition": "Science is often a team effort. Not all answers are found at once, as learning science is an ongoing journey across different grades.",
                     "formulae": [],
                     "examples": [
-                        "Iron, nickel and cobalt are magnetic; wood, plastic and glass are non‑magnetic."
+                        "Scientists working together in large teams across the world."
                     ]
                 },
                 {
-                    "id": "13.3",
-                    "title": "Magnetic Poles and Their Properties",
-                    "definition": "Magnets have two poles, north and south; like poles repel each other and unlike poles attract each other.",
+                    "id": "12.6",
+                    "title": "Spirit of Inquiry: Becoming a \"Whys\" Person",
+                    "definition": "The goal of science is to develop the habit of asking \"Why?\" and seeking how things work through keen observation. \"After all, to be a wise person, you must be a 'whys' person!\"",
                     "formulae": [],
                     "examples": [
-                        "Two north poles put together repel; a north and south pole attract."
+                        "Asking \"Why?\" about something and attempting to find an answer through observation (Activity 1.3)."
                     ]
                 },
                 {
-                    "id": "13.4",
-                    "title": "Making and Caring for Magnets",
-                    "definition": "Magnets can be made by stroking with a magnet or by electricity and should be stored properly to retain magnetism.",
+                    "id": "12.7",
+                    "title": "Earth and Beyond",
+                    "definition": "Scientific curiosity extends from our home (Earth's plants and animals) to matters beyond (Sun, Moon, and Stars).",
                     "formulae": [],
                     "examples": [
-                        "Bar magnets are stored in pairs with keepers (soft iron pieces) across poles to reduce loss of magnetism."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 14,
-            "title": "Water",
-            "concepts": [
-                {
-                    "id": "14.1",
-                    "title": "Sources and Uses of Water",
-                    "definition": "Water is obtained from sources like rain, rivers, lakes, ponds, wells and oceans and is essential for drinking, agriculture, industry and domestic use.",
-                    "formulae": [],
-                    "examples": [
-                        "Rainwater fills rivers and lakes which supply water to cities and villages."
-                    ]
-                },
-                {
-                    "id": "14.2",
-                    "title": "Water Cycle",
-                    "definition": "The water cycle is continuous movement of water between land, water bodies and atmosphere through evaporation, condensation and precipitation.",
-                    "formulae": [],
-                    "examples": [
-                        "Water from seas evaporates, forms clouds and returns as rain, snow or hail."
-                    ]
-                },
-                {
-                    "id": "14.3",
-                    "title": "States of Water and Change of State",
-                    "definition": "Water exists as solid (ice), liquid (water) and gas (water vapour) and can change state by heating or cooling.",
-                    "formulae": [],
-                    "examples": [
-                        "Ice melts to water when heated; water boils to steam; steam condenses to water on cooling."
-                    ]
-                },
-                {
-                    "id": "14.4",
-                    "title": "Need to Conserve Water",
-                    "definition": "Freshwater is limited and must be conserved by preventing wastage and pollution and by reusing and storing water.",
-                    "formulae": [],
-                    "examples": [
-                        "Closing taps properly, repairing leaks and using rainwater harvesting help save water."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 15,
-            "title": "Air Around Us",
-            "concepts": [
-                {
-                    "id": "15.1",
-                    "title": "Composition of Air",
-                    "definition": "Air is a mixture of gases mainly nitrogen and oxygen, with small amounts of carbon dioxide, water vapour and other gases and dust.",
-                    "formulae": [],
-                    "examples": [
-                        "About four‑fifths of air is nitrogen and about one‑fifth is oxygen (concept level, not exact numbers needed)."
-                    ]
-                },
-                {
-                    "id": "15.2",
-                    "title": "Importance of Air",
-                    "definition": "Oxygen in air is essential for respiration; carbon dioxide is needed for photosynthesis; air supports burning and helps in formation of clouds and rain.",
-                    "formulae": [],
-                    "examples": [
-                        "A candle covered by a glass jar goes out when oxygen is used up.",
-                        "Plants take in carbon dioxide and release oxygen during photosynthesis."
-                    ]
-                },
-                {
-                    "id": "15.3",
-                    "title": "Air in Soil and Water",
-                    "definition": "Air is present in spaces between soil particles and dissolved in water, supplying oxygen to organisms living there.",
-                    "formulae": [],
-                    "examples": [
-                        "Digging or flooding soil releases air bubbles; shaking water leads to tiny bubbles as dissolved air comes out."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 16,
-            "title": "Garbage In, Garbage Out",
-            "concepts": [
-                {
-                    "id": "16.1",
-                    "title": "Types of Waste",
-                    "definition": "Waste includes all unwanted materials. It can be biodegradable (can be broken down by microorganisms) or non‑biodegradable (cannot easily be broken down).",
-                    "formulae": [],
-                    "examples": [
-                        "Vegetable peels and paper are biodegradable; plastics and metals are non‑biodegradable."
-                    ]
-                },
-                {
-                    "id": "16.2",
-                    "title": "Waste Management and Recycling",
-                    "definition": "Proper collection, segregation, disposal and recycling of waste reduce pollution and health problems.",
-                    "formulae": [],
-                    "examples": [
-                        "Separating dry and wet waste in different bins; recycling paper and plastic; composting kitchen scraps."
-                    ]
-                },
-                {
-                    "id": "16.3",
-                    "title": "Vermin Composting and Landfills",
-                    "definition": "Vermicomposting uses earthworms to turn organic waste into rich compost; landfills are sites for burying large amounts of non‑recyclable waste.",
-                    "formulae": [],
-                    "examples": [
-                        "A pit at home can be used for composting leaves with earthworms.",
-                        "City garbage is often dumped in landfills outside towns."
-                    ]
-                },
-                {
-                    "id": "16.4",
-                    "title": "Reduce, Reuse and Recycle",
-                    "definition": "The 3R principle encourages reducing waste generation, reusing items and recycling materials to conserve resources and protect environment.",
-                    "formulae": [],
-                    "examples": [
-                        "Carrying cloth bags instead of plastic, reusing bottles, and recycling newspapers follow the 3Rs."
+                        "Watching a caterpillar transform into a butterfly as an observation of Earth's diversity."
                     ]
                 }
             ]

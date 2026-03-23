@@ -5,663 +5,1180 @@
     "chapters": [
         {
             "number": 1,
-            "title": "Knowing Our Numbers",
+            "title": "Data Handling and Presentation",
             "concepts": [
                 {
                     "id": "1.1",
-                    "title": "Large Numbers and Place Value",
-                    "definition": "Numbers can be extended to lakhs, crores and beyond, with each digit having a place value based on its position in the Indian or International system.",
+                    "title": "Data, Tally Marks and Frequency",
+                    "definition": "Any collection of facts, numbers, measures, observations or other descriptions of things that convey information about those things is called data. To organise data, tools like tally marks (grouped in fives as ||||) and frequency tables are used to record the count of occurrences.",
                     "formulae": [],
                     "examples": [
-                        "In 7,36,52,081 the digit 7 is in the crore place, 3 in the ten‑lakh place, 6 in the lakh place, etc.",
-                        "In the International system, 7,365,208 is read as seven million three hundred sixty‑five thousand two hundred eight."
+                        "Navya and Naresh collected a list of favorite games (Cricket, Hockey, Kabaddi, Football, etc.) from their classmates to find the most popular one.",
+                        "Shri Nilesh used tally marks to record students' preferences for sweets: Jalebi (6), Gulab jamun (9), Gujiya (13), Barfi (3), and Rasgulla (7).",
+                        "Sushri Sandhya arranged shoe sizes (3, 4, 5, 6, 7) in ascending order to easily count frequencies and find the largest/smallest sizes.",
+                        "Recording the count of different trees (Peepal, Neem, etc.) seen on the way to school in a frequency table.",
+                        "Counting the frequency of specific letters like 'c', 'e', 'i', 'r', 'x' in a news article to observe patterns."
                     ]
                 },
                 {
                     "id": "1.2",
-                    "title": "Indian and International Numeration Systems",
-                    "definition": "Indian system groups digits as ones, tens, hundreds, thousands, lakhs and crores, while International system uses ones, thousands, millions, billions and so on.",
-                    "formulae": [],
+                    "title": "Pictographs and Scale",
+                    "definition": "A pictograph represents data through pictures of objects. It helps answer questions and make inferences about data with just a quick glance. A scale or key (e.g., one symbol = 10 children) is added to show what each symbol or picture represents, especially when handling large amounts of data.",
+                    "formulae": [
+                        "Total Value = Number of symbols × Value per symbol"
+                    ],
                     "examples": [
-                        "75,23,608 is read in Indian system as seventy‑five lakh twenty‑three thousand six hundred eight.",
-                        "The same number 7,523,608 is read in International system as seven million five hundred twenty‑three thousand six hundred eight."
+                        "A pictograph of travel modes where one symbol (©) represents 1 student: School bus (11), Walking (7), Cycle (3), Public bus (5), Private car (4).",
+                        "Nand Kishor's pictograph for hours of sleep using a symbol for 10 children: 'Always' (50 children), 'Sometimes' (25 children), 'Never' (40 children).",
+                        "Lakhanpal and his friends used ⊙ to represent 1 or 5 students absent/present in different classes.",
+                        "Magan Bhai's kite sales pictograph where one symbol ⊕ represents 100 kites sold to shopkeepers (e.g., Poonam Ben purchased 7 symbols = 700 kites).",
+                        "Library books borrowed in a week (Monday to Saturday) represented by book symbols."
                     ]
                 },
                 {
                     "id": "1.3",
-                    "title": "Comparing and Ordering Numbers",
-                    "definition": "To compare large numbers, first compare number of digits; if equal, compare digit by digit from left to right.",
-                    "formulae": [],
+                    "title": "Bar Graphs (Interpretation)",
+                    "definition": "Bar graphs display data using rectangular bars of uniform width with lengths or heights proportional to the frequencies or values they represent. Bars are drawn horizontally or vertically with equal spacing between them to indicate they are free-standing categories.",
+                    "formulae": [
+                        "The length/height of each bar represents the given frequency."
+                    ],
                     "examples": [
-                        "9,85,432 > 7,23,999 because 9 is greater than 7 in the highest place.",
-                        "Arranging 4521, 512, 9870 in ascending order gives 512, 4521, 9870."
+                        "A bar graph showing the increasing number of endangered species (mammals, birds, reptiles, etc.) over time.",
+                        "Lakhanpal's bar graph of students absent in each class highlights the class with the maximum absentees (Class 8) and full attendance (Class 5).",
+                        "A traffic police study of vehicular traffic at a crossing showing 1200 vehicles during the peak hour (7-8 a.m.) using a scale of 1 unit = 100 vehicles.",
+                        "Population of India in each decade over 50 years, where 1 unit length represents 10 crores."
                     ]
                 },
                 {
                     "id": "1.4",
-                    "title": "Estimation and Rounding Off",
-                    "definition": "Estimation is approximating numbers to nearest tens, hundreds or thousands to make mental calculations easier.",
-                    "formulae": [],
+                    "title": "Drawing a Bar Graph and Choosing a Scale",
+                    "definition": "Drawing a bar graph requires horizontal and vertical axes, labeling categories, and choosing a suitable scale (e.g., 1 unit length = 10 runs or ₹200) based on the minimum and maximum frequencies so the graph fits nicely and is visually appealing.",
+                    "formulae": [
+                        "Scale choice = (Maximum frequency) / (Available space or convenient units)"
+                    ],
                     "examples": [
-                        "Rounding 348 to nearest ten gives 350; to nearest hundred gives 300.",
-                        "Estimate 498 + 1,023 ≈ 500 + 1,000 = 1,500."
+                        "Drawing a bar graph for Smriti's scores (80, 50, 10, 100, 90, 0, 90, 50) using a scale where 1 unit length = 10 runs.",
+                        "Imran's family's monthly expenditure bar graph uses a scale of 1 unit length = ₹200 to represent items like House Rent (15 units) and Food (17 units).",
+                        "A bar graph illustrating favorite free-time activities (Playing, Reading, Watching TV, etc.) for 120 students using a scale of 1 unit = 5 students.",
+                        "Recording and graphing Jaspreet Bumrah's wickets in 30 matches, or the number of girl students per class (1 unit = 4 girls).",
+                        "Graphing the increase in Mudhol Hounds (dogs) in Karnataka villages using a scale of 1 symbol = 6 dogs."
                     ]
                 },
                 {
                     "id": "1.5",
-                    "title": "Using Brackets and BODMAS",
-                    "definition": "Brackets show which operations to perform first in a calculation. BODMAS gives order: Brackets, Of, Division, Multiplication, Addition, Subtraction.",
+                    "title": "Artistic Considerations and Infographics",
+                    "definition": "Data presentations can be enhanced through artistic and aesthetic choices like color, orientation (vertical column graphs for heights vs horizontal graphs for lengths), and infographics. Infographics (information graphics) use engaging visuals to communicate information quickly, though accuracy must be prioritized to avoid misleading the audience.",
                     "formulae": [],
                     "examples": [
-                        "5 × (2 + 3) = 5 × 5 = 25, but 5 × 2 + 3 = 10 + 3 = 13.",
-                        "In 12 ÷ 3 × 2, division and multiplication are done from left to right: (12 ÷ 3) × 2 = 4 × 2 = 8."
-                    ]
-                },
-                {
-                    "id": "1.6",
-                    "title": "Roman Numerals (Intro)",
-                    "definition": "Roman numerals are a number system using letters like I, V, X, L, C, D and M for certain fixed values.",
-                    "formulae": [],
-                    "examples": [
-                        "I = 1, V = 5, X = 10, L = 50, C = 100.",
-                        "VII = 7 (5 + 2 × 1), IX = 9 (10 − 1)."
+                        "Representing mountain heights with vertical 'column graphs' grows upward like mountains, making comparison intuitive.",
+                        "An infographic comparing tallest mountains (Everest, etc.) using triangle shapes where taller triangles are also wider, which can mislead regarding actual width.",
+                        "Creating a realistic-looking imaginary mountain range to visually ground the comparison of peak heights.",
+                        "Choosing between vertical and horizontal bars based on whether a feature is vertical (height) or horizontal (river length)."
                     ]
                 }
             ]
         },
         {
             "number": 2,
-            "title": "Whole Numbers",
+            "title": "Fractions",
             "concepts": [
                 {
                     "id": "2.1",
-                    "title": "Natural and Whole Numbers",
-                    "definition": "Natural numbers are counting numbers 1, 2, 3, ...; whole numbers are natural numbers together with 0, i.e., 0, 1, 2, 3, ...",
+                    "title": "Fractional Units and Unit Fractions (Equal Shares)",
+                    "definition": "When one unit is divided into several equal parts, each part is called a fractional unit. These are also known as 'unit fractions' (e.g., 1/2, 1/3, 1/4). Fractions represent how much each share is when a whole number of things is shared equally.",
                     "formulae": [],
                     "examples": [
-                        "0 is a whole number but not a natural number.",
-                        "5 is both a natural and a whole number."
+                        "When 1 roti is divided equally between 2 children, each gets 1/2 roti.",
+                        "Three guavas together weigh 1 kg; if roughly the same size, each weighs 1/3 kg.",
+                        "A wholesale merchant packs 1 kg of rice into four packets; each weighs 1/4 kg.",
+                        "Four friends sharing 3 glasses of sugarcane juice equally; each drinks 3/4 glass.",
+                        "A big fish weighs 1/2 kg and a small one weighs 1/4 kg; together they weigh 3/4 kg."
                     ]
                 },
                 {
                     "id": "2.2",
-                    "title": "Number Line Representation",
-                    "definition": "Whole numbers are represented on a line with equal spacing starting from 0 to the right indefinitely.",
+                    "title": "Numerator, Denominator and Parts of a Whole",
+                    "definition": "In a fraction like 5/6, 5 is the numerator (top number) and 6 is the denominator (bottom number). The denominator indicates the total number of equal parts the whole is divided into, while the numerator is the number of such parts being considered.",
                     "formulae": [],
                     "examples": [
-                        "Adding 2 on the number line means moving 2 steps to the right.",
-                        "Subtracting 3 means moving 3 steps to the left."
+                        "In the fraction 5/6, 5 is the numerator and 6 is the denominator.",
+                        "A whole chikki broken into 6 equal pieces (1/6 each) or 12 equal pieces (1/12 each) in different shapes but same size.",
+                        "Visualizing 3/4 as '3 times 1/4', which shows 3 fractional units of size 1/4."
                     ]
                 },
                 {
                     "id": "2.3",
-                    "title": "Properties of Whole Numbers",
-                    "definition": "Whole numbers satisfy closure, commutative, associative and distributive properties for operations, and have an identity for addition and multiplication.",
+                    "title": "Measuring and Folding (Fractional Units)",
+                    "definition": "Fractional quantities can be measured by collecting together fractional units. Using a paper strip as one unit, folding it into equal parts creates fractional units (1/2, 1/4, 1/8) that can be used for measurement.",
                     "formulae": [
-                        "Closure (addition): a + b is a whole number for whole numbers a, b",
-                        "Commutative: a + b = b + a; a × b = b × a",
-                        "Associative: (a + b) + c = a + (b + c); (a × b) × c = a × (b × c)",
-                        "Distributive: a × (b + c) = a × b + a × c",
-                        "Additive identity: a + 0 = a",
-                        "Multiplicative identity: a × 1 = a"
+                        "Quantity = Number of fractional units × Size of fractional unit"
                     ],
                     "examples": [
-                        "3 + 5 = 5 + 3 = 8 (commutative).",
-                        "2 × (3 + 4) = 2 × 7 = 14, and 2 × 3 + 2 × 4 = 6 + 8 = 14 (distributive)."
+                        "Fold a paper strip into two equal parts (1/2), then four (1/4), then eight (1/8) to measure lengths.",
+                        "Representing 5 times 1/4 of a roti as 5/4, or 9 times 1/4 as 9/4.",
+                        "Matching fractional units like 1/6 or 1/4 with corresponding visual shapes/pictures."
                     ]
                 },
                 {
                     "id": "2.4",
-                    "title": "Patterns in Whole Numbers",
-                    "definition": "Whole numbers show patterns when arranged in grids or sequences, helping to discover properties about sums, differences and multiples.",
+                    "title": "Fractions on the Number Line (Uncountable Fractions)",
+                    "definition": "Every fraction has a unique point associated with it on the number line. Fractions between 0 and 1 are less than 1 unit, while those where the numerator is larger than the denominator are more than 1 unit.",
                     "formulae": [],
                     "examples": [
-                        "Even numbers occur at every second place on the number line.",
-                        "Squares of numbers grow quickly: 1, 4, 9, 16, 25, ..."
+                        "Marking unit fractions like 1/10 and 3/10 or non-unit fractions like 4/5 on a number line.",
+                        "Showing length increments of 1/2, 1/3, 1/5, or 1/8 units by dividing the distance between 0 and 1.",
+                        "Identifying that there are an uncountable number of fractions between 0 and 1."
+                    ]
+                },
+                {
+                    "id": "2.5",
+                    "title": "Mixed Fractions and Fractions Greater than One",
+                    "definition": "A mixed fraction (mixed number) contains a whole number part and a fractional part less than 1. Fractions where the numerator is larger than the denominator are greater than 1 unit.",
+                    "formulae": [
+                        "Mixed Fraction = Whole number + Proper Fraction"
+                    ],
+                    "examples": [
+                        "Converting 5/2 to 2 + 1/2, written as the mixed number 2 1/2.",
+                        "The fraction 8/3 is written as 2 2/3 (two and two thirds).",
+                        "Converting improper fractions like 9/2, 9/5, 21/19, and 19/6 to mixed fractions.",
+                        "Converting mixed numbers like 3 1/4 back to improper fractions: (3 × 4) + 1 = 13/4."
+                    ]
+                },
+                {
+                    "id": "2.6",
+                    "title": "Equivalent Fractions and Simplest Form (Lowest Terms)",
+                    "definition": "Fractions that denote the same length or share are equivalent fractions. A fraction is in simplest form (lowest terms) if the numerator and denominator have no common factor except 1.",
+                    "formulae": [
+                        "Equivalent Fraction = (Numerator × n) / (Denominator × n) where n is non-zero."
+                    ],
+                    "examples": [
+                        "Using a fraction wall to see that 1/2 = 2/4 = 4/8 or 1/3 = 2/6.",
+                        "Reducing 16/20 to 4/5 by dividing both by 4 (the common factor).",
+                        "Expressing 36/60 in lowest terms as 3/5 by dividing by common factors (2, 2, 3) or directly by 12.",
+                        "Finding equivalent fractions for 2/6 like 1/3 or 3/9."
+                    ]
+                },
+                {
+                    "id": "2.7",
+                    "title": "Comparing Fractions (Common Fractional Units)",
+                    "definition": "To compare fractions, convert them to equivalent fractions with the same denominator (common fractional unit) and then compare numerators. The larger numerator indicates a larger share.",
+                    "formulae": [
+                        "To compare a/b and c/d, compare (a×d)/(b×d) and (c×b)/(d×b)."
+                    ],
+                    "examples": [
+                        "Comparing 1/2 and 5/8 by converting 1/2 to 4/8 (4/8 < 5/8).",
+                        "Deciding between 3 glasses for 4 children (3/4) and 7 glasses for 10 children (7/10) by using common denominator 40 (30/40 > 28/40).",
+                        "Comparing 4/7 and 4/8: when sharing 4 units, fewer children (7) get a larger share than 8 children.",
+                        "Arranging fractions like (7/10, 11/15, 2/5) in ascending or descending order."
+                    ]
+                },
+                {
+                    "id": "2.8",
+                    "title": "Addition of Fractions (Brahmagupta\u2019s Method)",
+                    "definition": "Brahmagupta's method (628 CE) involves finding equivalent fractions with a common fractional unit (denominator), then adding the numerators while keeping the same denominator.",
+                    "formulae": [
+                        "a/b + c/d = (ad + bc) / bd"
+                    ],
+                    "examples": [
+                        "Adding 2/5 + 1/5 = 3/5.",
+                        "Adding 1/4 + 1/3 by converting to 3/12 + 4/12 = 7/12.",
+                        "Rahim mixing paint: 2/3 liters yellow + 3/4 liters blue = 17/12 = 1 5/12 liters green paint.",
+                        "Geeta (2/5 m) and Shamim (3/4 m) buying lace for a 1-meter perimeter: 2/5 + 3/4 = 23/20 = 1 3/20 m (sufficient)."
+                    ]
+                },
+                {
+                    "id": "2.9",
+                    "title": "Subtraction of Fractions (Brahmagupta\u2019s Method)",
+                    "definition": "Subtracting fractions using Brahmagupta's method requires converting them to a common denominator and then taking the difference of the numerators.",
+                    "formulae": [
+                        "a/b - c/d = (ad - bc) / bd"
+                    ],
+                    "examples": [
+                        "Subtracting 4/7 from 6/7 = 2/7.",
+                        "Jaya's school walk: 7/10 km total - 1/2 km by auto = 7/10 - 5/10 = 2/10 = 1/5 km.",
+                        "Comparing time taken to round a park: Jeevika (10/3 min) vs Namit (13/4 min); difference is 1/12 min.",
+                        "Subtracting 13/4 from 10/3 = (40-39)/12 = 1/12."
+                    ]
+                },
+                {
+                    "id": "2.10",
+                    "title": "History: Bhinna, Bhaga and Ancient Notation",
+                    "definition": "Fractions were called 'bhinna' (broken), 'bhaga' or 'ansha' (part) in ancient India. Rules were codified by Brahmagupta and notation evolved from the Bakshali manuscript through Aryabhata and Sridharacharya.",
+                    "formulae": [],
+                    "examples": [
+                        "Vedic times: Rig Veda mentions 'tri-pada' for 3/4.",
+                        "Writing 1/2 as a numerator above a denominator without a bar (Bakshali manuscript).",
+                        "Al-Hassar (12th century Moroccan) introducing the horizontal line segment we use today.",
+                        "Egyptian fractions as sums of different fractional units: 1 = 1/2 + 1/3 + 1/6 (three different units)."
                     ]
                 }
             ]
         },
         {
             "number": 3,
-            "title": "Playing with Numbers",
+            "title": "Lines and Angles",
             "concepts": [
                 {
                     "id": "3.1",
-                    "title": "Factors and Multiples",
-                    "definition": "A factor divides a number exactly without remainder; a multiple is obtained by multiplying the number by integers.",
+                    "title": "Point (Precise Location)",
+                    "definition": "A point determines a precise location in space. It has no length, breadth, or height. It is typically represented by a tiny dot and denoted by a single capital letter (e.g., Point P).",
                     "formulae": [],
                     "examples": [
-                        "Factors of 12 are 1, 2, 3, 4, 6, 12.",
-                        "Multiples of 5 are 5, 10, 15, 20, ..."
+                        "The tip of a compass, the sharpened end of a pencil, and the pointed end of a needle are models for a point.",
+                        "Dots represent precise locations and must be imagined to be invisibly thin.",
+                        "Distinguishing three points by naming them Z, P, and T."
                     ]
                 },
                 {
                     "id": "3.2",
-                    "title": "Prime and Composite Numbers",
-                    "definition": "Prime numbers have exactly two distinct factors, 1 and the number itself; composite numbers have more than two factors.",
+                    "title": "Line Segment (Shortest Path)",
+                    "definition": "A line segment corresponds to the shortest distance between two points, which are called its end points. A line segment from A to B is denoted as AB or BA.",
                     "formulae": [],
                     "examples": [
-                        "2, 3, 5, 7, 11 are primes; 4, 6, 8, 9, 10 are composite.",
-                        "1 is neither prime nor composite."
+                        "Folding a piece of paper and unfolding it creates a crease that gives the idea of a line segment.",
+                        "Connecting points A and B by various routes; the shortest path is the line segment AB.",
+                        "Identifying line segments in a figure, such as LM, MP, PQ, and QR."
                     ]
                 },
                 {
                     "id": "3.3",
-                    "title": "Divisibility Rules",
-                    "definition": "Divisibility tests use digit patterns to tell quickly whether a number is divisible by another without full division.",
-                    "formulae": [],
+                    "title": "Line (Indefinite Extension)",
+                    "definition": "A line is a line segment extended indefinitely in both directions. It has no end points. A line through points A and B is written as \u2194AB.",
+                    "formulae": [
+                        "Any two points determine a unique line passing through them."
+                    ],
                     "examples": [
-                        "A number divisible by 2 ends in 0, 2, 4, 6, 8.",
-                        "Divisible by 3 if sum of digits is divisible by 3; by 5 if last digit is 0 or 5."
+                        "Imagine line segment AB extended beyond A and B in both directions without any end.",
+                        "A line can be denoted by a single small letter like l or m.",
+                        "Drawing many lines through a single point Rihan marked vs. one line through two points Sheetal marked."
                     ]
                 },
                 {
                     "id": "3.4",
-                    "title": "Common Factors and Common Multiples",
-                    "definition": "Common factors divide each of the given numbers; common multiples are multiples common to them.",
+                    "title": "Ray (One-Way Extension)",
+                    "definition": "A ray is a portion of a line that starts at one point (called the starting point or initial point) and goes on endlessly in one direction.",
                     "formulae": [],
                     "examples": [
-                        "Common factors of 12 and 18 are 1, 2, 3, 6.",
-                        "Common multiples of 3 and 4 include 12, 24, 36, ..."
+                        "Beam of light from a lighthouse, rays from a torch, or sun rays.",
+                        "Ray OA starts at O and passes through A; it cannot be written as AO because the starting point is fixed.",
+                        "Rays from point T in multiple directions like TA, TB, and TN."
                     ]
                 },
                 {
                     "id": "3.5",
-                    "title": "Prime Factorisation and HCF/LCM (Concept)",
-                    "definition": "A number can be written as product of prime factors. HCF is the highest common factor; LCM is the least common multiple of given numbers.",
+                    "title": "Angle (Vertex and Arms)",
+                    "definition": "An angle is formed by two rays having a common starting point called the vertex. The rays are called the arms of the angle. An angle is named using the vertex in the middle (e.g., \u2220DBE).",
+                    "formulae": [
+                        "Angle size = amount of rotation or turn needed about the vertex."
+                    ],
+                    "examples": [
+                        "The point B where rays BD and BE meet is the vertex; BD and BE are the arms.",
+                        "Opening the cover of a book at different amounts of rotation creates angles of different sizes.",
+                        "Identifying vertex and arms in a pair of scissors, a compass, or a divider."
+                    ]
+                },
+                {
+                    "id": "3.6",
+                    "title": "Comparing Angles (Superimposition and Rotation)",
+                    "definition": "The size of an angle is determined by the amount of rotation, not the length of its arms. Angles can be compared by superimposition (overlapping vertices and arms) or by tracing and measuring.",
                     "formulae": [],
                     "examples": [
-                        "Prime factorisation: 60 = 2² × 3 × 5.",
-                        "HCF(12, 18) = 6, LCM(12, 18) = 36."
+                        "Comparing the gap in animals' mouths as they open: wider opening means a larger angle.",
+                        "Using a transparent circle to check rotation: placing the center on the vertex to mark arm positions.",
+                        "Evaluating which angle is greater among \u2220AOB and \u2220XOY by superimposing them."
+                    ]
+                },
+                {
+                    "id": "3.7",
+                    "title": "Special Types: Straight and Right Angles",
+                    "definition": "A straight angle is a half turn ($180°$) where the arms lie in a straight line. A right angle is exactly half of a straight angle ($90°$), resembling an 'L' shape. Lines meeting at right angles are perpendicular.",
+                    "formulae": [
+                        "1 Straight Angle = 2 Right Angles",
+                        "Right Angle = 1/4 of a full turn"
+                    ],
+                    "examples": [
+                        "A full turn of a notebook cover vs. a half turn (straight angle) when lying flat.",
+                        "Perpendicular creases formed by folding paper twice; creating four right angles around a point.",
+                        "Finding right angles in classroom windows and grid points."
+                    ]
+                },
+                {
+                    "id": "3.8",
+                    "title": "Classifying Angles: Acute, Obtuse, and Reflex",
+                    "definition": "Angles are classified by size: Acute (less than $90°$), Right ($90°$), Obtuse (between $90°$ and $180°$), and Reflex (between $180°$ and $360°$).",
+                    "formulae": [
+                        "0° < Acute < 90°",
+                        "90° < Obtuse < 180°",
+                        "180° < Reflex < 360°"
+                    ],
+                    "examples": [
+                        "Acute means 'sharp' and Obtuse means 'blunt'; these reflect the visual sharpness of the corner.",
+                        "Classifying angles like \u2220PTR ($30°$, acute) and \u2220WTP ($258°$, reflex).",
+                        "Identifying patterns of acute angles in nested triangle figures."
+                    ]
+                },
+                {
+                    "id": "3.9",
+                    "title": "Measuring Angles in Degrees (Protractor)",
+                    "definition": "The measure of an angle is the number of 1-degree ($1°$) unit parts it contains. A full circle is divided into 360 equal parts. A protractor is a tool divided into 180 (semicircle) or 360 (full circle) degree marks.",
+                    "formulae": [
+                        "Full Turn = 360°",
+                        "Half Turn (Straight) = 180°",
+                        "Quarter Turn (Right) = 90°"
+                    ],
+                    "examples": [
+                        "360 is used because it is divisible by all numbers up to 10 except 7, and matches many ancient calendar systems.",
+                        "Rigveda Reference: A wheel with 360 spokes (Verse 1.164.48).",
+                        "Making a handmade protractor by folding a circular paper into halves, quarters, and eighths ($45°$, $22.5°$)."
+                    ]
+                },
+                {
+                    "id": "3.10",
+                    "title": "Angles in Real Life and Clocks",
+                    "definition": "Angles are used to describe rotation and slope in daily life, such as the position of clock hands, doors, swings, and slabs.",
+                    "formulae": [
+                        "Angle between successive numbers on a clock = 360° / 12 = 30°"
+                    ],
+                    "examples": [
+                        "At 1 o'clock, the angle is $30°$; at 3 o'clock, $90°$; at 6 o'clock, $180°$.",
+                        "The angle of a door: vertex at the hinge, arms are the edges of the door and wall.",
+                        "Swings and toys: steeper slopes/angles lead to higher speeds of movement.",
+                        "Ashoka Chakra: 24 spokes create an angle of $15°$ between successive spokes."
+                    ]
+                },
+                {
+                    "id": "3.11",
+                    "title": "Angle Bisector",
+                    "definition": "The line that divides a given angle into two equal parts is called the angle bisector. This process is called bisecting the angle.",
+                    "formulae": [
+                        "Bisected Angle = Original Angle / 2"
+                    ],
+                    "examples": [
+                        "Folding a paper protractor in half at each step is a process of bisecting angles (180 to 90, 90 to 45).",
+                        "Drawing a ray OC such that \u2220AOC = \u2220BOC within a straight angle \u2220AOB.",
+                        "Finding the degree measure of parts when a 180° angle is divided into 8 equal parts (22.5°)."
                     ]
                 }
             ]
         },
         {
             "number": 4,
-            "title": "Basic Geometrical Ideas",
+            "title": "Number Play",
             "concepts": [
                 {
                     "id": "4.1",
-                    "title": "Point, Line, Line Segment and Ray",
-                    "definition": "A point indicates a position; a line extends endlessly in both directions; a line segment has two endpoints; a ray has one endpoint and extends infinitely in one direction.",
+                    "title": "Numbers Telling Stories (Context)",
+                    "definition": "Numbers convey information relative to their context. For example, a number can represent a count, position, or a specific property like height relative to neighbors.",
                     "formulae": [],
                     "examples": [
-                        "Tip of a pencil is a point; edge of a ruler can represent a line segment.",
-                        "Sun rays are like rays in geometry."
+                        "Children in a park say a number representing their taller neighbors: 1 if one side is taller, 2 if both are taller, 0 if neither.",
+                        "Analyzing height sequences through numbers: if heights are different, the ends cannot say '2'.",
+                        "Arranging children such that the sequence of neighbors' heights is 0, 1, 2, 1, 0."
                     ]
                 },
                 {
                     "id": "4.2",
-                    "title": "Curves and Polygons",
-                    "definition": "A curve is a drawing that may be straight or curved; a simple closed curve with straight sides is called a polygon.",
-                    "formulae": [],
+                    "title": "Supercells (Local Maxima)",
+                    "definition": "In a sequence or a grid, a 'supercell' is a number that is greater than all its adjacent (neighboring) cells (left, right, top, bottom).",
+                    "formulae": [
+                        "For a 1D table with n cells: Max supercells = n/2 (if even) or (n+1)/2 (if odd, alternating)."
+                    ],
                     "examples": [
-                        "Triangle, square and pentagon are polygons.",
-                        "A circle is a simple closed curve but not a polygon."
+                        "In the sequence [200, 577, 626, 345], 626 is a supercell because it's larger than 577 and 345.",
+                        "In a 2D grid, 8632 is a supercell if it exceeds its neighbors 4580, 8280, 4795, and 1944.",
+                        "If you exchange digits 1 and 6 in 62,871 to get 12,876, a grid can have exactly 4 supercells.",
+                        "Fact: The largest number in any table will always be a supercell, while the smallest can never be one."
                     ]
                 },
                 {
                     "id": "4.3",
-                    "title": "Angles and Their Naming",
-                    "definition": "An angle is formed when two rays start from a common endpoint. It is named using three letters with the vertex in the middle.",
+                    "title": "Number Line Positioning and Comparisons",
+                    "definition": "Placing numbers on a number line helps in visual comparison and understanding relative magnitudes of large numbers.",
                     "formulae": [],
                     "examples": [
-                        "∠ABC has B as the vertex and BA, BC as arms.",
-                        "Corners of a book show right angles."
+                        "Placing numbers accurately: 1050, 1500, 2180, 2754, 3050, 3600, 5030, 5300, 8400, 9590, 9950.",
+                        "Identifying patterns in labeling remaining positions on a scale of 1000s.",
+                        "Pratibha's Comparison: Largest 4-digit from {4, 7, 3, 2} is 7432 and smallest is 2347. Difference is 5085; sum is 9779."
                     ]
                 },
                 {
                     "id": "4.4",
-                    "title": "Triangles and Quadrilaterals (Basic Idea)",
-                    "definition": "A triangle is a polygon with three sides and three angles; a quadrilateral has four sides and four angles.",
+                    "title": "Digit Sums and Number Properties",
+                    "definition": "The digit sum is the total obtained by adding all digits of a number. Different numbers can share the same digit sum, aiding in pattern recognition.",
                     "formulae": [],
                     "examples": [
-                        "Roof gables are triangular; windows and doors are usually quadrilaterals."
+                        "Komal's observation: Numbers with digit sum 14: 68 (6+8), 176 (1+7+6), 545 (5+4+5).",
+                        "The smallest number with digit sum 14 is 59; the largest 5-digit number is 95000.",
+                        "Calculated pattern: Sums of digits of consecutive 3-digit numbers (e.g., 345 \u2192 12) are always multiples of 3 (6, 9, 12, 15, 18, 21, 24)."
                     ]
                 },
                 {
                     "id": "4.5",
-                    "title": "Circles: Centre, Radius and Diameter",
-                    "definition": "A circle is the set of points at a fixed distance (radius) from a fixed point (centre). A diameter is a chord passing through the centre and is twice the radius.",
+                    "title": "Digit Detectives (Occurrences and place value)",
+                    "definition": "Counting digit appearances across ranges follows arithmetic patterns based on units, tens, and hundreds places.",
                     "formulae": [
-                        "Diameter = 2 × Radius",
-                        "Radius = Diameter / 2"
+                        "Count in 1-100 = 20 occurrences per non-zero digit."
                     ],
                     "examples": [
-                        "If radius is 3 cm, diameter is 6 cm.",
-                        "If diameter is 10 cm, radius is 5 cm."
+                        "Dinesh's Count: Digit '7' appears 20 times between 1-100 and 300 times between 1-1000.",
+                        "Total count of k-digit numbers: 1-digit (9), 2-digit (90), 3-digit (900), 4-digit (9000), 5-digit (90,000)."
+                    ]
+                },
+                {
+                    "id": "4.6",
+                    "title": "Palindromic numbers and patterns",
+                    "definition": "Palindromes are numbers that read the same backwards and forwards. Complex palindromes can be created using specific rule-based procedures.",
+                    "formulae": [],
+                    "examples": [
+                        "Examples using {1, 2, 3}: 121, 313, 222, 111, 232, 323.",
+                        "Puzzle: A 5-digit odd palindrome with 't' double of 'u' and 'h' double of 't' is 12421.",
+                        "Reverse-and-Add: 76 + 67 = 143; 143 + 341 = 484 (Palindrome in 2 rounds)."
+                    ]
+                },
+                {
+                    "id": "4.7",
+                    "title": "Kaprekar Constant (The Magic of 6174)",
+                    "definition": "Discovered by D.R. Kaprekar in 1949, this constant is reached via a subtraction routine where digits are sorted in descending and ascending order.",
+                    "formulae": [
+                        "Descending Digits - Ascending Digits = New Number."
+                    ],
+                    "examples": [
+                        "Starting with 6382 reaches 6174 in 3 steps: 6264 \u2192 4176 \u2192 6174.",
+                        "The number 5683 takes 8 rounds to reach 6174.",
+                        "For 3-digit numbers, the magic number that repeats is 495."
+                    ]
+                },
+                {
+                    "id": "4.8",
+                    "title": "Clock, Calendar and Time Patterns",
+                    "definition": "Numbers on devices like clocks and calendars show symmetrical and order-based patterns (e.g., palindromic time).",
+                    "formulae": [
+                        "Calendar Repeats: Every 6 years (if 1 leap year) or 5 years (if 2 leap years) in short cycles."
+                    ],
+                    "examples": [
+                        "Manish's repeating birthday: 20/12/2012; Meghana's palindromic birthday: 11/02/2011.",
+                        "Palindromic Times: 10:01, 11:11, 12:21; Interval between 10:01 and 11:11 is 70 minutes.",
+                        "Reuse of calendars: Jeevan's inquiry about reusing calendars after several years."
+                    ]
+                },
+                {
+                    "id": "4.9",
+                    "title": "Number Patterns and Grids",
+                    "definition": "Visual patterns in number grids allow for rapid calculation and discovering structural properties of arithmetic sequences.",
+                    "formulae": [],
+                    "examples": [
+                        "Shortcut for summing a 4x4 grid of 32s: 32 \u00d7 16 = 512, which is faster than adding 16 individual numbers.",
+                        "Building patterns that sum to a specific target (e.g., a 2x2 grid of 50s and 25s to reach 250).",
+                        "Analyzing rows of 40s and 50s in classes to find total counts via multiplication."
+                    ]
+                },
+                {
+                    "id": "4.10",
+                    "title": "The Collatz Conjecture (3n + 1)",
+                    "definition": "An unsolved problem (Lothar Collatz, 1937) where a sequence always reaches 1 if you: half even numbers and triple+1 odd numbers.",
+                    "formulae": [
+                        "If n is even: n \u2192 n/2",
+                        "If n is odd: n \u2192 3n + 1"
+                    ],
+                    "examples": [
+                        "Sequence starting at 12: 12, 6, 3, 10, 5, 16, 8, 4, 2, 1.",
+                        "Sequence starting at 7: 7, 22, 11, 34, 17, 52, 26, 13, 40, 20, 10, 5, 16, 8, 4, 2, 1.",
+                        "The conjecture is proved for powers of 2 (Chapter 1) but remains unsolved for others."
+                    ]
+                },
+                {
+                    "id": "4.11",
+                    "title": "Simple Estimation in Daily Life",
+                    "definition": "Estimation (approximately counting) is useful when exact numbers are not required. It relies on scaling samples or using standard rates.",
+                    "formulae": [],
+                    "examples": [
+                        "Paromita's school estimate: 32 per section \u00d7 3 sections \u00d7 5 classes \u2248 500 students.",
+                        "Sheetal's school hours check: 6 hrs/day \u00d7 200 days/yr \u00d7 8 yrs \u2248 9,600 hours (13,000 is an over-estimate).",
+                        "Estimating steps based on distance/pace: From classroom to door, or school to home."
+                    ]
+                },
+                {
+                    "id": "4.12",
+                    "title": "Winning Game Strategies (Game 21)",
+                    "definition": "Games like '21' have mathematical winning strategies based on reaching specific 'save' numbers to force an opponent into an unavoidable loss.",
+                    "formulae": [
+                        "Target = N: if you can add k to previous, the winning series is N-(step+1)."
+                    ],
+                    "examples": [
+                        "Rules: Adding 1, 2, or 3 to reach 21. Winning strategy involves identifying patterns the first player should say.",
+                        "Variation: Adding 1-10 to reach 99. Finding out if the first or second player has the advantage.",
+                        "Strategy for reaching 22 by adding 1, 2, or 3: working backwards from the goal."
                     ]
                 }
             ]
         },
         {
             "number": 5,
-            "title": "Understanding Elementary Shapes",
+            "title": "Patterns in Mathematics",
             "concepts": [
                 {
                     "id": "5.1",
-                    "title": "Measuring Line Segments",
-                    "definition": "Lengths of line segments are measured using a ruler or divider, ensuring the zero mark is aligned correctly and reading eye is vertical.",
+                    "title": "Mathematics as the Search for Patterns",
+                    "definition": "Mathematics is the search for patterns and explanations for why they exist. This search combines art and science and helps propel humanity forward (e.g., gravitation, diseases).",
                     "formulae": [],
                     "examples": [
-                        "A pencil may measure 9.2 cm on a ruler."
+                        "Patterns in nature and daily life: shopping, cooking, sports, and technology.",
+                        "Theory of gravitation developed from patterns in the motion of stars and planets.",
+                        "Diagnosing diseases through patterns in genomes."
                     ]
                 },
                 {
                     "id": "5.2",
-                    "title": "Types of Angles",
-                    "definition": "Angles are classified by measure as acute (0°–90°), right (90°), obtuse (90°–180°), straight (180°), reflex (180°–360°) and complete (360°).",
+                    "title": "Key Number Sequences",
+                    "definition": "The branch of Mathematics studying patterns in whole numbers is Number Theory. Sequences are ordered lists of numbers following specific rules.",
                     "formulae": [],
                     "examples": [
-                        "Angle of 45° is acute; 120° is obtuse; 180° is straight."
+                        "Counting: 1, 2, 3...; Odd: 1, 3, 5...; Even: 2, 4, 6...",
+                        "Triangular numbers: 1, 3, 6, 10, 15, 21, 28, 36... (Can be arranged in a triangle of dots).",
+                        "Virahnka numbers (6th-8th century): 1, 2, 3, 5, 8, 13, 21... (Each term is the sum of the previous two).",
+                        "Powers of 2: 1, 2, 4, 8, 16... and Powers of 3: 1, 3, 9, 27, 81..."
                     ]
                 },
                 {
                     "id": "5.3",
-                    "title": "Triangles by Sides and Angles (Intro)",
-                    "definition": "Triangles can be classified as scalene (no equal sides), isosceles (two equal sides) or equilateral (all equal sides); by angles as acute, right or obtuse triangles.",
-                    "formulae": [],
+                    "title": "Visualising Numbers (Squares, Cubes, and Hexagons)",
+                    "definition": "Numbers can be represented pictorially using dot patterns to reveal their geometric properties.",
+                    "formulae": [
+                        "n-th Square number = n \u00d7 n",
+                        "n-th Cube number = n \u00d7 n \u00d7 n"
+                    ],
                     "examples": [
-                        "A triangle with sides 3 cm, 4 cm, 5 cm is scalene.",
-                        "A triangle with all angles less than 90° is an acute triangle."
+                        "Square numbers (1, 4, 9, 16...) can be arranged in a square grid of dots.",
+                        "Cube numbers (1, 8, 27...) can be represented using actual 3D cubes.",
+                        "Fact: 36 is 'square-triangular' as it fits both patterns (6\u00d76 square and T_8 triangle).",
+                        "Hexagonal numbers: 1, 7, 19, 37, 61, 91... (Formed by multiplication and addition relations)."
                     ]
                 },
                 {
                     "id": "5.4",
-                    "title": "Perpendicular Lines and Perpendicular Bisectors",
-                    "definition": "Two lines are perpendicular if they meet to form a right angle; a perpendicular bisector cuts a line segment into two equal parts at 90°.",
+                    "title": "Relationships Between Sequences",
+                    "definition": "Surprising relations exist where adding the terms of one sequence results in another sequence.",
+                    "formulae": [
+                        "Sum of first n odd numbers = n\u00b2.",
+                        "Sum of first n counting numbers up and down = n\u00b2.",
+                        "Hexagonal Number = (Triangular Number \u00d7 6) + 1."
+                    ],
+                    "examples": [
+                        "Sum of first 10 odds is 100; sum of first 100 odds is 10,000.",
+                        "Relation: T_n + T_{n-1} = n\u00b2 (e.g., 3 + 6 = 9).",
+                        "Building cubes: Adding hexagonal numbers 1, 1+7=8, 1+7+19=27 results in the cube sequence."
+                    ]
+                },
+                {
+                    "id": "5.5",
+                    "title": "Patterns in Shapes (Regular Polygons and Graphs)",
+                    "definition": "Geometry studies patterns in shapes across different dimensions (1D, 2D, 3D).",
                     "formulae": [],
                     "examples": [
-                        "Edges of a notebook form perpendicular lines.",
-                        "Using a compass and ruler to construct the perpendicular bisector of a segment."
+                        "Regular Polygon Names: Triangle (3), Square (4), Pentagon (5), Hexagon (6), Heptagon (7), Octagon (8), Nonagon (9), Decagon (10).",
+                        "In regular polygons, the number of sides always equals the number of corners.",
+                        "Complete Graphs: Connecting all possible points. Number of lines follows triangular numbers (1, 3, 6, 10...)."
+                    ]
+                },
+                {
+                    "id": "5.6",
+                    "title": "Fractal Patterns (The Koch Snowflake)",
+                    "definition": "Complex patterns formed by simple recursive rules that add increasingly smaller details to a shape.",
+                    "formulae": [
+                        "Koch Segment Rule: Replace each '\u2014' with a 'speed bump' shape.",
+                        "Number of segments: 3, 12, 48, 192... (3 \u00d7 Powers of 4)."
+                    ],
+                    "examples": [
+                        "Starting with a triangle, each side is replaced by a 'speed bump' iteratively.",
+                        "As iterations increase, the line segments become tinier and tinier, forming a snowflake shape."
                     ]
                 }
             ]
         },
         {
             "number": 6,
-            "title": "Integers",
+            "title": "Perimeter and Area",
             "concepts": [
                 {
                     "id": "6.1",
-                    "title": "Integers and Number Line",
-                    "definition": "Integers include all positive and negative whole numbers and zero: ..., −3, −2, −1, 0, 1, 2, 3, ....",
-                    "formulae": [],
+                    "title": "Perimeter of Polygons",
+                    "definition": "The distance covered along the boundary of a closed plane figure. For a polygon, it is the sum of the lengths of all its sides.",
+                    "formulae": [
+                        "Perimeter of Rectangle = 2 \u00d7 (length + breadth)",
+                        "Perimeter of Square = 4 \u00d7 length of a side",
+                        "Perimeter of Triangle = Sum of lengths of its three sides"
+                    ],
                     "examples": [
-                        "-5, 0 and 7 are integers; 2.5 is not an integer."
+                        "A rectangle with length 12 cm and breadth 8 cm has a perimeter of 40 cm.",
+                        "Debojeet's 1m square photo frame requires 4m of tape for its perimeter.",
+                        "Akshi and Toshi's comparison: Akshi runs 1100m (5 rounds of 220m track); Toshi runs 1260m (7 rounds of 180m track).",
+                        "Missing terms: If P=14 cm and breadth=2 cm, length is 5 cm; if P=20 cm for a square, side is 5 cm.",
+                        "Fencing: A 150m \u00d7 120m park costs Rs 21,600 to fence at Rs 40/metre."
                     ]
                 },
                 {
                     "id": "6.2",
-                    "title": "Ordering Integers on Number Line",
-                    "definition": "On a number line, integers increase to the right and decrease to the left; any integer on the right is greater than one on its left.",
-                    "formulae": [],
+                    "title": "Perimeter of Regular Polygons",
+                    "definition": "Closed figures with all sides and all angles equal are regular polygons.",
+                    "formulae": [
+                        "Perimeter = Number of sides \u00d7 Length of one side"
+                    ],
                     "examples": [
-                        "-3 < 0 < 4 because −3 is left of 0 and 4 is right of 0."
+                        "Equilateral Triangle: 3 \u00d7 side; Square: 4 \u00d7 side; Regular Hexagon: 6 \u00d7 side.",
+                        "A 36 cm string forms a square of side 9 cm, a triangle of side 12 cm, or a hexagon of side 6 cm.",
+                        "Usha covers 900m in three rounds of a 75m square park."
                     ]
                 },
                 {
                     "id": "6.3",
-                    "title": "Addition of Integers on Number Line",
-                    "definition": "Addition is done by starting at the first integer on the number line and moving right for adding a positive integer and left for adding a negative integer.",
-                    "formulae": [],
+                    "title": "Complex Perimeter (Straight and Diagonal Units)",
+                    "definition": "Boundaries on a grid consist of straight (s) and diagonal (d) units. Diagonal lines (blue) are longer than straight lines (red).",
+                    "formulae": [
+                        "Perimeter = (Count of s) + (Count of d)"
+                    ],
                     "examples": [
-                        "2 + (−3) = −1; start at 2 and move 3 steps left.",
-                        "−4 + 5 = 1; start at −4 and move 5 steps right."
+                        "A triangle shape might have a perimeter like '6s + 3d' units.",
+                        "Wire Puzzle: A 5cm \u00d7 3cm rectangle (P=16) is straightened and bent into a square of side 4cm.",
+                        "Split and Rejoin: A 6cm \u00d7 4cm paper cut in two can form shapes with perimeters like 28cm or 22cm."
                     ]
                 },
                 {
                     "id": "6.4",
-                    "title": "Subtraction of Integers",
-                    "definition": "Subtracting an integer is equivalent to adding its additive inverse (the same number with opposite sign).",
+                    "title": "Area Concept and Units",
+                    "definition": "The amount of surface region enclosed by a closed figure, measured generally in square units (sq units).",
+                    "formulae": [],
+                    "examples": [
+                        "Estimation: On a grid, count full squares as 1, count > half as 1, count exactly half as 1/2, and ignore < half.",
+                        "Merit of Square units: Circles cannot be packed tightly without gaps, making them inaccurate as units for area."
+                    ]
+                },
+                {
+                    "id": "6.5",
+                    "title": "Area of Rectangles and Squares",
+                    "definition": "The area of a rectangle is length \u00d7 breadth; the area of a square is side \u00d7 side.",
                     "formulae": [
-                        "a − b = a + (−b)"
+                        "Area (Rectangle) = l \u00d7 b; Area (Square) = s \u00d7 s"
                     ],
                     "examples": [
-                        "5 − (−3) = 5 + 3 = 8.",
-                        "−2 − 4 = −2 + (−4) = −6."
+                        "Floor carpet problem: Area not carpeted = (5m \u00d7 4m floor) - (3m \u00d7 3m carpet) = 11 sq m.",
+                        "Corner Bed Activity: Land 12m \u00d7 10m with four 4m-side flower beds in corners; remaining area = 120 - (4 \u00d7 16) = 56 sq m.",
+                        "Tiling costs: A 500m \u00d7 200m plot costs Rs 8,000 at Rs 8 per hundred sq m.",
+                        "Grove: A 100m \u00d7 50m grove can fit 200 trees if each needs 25 sq m."
+                    ]
+                },
+                {
+                    "id": "6.6",
+                    "title": "Area of a Triangle",
+                    "definition": "A triangle formed by a diagonal of a rectangle is half of the rectangle's area.",
+                    "formulae": [
+                        "Area (Triangle) = 1/2 \u00d7 Area (Rectangle)"
+                    ],
+                    "examples": [
+                        "A diagonal split shows two overlapping triangles of equal area.",
+                        "In rectangle ABCD, triangle BAD is exactly half of ABCD."
+                    ]
+                },
+                {
+                    "id": "6.7",
+                    "title": "Area and Perimeter Relationships",
+                    "definition": "Two figures can have the same area with different perimeters, or the same perimeter with different areas.",
+                    "formulae": [],
+                    "examples": [
+                        "Using 9 unit squares (Area 9): Perimeter is 12 (3\u00d73 square) or 20 (1\u00d79 rectangle).",
+                        "Possible perimeters for area 24: 50 (1\u00d724), 28 (2\u00d712), 22 (3\u00d78), 20 (4\u00d76).",
+                        "Comparison: Shape A (18 sq units) can have a larger perimeter than Shape B (20 sq units)."
+                    ]
+                },
+                {
+                    "id": "6.8",
+                    "title": "Practical Geometry (Tangrams and House Plans)",
+                    "definition": "Application of area/perimeter in spatial puzzles and architecture.",
+                    "formulae": [],
+                    "examples": [
+                        "Tangrams: The large square made of 7 pieces is 16 times the area of Shape C.",
+                        "House plans: Charan's house (35ft \u00d7 30ft) and Sharan's house (42ft \u00d7 25ft) both have area 1050 sq ft.",
+                        "Perimeter check: Sharan's perimeter (134ft) is larger than Charan's (130ft).",
+                        "Area Maze: Finding missing values like side 5cm for a 16 sq cm / 30 sq cm region puzzle."
                     ]
                 }
             ]
         },
         {
             "number": 7,
-            "title": "Fractions",
+            "title": "Playing with Constructions",
             "concepts": [
                 {
                     "id": "7.1",
-                    "title": "Definition and Types of Fractions",
-                    "definition": "A fraction represents a part of a whole and is written as numerator over denominator. Proper fractions have numerator less than denominator; improper fractions have numerator greater than or equal to denominator; mixed fractions combine a whole number and a proper fraction.",
+                    "title": "Circles and Compass Tools",
+                    "definition": "A circle is a curve formed by all points at a fixed distance (radius) from a fixed point (centre). A compass is the primary tool for constructing these curves by keeping the tip fixed and moving the pencil.",
                     "formulae": [],
                     "examples": [
-                        "3/4 is proper; 9/4 is improper; 2 1/3 is mixed."
+                        "Drawing a circle of radius 4 cm by opening the compass against a ruler.",
+                        "Recreating Fig 8.1 artwork with precise ruler and compass use."
                     ]
                 },
                 {
                     "id": "7.2",
-                    "title": "Fractions on Number Line",
-                    "definition": "Fractions are represented on a number line between integers by dividing the interval into equal parts equal to the denominator.",
+                    "title": "Geometrical Artwork",
+                    "definition": "Creating complex figures using combinations of circles, arcs, and straight lines.",
                     "formulae": [],
                     "examples": [
-                        "1/2 lies halfway between 0 and 1; 3/4 lies three‑quarters between 0 and 1."
+                        "A Person: Finding where to place the tip of the compass for symmetric curves.",
+                        "Wavy Wave: Recreating an 8 cm central line with 2 cm radius half-circles (Length AX = 4 cm).",
+                        "Eyes: Drawing symmetrical upper and lower curves using trial and error for tip placement A and B."
                     ]
                 },
                 {
                     "id": "7.3",
-                    "title": "Equivalent Fractions and Simplest Form",
-                    "definition": "Equivalent fractions have same value though numerators and denominators differ. Simplest form has numerator and denominator with no common factor other than 1.",
-                    "formulae": [],
+                    "title": "Properties of Squares and Rectangles",
+                    "definition": "Squares and rectangles are 4-sided figures with specific constraints on side lengths and all angles equal to 90\u00b0.",
+                    "formulae": [
+                        "Rectangle: Opposite sides equal (R1); All angles = 90\u00b0 (R2)",
+                        "Square: All sides equal (S1); All angles = 90\u00b0 (S2)"
+                    ],
                     "examples": [
-                        "1/2, 2/4 and 3/6 are equivalent fractions.",
-                        "6/8 simplifies to 3/4."
+                        "Valid Naming: Corners in order of travel (ABCD, BCDA, etc.; ABDC is invalid).",
+                        "Rotated figures: Rotating a square piece of paper doesn't change its side lengths or 90\u00b0 angles."
                     ]
                 },
                 {
                     "id": "7.4",
-                    "title": "Comparing and Ordering Fractions",
-                    "definition": "Fractions are compared using common denominators, cross‑multiplication or by visualising parts of the whole.",
+                    "title": "Step-by-Step Construction",
+                    "definition": "Constructing figures accurately using a ruler and compass to mark perpendiculars and transfer distances.",
                     "formulae": [],
                     "examples": [
-                        "To compare 2/3 and 3/5, compare 2 × 5 = 10 and 3 × 3 = 9; so 2/3 > 3/5."
+                        "Square (6 cm side): Constructing PQ and marking perpendiculars through P and Q.",
+                        "Method 2: Using a compass instead of a ruler to mark point S on the perpendicular at exactly 6 cm from P."
                     ]
                 },
                 {
                     "id": "7.5",
-                    "title": "Addition and Subtraction of Fractions",
-                    "definition": "Fractions with same denominators are combined by adding or subtracting numerators; for different denominators, a common denominator is used.",
+                    "title": "Rectangular Explorations",
+                    "definition": "Exploring properties by moving points X and Y or subdividing rectangles into identical squares.",
                     "formulae": [],
                     "examples": [
-                        "1/5 + 2/5 = 3/5.",
-                        "1/3 + 1/6 = 1/2."
+                        "Distance XY: Minimum when X is at A and Y is at B (XY = AB); farthest when X and Y are at opposite corners.",
+                        "Dividing Rectangles: A rectangle of 12 cm \u00d7 4 cm can be divided into three 4 cm identical squares.",
+                        "Puzzle: Sides of a rectangle that *cannot* be divided into two identical squares (e.g., 4 cm \u00d7 2.5 cm)."
+                    ]
+                },
+                {
+                    "id": "7.6",
+                    "title": "Properties of Diagonals",
+                    "definition": "The diagonals of a rectangle are equal in length and divide opposite angles into two parts.",
+                    "formulae": [
+                        "Diagonals PR and QS: Length(PR) = Length(QS)"
+                    ],
+                    "examples": [
+                        "Angle construction: Constructing a rectangle where a diagonal divides an angle into 60\u00b0 and 30\u00b0.",
+                        "Special case: In a square, a diagonal divides the 90\u00b0 angles into two equal 45\u00b0 parts."
+                    ]
+                },
+                {
+                    "id": "7.7",
+                    "title": "Construction given Side and Diagonal",
+                    "definition": "Building a rectangle with one known side (e.g., 5 cm) and a diagonal (e.g., 7 cm) using arc intersections.",
+                    "formulae": [],
+                    "examples": [
+                        "Efficient Method: Draw a perpendicular to base DC at C; use compass from D with radius 7 cm to mark point B on the line."
+                    ]
+                },
+                {
+                    "id": "7.8",
+                    "title": "Points Equidistant and Shape Symmetry",
+                    "definition": "Using arcs from two fixed points to find a third point that is equally distant from both.",
+                    "formulae": [],
+                    "examples": [
+                        "House peak 'A': Intersecting two 5 cm arcs from base points B and C to find 'A' exactly 5 cm from both.",
+                        "Symmetry: A square with $8 cm sidelengths and 4 arcs bulging uniformly from each side.",
+                        "Existence: A 4-sided figure with equal sides but not a square (Rhombus properties)."
                     ]
                 }
             ]
         },
         {
             "number": 8,
-            "title": "Decimals",
+            "title": "Prime Time",
             "concepts": [
                 {
                     "id": "8.1",
-                    "title": "Place Value in Decimals",
-                    "definition": "Decimal numbers have whole number part and fractional part separated by a decimal point. Digits to the right have place values tenths, hundredths, thousandths, etc.",
+                    "title": "Multiples and Common Multiples",
+                    "definition": "Multiples of a number are values obtained by multiplying it by whole numbers (1, 2, 3...). Common multiples are those shared by two or more numbers.",
                     "formulae": [],
                     "examples": [
-                        "In 4.37, 3 is tenths and 7 is hundredths."
+                        "Idli-Vada Game: Multiples of 3 (idli), Multiples of 5 (vada), Common Multiples (idli-vada, e.g., 15, 30).",
+                        "10th occurrence of idli-vada is at 150.",
+                        "If played till 90: 'idli' said 30 times, 'vada' 18 times, 'idli-vada' 6 times."
                     ]
                 },
                 {
                     "id": "8.2",
-                    "title": "Reading and Writing Decimals",
-                    "definition": "Decimals are read using place names after the point and can be written in expanded form showing each digit’s value.",
+                    "title": "Factors and Divisors",
+                    "definition": "Factors (or divisors) are numbers that divide a given number exactly, leaving zero remainder.",
                     "formulae": [],
                     "examples": [
-                        "3.45 is read as three point four five; 3.45 = 3 + 4/10 + 5/100."
+                        "Jump Jackpot: Jump sizes (factors) of 24 are 1, 2, 3, 4, 6, 8, 12, 24.",
+                        "Common factors: Jump sizes that reach both 14 and 36 (e.g., 1 and 2).",
+                        "Common factors of 20 and 28: 1, 2, 4."
                     ]
                 },
                 {
                     "id": "8.3",
-                    "title": "Comparing and Ordering Decimals",
-                    "definition": "Decimals are compared by aligning decimal points and comparing digits from left to right, adding trailing zeros if needed.",
-                    "formulae": [],
+                    "title": "Perfect Numbers",
+                    "definition": "A number for which the sum of all its factors is equal to twice the number.",
+                    "formulae": [
+                        "Sum of factors = 2 \u00d7 n"
+                    ],
                     "examples": [
-                        "0.7 = 0.70; 0.7 > 0.65 because 70 hundredths > 65 hundredths."
+                        "The number 6: factors 1, 2, 3, 6 (Sum = 12 = 2 \u00d7 6).",
+                        "The number 28: factors 1, 2, 4, 7, 14, 28 (Sum = 56 = 2 \u00d7 28)."
                     ]
                 },
                 {
                     "id": "8.4",
-                    "title": "Addition and Subtraction of Decimals",
-                    "definition": "Decimals are added or subtracted by writing numbers one below the other with decimal points aligned, then operating like whole numbers.",
+                    "title": "Prime and Composite Numbers",
+                    "definition": "Prime numbers have exactly two factors (1 and itself). Composite numbers have more than two factors. The number 1 is neither prime nor composite.",
                     "formulae": [],
                     "examples": [
-                        "3.5 + 1.75 = 5.25.",
-                        "7.2 − 3.45 = 3.75."
+                        "Arranging Figs: 7 figs can only form 1\u00d77 rectangle (Prime); 12 figs can form 1\u00d712, 2\u00d76, 3\u00d74 (Composite).",
+                        "Sieve of Eratosthenes: A method developed ~2200 years ago to list primes up to 100 by crossing out multiples."
                     ]
                 },
                 {
                     "id": "8.5",
-                    "title": "Decimals in Measurement and Money",
-                    "definition": "Decimals are used to express money (rupees and paise) and measurements like length and weight with more precision.",
+                    "title": "Special Primes and Patterns",
+                    "definition": "Exploring unique properties, differences, and digit-based relationships among primes.",
                     "formulae": [],
                     "examples": [
-                        "₹5.75 means 5 rupees 75 paise; 1.25 m means 1 m 25 cm."
+                        "Smallest prime: 2 (the only even prime).",
+                        "Twin primes: Pairs with difference 2 (e.g., 3 & 5, 17 & 19, 71 & 73).",
+                        "Digit Swap: Pairs like 13 and 31 (both prime).",
+                        "Consecutive composites: 90, 91, 92, 93, 94, 95, 96 (between 1 and 100)."
+                    ]
+                },
+                {
+                    "id": "8.6",
+                    "title": "Co-prime Numbers",
+                    "definition": "Two numbers are co-prime if they have no common factor other than 1.",
+                    "formulae": [
+                        "Product Relationship: For co-prime pairs, the first common multiple is their product."
+                    ],
+                    "examples": [
+                        "Safe Treasure pairs: 4 and 15, 18 and 29.",
+                        "Co-prime check: 18 and 35 are co-prime; 30 and 415 are not (common factor 5).",
+                        "Thread Art: Pattern follows pegs vs gap relationship being co-prime."
+                    ]
+                },
+                {
+                    "id": "8.7",
+                    "title": "Prime Factorisation",
+                    "definition": "Writing a number as a product of its prime factors. Every number > 1 has exactly one prime factorisation (Fundamental Theorem of Arithmetic).",
+                    "formulae": [
+                        "56 = 2 \u00d7 2 \u00d7 2 \u00d7 7"
+                    ],
+                    "examples": [
+                        "Order: $198 = 2 \u00d7 3 \u00d7 3 \u00d7 11$ (Increasing order is standard).",
+                        "Divisibility rule: If one number divides another, its prime factorisation is included in the larger number's (e.g., 168 / 12)."
+                    ]
+                },
+                {
+                    "id": "8.8",
+                    "title": "Divisibility Tests (2, 4, 5, 8, 10)",
+                    "definition": "Quick methods to check factor-hood without long division.",
+                    "formulae": [
+                        "10: Units digit is 0",
+                        "5: Units digit is 0 or 5",
+                        "2: Units digit is 0, 2, 4, 6, 8",
+                        "4: Last two digits are divisible by 4",
+                        "8: Last three digits are divisible by 8"
+                    ],
+                    "examples": [
+                        "14560: Divisible by 5 (ends in 0) and 8 (560 / 8 = 70).",
+                        "Leap Year: Year divisible by 4 (e.g., 2024), except multiples of 100 (unless also 400)."
+                    ]
+                },
+                {
+                    "id": "8.9",
+                    "title": "Number Puzzles",
+                    "definition": "Logical application of prime/composite properties and divisibility.",
+                    "formulae": [],
+                    "examples": [
+                        "Who am I?: Number < 100, factors 3 & 5, digits differ by 1 (Ans: 45).",
+                        "Special Numbers Box: Identifying a number as special for different reasons (e.g., in {9, 16, 25, 43}, 43 is prime, 9 is single-digit, 16 is even).",
+                        "Prime Puzzle: Filling a grid with primes such that row/column products match targets (e.g., target 105 needs factors 3, 5, 7).",
+                        "Product of 10,000 using non-zero units: $16 \u00d7 625$.",
+                        "Smallest number multiple of all 1-10 except 7: 360.",
+                        "Smallest number multiple of all 1-10: 2520."
                     ]
                 }
             ]
         },
         {
             "number": 9,
-            "title": "Data Handling",
+            "title": "Symmetry",
             "concepts": [
                 {
                     "id": "9.1",
-                    "title": "Data and Recording",
-                    "definition": "Data are collected information in the form of numbers or facts; they can be recorded in tables for clarity.",
+                    "title": "Understanding Symmetry",
+                    "definition": "A quality of figures where parts repeat in a definite pattern, creating a balanced and beautiful appearance.",
                     "formulae": [],
                     "examples": [
-                        "Recording number of students absent on each day of a week."
+                        "Natural examples: Butterfly, flower petals.",
+                        "Architectural examples: Taj Mahal, Gopuram, New Parliament Building.",
+                        "Rangoli: Patterns that repeat upon rotation or reflection."
                     ]
                 },
                 {
                     "id": "9.2",
-                    "title": "Pictographs",
-                    "definition": "Pictographs use pictures or symbols to represent a certain number of items, giving a visual representation of data.",
-                    "formulae": [],
+                    "title": "Line of Symmetry",
+                    "definition": "A line that cuts a figure into two parts (mirror halves) that exactly overlap when folded along that line.",
+                    "formulae": [
+                        "Folding test: One half covers the other exactly."
+                    ],
                     "examples": [
-                        "One picture of a ball representing 5 balls in a pictograph of sports equipment."
+                        "Triangle: A dotted line dividing a triangle into two identical halves.",
+                        "Asymmetry: Clouds usually do not have a line of symmetry."
                     ]
                 },
                 {
                     "id": "9.3",
-                    "title": "Bar Graphs (Intro)",
-                    "definition": "Bar graphs display data using rectangular bars with lengths proportional to values, along horizontal and vertical axes.",
+                    "title": "Multiple Lines of Symmetry",
+                    "definition": "A figure can have more than one axis of symmetry depending on its shape.",
                     "formulae": [],
                     "examples": [
-                        "Bar graph showing number of books read by students in a month."
+                        "Square: 4 lines of symmetry (Vertical, Horizontal, and both Diagonals).",
+                        "Rectangle: 2 lines of symmetry (Vertical and Horizontal). Note: Diagonals of a non-square rectangle are NOT lines of symmetry.",
+                        "Regular Polygons: n-sided regular polygon has n lines of symmetry (e.g., Hexagon has 6)."
+                    ]
+                },
+                {
+                    "id": "9.4",
+                    "title": "Reflection Symmetry",
+                    "definition": "A type of symmetry where one half of a figure is the mirror image of the other half.",
+                    "formulae": [
+                        "Mapping: Point B reflects to A, C reflects to D across a vertical axis."
+                    ],
+                    "examples": [
+                        "Labeling: In a square ABCD, reflecting across a vertical line swaps B with A and C with D."
+                    ]
+                },
+                {
+                    "id": "9.5",
+                    "title": "Generating Symmetric Shapes",
+                    "definition": "Creating symmetrical figures through simple activities like folding and cutting.",
+                    "formulae": [],
+                    "examples": [
+                        "Ink Blot Devils: Spilling ink on one half of a folded paper and pressing to create a symmetric blot.",
+                        "Paper Folding/Cutting: Folding paper multiple times and making cuts to create intricate festive decorations.",
+                        "Punching Game: Identifying folds by looking at the positions of punched holes on an unfolded sheet."
+                    ]
+                },
+                {
+                    "id": "9.6",
+                    "title": "Rotational Symmetry",
+                    "definition": "A figure has rotational symmetry if it looks exactly the same after being rotated by some angle strictly between 0\u00b0 and 360\u00b0 about a fixed point (centre of rotation).",
+                    "formulae": [
+                        "Angle of Symmetries: Multiples of the smallest angle of rotation."
+                    ],
+                    "examples": [
+                        "Paper Windmill: Looks the same after 90\u00b0, 180\u00b0, 270\u00b0, and 360\u00b0 rotations.",
+                        "Order of rotation: A square has rotational symmetry of order 4 (smallest angle 90\u00b0)."
+                    ]
+                },
+                {
+                    "id": "9.7",
+                    "title": "Radial Arms and Angles of Symmetry",
+                    "definition": "Determining rotational symmetry using arms radiating from a centre.",
+                    "formulae": [
+                        "Smallest Angle = 360\u00b0 / Number of radial arms (if equally distributed)."
+                    ],
+                    "examples": [
+                        "3 Radial Arms: Each angle must be 120\u00b0 (360/3) to have rotational symmetry.",
+                        "7 Radial Arms: Smallest angle is 360/7 \u2248 51 3/7\u00b0."
+                    ]
+                },
+                {
+                    "id": "9.8",
+                    "title": "Symmetries of a Circle",
+                    "definition": "The circle is the most symmetric figure, possessing both infinite reflectional and rotational symmetries.",
+                    "formulae": [],
+                    "examples": [
+                        "Line Symmetry: Every diameter of a circle is an axis of symmetry.",
+                        "Rotational Symmetry: Every angle (no matter how small) is an angle of symmetry for a circle."
+                    ]
+                },
+                {
+                    "id": "9.9",
+                    "title": "Symmetry in Objects and Polygons",
+                    "definition": "Identifying lines and angles of symmetry in complex structures and standard polygons.",
+                    "formulae": [],
+                    "examples": [
+                        "New Parliament Building: 3 lines of reflection symmetry and 3 angles of rotational symmetry (120\u00b0, 240\u00b0, 360\u00b0).",
+                        "Ashoka Chakra: 24 lines and 24 angles of symmetry.",
+                        "Regular Hexagon: 6 lines and 6 angles of symmetry.",
+                        "Koch Snowflake: Multiple lines and angles of symmetry depending on the sequence stage."
                     ]
                 }
             ]
         },
         {
             "number": 10,
-            "title": "Mensuration",
+            "title": "The Other Side of Zero",
             "concepts": [
                 {
                     "id": "10.1",
-                    "title": "Perimeter of Simple Shapes",
-                    "definition": "Perimeter is the total length of the boundary of a closed figure.",
+                    "title": "Introduction to Integers",
+                    "definition": "Numbers that extend to the left of zero on the number line, representing quantities less than zero.",
                     "formulae": [
-                        "Perimeter of rectangle = 2 × (length + breadth)",
-                        "Perimeter of square = 4 × side"
+                        "Integers: ..., -3, -2, -1, 0, 1, 2, 3, ..."
                     ],
                     "examples": [
-                        "A rectangle of 5 cm by 3 cm has perimeter 2 × (5 + 3) = 16 cm."
+                        "Counting numbers: 1, 2, 3, ...",
+                        "Whole numbers: 0, 1, 2, 3, ...",
+                        "Integers include zero and negative numbers."
                     ]
                 },
                 {
                     "id": "10.2",
-                    "title": "Area of Rectangle and Square (Intro)",
-                    "definition": "Area is the region enclosed by a figure; for rectangles and squares it equals the product of side lengths.",
+                    "title": "Bela's Building of Fun Model",
+                    "definition": "A multistoried building used as a model to understand positive and negative numbers relative to the ground floor (zero).",
                     "formulae": [
-                        "Area of rectangle = length × breadth",
-                        "Area of square = side × side"
+                        "Positive Numbers (+): Floors above ground.",
+                        "Negative Numbers (-): Floors below ground.",
+                        "Zero: Ground floor (Welcome Hall), neither positive nor negative."
                     ],
                     "examples": [
-                        "A square of side 4 cm has area 16 cm²."
+                        "Pressing +2 reaches the Art Centre from 0.",
+                        "Pressing +5 reaches the Sports Centre.",
+                        "Pressing -1 reaches the Toy Store from 0.",
+                        "Floor -2 is the Video Games shop and Floor -3 is the Cinema Centre."
                     ]
                 },
                 {
                     "id": "10.3",
-                    "title": "Applications of Perimeter and Area",
-                    "definition": "Perimeter and area are used to determine fencing length and surface required for tiling, carpeting, painting, etc.",
-                    "formulae": [],
-                    "examples": [
-                        "Finding wire needed to fence a rectangular park and paint needed for its floor."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 11,
-            "title": "Algebra",
-            "concepts": [
-                {
-                    "id": "11.1",
-                    "title": "Introduction to Variables and Constants",
-                    "definition": "A variable is a symbol (such as x, y) that can take different values; a constant is a fixed number.",
-                    "formulae": [],
-                    "examples": [
-                        "In 3x + 5, x is a variable and 3, 5 are constants (3 also acts as coefficient)."
-                    ]
-                },
-                {
-                    "id": "11.2",
-                    "title": "Simple Algebraic Expressions",
-                    "definition": "Algebraic expressions are formed by combining variables and constants using operations of addition, subtraction, multiplication and division.",
-                    "formulae": [],
-                    "examples": [
-                        "2x + 3, 5y − 7, 3a + 2b + 4 are algebraic expressions."
-                    ]
-                },
-                {
-                    "id": "11.3",
-                    "title": "Using Variables in Formulas and Rules",
-                    "definition": "Variables can represent general rules and formulas that work for many numbers.",
-                    "formulae": [],
-                    "examples": [
-                        "Perimeter of a rectangle with length l and breadth b is 2(l + b).",
-                        "Cost of x pencils at ₹5 each is 5x."
-                    ]
-                },
-                {
-                    "id": "11.4",
-                    "title": "Simple Equations (Intro)",
-                    "definition": "A simple equation states that two expressions are equal; solving means finding the value of the variable that satisfies the equation.",
-                    "formulae": [],
-                    "examples": [
-                        "x + 3 = 7 has solution x = 4.",
-                        "2x = 12 has solution x = 6."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 12,
-            "title": "Ratio and Proportion",
-            "concepts": [
-                {
-                    "id": "12.1",
-                    "title": "Ratio",
-                    "definition": "Ratio compares two quantities of the same kind by division, written as a : b.",
-                    "formulae": [],
-                    "examples": [
-                        "If there are 2 boys and 3 girls, the ratio boys : girls is 2 : 3."
-                    ]
-                },
-                {
-                    "id": "12.2",
-                    "title": "Equivalent Ratios",
-                    "definition": "Ratios that represent the same comparison are equivalent; they can be obtained by multiplying or dividing both terms by the same number.",
-                    "formulae": [],
-                    "examples": [
-                        "2 : 3 is equivalent to 4 : 6 or 6 : 9."
-                    ]
-                },
-                {
-                    "id": "12.3",
-                    "title": "Proportion",
-                    "definition": "When two ratios are equal, they are said to be in proportion.",
+                    "title": "Addition as Movement",
+                    "definition": "The process of tracking movement from a starting floor by adding lift button presses.",
                     "formulae": [
-                        "a : b = c : d ⇔ a/b = c/d"
+                        "Starting Floor + Movement = Target Floor"
                     ],
                     "examples": [
-                        "If 2 : 3 = 4 : 6, then 2, 3, 4, 6 are in proportion."
+                        "(+1) + (+2) = +3 (Food Court to Book Store).",
+                        "(+2) + (-3) = -1 (Art Centre to Toy Store).",
+                        "Inverse: (+3) + (-3) = 0 (Cancelling movement to return to ground floor)."
                     ]
                 },
                 {
-                    "id": "12.4",
-                    "title": "Unitary Method (Intro)",
-                    "definition": "In the unitary method, first the value of a single unit is found, then used to find the value for required number of units.",
-                    "formulae": [],
+                    "id": "10.4",
+                    "title": "Additive Inverse",
+                    "definition": "Two numbers whose sum is zero are called additive inverses of each other.",
+                    "formulae": [
+                        "a + (-a) = 0"
+                    ],
                     "examples": [
-                        "If 5 notebooks cost ₹40, cost of 1 notebook is ₹8; cost of 7 notebooks is ₹56."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 13,
-            "title": "Symmetry",
-            "concepts": [
-                {
-                    "id": "13.1",
-                    "title": "Line of Symmetry",
-                    "definition": "A figure has line symmetry if it can be folded along a line so that both halves match exactly.",
-                    "formulae": [],
-                    "examples": [
-                        "A square has 4 lines of symmetry; an equilateral triangle has 3."
+                        "Inverse of +4 is -4.",
+                        "Inverse of -3 is +3.",
+                        "Being at Floor -2 and pressing its inverse +2 takes you to floor 0."
                     ]
                 },
                 {
-                    "id": "13.2",
-                    "title": "Symmetry in Everyday Objects",
-                    "definition": "Many natural and man‑made objects show symmetry, making them appear balanced and attractive.",
-                    "formulae": [],
+                    "id": "10.5",
+                    "title": "Comparing Integers",
+                    "definition": "Determining which integer is larger or smaller based on their vertical or horizontal position.",
+                    "formulae": [
+                        "Lower Floor < Higher Floor",
+                        "Number line: Left < Right"
+                    ],
                     "examples": [
-                        "Butterflies, leaves and many logos have line symmetry."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 14,
-            "title": "Practical Geometry",
-            "concepts": [
-                {
-                    "id": "14.1",
-                    "title": "Instruments of Geometry Box",
-                    "definition": "A geometry box contains ruler, compass, divider, protractor and set‑squares used for constructions.",
-                    "formulae": [],
-                    "examples": [
-                        "Ruler measures lengths; compass draws circles; protractor measures angles."
+                        "Compare +3 and +4: +3 < +4.",
+                        "Compare -4 and -3: Floor -4 is lower than Floor -3, so -4 < -3.",
+                        "All negative numbers are less than 0."
                     ]
                 },
                 {
-                    "id": "14.2",
-                    "title": "Drawing Line Segments",
-                    "definition": "A line segment of given length is drawn using a ruler and marking endpoints at required distance.",
-                    "formulae": [],
+                    "id": "10.6",
+                    "title": "Subtraction as Finding Movement",
+                    "definition": "Finding the button press (movement) required to go from a starting floor to a target floor.",
+                    "formulae": [
+                        "Target Floor - Starting Floor = Movement needed"
+                    ],
                     "examples": [
-                        "To draw segment of length 5.6 cm, mark 0 and 5.6 cm on a ruler and join them."
+                        "Target +5, Starting +2: (+5) - (+2) = +3 (Go 3 floors up).",
+                        "Target -1, Starting -2: (-1) - (-2) = +1 (Go 1 floor up).",
+                        "Target -2, Starting +2: (-2) - (+2) = -4 (Go 4 floors down)."
                     ]
                 },
                 {
-                    "id": "14.3",
-                    "title": "Constructing Circles",
-                    "definition": "A circle is drawn by fixing the compass point at the centre and pencil at a distance equal to the radius, then rotating once around.",
+                    "id": "10.7",
+                    "title": "Unmarked Number Line (UNL)",
+                    "definition": "Using a horizontal line with only zero marked to visualize and evaluate expressions with large numbers.",
                     "formulae": [],
                     "examples": [
-                        "Constructing a circle of radius 3 cm using compass and ruler."
+                        "85 + (-60) = 25.",
+                        "(-100) - (+250) can be seen as -350.",
+                        "Subtracting a negative number is the same as adding the corresponding positive: +2000 - (-200) = +2200."
                     ]
                 },
                 {
-                    "id": "14.4",
-                    "title": "Perpendiculars and Perpendicular Bisectors",
-                    "definition": "Perpendicular lines make a 90° angle; perpendicular bisector of a segment passes through its midpoint at right angle.",
-                    "formulae": [],
+                    "id": "10.8",
+                    "title": "The Token Model",
+                    "definition": "Using red (positive) and green (negative) tokens to perform arithmetic operations.",
+                    "formulae": [
+                        "Zero Pair: One positive token and one negative token cancel each other."
+                    ],
                     "examples": [
-                        "Using compass arcs from endpoints of a segment to locate perpendicular bisector."
+                        "Addition: (+5) + (-3) = +2 (Remove 3 zero pairs, 2 positives remain).",
+                        "Subtraction: (+5) - (+6) involves adding a zero pair to take away 6 positives, leaving -1.",
+                        "Subtraction of negatives: (+4) - (-6) involves adding 6 zero pairs to take away 6 negatives, leaving 10 positives."
                     ]
                 },
                 {
-                    "id": "14.5",
-                    "title": "Angles of Special Measures",
-                    "definition": "Angles of 30°, 45°, 60°, 90° etc. are constructed using compass and straightedge by standard geometric methods.",
+                    "id": "10.9",
+                    "title": "Applications of Integers",
+                    "definition": "Real-world scenarios where positive and negative numbers are essential for precision.",
                     "formulae": [],
                     "examples": [
-                        "Construct a 60° angle by drawing an equilateral triangle; then bisect to get 30°."
+                        "Banking: Credits (Positive) vs Debits (Negative). A balance of -₹30 is possible.",
+                        "Geography: Heights above sea level (Everest +8848 m) vs depths below (Mariana Trench -10994 m).",
+                        "Temperature: Leh at -4°C relative to 0°C (freezing point of water)."
+                    ]
+                },
+                {
+                    "id": "10.10",
+                    "title": "Brahmagupta's Rules (628 CE)",
+                    "definition": "Historical rules for arithmetic operations on positive numbers, negative numbers, and zero.",
+                    "formulae": [
+                        "Sum of two positives is positive.",
+                        "Sum of two negatives is negative.",
+                        "Sum of a number and its inverse is zero.",
+                        "Subtracting zero from a number gives the same number."
+                    ],
+                    "examples": [
+                        "(-2) + (-3) = -5 (Rule 2).",
+                        "-5 + 3 = -2 (Rule 3: place sign of greater number).",
+                        "Subtracting a negative is same as adding positive: 2 - (-3) = 2 + 3 (Rule 3 for subtraction)."
+                    ]
+                },
+                {
+                    "id": "10.11",
+                    "title": "History of Integers",
+                    "definition": "The development of integers across different cultures and eras.",
+                    "formulae": [],
+                    "examples": [
+                        "Jiuzhang Suanshu (China): Red/black rods for accounting.",
+                        "Bakshali Manuscript (India): Negative symbol after the number.",
+                        "Arthashastra (Kautilya): Extensive use of credit/debit concepts.",
+                        "European Acceptance: Negative numbers were called 'absurd' by Lazare Carnot in the 18th century."
+                    ]
+                },
+                {
+                    "id": "10.12",
+                    "title": "Games and Puzzles",
+                    "definition": "Learning integer operations through logical challenges and games.",
+                    "formulae": [],
+                    "examples": [
+                        "Snake & Ladders: Played with two dice (+1 to +6 and -1 to -6), where players move based on the sum or difference.",
+                        "Hollow Integer Grid: Numbers in rows and columns must add up to a specific 'border sum'.",
+                        "Sum Trick Grid: A magic property where choosing numbers from different rows/columns always yields the same total."
                     ]
                 }
             ]
