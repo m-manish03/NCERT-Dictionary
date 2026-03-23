@@ -1,644 +1,348 @@
 {
-    "class": 6,
-    "subject": "Science",
-    "board": "NCERT/CBSE",
-    "chapters": [
+  "class": "6",
+  "subject": "Science",
+  "board": "NCERT",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Wonderful World of Science",
+      "concepts": [
         {
-            "number": 1,
-            "title": "Food: Where Does It Come From?",
-            "concepts": [
-                {
-                    "id": "1.1",
-                    "title": "Food and Its Sources",
-                    "definition": "Food is any nutritious substance that living organisms eat or drink to maintain life and growth. Food materials come mainly from plants and animals.",
-                    "formulae": [],
-                    "examples": [
-                        "We get rice, wheat, fruits and vegetables from plants.",
-                        "We get milk, eggs, meat and honey from animals."
-                    ]
-                },
-                {
-                    "id": "1.2",
-                    "title": "Plant Parts as Food",
-                    "definition": "Different parts of plants such as roots, stems, leaves, flowers, fruits and seeds are used as food.",
-                    "formulae": [],
-                    "examples": [
-                        "Carrot and radish are edible roots; potato is an underground stem; spinach is a leaf; cauliflower is a flower; apple is a fruit; wheat and gram are seeds."
-                    ]
-                },
-                {
-                    "id": "1.3",
-                    "title": "Animal Products as Food",
-                    "definition": "Animals provide many food items such as milk, meat, eggs, honey and fish.",
-                    "formulae": [],
-                    "examples": [
-                        "Cows and buffaloes give milk; hens give eggs; bees make honey from nectar of flowers."
-                    ]
-                },
-                {
-                    "id": "1.4",
-                    "title": "Herbivores, Carnivores and Omnivores",
-                    "definition": "Animals are grouped by their food habits: herbivores eat only plants, carnivores eat only other animals and omnivores eat both plants and animals.",
-                    "formulae": [],
-                    "examples": [
-                        "Cow and goat are herbivores; lion and tiger are carnivores; humans and bears are omnivores."
-                    ]
-                }
-            ]
+          "id": "1.1",
+          "title": "What is Science?",
+          "definition": "Science is a way of thinking, observing and doing things to understand the world we live in and to uncover the secrets of the universe. It is about asking questions, exploring the world and trying to understand how things work.",
+          "formulae": [],
+          "examples": [
+            "Studying tiny grains of sand or massive mountains",
+            "Watching a flower bloom",
+            "Looking at stars in the night sky"
+          ]
         },
         {
-            "number": 2,
-            "title": "Components of Food",
-            "concepts": [
-                {
-                    "id": "2.1",
-                    "title": "Nutrients and Their Types",
-                    "definition": "Nutrients are substances in food that our body needs for energy, growth, repair and maintenance. Major nutrients are carbohydrates, proteins, fats, vitamins, minerals, along with water and roughage.",
-                    "formulae": [],
-                    "examples": [
-                        "Rice and sugar are rich in carbohydrates; pulses and meat in proteins; oils and ghee in fats; fruits and vegetables in vitamins and minerals."
-                    ]
-                },
-                {
-                    "id": "2.2",
-                    "title": "Functions of Nutrients",
-                    "definition": "Carbohydrates and fats mainly give energy; proteins help in growth and repair; vitamins and minerals protect us from diseases and keep the body working properly; water and roughage help digestion and removal of wastes.",
-                    "formulae": [],
-                    "examples": [
-                        "Growing children need more protein to build body tissues.",
-                        "Vitamin C deficiency causes scurvy; iron deficiency causes anaemia."
-                    ]
-                },
-                {
-                    "id": "2.3",
-                    "title": "Balanced Diet",
-                    "definition": "A balanced diet contains all nutrients, water and roughage in proper amounts needed by the body for good health.",
-                    "formulae": [],
-                    "examples": [
-                        "A plate with chapati or rice, dal, vegetables, some salad and curd is closer to a balanced diet than only chips or sweets."
-                    ]
-                },
-                {
-                    "id": "2.4",
-                    "title": "Deficiency Diseases",
-                    "definition": "Lack of one or more nutrients over a long period leads to deficiency diseases with specific symptoms.",
-                    "formulae": [],
-                    "examples": [
-                        "Lack of vitamin D causes rickets (weak, bent bones); lack of iodine causes goitre (swollen neck)."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 3,
-            "title": "Fibre to Fabric",
-            "concepts": [
-                {
-                    "id": "3.1",
-                    "title": "Fibres, Yarn and Fabric",
-                    "definition": "Fibres are thin strands that can be spun into yarn; yarn is a long continuous thread; fabric is cloth made by weaving or knitting yarn.",
-                    "formulae": [],
-                    "examples": [
-                        "Cotton fibres are spun into cotton yarn which is woven into cloth.",
-                        "Wool yarn is knitted into sweaters."
-                    ]
-                },
-                {
-                    "id": "3.2",
-                    "title": "Plant Fibres: Cotton and Jute",
-                    "definition": "Cotton comes from cotton bolls on cotton plants; jute comes from the stem of jute plants.",
-                    "formulae": [],
-                    "examples": [
-                        "In cotton ginning, cotton fibres are separated from seeds.",
-                        "Jute stems are soaked in water and then fibres are stripped off."
-                    ]
-                },
-                {
-                    "id": "3.3",
-                    "title": "Spinning and Weaving",
-                    "definition": "Spinning converts fibres into yarn by twisting; weaving makes fabric by crossing two sets of yarns at right angles on a loom.",
-                    "formulae": [],
-                    "examples": [
-                        "Charkha and spinning wheels are used for spinning; handlooms and powerlooms are used for weaving."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 4,
-            "title": "Sorting Materials into Groups",
-            "concepts": [
-                {
-                    "id": "4.1",
-                    "title": "Objects and Materials",
-                    "definition": "Objects are things we see and use; they are made from different materials such as wood, metal, glass, plastic and cotton.",
-                    "formulae": [],
-                    "examples": [
-                        "A chair can be made of wood or plastic; utensils are often made of steel or aluminium."
-                    ]
-                },
-                {
-                    "id": "4.2",
-                    "title": "Properties of Materials",
-                    "definition": "Materials are grouped based on properties such as appearance, hardness, solubility, transparency, conduction of heat and electricity.",
-                    "formulae": [],
-                    "examples": [
-                        "Metals are shiny and hard; chalk is dull and soft; salt dissolves in water but sand does not."
-                    ]
-                },
-                {
-                    "id": "4.3",
-                    "title": "Transparent, Translucent and Opaque",
-                    "definition": "Transparent materials allow almost all light to pass; translucent allow some light; opaque do not allow light to pass.",
-                    "formulae": [],
-                    "examples": [
-                        "Clear glass is transparent; oiled paper is translucent; wood and metal are opaque."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 5,
-            "title": "Separation of Substances",
-            "concepts": [
-                {
-                    "id": "5.1",
-                    "title": "Need for Separation",
-                    "definition": "Substances are separated to remove impurities, get useful components, or obtain pure samples.",
-                    "formulae": [],
-                    "examples": [
-                        "Stones are removed from rice; cream is separated from milk; salt is separated from sand."
-                    ]
-                },
-                {
-                    "id": "5.2",
-                    "title": "Methods of Separation",
-                    "definition": "Different methods like handpicking, threshing, winnowing, sieving, filtration, evaporation and decantation are used depending on properties of components.",
-                    "formulae": [],
-                    "examples": [
-                        "Winnowing separates husk from grain using wind; sieving separates flour from coarser particles."
-                    ]
-                },
-                {
-                    "id": "5.3",
-                    "title": "Soluble and Insoluble Substances",
-                    "definition": "Substances that dissolve in a given liquid form solutions; those that do not dissolve are insoluble and can often be separated by filtration.",
-                    "formulae": [],
-                    "examples": [
-                        "Salt is soluble in water; sand is insoluble and can be removed by filtration."
-                    ]
-                },
-                {
-                    "id": "5.4",
-                    "title": "Evaporation and Condensation in Separation",
-                    "definition": "Evaporation removes the liquid part to obtain dissolved solids; condensation converts vapour back to liquid.",
-                    "formulae": [],
-                    "examples": [
-                        "Salt is obtained from seawater by evaporation; distillation uses evaporation followed by condensation to purify liquids."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 6,
-            "title": "Changes Around Us",
-            "concepts": [
-                {
-                    "id": "6.1",
-                    "title": "Different Types of Changes",
-                    "definition": "Changes occur when things are heated, cooled, mixed, stretched or compressed; they can affect shape, size, state or colour.",
-                    "formulae": [],
-                    "examples": [
-                        "Melting wax, stretching a rubber band, mixing sugar in water are all changes."
-                    ]
-                },
-                {
-                    "id": "6.2",
-                    "title": "Reversible and Irreversible Changes",
-                    "definition": "Reversible changes can be undone to get the original material back; irreversible changes cannot be reversed easily.",
-                    "formulae": [],
-                    "examples": [
-                        "Melting of ice is reversible; burning of paper is irreversible."
-                    ]
-                },
-                {
-                    "id": "6.3",
-                    "title": "Physical and Chemical Changes (Intro)",
-                    "definition": "Physical changes only alter physical properties and do not form new substances; chemical changes form new substances with new properties.",
-                    "formulae": [],
-                    "examples": [
-                        "Folding paper is a physical change; formation of curd from milk is a chemical change."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 7,
-            "title": "Getting to Know Plants",
-            "concepts": [
-                {
-                    "id": "7.1",
-                    "title": "Herbs, Shrubs and Trees",
-                    "definition": "Plants are grouped by size and stem type: herbs are small with soft stems, shrubs are medium‑sized with woody stems branching from base, trees are tall with a single woody stem.",
-                    "formulae": [],
-                    "examples": [
-                        "Mint is a herb; rose is a shrub; neem and mango are trees."
-                    ]
-                },
-                {
-                    "id": "7.2",
-                    "title": "Parts of Plants",
-                    "definition": "Main parts are root, stem, leaf, flower and fruit; each part has specific roles in support, transport, photosynthesis and reproduction.",
-                    "formulae": [],
-                    "examples": [
-                        "Roots anchor the plant and absorb water; leaves make food; flowers form fruits and seeds."
-                    ]
-                },
-                {
-                    "id": "7.3",
-                    "title": "Types of Roots and Leaves",
-                    "definition": "Roots may be tap roots or fibrous roots. Leaves have veins and midrib; they show venation patterns like reticulate or parallel.",
-                    "formulae": [],
-                    "examples": [
-                        "Pea has tap root; wheat has fibrous roots. Mango leaf shows reticulate venation; grass leaf shows parallel venation."
-                    ]
-                },
-                {
-                    "id": "7.4",
-                    "title": "Functions of Leaves and Photosynthesis (Intro)",
-                    "definition": "Leaves prepare food using sunlight, carbon dioxide and water in a process called photosynthesis, often indicated by presence of chlorophyll and stomata.",
-                    "formulae": [],
-                    "examples": [
-                        "Boiled leaf iodine test shows presence of starch, evidence of photosynthesis."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 8,
-            "title": "Body Movements",
-            "concepts": [
-                {
-                    "id": "8.1",
-                    "title": "Movement and Locomotion",
-                    "definition": "Movement is change in position of a body part; locomotion is movement that takes the whole body from one place to another.",
-                    "formulae": [],
-                    "examples": [
-                        "Bending an arm is movement; walking from one room to another is locomotion."
-                    ]
-                },
-                {
-                    "id": "8.2",
-                    "title": "Human Skeletal System",
-                    "definition": "The skeleton is the framework of bones and cartilage that gives shape, protects organs and helps in movement with the help of muscles.",
-                    "formulae": [],
-                    "examples": [
-                        "The skull protects the brain; rib cage protects heart and lungs."
-                    ]
-                },
-                {
-                    "id": "8.3",
-                    "title": "Joints and Their Types",
-                    "definition": "Joints are places where two or more bones meet; types include ball‑and‑socket, hinge, pivot and fixed joints.",
-                    "formulae": [],
-                    "examples": [
-                        "Shoulder and hip have ball‑and‑socket joints; elbow and knee have hinge joints; neck has a pivot joint."
-                    ]
-                },
-                {
-                    "id": "8.4",
-                    "title": "Movement in Different Animals",
-                    "definition": "Animals have different body structures and move in various ways such as walking, running, crawling, flying and swimming.",
-                    "formulae": [],
-                    "examples": [
-                        "Earthworm moves by contracting and expanding its body; fish uses fins and tail to swim; birds use wings to fly."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 9,
-            "title": "The Living Organisms and Their Surroundings",
-            "concepts": [
-                {
-                    "id": "9.1",
-                    "title": "Habitat and Adaptation",
-                    "definition": "Habitat is the natural home or environment of an organism. Adaptations are special features that help organisms survive in their habitat.",
-                    "formulae": [],
-                    "examples": [
-                        "Fish live in water habitat with gills and fins; camels live in deserts with humps and long legs."
-                    ]
-                },
-                {
-                    "id": "9.2",
-                    "title": "Types of Habitats",
-                    "definition": "Main habitat types include terrestrial (land) and aquatic (water), further divided into deserts, forests, mountains, freshwater and marine habitats.",
-                    "formulae": [],
-                    "examples": [
-                        "Cactus grows in desert habitat; pine trees grow in mountain habitat."
-                    ]
-                },
-                {
-                    "id": "9.3",
-                    "title": "Characteristics of Living Organisms",
-                    "definition": "Living organisms show characteristics such as growth, movement, response to stimuli, need for food, respiration, excretion and reproduction.",
-                    "formulae": [],
-                    "examples": [
-                        "Plants bend towards light (response to stimulus); humans grow from babies to adults."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 10,
-            "title": "Motion and Measurement of Distances",
-            "concepts": [
-                {
-                    "id": "10.1",
-                    "title": "Need for Standard Units",
-                    "definition": "Standard units of measurement ensure that everyone measures quantities like length in the same way everywhere.",
-                    "formulae": [],
-                    "examples": [
-                        "Earlier non‑standard units like handspan or foot varied from person to person; metre is a standard unit of length."
-                    ]
-                },
-                {
-                    "id": "10.2",
-                    "title": "Units of Length and Conversion",
-                    "definition": "Standard unit of length in SI is metre; smaller units include centimetre and millimetre; kilometre is used for large distances.",
-                    "formulae": [
-                        "1 m = 100 cm",
-                        "1 cm = 10 mm",
-                        "1 km = 1000 m"
-                    ],
-                    "examples": [
-                        "A pencil may be 15 cm long; distance between cities measured in kilometres."
-                    ]
-                },
-                {
-                    "id": "10.3",
-                    "title": "Measuring Length",
-                    "definition": "Length is measured using rulers, measuring tapes, metre rods etc., keeping zero mark properly aligned and eye in correct position to avoid errors.",
-                    "formulae": [],
-                    "examples": [
-                        "To measure a table, place the metre scale along its edge with zero at one end."
-                    ]
-                },
-                {
-                    "id": "10.4",
-                    "title": "Types of Motion",
-                    "definition": "Motion can be rectilinear (straight line), circular, periodic or random depending on path and pattern.",
-                    "formulae": [],
-                    "examples": [
-                        "A car on a straight road shows rectilinear motion; a child on a swing shows periodic motion; the tip of a clock’s second hand shows circular motion."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 11,
-            "title": "Light, Shadows and Reflections",
-            "concepts": [
-                {
-                    "id": "11.1",
-                    "title": "Luminous and Non-Luminous Objects",
-                    "definition": "Luminous objects produce their own light; non‑luminous objects do not and are seen by reflected light.",
-                    "formulae": [],
-                    "examples": [
-                        "The Sun and an electric bulb are luminous; a chair and book are non‑luminous."
-                    ]
-                },
-                {
-                    "id": "11.2",
-                    "title": "Shadow Formation",
-                    "definition": "A shadow is formed on a screen when an opaque object blocks light from a source; it needs a light source, an object and a screen.",
-                    "formulae": [],
-                    "examples": [
-                        "Your hand blocking torchlight makes a shadow on the wall."
-                    ]
-                },
-                {
-                    "id": "11.3",
-                    "title": "Transparent, Translucent and Opaque (Light Context)",
-                    "definition": "Transparent objects let most light pass and form faint shadows; translucent let some light through and form blurred shadows; opaque form dark, clear shadows.",
-                    "formulae": [],
-                    "examples": [
-                        "Thin cloth is translucent; thick cardboard is opaque."
-                    ]
-                },
-                {
-                    "id": "11.4",
-                    "title": "Reflection in Plane Mirrors (Intro)",
-                    "definition": "Reflection is bouncing back of light from a surface; a plane mirror reflects light and forms an image that looks like the object but reversed left to right.",
-                    "formulae": [],
-                    "examples": [
-                        "Your right hand appears as left in a mirror due to lateral inversion."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 12,
-            "title": "Electricity and Circuits",
-            "concepts": [
-                {
-                    "id": "12.1",
-                    "title": "Electric Cell and Battery",
-                    "definition": "An electric cell is a small source of electrical energy with two terminals, positive and negative; a battery is a group of cells connected together.",
-                    "formulae": [],
-                    "examples": [
-                        "Torch cells connected in series form a battery providing more voltage."
-                    ]
-                },
-                {
-                    "id": "12.2",
-                    "title": "Electric Circuit",
-                    "definition": "An electric circuit is a closed path along which current can flow from the cell through wires and devices back to the cell.",
-                    "formulae": [],
-                    "examples": [
-                        "A simple circuit includes a cell, switch, bulb and connecting wires."
-                    ]
-                },
-                {
-                    "id": "12.3",
-                    "title": "Conductors and Insulators",
-                    "definition": "Conductors allow electric current to pass through easily; insulators do not.",
-                    "formulae": [],
-                    "examples": [
-                        "Metals like copper and aluminium are conductors; rubber, plastic and wood are insulators."
-                    ]
-                },
-                {
-                    "id": "12.4",
-                    "title": "Bulb and Its Glowing",
-                    "definition": "A bulb has a thin filament that glows when electric current passes through, converting electrical energy to light and heat.",
-                    "formulae": [],
-                    "examples": [
-                        "If the filament breaks, the circuit is open and the bulb does not glow."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 13,
-            "title": "Fun with Magnets",
-            "concepts": [
-                {
-                    "id": "13.1",
-                    "title": "Discovery and Types of Magnets",
-                    "definition": "Magnets attract certain metals like iron and were first discovered as natural magnets called lodestones; magnets can be bar, horseshoe or ring shaped.",
-                    "formulae": [],
-                    "examples": [
-                        "A bar magnet has two ends called poles; a horseshoe magnet is shaped like a U."
-                    ]
-                },
-                {
-                    "id": "13.2",
-                    "title": "Magnetic and Non-Magnetic Materials",
-                    "definition": "Magnetic materials are attracted by a magnet; non‑magnetic materials are not.",
-                    "formulae": [],
-                    "examples": [
-                        "Iron, nickel and cobalt are magnetic; wood, plastic and glass are non‑magnetic."
-                    ]
-                },
-                {
-                    "id": "13.3",
-                    "title": "Magnetic Poles and Their Properties",
-                    "definition": "Magnets have two poles, north and south; like poles repel each other and unlike poles attract each other.",
-                    "formulae": [],
-                    "examples": [
-                        "Two north poles put together repel; a north and south pole attract."
-                    ]
-                },
-                {
-                    "id": "13.4",
-                    "title": "Making and Caring for Magnets",
-                    "definition": "Magnets can be made by stroking with a magnet or by electricity and should be stored properly to retain magnetism.",
-                    "formulae": [],
-                    "examples": [
-                        "Bar magnets are stored in pairs with keepers (soft iron pieces) across poles to reduce loss of magnetism."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 14,
-            "title": "Water",
-            "concepts": [
-                {
-                    "id": "14.1",
-                    "title": "Sources and Uses of Water",
-                    "definition": "Water is obtained from sources like rain, rivers, lakes, ponds, wells and oceans and is essential for drinking, agriculture, industry and domestic use.",
-                    "formulae": [],
-                    "examples": [
-                        "Rainwater fills rivers and lakes which supply water to cities and villages."
-                    ]
-                },
-                {
-                    "id": "14.2",
-                    "title": "Water Cycle",
-                    "definition": "The water cycle is continuous movement of water between land, water bodies and atmosphere through evaporation, condensation and precipitation.",
-                    "formulae": [],
-                    "examples": [
-                        "Water from seas evaporates, forms clouds and returns as rain, snow or hail."
-                    ]
-                },
-                {
-                    "id": "14.3",
-                    "title": "States of Water and Change of State",
-                    "definition": "Water exists as solid (ice), liquid (water) and gas (water vapour) and can change state by heating or cooling.",
-                    "formulae": [],
-                    "examples": [
-                        "Ice melts to water when heated; water boils to steam; steam condenses to water on cooling."
-                    ]
-                },
-                {
-                    "id": "14.4",
-                    "title": "Need to Conserve Water",
-                    "definition": "Freshwater is limited and must be conserved by preventing wastage and pollution and by reusing and storing water.",
-                    "formulae": [],
-                    "examples": [
-                        "Closing taps properly, repairing leaks and using rainwater harvesting help save water."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 15,
-            "title": "Air Around Us",
-            "concepts": [
-                {
-                    "id": "15.1",
-                    "title": "Composition of Air",
-                    "definition": "Air is a mixture of gases mainly nitrogen and oxygen, with small amounts of carbon dioxide, water vapour and other gases and dust.",
-                    "formulae": [],
-                    "examples": [
-                        "About four‑fifths of air is nitrogen and about one‑fifth is oxygen (concept level, not exact numbers needed)."
-                    ]
-                },
-                {
-                    "id": "15.2",
-                    "title": "Importance of Air",
-                    "definition": "Oxygen in air is essential for respiration; carbon dioxide is needed for photosynthesis; air supports burning and helps in formation of clouds and rain.",
-                    "formulae": [],
-                    "examples": [
-                        "A candle covered by a glass jar goes out when oxygen is used up.",
-                        "Plants take in carbon dioxide and release oxygen during photosynthesis."
-                    ]
-                },
-                {
-                    "id": "15.3",
-                    "title": "Air in Soil and Water",
-                    "definition": "Air is present in spaces between soil particles and dissolved in water, supplying oxygen to organisms living there.",
-                    "formulae": [],
-                    "examples": [
-                        "Digging or flooding soil releases air bubbles; shaking water leads to tiny bubbles as dissolved air comes out."
-                    ]
-                }
-            ]
-        },
-        {
-            "number": 16,
-            "title": "Garbage In, Garbage Out",
-            "concepts": [
-                {
-                    "id": "16.1",
-                    "title": "Types of Waste",
-                    "definition": "Waste includes all unwanted materials. It can be biodegradable (can be broken down by microorganisms) or non‑biodegradable (cannot easily be broken down).",
-                    "formulae": [],
-                    "examples": [
-                        "Vegetable peels and paper are biodegradable; plastics and metals are non‑biodegradable."
-                    ]
-                },
-                {
-                    "id": "16.2",
-                    "title": "Waste Management and Recycling",
-                    "definition": "Proper collection, segregation, disposal and recycling of waste reduce pollution and health problems.",
-                    "formulae": [],
-                    "examples": [
-                        "Separating dry and wet waste in different bins; recycling paper and plastic; composting kitchen scraps."
-                    ]
-                },
-                {
-                    "id": "16.3",
-                    "title": "Vermin Composting and Landfills",
-                    "definition": "Vermicomposting uses earthworms to turn organic waste into rich compost; landfills are sites for burying large amounts of non‑recyclable waste.",
-                    "formulae": [],
-                    "examples": [
-                        "A pit at home can be used for composting leaves with earthworms.",
-                        "City garbage is often dumped in landfills outside towns."
-                    ]
-                },
-                {
-                    "id": "16.4",
-                    "title": "Reduce, Reuse and Recycle",
-                    "definition": "The 3R principle encourages reducing waste generation, reusing items and recycling materials to conserve resources and protect environment.",
-                    "formulae": [],
-                    "examples": [
-                        "Carrying cloth bags instead of plastic, reusing bottles, and recycling newspapers follow the 3Rs."
-                    ]
-                }
-            ]
+          "id": "1.2",
+          "title": "Science Around Us",
+          "definition": "Science is everywhere - from the depths of the ocean to the vastness of outer space, from the kitchen to the playground. Every aspect of our daily life involves scientific principles.",
+          "formulae": [],
+          "examples": [
+            "Cooking in the kitchen",
+            "Activities on playground",
+            "Weather changes"
+          ]
         }
-    ]
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Diversity in the Living World",
+      "concepts": [
+        {
+          "id": "2.1",
+          "title": "Variety in Living Organisms",
+          "definition": "The living world shows immense diversity in forms, sizes, colors, and habitats. Different organisms have different characteristics that help them survive in their environments.",
+          "formulae": [],
+          "examples": [
+            "Different types of plants - trees, shrubs, herbs",
+            "Different animals - mammals, birds, insects",
+            "Microorganisms"
+          ]
+        },
+        {
+          "id": "2.2",
+          "title": "Classification of Living Things",
+          "definition": "Living organisms can be classified into different groups based on their characteristics. This helps us study and understand them better.",
+          "formulae": [],
+          "examples": [
+            "Plants and Animals",
+            "Vertebrates and Invertebrates",
+            "Flowering and Non-flowering plants"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Mindful Eating: A Path to a Healthy Body",
+      "concepts": [
+        {
+          "id": "3.1",
+          "title": "Food and Nutrition",
+          "definition": "Food provides us with energy and nutrients necessary for growth, development, and maintaining health. Different foods contain different nutrients.",
+          "formulae": [],
+          "examples": [
+            "Carbohydrates in rice and bread",
+            "Proteins in pulses and meat",
+            "Vitamins in fruits and vegetables"
+          ]
+        },
+        {
+          "id": "3.2",
+          "title": "Balanced Diet",
+          "definition": "A balanced diet contains all the nutrients in proper proportions required for healthy living. It includes carbohydrates, proteins, fats, vitamins, minerals, and water.",
+          "formulae": [],
+          "examples": [
+            "Including all food groups in meals",
+            "Eating variety of fruits and vegetables",
+            "Drinking adequate water"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Exploring Magnets",
+      "concepts": [
+        {
+          "id": "4.1",
+          "title": "Properties of Magnets",
+          "definition": "Magnets are objects that attract certain materials like iron. Every magnet has two poles - North pole and South pole. Like poles repel and unlike poles attract each other.",
+          "formulae": [],
+          "examples": [
+            "Bar magnet",
+            "Horseshoe magnet",
+            "Magnetic compass"
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "Uses of Magnets",
+          "definition": "Magnets have many practical applications in our daily life and in various devices.",
+          "formulae": [],
+          "examples": [
+            "Compass for finding directions",
+            "Refrigerator magnets",
+            "In electric motors and generators"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Measurement of Length and Motion",
+      "concepts": [
+        {
+          "id": "5.1",
+          "title": "Measurement of Length",
+          "definition": "Length is the measurement of distance between two points. We use different units to measure length depending on the distance - millimeter, centimeter, meter, kilometer.",
+          "formulae": [
+            "1 km = 1000 m",
+            "1 m = 100 cm",
+            "1 cm = 10 mm"
+          ],
+          "examples": [
+            "Using ruler to measure small objects",
+            "Using measuring tape for cloth",
+            "Using odometer for long distances"
+          ]
+        },
+        {
+          "id": "5.2",
+          "title": "Motion",
+          "definition": "Motion is the change in position of an object with respect to time. An object is in motion if its position changes with time.",
+          "formulae": [],
+          "examples": [
+            "A moving car",
+            "A flying bird",
+            "A swinging pendulum"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Materials Around Us",
+      "concepts": [
+        {
+          "id": "6.1",
+          "title": "Types of Materials",
+          "definition": "Materials are substances from which objects are made. Materials can be classified based on their properties like appearance, hardness, solubility, transparency, etc.",
+          "formulae": [],
+          "examples": [
+            "Metals - iron, copper, aluminum",
+            "Non-metals - wood, plastic, glass",
+            "Natural and man-made materials"
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Properties of Materials",
+          "definition": "Different materials have different properties which make them suitable for different uses. Properties include hardness, transparency, solubility, and flexibility.",
+          "formulae": [],
+          "examples": [
+            "Glass is transparent - used for windows",
+            "Iron is hard - used for construction",
+            "Plastic is flexible - used for bags"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Temperature and its Measurement",
+      "concepts": [
+        {
+          "id": "7.1",
+          "title": "What is Temperature?",
+          "definition": "Temperature is the measure of hotness or coldness of an object or substance. It is measured using a thermometer.",
+          "formulae": [],
+          "examples": [
+            "Body temperature 37°C",
+            "Boiling water 100°C",
+            "Ice 0°C"
+          ]
+        },
+        {
+          "id": "7.2",
+          "title": "Measurement of Temperature",
+          "definition": "Temperature is measured using thermometers. The common scales are Celsius (°C) and Fahrenheit (°F). Clinical thermometer is used to measure body temperature.",
+          "formulae": [],
+          "examples": [
+            "Clinical thermometer for body temperature",
+            "Laboratory thermometer for experiments",
+            "Weather thermometer for atmospheric temperature"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "A Journey through States of Water",
+      "concepts": [
+        {
+          "id": "8.1",
+          "title": "Three States of Water",
+          "definition": "Water exists in three states - solid (ice), liquid (water), and gas (water vapor). Water can change from one state to another by heating or cooling.",
+          "formulae": [],
+          "examples": [
+            "Ice melting to water",
+            "Water boiling to steam",
+            "Water vapor condensing to water droplets"
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Water Cycle",
+          "definition": "The water cycle is the continuous movement of water between earth and atmosphere through evaporation, condensation, and precipitation.",
+          "formulae": [],
+          "examples": [
+            "Evaporation of water from oceans",
+            "Formation of clouds by condensation",
+            "Rain, snow as precipitation"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Methods of Separation in Everyday Life",
+      "concepts": [
+        {
+          "id": "9.1",
+          "title": "Need for Separation",
+          "definition": "Separation of substances is required to remove unwanted materials, obtain pure substances, or separate useful components from a mixture.",
+          "formulae": [],
+          "examples": [
+            "Separating stones from rice",
+            "Removing salt from sea water",
+            "Separating tea leaves from tea"
+          ]
+        },
+        {
+          "id": "9.2",
+          "title": "Methods of Separation",
+          "definition": "Different methods are used to separate mixtures based on the properties of components - handpicking, winnowing, sieving, sedimentation, decantation, filtration, evaporation.",
+          "formulae": [],
+          "examples": [
+            "Handpicking stones from rice",
+            "Winnowing to separate grain from husk",
+            "Filtration to purify water",
+            "Evaporation to obtain salt from seawater"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Living Creatures: Exploring their Characteristics",
+      "concepts": [
+        {
+          "id": "10.1",
+          "title": "Characteristics of Living Things",
+          "definition": "Living organisms have certain characteristics that distinguish them from non-living things - growth, movement, reproduction, respiration, excretion, and response to stimuli.",
+          "formulae": [],
+          "examples": [
+            "Plants growing towards sunlight",
+            "Animals moving in search of food",
+            "Reproduction in plants and animals"
+          ]
+        },
+        {
+          "id": "10.2",
+          "title": "Habitats of Living Creatures",
+          "definition": "Habitat is the natural environment where an organism lives. Different organisms live in different habitats based on their adaptations.",
+          "formulae": [],
+          "examples": [
+            "Fish in water (aquatic habitat)",
+            "Camel in desert (terrestrial habitat)",
+            "Birds in trees (arboreal habitat)"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Nature's Treasures",
+      "concepts": [
+        {
+          "id": "11.1",
+          "title": "Natural Resources",
+          "definition": "Natural resources are materials and substances that occur naturally and are useful to humans. They include air, water, soil, minerals, forests, and wildlife.",
+          "formulae": [],
+          "examples": [
+            "Water for drinking and agriculture",
+            "Forests for timber and oxygen",
+            "Minerals for industries"
+          ]
+        },
+        {
+          "id": "11.2",
+          "title": "Conservation of Resources",
+          "definition": "Conservation means using natural resources wisely and protecting them for future generations. We should avoid wastage and pollution.",
+          "formulae": [],
+          "examples": [
+            "Save water by fixing leaky taps",
+            "Reduce, Reuse, Recycle materials",
+            "Plant more trees"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Beyond Earth",
+      "concepts": [
+        {
+          "id": "12.1",
+          "title": "The Solar System",
+          "definition": "The Solar System consists of the Sun and all objects that orbit around it, including eight planets, their moons, asteroids, and comets.",
+          "formulae": [],
+          "examples": [
+            "Sun at the center",
+            "Eight planets - Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune",
+            "Earth's moon"
+          ]
+        },
+        {
+          "id": "12.2",
+          "title": "Stars and Galaxies",
+          "definition": "Stars are huge balls of hot, glowing gases. Our Sun is a star. Billions of stars together form a galaxy. Our galaxy is called the Milky Way.",
+          "formulae": [],
+          "examples": [
+            "The Sun - our nearest star",
+            "Constellations - patterns of stars",
+            "Milky Way galaxy"
+          ]
+        }
+      ]
+    }
+  ]
 }
